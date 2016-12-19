@@ -1,0 +1,47 @@
+@charset "windows-1251";
+/* CSS Document */
+
+
+
+#h_mnu_01{
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	text-align:center
+}
+
+#h_mnu_01 ul{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-image:url(im_diz/im_shapka/f_menu.jpg);
+	float:none
+	
+}
+
+#h_mnu_01 ul li{
+display: inline;
+}
+
+#h_mnu_01 ul li a{
+
+	color: #FFFFFF;
+	/*padding: 5px 12px;*/
+	text-decoration: none;
+	
+}
+
+#h_mnu_01 ul li a:visited{
+color: #FFFFFF;
+}
+
+#h_mnu_01 ul li a:hover, .h_mnu_01 ul li .selected{
+	color: #FFFF00 !important;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+

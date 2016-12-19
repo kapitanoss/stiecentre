@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /nav_pr/osn_p.html
+Disallow: /moodle/
+Disallow: /moodledata/
+# запрещает скачивать все, кроме страниц 
+# начинающихся с '/index.html'

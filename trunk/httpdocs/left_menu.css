@@ -1,0 +1,73 @@
+@charset "windows-1251";
+/* Левое меню */
+
+#v_mnu_01 ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: lighter;
+	text-decoration: none;
+	}
+
+#v_mnu_01 {
+	width: 170px;
+	margin: 10px;
+	border-radius: 15px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	}
+
+#v_mnu_01 li a {
+	text-decoration: none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #FFFFFF;
+border-radius: 10px; /* Округление края пунктов меню */
+margin-top: 3px /* Расстояние между пунктами меню */
+	}
+
+#v_mnu_01 .notopbrdr0xNone {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	}
+
+#v_mnu_01 li a:link, #v_mnu_01 li a:visited {
+	color: #FFFFFF; /* Цвет текста меню */
+	display: block;
+	background-color: #008000;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	}
+
+#v_mnu_01 li a:hover {
+	color: #008000;
+	background:  #FFFFFF; /* Цвет меню при наведении курсора*/
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	}
+

@@ -1,0 +1,81 @@
+@charset "windows-1251";
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+	body,td,th,p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	bottom: auto;
+}
+
+br {
+    text-indent: 0.5in
+}
+/*Стиль ссылок на странице*/
+a:link {
+	color: #009900;
+	
+}
+a:visited  {
+	
+	color: #009900;
+}
+a:hover {
+
+	color: #990033;
+}
+a:active {
+	
+	color: #990033;
+}
+
+/*стиль для заглавия страницы*/
+.st1 {
+	color: #006600;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif
+}
+/*стиль для главного меню*/
+.st2 {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif
+}
+/*стиль для левого меню*/
+.st3 {
+		font-weight: bold;
+}
+/*стиль для заголовка*/
+.st4 {color: #006600
+}
+/* стиль для  содержимого страницы*/
+.st5  {text-indent: 0.2in;
+text-align:justify
+}
+.st6 {
+	margin-left: 0.5px;
+	margin-top: 0.5px;
+	margin-right: 0.5px;
+	margin-bottom: 0.5px;
+}
+.st7 {
+font-size: 14px; 
+font-weight: bold; 
+}
+/* стиль для  списка*/
+.st8 {
+	text-indent: 0in;
+}
+.st9 {
+	text-indent: 0in;
+	font-weight: bold;
+	text-align:justify
+}
