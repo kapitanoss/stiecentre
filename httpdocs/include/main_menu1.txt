@@ -1,0 +1,33 @@
+            <ul id="nav">
+                <li><a href="http://www.centre-kiev.kiev.ua/index.shtml">Головна</a></li>
+                <li><a class="hsubs" href="#">Про Центр</a>
+                    <ul class="subs">
+                        <li><a href="../keriv/kr.html">Керівництво</a></li>                     
+			<li><a href="../mz/kafedra.html">Кафедри</a></li>
+                        <li><a href="../nav_pr/nap_d.html">Напрями діяльності</a></li>
+			<li><a href="../mz/mz.html">Методичне забезпечення навчального процесу</a></li>
+			<li><a href="../mz/org.html">Організаційне забезпечення навчального процесу</a></li>
+			<li><a href="../mtb/mtb.html">Матеріально-технічна база</a></li>
+			 
+                    </ul>
+                </li>
+                <li><a class="hsubs" href="#">Інформація для слухачів</a>
+                    <ul class="subs">
+			<li><a href="../info/is.html">Напрями підвищення кваліфікації на 2016 рік</a></li>
+                        <li><a href="../dn/dn.html">Дистанційна форма навчання</a></li>
+                        <li><a href="../strkadr/strkadr.html">Сторінка кадровика</a></li>
+                        <li><a href="../on/on.html">Очна форма навчання</a></li>
+			<li><a href="../bib/biblioteka.html">Електронна бібліотека</a></li>
+                        <li><a href="../anketa/anketa.html">Анкетування</a></li>
+
+  </ul>
+                </li>
+                <li><a  href="../foto/foto.html">Фотогалерея</a>
+<!-- <ul class="subs">
+</ul> -->
+                <li><a  href="../dz/dz.html">Державні закупівлі</a>
+<!--  <ul class="subs">
+</ul> -->
+                </li>
+                <li><a  href="../kontakt/kontakt.html">Контакти</a>
+<!--  <ul class="subs"><br> -->
