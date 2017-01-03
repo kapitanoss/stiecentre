@@ -30,7 +30,12 @@
 						</ul>						
 					  </li>
 					  <li class="st3"><a href="../on/on.shtml">Очна форма навчання</a></li>
-					  <li class="st3"><a href="../bib/biblioteka.shtml">Електронна Бібліотека</a></li>
+					  <li class="st3"><a href="../bib/bib.shtml">Бібліотека</a>
+						<ul>
+					      <li class="st3"><a href="../bib/biblioteka.shtml">Електронна бібліотека</a></li>
+						  <li class="st3"><a href="../bib/npv.shtml">Наукові періодичні видання</a></li>					  
+						</ul>
+					  </li>						
 					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
 					  <li class="st3" ><a href="#" class="notopbrdr0xNone">Вакантні посади</a></li>
 					</ul>

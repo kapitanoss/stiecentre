@@ -2,7 +2,7 @@
 <img alt="ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ" src="http://www.centre-kiev.kiev.ua/im_diz/logo1.jpg" 
      align="left" width="160" height="200" style=" border: 8px solid #ffffff;" 
 	 title="ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ"/>
-				<div align="center" class="st1"><span style='font-size:12.0pt; color:black'/><br />
+				<div align="center" class="st1"><span style='font-size:12.0pt; color:black'><br />
 		
 
 
@@ -16,13 +16,9 @@
 				CENTER OF RETRAINING AND PROFESSIONAL MANAGEMENT PERSONNEL<br />
 				OF THE STATE FISCAL SERVICE OF UKRAINE</font></div><br />
 
-<div align="center" class="st1"><p><font size="2" color="black"/>Адреса:
-  03061, Київ-061 вул.Шепелєва, 3-а</p> </div> 
-<div align="center" class="st1"><p><font size="2" color="black"/>E-mail:
-  <a href="mailto:centre@centre-kiev.kiev.ua">centre@centre-kiev.kiev.ua</a></p></div>
-<div align="center" class="st1"><p><font size="2" color="black"/>Телефон/факс:(044) 455-05-72</p></div> </div>
-<br />    
-
-	
-
-            
+<div align="center" class="st1"><p><font size="2" color="black">Адреса:
+  03061, Київ-061 вул.Шепелєва, 3-а</font></p> </div> 
+<div align="center" class="st1"><p><font size="2" color="black">E-mail:
+  <a href="mailto:centre@centre-kiev.kiev.ua">centre@centre-kiev.kiev.ua</a></font></p></div>
+<div align="center" class="st1"><p><font size="2" color="black">Телефон/факс:(044) 455-05-72</font></p></div> <span/> </div>
+   
