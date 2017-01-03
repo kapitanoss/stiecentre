@@ -37,8 +37,8 @@ display: inline;
 #h_mnu_01 ul li a:visited{
 color: #FFFFFF;
 }
-
-#h_mnu_01 ul li a:hover, .h_mnu_01 ul li .selected{
+/* , .h_mnu_01 ul li .selected*/
+#h_mnu_01 ul li a:hover{
 	color: #FFFF00 !important;
 	padding-top: 5px;
 	padding-bottom: 5px;

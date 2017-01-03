@@ -95,45 +95,46 @@ $(document).ready(function(){
 	<body lang=RU>
 
 
-<p align="center"><img src="../kontakt/121.jpg" width="223" height="335"></p>
-<p align="center">Директор Центру</p>
-<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора</p>
-<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
-<p align="center">тел.(044) 455-47-26</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
-<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з комерційної діяльності Центру</p>
-<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з АГД</p>
-<p align="center"><strong>Глущенко Анатолій Іванович</strong></p>
-<p align="center">тел.(044) 455-47-24 </p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Головний бухгалтер</p>
-<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
-<p align="center">тел.(044) 455-05-71</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Завідувач гуртожитку</p>
-<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
-<p align="center">тел.(044) 455-05-74</p>
-</td>
-</tr>
-</table>
-</td>
+		<tr>
+			<p align="center"> 
+                		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2542.0404490981246!2d30.42962!3d50.421718!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c9551b9483bf%3A0x38f1332fd220855a!2z0LLRg9C7LiDQnNC40LrQvtC70Lgg0KjQtdC_0LXQu9GU0LLQsCwgM9CQLCDQmtC40ZfQsiwg0LzRltGB0YLQviDQmtC40ZfQsg!5e0!3m2!1suk!2sua!4v1412584243899" width="500" height="400" frameborder="0" style="border: 8px solid #ffffff">
+				</iframe>
+			</div>
 
+			<div style="float:center">
+
+<p class="st1">До нас можна доїхати з різних кінців міста:</p>
+
+<p align="justify">Від Центрального автовокзалу (м.Київ, пл.Московська, 3):
+Тролейбус № 42 (в сторону Севастопольскої площі) з пересадкою на зупинці "Лебедєва Кумача". 
+Маршрутні таксі № 439, 477 з пересадкою на зупинці "Лебедєва Кумача".</div>
+
+<p align="justify">Від аеропорту "Київ" (Жуляни) (м.Київ, пр.Воздухофлотський, 92): 
+Тролейбусами № № 21, 22 з пересадкою на зупинці "Лебедєва Кумача".
+Від зупинки "Лебедєва Кумача" на тролейбусі № 27 або маршрутні таксі № 427, 433 їхати до зупинки "Бульвар Івана Лепсе".</div>
+
+<p align="justify">Від аеропорту "Бориспіль": 
+До станції метро "Лівобережна" або "Харьківська", або маршрутне таксі № 322 до зупинки "Залізничний вокзал" (с.м. "Залізничний вокзал") 
+-> їхати до станції метро "Шулявська" або "Берестейська".</div>
+
+<p align="justify">Від станції метро "Шулявська": 
+Тролейбус № 27 або маршрутні таксі № № 427, 201 -> їхати до зупинки "Бульвар Івана Лепсе".</div>
+
+<p align="justify">Від станції метро "Берестейська": 
+Трамваї № № 14, 15 або маршрутне таксі № 14 -> їхати до зупинки "Проспект Відрадний".</div>
+				
+
+
+
+
+				</p>
+</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+					<p align="center"><strong>Центр в соціальних мережах:</strong> <br />
+  <a href="http://vk.com/public89392566"><img src="..//files/vk.png" border="0" ></a></a></a></p>
 			</td>
 		</tr>
 	</table>
@@ -186,7 +187,7 @@ $(document).ready(function(){
     </th>
 	 <th>
 			<div style="float:auto">
-				<a href="http://http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
+				<a href="http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
 				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<p>
 			</div>
     </th>

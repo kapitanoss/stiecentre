@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Керівництво ЦЕНТРА ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+	<title>Фотогалерея ЦЕНТРА ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -95,45 +95,58 @@ $(document).ready(function(){
 	<body lang=RU>
 
 
-<p align="center"><img src="../kontakt/121.jpg" width="223" height="335"></p>
-<p align="center">Директор Центру</p>
-<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора</p>
-<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
-<p align="center">тел.(044) 455-47-26</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
-<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з комерційної діяльності Центру</p>
-<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з АГД</p>
-<p align="center"><strong>Глущенко Анатолій Іванович</strong></p>
-<p align="center">тел.(044) 455-47-24 </p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Головний бухгалтер</p>
-<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
-<p align="center">тел.(044) 455-05-71</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Завідувач гуртожитку</p>
-<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
-<p align="center">тел.(044) 455-05-74</p>
-</td>
-</tr>
-</table>
-</td>
 
+			<div id='maincontainer'>
+			<div id='photos'>
+			<img src='034.JPG' class='small' />
+			<img src='033.JPG' class='small' />
+			<img src='030.JPG' class='small' />
+			<img src='031.JPG' class='small' />
+			<img src='032.JPG' class='small' />
+			<img src='029.JPG' class='small' />
+			<img src='028.JPG' class='small' />
+			<img src='01.JPG'  class='small' />
+			<img src='02.JPG'  class='small' />
+			<img src='03.JPG'  class='small' />
+			<img src='04.JPG'  class='small' />
+			<img src='05.JPG'  class='small' />
+			<img src='06.JPG'  class='small' />
+			<img src='07.JPG'  class='small' />
+			<img src='08.JPG'  class='small' />
+			<img src='011.JPG' class='small' />
+			<img src='010.JPG' class='small' />
+			<img src='09.JPG'  class='small' />
+			<img src='012.JPG' class='small' />
+			<img src='013.JPG' class='small' />
+			<img src='014.JPG' class='small' />
+			<img src='017.JPG' class='small' />
+			<img src='019.JPG' class='small' />
+			<img src='015.JPG' class='small' />
+			<img src='016.JPG' class='small' />
+			<img src='018.JPG' class='small' />
+			<img src='020.JPG' class='small' />
+			<img src='021.JPG' class='small' />
+			<img src='022.JPG' class='small' />
+			<img src='023.JPG' class='small' />
+			<img src='024.JPG' class='small' />
+			<img src='025.JPG' class='small' />
+			<img src='026.JPG' class='small' />
+			<img src='027.JPG' class='small' />
+		<!--<img src='034.JPG' class='small' />
+			<img src='033.JPG' class='small' />
+			<img src='030.JPG' class='small' />
+			<img src='031.JPG' class='small' />
+			<img src='032.JPG' class='small' />
+			<img src='029.JPG' class='small' /> -->
+			
+			
+		</div>
+</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+					<p align="center"><strong>Центр в соціальних мережах:</strong> <br />
+  <a href="http://vk.com/public89392566"><img src="..//files/vk.png" border="0" ></a></a></a></p>
 			</td>
 		</tr>
 	</table>
@@ -202,9 +215,6 @@ $(document).ready(function(){
 
 
 
-
-
-
   <!--******************************Конец содержимого страницы**********************************-->
 		  <!-- InstanceEndEditable -->
 		  </div></td>
@@ -220,4 +230,26 @@ $(document).ready(function(){
 
 		
 
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		   
+			

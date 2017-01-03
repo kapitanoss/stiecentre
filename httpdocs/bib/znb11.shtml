@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Антикорупційне законодавство ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+	<title>Податок на прибуток підприємств ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,19 +53,19 @@
 	
  <form id="myform"; align="center">
  <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.html">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.html">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.html">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.html">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.html">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.html">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.html">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.html">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.html">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.html">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.html">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.html">Робота з персоналом</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb13.html">Спрощена система оподаткування</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
+ <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
  <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -74,49 +74,35 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_01.doc" target="_blank">Закон України Про державну службу</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/01.doc" target="_blank">Алгоритм складання</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_02.doc" target="_blank">Закон України №221-VII від 18.04.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/02.doc" target="_blank">Гармонізація бухгалтерського та податкового обліку і визначення об</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_03.doc" target="_blank">Закон України №224-VII від 14.04.13р.</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/03.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_04.doc" target="_blank">Закон України №3207-VI від 07.04.11</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/04.doc" target="_blank">Міжнародний стандарт бухгалтерського обліку 12</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_05.doc" target="_blank">Закон України №3341 від 30.06.93</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/05.doc" target="_blank">Наказ №13 від 17. 01. 15</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_06.doc" target="_blank">ЗУ Про доступ до публічної інформації</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/06.doc" target="_blank">Наказ №39 від 28.01.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_07.doc" target="_blank">ЗУ Про звернення громадян</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/07.doc" target="_blank">Наказ №84 від 27.01.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_08.doc" target="_blank">ЗУ Про Національне антикорупційне бюро</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/08.doc" target="_blank">Наказ №85 від 27.01.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_09.doc" target="_blank">Кодекс України про адміністративні правопорушення</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/09.doc" target="_blank">Наказ №121 від 06.02.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_10.doc" target="_blank">Конституція  України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/010.doc" target="_blank">Наказ №365 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_11.doc" target="_blank">Кримінальний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/011.doc" target="_blank">Наказ №366 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_12.doc" target="_blank">Кримінальний процесуальний кодекс УКРАЇНИ</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/012.doc" target="_blank">Наказ №367 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_13.doc" target="_blank">Постанова КМУ №950 від 13.06.2000</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/013.doc" target="_blank">Наказ №810 від 16.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_14.doc" target="_blank">Постанова КМУ№1240 від 28.11.11</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/014.doc" target="_blank">Наказ №872 від 30.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_15.doc" target="_blank">Постанова КМУ№1380 від 23.06.10</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_16.doc" target="_blank">Про запобігання корупції</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_17.doc" target="_blank">Про засади державної антикорупційної політики</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_18.doc" target="_blank">Про звернення громадян</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_19.doc" target="_blank">УКАЗ  №1001від 21.10.11р.</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/2/2_20.doc" target="_blank">Інформація щодо чинності корупційного законодавства</a>
-<br>
-
-
-
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/015.doc" target="_blank">Про звітність податку на прибуток</a>
 </p>
  
 	
