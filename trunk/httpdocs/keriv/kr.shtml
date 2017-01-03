@@ -15,7 +15,6 @@
 </head>
 
 <body>
-<!-- Шапка сайта + Главное меню -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
 		  <td>
@@ -28,9 +27,9 @@
 
 	</table>
 <!-- Левое меню + Страница-->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
-			<!--#include virtual="../include/left_menu.txt"-->
+<!--#include virtual="../include/left_menu.txt"-->
 
 
 <!-- InstanceBeginEditable name="text" -->
@@ -39,7 +38,7 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
@@ -49,8 +48,7 @@
 
 
 
-
-		<p align="center"><img src="../kontakt/121.jpg" width="223" height="335"></p>
+		<p align="center"><img src="../kontakt/121.jpg" width="223" height="335" alt="Директор Центру Юрченко В.В." /></p>
 		<p align="center">Директор Центру</p>
 		<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
 		<p align="center">тел.(044) 455-05-72</p>
@@ -78,6 +76,7 @@
 		<p align="center">Завідувач гуртожитку</p>
 		<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
 		<p align="center">тел.(044) 455-05-74</p>
+		</div>
       </td>
 	 </tr>
     </table>
@@ -86,14 +85,12 @@
 
 <!-- InstanceEnd -->
  </table>
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 <!-- Banner bottom -->
-<table>
-			<!--#include virtual="../include/banner.html"-->
-</table>
+<!--#include virtual="../include/banner.html"-->
 </body>
 </html>
 
