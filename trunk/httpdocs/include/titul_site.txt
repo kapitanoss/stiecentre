@@ -20,5 +20,5 @@
   03061, Київ-061 вул.Шепелєва, 3-а</font></p> </div> 
 <div align="center" class="st1"><p><font size="2" color="black">E-mail:
   <a href="mailto:centre@centre-kiev.kiev.ua">centre@centre-kiev.kiev.ua</a></font></p></div>
-<div align="center" class="st1"><p><font size="2" color="black">Телефон/факс:(044) 455-05-72</font></p></div> <span/> </div>
+<div align="center" class="st1"><p><font size="2" color="black">Телефон/факс:(044) 455-05-72</font></p></div> </span> </div>
    

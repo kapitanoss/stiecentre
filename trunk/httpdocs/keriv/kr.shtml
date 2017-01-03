@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<!-- Шапка сайта + Главное меню -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
 		  <td>
@@ -26,10 +27,10 @@
 			<!--#include virtual="../include/main_menu.txt"-->
 
 	</table>
-<!-- Левое меню -->
+<!-- Левое меню + Страница-->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+			<!--#include virtual="../include/left_menu.txt"-->
 
 
 <!-- InstanceBeginEditable name="text" -->
@@ -45,174 +46,57 @@
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-<html>
-
-	<head>
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js">
-</script>
-
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<script>
-
-$(document).ready(function(){
-	$(".small").click(function(){
-		$("#full").html("<img src='"+$(this).attr('src')+"' />").show();
-	});
-	
-	$('#full').click(function(){
-		$("#full").hide();
-	});
-});
-
-</script>
-
-<style type="text/css">
-#maincontainer {
-	width: 800px;
-	margin: 0 auto;
-	border: 3px solid #ccc;
-	vertical-align: top;
-	text-align: center;
-}
-
-#full {
-	position: absolute;
-	width: 98%;
-	background: black;
-
-	text-align: center;
-}
-
-#maincontainer .small {
-	width: 260px;
-}
 
 
-</style>
-	<body lang=RU>
 
 
-<p align="center"><img src="../kontakt/121.jpg" width="223" height="335"></p>
-<p align="center">Директор Центру</p>
-<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора</p>
-<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
-<p align="center">тел.(044) 455-47-26</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
-<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з комерційної діяльності Центру</p>
-<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
-<p align="center">тел.(044) 455-05-72</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Заступник директора з АГД</p>
-<p align="center"><strong>Глущенко Анатолій Іванович</strong></p>
-<p align="center">тел.(044) 455-47-24 </p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Головний бухгалтер</p>
-<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
-<p align="center">тел.(044) 455-05-71</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-<p align="center">Завідувач гуртожитку</p>
-<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
-<p align="center">тел.(044) 455-05-74</p>
-</td>
-</tr>
-</table>
-</td>
+		<p align="center"><img src="../kontakt/121.jpg" width="223" height="335"></p>
+		<p align="center">Директор Центру</p>
+		<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
+		<p align="center">тел.(044) 455-05-72</p>
 
-			</td>
-		</tr>
-	</table>
-</body>
-<!-- InstanceEnd --></html>
+		<p align="center">Перший заступник директора</p>
+		<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
+		<p align="center">тел.(044) 455-47-26</p>
 
+		<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
+		<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
+		<p align="center">тел.(044) 455-05-72</p>
+
+		<p align="center">Заступник директора з комерційної діяльності Центру</p>
+		<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
+		<p align="center">тел.(044) 455-05-72</p>
+
+		<p align="center">Заступник директора з АГД</p>
+		<p align="center"><strong>Глущенко Анатолій Іванович</strong></p>
+		<p align="center">тел.(044) 455-47-24 </p>
+
+		<p align="center">Головний бухгалтер</p>
+		<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
+		<p align="center">тел.(044) 455-05-71</p>
+
+		<p align="center">Завідувач гуртожитку</p>
+		<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
+		<p align="center">тел.(044) 455-05-74</p>
+      </td>
+	 </tr>
+    </table>
+   </td>
+  </tr>
+
+<!-- InstanceEnd -->
  </table>
 <br>
 <br>
 <br>
 <br>
+<!-- Banner bottom -->
 <table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-			
-    <tr>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.rada.gov.ua/" target="_blank"><img title="Верховна Рада України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://sfs.gov.ua/" target="_blank"><img title="ДФС УКРАЇНИ" src="http://www.centre-kiev.kiev.ua/../baner/sta_new_small.jpg" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://cpn.kiev.ua/" target="_blank"><img title="КОЗИН" src="../baner/logo_cpn.png" alt=""width="150" height="90"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.visnuk.com.ua// " target="_blank"><img title=":Журнал ВІСНИК" src="../baner/visnuk.gif" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<p>
-			</div>
-    </th>
-	 <th>
-	
-
-
+			<!--#include virtual="../include/banner.html"-->
 </table>
 </body>
-</head>
 </html>
-<br>
 
-
-
-
-
-
-  <!--******************************Конец содержимого страницы**********************************-->
-		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    </td>
-<!--******************************Конец содержимого страницы**********************************-->
-<!-- InstanceEndEditable -->
-   
 
 
 			
