@@ -28,7 +28,7 @@
 
  </table>
 <!-- Левое меню + Страница-->
- <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="2" cellpadding="0">
    <tr>
 <!--#include virtual="include/left_menu.txt"-->
 
@@ -39,7 +39,7 @@
 
     <td width="90%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
 		<tr >
 			<td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
@@ -67,12 +67,10 @@
 <br />
 <br />
 <br />
-<table>
-			<!-- Banner bottom -->
-			<!--#include virtual="include/banner.html"-->
+<!-- Banner bottom -->
+<!--#include virtual="include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->
 <!-- InstanceEndEditable -->
-</table>
 </body>
 </html>
 
