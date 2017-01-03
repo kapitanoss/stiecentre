@@ -45,11 +45,6 @@
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-<html>
-
-	<head>
-	<body>
-
 	
  <form id="myform"; align="center">
  <select id="mymenu">
@@ -61,7 +56,7 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
+ <option selected value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
@@ -111,12 +106,10 @@
 <a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_18.doc" target="_blank">Про податок на додану вартість</a>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_19.doc" target="_blank">Про систему електронного адміністрування ПДВ</a>
+</span>
 </p>
  
 	
-</body>
-</head>
-</html>
 <br>
 
 
@@ -126,47 +119,24 @@
 		  <!-- InstanceEndEditable -->
 		  </div></td>
       </tr>
-    </table>    </td>
+    </table>    
+	</td>
 <!--******************************Конец содержимого страницы**********************************-->
 <!-- InstanceEndEditable -->
    
-<!-- Банеры-->
-    
-			<td width="152" align="center" valign="top" background="../im_diz/f_menu_2.jpg">
-				<p align="center"><a href="http://cpn.kiev.ua/">
-				<img title="Центр отдыха и проведения семинаров" src="../baner/logo_cpn.png" width="150" height="90" border="0" alt="Центр отдыха и проведения семинаров"/></a></p>				
-				
-				<p align="center"><a href="http://www.cpn.gov.ua/">
-				<img title="Відділення Центру" src="../baner/bann_kozyn_new.png" width="160" height="50" border="0" alt="Відділення Центру"/></a></p>
-				
-				<p align="center"><a href="http://www.visnuk.com.ua/">
-				<img title="Журнал ''Вісник''" src="../baner/visnuk.gif" width="152" height="60" border="0" alt="Журнал ''Вісник''"/></a></p>
-				
-				<p align="center"><a href="http://sfs.gov.ua/">
-				<img title="Державна фіскальна служба України" src="../baner/sta_new_small.jpg" width="152" height="60" border="0" title="Центр отдыха и проведения семинаров"/></a></p>
 
-<!-- Информер Календарь -->
-				<p align="center">
-				<img src='http://www.calendarium.com.ua/im/informer_ru.png' width=200 border=0 alt='Календарь Украины'></a></p>
-<!-- Информер Календарь -->
-
-			</td>
 		</tr>
 				
-		<tr>
-			<td colspan="3" background="../im_diz/im_shapka/f_menu.jpg">
-				<div align="center">www.centre-kiev.kiev.ua&nbsp;&nbsp; &nbsp; &nbsp;&copy;
-				Центр  перепідготовки та підвищення кваліфікації   &nbsp; &nbsp; &nbsp; &nbsp;
-				centre@centre-kiev.kiev.ua
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="3">
-				<p align="center"><strong>Центр в соціальних мережах:</strong> <br />
-  <a href="http://vk.com/public89392566"><img src="..//files/vk.png" border="0" ></a></a></a></p>
-			</td>
-		</tr>
+
 	</table>
+<br>
+<br>
+<br>
+<br>
+<!-- Banner bottom -->
+<table>
+			<!--#include virtual="../include/banner.html"-->
+</table>	
 </body>
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+</html>
