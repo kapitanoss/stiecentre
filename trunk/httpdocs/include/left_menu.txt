@@ -3,35 +3,35 @@
 					<ul class="nav_left" >
 					  <li class="st3"><a href="#">Центр</a>
 						<ul>
-						  <li class="st3"><a href="../nav_pr/nap_d.html">Історична довідка</a></li>
-						  <li class="st3"><a href="../keriv/kr.html">Керівництво</a></li>
-						  <li class="st3"><a href="../nav_pr/kz.html">Структура центру</a></li>
-						  <li class="st3"><a href="../mz/kafedra.html">Кафедри</a></li>
+						  <li class="st3"><a href="#">Історична довідка</a></li>
+						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
+						  <li class="st3"><a href="#">Структура центру</a></li>
+						  <li class="st3"><a href="../mz/kafedra.shtml">Кафедри</a></li>
 						  <li class="st3"><a href="#">Викладацкий склад</a></li>	
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Навчальний процес та наукова робота</a>
 						<ul>
-						  <li class="st3"><a href="../mz/mz.html">Методичне забезпечення навчального процесу</a></li>
-						  <li class="st3"><a href="../mtb/mtb.html">Матеріально-технічна база</a></li>
-						  <li class="st3"><a href="../mz/org.html">Організаційне забезпечення навчального процесу</a></li>
+						  <li class="st3"><a href="../mz/mz.shtml">Методичне забезпечення навчального процесу</a></li>
+						  <li class="st3"><a href="../mtb/mtb.shtml">Матеріально-технічна база</a></li>
+						  <li class="st3"><a href="../mz/org.shtml">Організаційне забезпечення навчального процесу</a></li>
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Інформація для слухачів</a>
 						<ul>		
-						  <li class="st3"><a href="../info/is.html">Напрями підвищення кваліфікації на 2016 рік</a></li>			  
+						  <li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2016 рік</a></li>			  
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Дистанційна форма навчання</a>
 						<ul>
 					      <li class="st3"><a href="#">Графік навчання</a></li>
-						  <li class="st3"><a href="#">Реєстрація слухача</a></li>
-					      <li class="st3"><a href="../strkadr/strkadr.html">Сторінка кадровика</a></li>						  
+						  <li class="st3"><a href="../dn/dn.shtml">Реєстрація слухача</a></li>
+					      <li class="st3"><a href="../strkadr/strkadr.shtml">Сторінка кадровика</a></li>						  
 						</ul>						
 					  </li>
-					  <li class="st3"><a href="../on/on.html">Очна форма навчання</a></li>
-					  <li class="st3"><a href="../bib/biblioteka.html">Електронна Бібліотека</a></li>
-					  <li class="st3"><a href="../dz/dz.html">Державні закупівлі</a></li>
+					  <li class="st3"><a href="../on/on.shtml">Очна форма навчання</a></li>
+					  <li class="st3"><a href="../bib/biblioteka.shtml">Електронна Бібліотека</a></li>
+					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
 					  <li class="st3" ><a href="#" class="notopbrdr0xNone">Вакантні посади</a></li>
 					</ul>
 				</div>

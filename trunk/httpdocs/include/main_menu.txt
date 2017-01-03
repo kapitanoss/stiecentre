@@ -1,13 +1,12 @@
 		<tr>
-			<td  background="../is/im_diz/im_shapka/f_menu.jpg" colspan="3" >
-				<div id="h_mnu_01"> 
-					<ul> 
+			<td   colspan="3" >
+				<div id="h_mnu_01" background="../is/im_diz/im_shapka/f_menu.jpg"> 
+					<ul align=center> 
         				<li class="st3"><a href="../index.shtml">Головна</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="../index.shtml">Новини</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-							<a href="../foto/foto.html">Галерея</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-							<a href="../kontakt/kontakt.html" >Контакти</a></li>
+							<a href="../foto/foto.shtml">Галерея</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							<a href="../kontakt/kontakt.shtml" >Контакти</a></li>
 					</ul>
 				</div>
 			</td>
 		</tr>
-	</table>

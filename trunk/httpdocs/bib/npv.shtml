@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Звернення громадян ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+	<title>Наукові періодичні видання ЦЕНТРА ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -36,7 +36,7 @@
 <!--******************************Начало содержимого страницы**********************************-->
     
 
-    <td width="100%" valign="top">
+    <td width="70%" valign="top">
 	
 	<table width="100%" border="0" cellspacing="0" cellpadding="20">
       <tr >
@@ -48,57 +48,67 @@
 <html>
 
 	<head>
-	<body>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js">
+</script>
 
-	
- <form id="myform"; align="center">
- <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.html">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.html">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.html">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.html">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.html">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.html">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.html">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.html">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.html">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.html">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.html">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.html">Робота з персоналом</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb13.html">Спрощена система оподаткування</option>
- </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
- </form>
-<br>
-<br>
-<br>
-<br>
-<p align='center'>
-<span style='font-size:14.0pt'>
- 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_01.doc" target="_blank">Наказ №397 від 23.07.09</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_02.doc" target="_blank">Постанова КМ №348 від 14.04.97</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_03.doc" target="_blank">Постанова №630 від 24.06.09</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_04.doc" target="_blank">Постанова №858 від 24.09.08</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_05.doc" target="_blank">Про затвердження Інструкції про порядок розгляду звернень та особистого прийому громадян в органах державної податкової служби</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_06.doc" target="_blank">Про звернення громадян</a>
-<br>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_07.doc" target="_blank">Указ Президента Про першочергові заходи щодо забезпечення реалізації конституційного</a>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
-</p>
- 
+<script>
+
+$(document).ready(function(){
+	$(".small").click(function(){
+		$("#full").html("<img src='"+$(this).attr('src')+"' />").show();
+	});
 	
+	$('#full').click(function(){
+		$("#full").hide();
+	});
+});
+
+</script>
+
+<style type="text/css">
+#maincontainer {
+	width: 800px;
+	margin: 0 auto;
+	border: 3px solid #ccc;
+	vertical-align: top;
+	text-align: start;
+}
+
+#full {
+	position: absolute;
+	width: 98%;
+	background: black;
+
+	text-align: start;
+}
+
+#maincontainer .small {
+	width: 260px;
+}
+</style>
+<b>
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/4.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 2(4)2012</font><br /></a></u></span></p>	
+
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/5.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 1(5)/2013</font><br /></a></u></span></p>	
+
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/6.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(6)/2013</font><br /></a></u></span></p>	
+
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/7.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(7)/2014</font><br /></a></u></span></p>	
+
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/8.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(8)/2014</font><br /></a></u></span></p>	
+
+<p class=MsoNormal style='margin-top:12.0pt;text-align:justify'><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/9.pdf"target="_blank"<u><span
+lang=UK style='font-size:14.0pt;color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(9)/2015</font><br /></a></u></span></p>	
+</b>
 </body>
 </head>
 </html>
