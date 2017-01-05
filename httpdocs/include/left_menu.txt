@@ -15,6 +15,7 @@
 						  <li class="st3"><a href="../mz/mz.shtml">Методичне забезпечення навчального процесу</a></li>
 						  <li class="st3"><a href="../mtb/mtb.shtml">Матеріально-технічна база</a></li>
 						  <li class="st3"><a href="../mz/org.shtml">Організаційне забезпечення навчального процесу</a></li>
+						  <li class="st3"><a href="../nav_pr/kz.shtml">Контроль знань</a></li>						  
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Інформація для слухачів</a>
