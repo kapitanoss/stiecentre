@@ -46,14 +46,9 @@
          
  <!--**********************Вставить текст страницы********************************************-->
 <div>
-
-<p class=MsoNormal style='line-height:normal'><b><span 
-style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
-
-<p  align=center style='text-align:center;'><b><span style='font-size:16.0pt; color:green'>Контроль знань</span></b></p>
-
-<p class=MsoNormal style='line-height:normal'><b><span 
-style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+<br />
+<p class=MsoNormal align=center style='text-align:center; color:green'><b><span lang=UK
+style='font-size:16.0pt'>Контроль знань</span></b></p>
 
 <p class=MsoNormal style='text-align:justify;line-height:normal'><span
 style='font-size:14.0pt;font-family:"Times New Roman","serif"'>Контроль якості підвищення кваліфікації кадрів здійснюється на основі єдиних критеріїв і методів відповідно до законодавства у сфері освіти з урахуванням міжнародного стандарту.</span></p>

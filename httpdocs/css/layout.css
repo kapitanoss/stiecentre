@@ -5,14 +5,24 @@
 body {
     font:14px/1.3 Arial,sans-serif;
 }
-.MsoNormal
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:10.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
+
+.MsoNormal, div.MsoNormal p
+	{margin-top: 0cm;
+	margin-right: 0cm;
+	margin-bottom: 10.0pt;
+	margin-left: 0cm;
+	line-height: 115%;
+	/*font-size:11.0pt;*/
+	/*font-family:"Calibri","sans-serif";*/
+	text-align: justify;
+	line-height: normal;
+	font-size: 14.0pt;
+	font-family: "Times New Roman","serif";
+	text-indent: 27.0pt;
+}
+div.MsoNormal ul li { /* fir list marker*/
+	margin-left: 1cm;
+}
 	
 .container {
     background-color: #EEEEEE;
@@ -21,4 +31,7 @@ body {
     margin: 30px auto;
     padding: 15px;
     width: 750px;
+}
+#myform {
+  text-align: center;
 }
