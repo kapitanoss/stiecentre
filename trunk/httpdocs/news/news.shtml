@@ -45,8 +45,8 @@
          <!-- InstanceBeginEditable name="text" -->
          
  <!--**********************Вставить текст страницы********************************************-->
-
-<p align="center" style='text-align:center;'><b><span style='font-size:16.0pt; color:green'>Новини</span></b></p>
+<br />
+<p class="MsoNormal" align="center" style='text-align:center; color:green'><b><span style='font-size:16.0pt'>Новини</span></b></p>
 	  <table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
           <td width="220" height="170"><div align="center"><img src="../img/news/itog2016.jpg" width="220" height="150" alt="Центр підвищення кваліфікації. Підсумки 2016р."/></div></td>
@@ -100,7 +100,7 @@
 			<span style='font-size:14.0pt;font-family:"Times New Roman","serif"'>24 серпня  2016 року співробітники Центру перепідготовки та підвищення кваліфікації 
 			керівних кадрів Міністерства доходів і зборів України прийняли участь у масовій святковій акції (флешмоб) – виконання Державного Гімну України. Акція 
 			присвячена – 25-й річниці Незалежності України. Найбільша кількість співробітників виконували Гімн України на Майдані Незалежності в Києві – понад 2,5 
-			тисячі людей. Переглянути <a href="https://youtu.be/kbzIjNPK_7Y "target="_blank"><u><span style='color:green;'> відео-привітання.</span></u></a></span></p> </div></td>
+			тисячі людей. Переглянути <a href="https://youtu.be/kbzIjNPK_7Y " target="_blank"><u><span style='color:green;'> відео-привітання.</span></u></a></span></p> </div></td>
         </tr>
 	    </table>
 	  <br />
