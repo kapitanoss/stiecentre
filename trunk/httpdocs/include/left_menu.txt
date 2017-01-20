@@ -5,7 +5,7 @@
 						<ul>
 						  <li class="st3"><a href="#">Історична довідка</a></li>
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
-						  <li class="st3"><a href="#">Структура центру</a></li>
+						  <li class="st3"><a href="../files/structure.pdf" target="_blank">Структура центру</a></li>
 						  <li class="st3"><a href="../mz/kafedra.shtml">Кафедри</a></li>
 						  <li class="st3"><a href="#">Викладацкий склад</a></li>	
 						</ul>
@@ -25,7 +25,7 @@
 					  </li>
 					  <li class="st3"><a href="#">Дистанційна форма навчання</a>
 						<ul>
-					      <li class="st3"><a href="#">Графік навчання</a></li>
+					      <li class="st3"><a href="../grafic/grafic.shtml">Графік навчання</a></li>
 						  <li class="st3"><a href="../dn/dn.shtml">Реєстрація слухача</a></li>
 					      <li class="st3"><a href="../strkadr/strkadr.shtml">Сторінка кадровика</a></li>						  
 						</ul>						
