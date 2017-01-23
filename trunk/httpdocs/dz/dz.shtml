@@ -45,66 +45,18 @@
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-<html>
-
-	<head>
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js">
-</script>
-
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<script>
-
-$(document).ready(function(){
-	$(".small").click(function(){
-		$("#full").html("<img src='"+$(this).attr('src')+"' />").show();
-	});
-	
-	$('#full').click(function(){
-		$("#full").hide();
-	});
-});
-
-</script>
-
-<style type="text/css">
-#maincontainer {
-	width: 800px;
-	margin: 0 auto;
-	border: 3px solid #ccc;
-	vertical-align: top;
-	text-align: center;
-}
-
-#full {
-	position: absolute;
-	width: 98%;
-	background: black;
-
-	text-align: center;
-}
-
-#maincontainer .small {
-	width: 260px;
-}
-
-</style>
-	<body lang=RU>
-
 
 <p align="center">
 <span style='font-size:14.0pt'>
 
+<br />
+<a href="../files/Derzh_zakup/Plan zakupivli 2017 r.pdf" target="_blank" >Річний план закупівлі 2017р.</a>
 <br />
 <a href="../files/Derzh_zakup/benzin2.rar">Запит цінових пропозицій (бензин) 2016р.</a>
 <br />
 <a href="../files/Derzh_zakup/benzin.rar">Зміни до річного плану закупівель (запит цінових пропозицій, бензин) 2016р.</a>
 <br />
 <a href="../files/Derzh_zakup/Gaz.PDF">Зміни до річного плану закупівель 2016р.</a>
-<br />
-<a href="../files/Derzh_zakup/6.rar">Річний план закупівлі 2016р.</a>
 <br />
 <a href="../files/Derzh_zakup/5.rar">Паливо рідинне та газ. Оливи мастильні</a>
 <br>
@@ -134,96 +86,20 @@ $(document).ready(function(){
 </p>
 
  
-</td>
-		</tr>
-		<tr>
-			<td colspan="3">
-					<p align="center"><strong>Центр в соціальних мережах:</strong> <br />
-  <a href="http://vk.com/public89392566"><img src="..//files/vk.png" border="0" ></a></a></a></p>
-			</td>
-		</tr>
-	</table>
-</body>
-<!-- InstanceEnd --></html>
+		</div>
+      </td>
+	 </tr>
+    </table>
+   </td>
+  </tr>
 
+<!-- InstanceEnd -->
  </table>
-<br>
-<br>
-<br>
-<br>
-<table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-			
-    <tr>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.rada.gov.ua/" target="_blank"><img title="Верховна Рада України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://sfs.gov.ua/" target="_blank"><img title="ДФС УКРАЇНИ" src="http://www.centre-kiev.kiev.ua/../baner/sta_new_small.jpg" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://cpn.kiev.ua/" target="_blank"><img title="КОЗИН" src="../baner/logo_cpn.png" alt=""width="150" height="90"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.visnuk.com.ua// " target="_blank"><img title=":Журнал ВІСНИК" src="../baner/visnuk.gif" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<p>
-			</div>
-    </th>
-	 <th>
-	
-
-
-</table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
 </body>
-</head>
 </html>
-<br>
-
-
-
-
-
-
-  <!--******************************Конец содержимого страницы**********************************-->
-		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    </td>
-<!--******************************Конец содержимого страницы**********************************-->
-<!-- InstanceEndEditable -->
-   
-
-
-			
-
-
-		
-
-		
