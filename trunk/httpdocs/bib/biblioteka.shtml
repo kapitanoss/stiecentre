@@ -36,133 +36,112 @@
 <!--******************************Начало содержимого страницы**********************************-->
     
 
-    <td width="100%" valign="top">
-	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
-         <!-- InstanceBeginEditable name="text" -->
-         
-		 
- <!--**********************Вставить текст страницы********************************************-->
-		<div class="MsoNormal" >
-		<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
-		<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:18.0pt; color:green;'>Ласкаво просимо</b></span></p>
-		<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:16.0pt; color:green;'>до електронної бібліотеки Центру перепідготовки та підвищення кваліфікації керівних кадрів</span></b></p> 
-		<p style='text-align:center;'><b><span style='font-size:16.0pt; color:green;'>Міністерства доходів і зборів України</span></b></p>
-		<p><span >З метою надання слухачам Центру практичної допомоги та поглиблення фахових знань, необхідних 
-для успішної реалізації управлінських функцій в фіскальній службі, при цьому на меті ставилося забезпечення доступу до навчально-методичних матеріалів 
-в першу чергу слухачів, що навчаються за дистанційною формою, створена електронна бібліотека Центру.</span></p> 
-		<p><span >Бібліотека містить електронні публікації навчально-методичних посібників та наукового часопису, авторами яких є науковці нашого Центру. Структура кожного навчально-методичного посібника така, що сприяє розвитку і 
-активізації самостійної роботи слухача. Навчально-методичні посібники та часопис мають також паперову версію.
-Таким чином, шановні слухачі, електронна бібліотека готова запропонувати Вам свою допомогу і такі необхідні для Вас інформаційні послуги. 
-Якщо вас зацікавила наша електронна бібліотека, то ви можете долучитися до нас. Можливо у Вас є якісь корисні навчальні матеріали, якими б ви хотіли поділитися і 
-цим самим посприяти розвитку нашої бібліотеки</span></p>
-		</div>
+		<td width="100%" valign="top">
+		
+		<table width="100%" border="0" cellspacing="2" cellpadding="20">
+		  <tr >
+			<td class="st6"> <div class="st5" >
+			 <!-- InstanceBeginEditable name="text" -->
+			 
+			 
+	 <!--**********************Вставить текст страницы********************************************-->
+			<div class="MsoNormal" >
+			<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+			<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:18.0pt; color:green;'>Ласкаво просимо</span></b></p>
+			<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:16.0pt; color:green;'>до електронної бібліотеки Центру перепідготовки та підвищення кваліфікації керівних кадрів</span></b></p> 
+			<p style='text-align:center;'><b><span style='font-size:16.0pt; color:green;'>Міністерства доходів і зборів України</span></b></p>
+			<p><span >З метою надання слухачам Центру практичної допомоги та поглиблення фахових знань, необхідних 
+	для успішної реалізації управлінських функцій в фіскальній службі, при цьому на меті ставилося забезпечення доступу до навчально-методичних матеріалів 
+	в першу чергу слухачів, що навчаються за дистанційною формою, створена електронна бібліотека Центру.</span></p> 
+			<p><span >Бібліотека містить електронні публікації навчально-методичних посібників та наукового часопису, авторами яких є науковці нашого Центру. Структура кожного навчально-методичного посібника така, що сприяє розвитку і 
+	активізації самостійної роботи слухача. Навчально-методичні посібники та часопис мають також паперову версію.
+	Таким чином, шановні слухачі, електронна бібліотека готова запропонувати Вам свою допомогу і такі необхідні для Вас інформаційні послуги. 
+	Якщо вас зацікавила наша електронна бібліотека, то ви можете долучитися до нас. Можливо у Вас є якісь корисні навчальні матеріали, якими б ви хотіли поділитися і 
+	цим самим посприяти розвитку нашої бібліотеки</span></p>
+			</div>
+			</div>
+			</td>
+			</tr>
+		</table>
+	<br/>
+		<table width="100%">
+		  <tr>
+			<th>
+					<div style="float:auto">
+						<a href="http://centre-kiev.kiev.ua/bib/znb.shtml "><img title="Законодавство Нормативна база" src="http://www.centre-kiev.kiev.ua/bib/img/1.png" alt="Законодавство Нормативна база" width="250"/></a>
+					</div>
+			</th>
+			<th>	
+					<div style="float:auto">
+						<a href="http://centre-kiev.kiev.ua/bib/nmm.shtml "><img title="Навчально-методичні матеріали" src="http://www.centre-kiev.kiev.ua/bib/img/2.png" alt="Навчально-методичні матеріали ЦЕНТРУ" width="250"/></a>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://centre-kiev.kiev.ua/bib/npv.shtml "><img title="Наукові періодичні видання" src="http://www.centre-kiev.kiev.ua/bib/img/3.png" alt="Наукові періодичні видання" width="250"/></a>
+					</div>
+			</th>
+		   </tr>   
+		</table>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+		<table width="100%">
+			<tr>
+					<td colspan="6">
+						<br />
+						<br />
+						<br />		    
+						<p align="center"><b><font size="3" color="black">Електронні ресурси інших бібліотек</font></b></p>
+						<br />
+						<br />					
+					</td>
+			</tr>						
+			<tr>
+			<th>
+					<div style="float:auto">
+						<a href="http://lib.rada.gov.ua/ " target="_blank"><img title="Бібліотека Верховної Ради України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt="Бібліотека Верховної Ради України" width="200" height="80"/></a>
+						<p align="center">Бібліотека<br/>&nbsp;&nbsp;Верховної Ради<br/>&nbsp;&nbsp;України</p>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://zakon1.rada.gov.ua/laws " target="_blank"><img title="Головна сторінка сайту Законодавство України" src="http://www.centre-kiev.kiev.ua/bib/img/02.png" alt="Головна сторінка сайту Законодавство України" width="200" height="80"/></a>
+						<p align="center">Головна сторінка<br/>&nbsp;&nbsp;сайту<br/>&nbsp;&nbsp;&nbsp;Законодавство України</p>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://www.nplu.org/ " target="_blank"><img title="Національна бібліотека України імені Ярослава Мудрого" src="http://www.centre-kiev.kiev.ua/bib/img/03.png" alt="Національна бібліотека України імені Ярослава Мудрого" width="200" height="80"/></a>
+						<p align="center">Національна<br/>&nbsp;&nbsp;&nbsp;&nbsp;парламентська<br/>&nbsp;&nbsp;&nbsp;&nbsp;бібліотека України</p>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://www.nbuv.gov.ua/ " target="_blank"><img title="Національна бібліотека України імені В.І.Вернадського" src="http://www.centre-kiev.kiev.ua/bib/img/04.png" alt="Національна бібліотека України імені В.І.Вернадського" width="200" height="80"/></a>
+						<br/>
+						<p align="center">Національна бібліотека<br/>України<br/>&nbsp;&nbsp;&nbsp;&nbsp;імені В.І.Вернадського</p>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://www.academy.gov.ua/ " target="_blank"><img title="Національна академія державного управління при Президентові України" src="http://www.centre-kiev.kiev.ua/bib/img/05.png" alt="аціональна академія державного управління при Президентові України" width="200" height="80"/></a>
+						<p align="center">Національна академія<br/>&nbsp;&nbsp;&nbsp;&nbsp;державного управління<br/>&nbsp;&nbsp;&nbsp;при Президентові України</p>
+					</div>
+			</th>
+			<th>
+					<div style="float:auto">
+						<a href="http://ndi-fp.asta.edu.ua/ " target="_blank"><img title="Науково-дослідний інститут фінансовой політики" src="http://www.centre-kiev.kiev.ua/bib/img/06.png" alt="Науково-дослідний інститут фінансовой політики" width="200" height="80"/></a>
+						<p align="center">Науково-дослідний<br/>інститут<br/>&nbsp;&nbsp;фіскальної політики</p>
+					</div>
+			</th>
+			</tr>
+		</table>
+	<!-- InstanceEnd -->
 		</td>
-		</tr>
+	   </tr>
 	</table>
-<br>
-<table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-  
-  <tr>
-    <th>
-			<div style="float:auto">
-				<a href="http://centre-kiev.kiev.ua/bib/znb.shtml "><img title="Законодавство Нормативна база" src="http://www.centre-kiev.kiev.ua/bib/img/1.png" alt="Законодавство Нормативна база" width="250"/></a>
-			</div>
-    </th>
-    <th>	
-			<div style="float:auto">
-				<a href="http://centre-kiev.kiev.ua/bib/nmm.shtml "><img title="Навчально-методичні матеріали" src="http://www.centre-kiev.kiev.ua/bib/img/2.png" alt="Навчально-методичні матеріали ЦЕНТРУ" width="250"/></a>
-			</div>
-	</th>
-	<th>
-			<div style="float:auto">
-				<a href="http://centre-kiev.kiev.ua/bib/npv.shtml "><img title="Наукові періодичні видання" src="http://www.centre-kiev.kiev.ua/bib/img/3.png" alt="Наукові періодичні видання" width="250"/></a>
-			</div>
-	</th>
-   </tr>   
-  </table>
-<br>
-<br>
-<br>
-<br>
-<table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-			<p align="center"><b><font size="3" color="black">Електронні ресурси інших бібліотек</font></b></p>
-			<br>
-			
-    <tr>
-	 <th>
-			<div style="float:auto">
-				<a href="http://lib.rada.gov.ua/ " target="_blank"><img title="Бібліотека Верховної Ради України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt="Бібліотека Верховної Ради України" width="200" height="80"/></a>
-				<p align="center">Бібліотека<br>&nbsp;&nbsp;Верховної Ради<br>&nbsp;&nbsp;України<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://zakon1.rada.gov.ua/laws " target="_blank"><img title="Головна сторінка сайту Законодавство України" src="http://www.centre-kiev.kiev.ua/bib/img/02.png" alt="Головна сторінка сайту Законодавство України" width="200" height="80"/></a>
-				<p align="center">Головна сторінка<br>&nbsp;&nbsp;сайту<br>&nbsp;&nbsp;&nbsp;Законодавство України</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.nplu.org/ " target="_blank"><img title="Національна парламентська бібліотека України" src="http://www.centre-kiev.kiev.ua/bib/img/03.png" alt="Національна парламентська бібліотека Україн" width="200" height="80"/></a>
-				<p align="center">Національна<br>&nbsp;&nbsp;&nbsp;&nbsp;парламентська<br>&nbsp;&nbsp;&nbsp;&nbsp;бібліотека України<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.nbuv.gov.ua/ " target="_blank"><img title="Національна бібліотека України імені В.І.Вернадського" src="http://www.centre-kiev.kiev.ua/bib/img/04.png" alt="Національна бібліотека України імені В.І.Вернадського" width="200" height="80"/></a>
-				<br>
-				<p align="center">Національна бібліотека<br>України<br>&nbsp;&nbsp;&nbsp;&nbsp;імені В.І.Вернадського</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.academy.gov.ua/ " target="_blank"><img title="Національна академія державного управління при Президентові України" src="http://www.centre-kiev.kiev.ua/bib/img/05.png" alt="аціональна академія державного управління при Президентові України" width="200" height="80"/></a>
-				<p align="center">Національна академія<br>&nbsp;&nbsp;&nbsp;&nbsp;державного управління<br>&nbsp;&nbsp;&nbsp;при Президентові України<p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://ndi-fp.asta.edu.ua/ " target="_blank"><img title="Науково-дослідний інститут фінансового права" src="http://www.centre-kiev.kiev.ua/bib/img/06.png" alt="Науково-дослідний інститут фінансового права" width="200" height="80"/></a>
-				<p align="center">Науково-дослідний<br>інститут<br>&nbsp;&nbsp;фіскальної політики</p>
-			</div>
-    </th>
-	</tr>
-</table>
-<!-- InstanceEnd -->
-    </td>
-   </tr>
- </table>  
+	<br />
 </body>
 </html>
-
-				
-
-
-
