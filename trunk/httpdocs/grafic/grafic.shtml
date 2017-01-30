@@ -39,22 +39,27 @@
 
     <td width="90%" valign="top">
 	
-	<table width="90%" border="0" cellspacing="2" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
  <!--**********************Вставить текст страницы********************************************-->
-<br />
-<p class="MsoNormal" align="center" style='text-align:center; color:green'><b><span style='font-size:16.0pt'>Графік навчання </span></b></p>
-	  <p class="MsoNormal" style="margin-top:12.0pt;text-align:justify"><a href="http://www.centre-kiev.kiev.ua/files/grafic/PM-858.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів
- <b><font color="red">з 30.01.2017 по 22.02.2017</font></b><br/></span></a></p>
-	  <p class="MsoNormal" style="margin-top:12.0pt;text-align:justify"><a href="http://www.centre-kiev.kiev.ua/files/grafic/FO-859,860.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки
- <b><font color="red">з 30.01.2017 по 10.03.2017</font></b><br/></span></a></p>
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Графік навчання </span></b></p>
+
+	  <p ><a href="http://www.centre-kiev.kiev.ua/files/grafic/PM-858.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів
+ <b><font color="red">з 30.01.2017 по 24.02.2017</font></b><br/></span></a></p>
+	  <p ><a href="http://www.centre-kiev.kiev.ua/files/grafic/FO-859,860.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки
+ <b><font color="red">з 30.01.2017 по 17.03.2017</font></b><br/></span></a></p>
 
 
  
 <!--******************************Конец содержимого страницы**********************************-->
+</div>
 </div>
 </td>
 		</tr>
