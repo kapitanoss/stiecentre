@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<!-- Шапка сайта + Главное меню -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
 		  <td>
@@ -27,7 +28,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,196 +39,50 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-<html>
+<div class="MsoNormal" >
 
-	<head>
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js">
-</script>
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+<!--p style='text-align:center;'><b><span style='font-size:16.0pt; color:green;'>Реєстрація слухачів</span></b></p-->
 
-<script>
+<p style='text-align:center;margin-bottom:0pt;color:red;'><b>Самореєстрація слухачів проходить в системі дистанційного навчання "Moodle".<br/>
+Посилання:<a href="http://moodle.minrd.gov.ua/moodle/" target="_blank">moodle.minrd.gov.ua/moodle</a></b></p>
+<p style='text-align:center;'><b><span >Для реєстрації на дистанційну форму навчання слухачі повинні:</span></b></p><br/>
 
-$(document).ready(function(){
-	$(".small").click(function(){
-		$("#full").html("<img src='"+$(this).attr('src')+"' />").show();
-	});
-	
-	$('#full').click(function(){
-		$("#full").hide();
-	});
-});
-
-</script>
-
-<style type="text/css">
-#maincontainer {
-	width: 800px;
-	margin: 0 auto;
-	border: 3px solid #ccc;
-	vertical-align: top;
-	text-align: center;
-}
-
-#full {
-	position: absolute;
-	width: 98%;
-	background: black;
-
-	text-align: center;
-}
-
-#maincontainer .small {
-	width: 260px;
-}
+<p style='text-align:center;'>1. Завантажити за одним із нижченаведених посилань облікову картку відповідного напрямку навчання.</p>
+<p style='text-align:center; margin-bottom:0pt;'><a href="http://www.centre-kiev.kiev.ua/files/obl_card/OK_2017_ochno-dest_v_1_0.rar">Облікова картка для всіх напрямів навчання </a></p>
+<p style='text-align:center;'><a href="http://www.centre-kiev.kiev.ua/files/obl_card/OK_2017_spec-dest_v_1_0.rar">Облікова картка для напрямку «Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів »</a></p>
 
 
-</style>
-	<body lang=RU>
+<p style='text-align:center;'>2. Відправити заповнену облікову картку на електронну адресу Центру <a href="mailto:study@centre-kiev.kiev.ua">study@centre-kiev.kiev.ua</a></p>
 
 
-<body lang=RU link=blue vlink=purple>
+<p style='text-align:center;'>3.Завантажити <a href="http://www.centre-kiev.kiev.ua/files/instruct/Instr_reg_dn.pdf" target="_blank"> покрокову інструкцію по реєстрації в системі дистанційного навчання.</a></p>
 
-<div class=Section1>
-<br>
-<p style='text-align:center;color:red;font-size:14.0pt'><b>Самореєстрація слухачів проходить в системі дистанційного навчання "Moodle".<br>
-Посилання:<a href="http://moodle.minrd.gov.ua/moodle/"target="_blank">moodle.minrd.gov.ua/moodle</a></b></p>
-<p class=MsoNormal align=center style='text-align:center;line-height:normal'><b><span
-style='font-size:14.0pt;font-family:"Times New Roman","serif"'>Для реєстрації на дистанційну форму навчання слухачі повинні:</span></b></p>
-<br>
-<p style='text-align:justify;text-indent:14.0pt'><span lang=UK
-style='font-size:14.0pt'>
-<p align="center">1. Завантажити за одним із нижченаведених посилань облікову картку відповідного напрямку навчання.<br>
-<br></p>
-<p align="center"><a href="http://www.centre-kiev.kiev.ua/files/obl_card/OK_2017_ochno-dest_v_1_0.rar">Облікова картка для всіх напрямів навчання </a></p>
-<p align="center"><a href="http://www.centre-kiev.kiev.ua/files/obl_card/OK_2017_spec-dest_v_1_0.rar">Облікова картка для напрямку «Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів »</a></p>
-<br>
-<p style='text-align:justify;text-indent:14.0pt'><span lang=UK
-style='font-size:14.0pt'>
-<p align="center">2. Відправити заповнену облікову картку на електронну адресу Центру <a href="mailto:study@centre-kiev.kiev.ua">study@centre-kiev.kiev.ua</a><br></p>
-<br>
-<a
-<p style='text-align:justify;text-indent:14.0pt'><span lang=UK
-style='font-size:14.0pt'>
-<p align="center">3.Завантажити <a href="http://www.centre-kiev.kiev.ua/files/instruct/Instr_reg_dn.pdf"target="_blank"> покрокову інструкцію по реєстрації в системі дистанційного навчання.</a></p>
-<br>
-</span></p>
-<br>
 
-		
+</div>
+			  </div>
+</td>
+		</tr>
 	</table>
-</body>
-<!-- InstanceEnd --></html>
-
+<!-- InstanceEnd -->
+    </td>
+   </tr>
  </table>
-<br>
-<br>
-<br>
-<br>
-<table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-			
-    <tr>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.rada.gov.ua/" target="_blank"><img title="Верховна Рада України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://sfs.gov.ua/" target="_blank"><img title="ДФС УКРАЇНИ" src="http://www.centre-kiev.kiev.ua/../baner/sta_new_small.jpg" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://cpn.kiev.ua/" target="_blank"><img title="КОЗИН" src="../baner/logo_cpn.png" alt=""width="150" height="90"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.visnuk.com.ua// " target="_blank"><img title=":Журнал ВІСНИК" src="../baner/visnuk.gif" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<p>
-			</div>
-    </th>
-	 <th>
-	
-
-
-</table>
-</body>
-</head>
-</html>
-<br>
-
-
-
-
-
-
-  <!--******************************Конец содержимого страницы**********************************-->
-		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    </td>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->
 <!-- InstanceEndEditable -->
-   
-
-
-			
-
-
-		
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</body>
+</html>
