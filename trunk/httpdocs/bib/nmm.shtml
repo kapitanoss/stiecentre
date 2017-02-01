@@ -27,7 +27,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,18 +38,19 @@
 
     <td width="85%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="40">
+	<table width="100%" border="0" cellspacing="2" cellpadding="40">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
+<div class="MsoNormal" >
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
+<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Навчально-методичні матеріали</span></b></p>
 
-<p align='left'>
-<span style='font-size:14.0pt'><b>
-<br />
+<p style='text-indent: 0;'><span style='font-size:15.0pt'>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/1.pdf" target="_blank">Бюджетно-податкова політика</a>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/2.pdf" target="_blank">Вступ до податкового менеджменту</a>
@@ -77,9 +78,10 @@
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/15.pdf" target="_blank">Євроінтеграція України</a>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/16.pdf" target="_blank">Інноваційна та модернізаційна діяльність</a>
-<br>
-<p  style='text-align:center'><b><span lang=UK style='font-size:14.0pt;color:green'>2016</span></b></p> 
-<br>
+<br></span></p>
+
+<p style='text-align:center'><b><span style='font-size:14.0pt;color:green'>2016</span></b></p>
+<p style='text-indent: 0;'><span style='font-size:14.0pt'>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/BP16.pdf" target="_blank">Бюджетно-податкова політика сучасної держави та гармонізація податкових систем країн ЄС</a>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/DS16.pdf" target="_blank">Ділове спілкування на державній службі</a>
@@ -108,33 +110,27 @@
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/UM16.pdf" target="_blank">Українська мова та формування мистецтва риторичної комунікації державних службовців</a>
 <br>
-</b>
-</span>
-</p>
+
+</span></p>
 
 <br>
 
-
-
-
-  <!--******************************Конец содержимого страницы**********************************-->
-		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    </td>
+</div>
+			  </div>
+</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->
 <!-- InstanceEndEditable -->
-   
-		</tr>
-				
-	</table>
-<br>
-<br>
-<br>
-<br>
-<!-- Banner bottom -->
-<table>
-			<!--#include virtual="../include/banner.html"-->
-</table>
 </body>
-<!-- InstanceEnd --></html>
+</html>
