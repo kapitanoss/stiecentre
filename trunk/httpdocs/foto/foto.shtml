@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<!-- Шапка сайта + Главное меню -->
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
 		  <td>
@@ -27,7 +28,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,36 +39,13 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-<html>
-
-	<head>
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js">
-</script>
-
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<script>
-
-$(document).ready(function(){
-	$(".small").click(function(){
-		$("#full").html("<img src='"+$(this).attr('src')+"' />").show();
-	});
-	
-	$('#full').click(function(){
-		$("#full").hide();
-	});
-});
-
-</script>
 
 <style type="text/css">
 #maincontainer {
@@ -92,12 +70,8 @@ $(document).ready(function(){
 
 
 </style>
-	<body lang=RU>
-
-
 
 			<div id='maincontainer'>
-			<div id='photos'>
 			<img src='034.JPG' class='small' />
 			<img src='033.JPG' class='small' />
 			<img src='030.JPG' class='small' />
@@ -138,118 +112,22 @@ $(document).ready(function(){
 			<img src='031.JPG' class='small' />
 			<img src='032.JPG' class='small' />
 			<img src='029.JPG' class='small' /> -->
-			
-			
-		</div>
-</td>
-		</tr>
-		<tr>
-			<td colspan="3">
-					<p align="center"><strong>Центр в соціальних мережах:</strong> <br />
-  <a href="http://vk.com/public89392566"><img src="..//files/vk.png" border="0" ></a></a></a></p>
+			</div>
+			</div>
 			</td>
 		</tr>
 	</table>
-</body>
-<!-- InstanceEnd --></html>
-
+<!-- InstanceEnd -->
+    </td>
+   </tr>
  </table>
-<br>
-<br>
-<br>
-<br>
-<table>
-<style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: dark; /* Цвет фона таблицы */
-    color: Black; /* Цвет текста */
-    border-spacing: 0px; /* Расстояние между ячейками */
-	text-align: start; 
-   }
-   td, th {
-    padding: 1px; /* Поля вокруг текста */
-   }
-  </style>
-			
-    <tr>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.rada.gov.ua/" target="_blank"><img title="Верховна Рада України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://sfs.gov.ua/" target="_blank"><img title="ДФС УКРАЇНИ" src="http://www.centre-kiev.kiev.ua/../baner/sta_new_small.jpg" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://cpn.kiev.ua/" target="_blank"><img title="КОЗИН" src="../baner/logo_cpn.png" alt=""width="150" height="90"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://www.visnuk.com.ua// " target="_blank"><img title=":Журнал ВІСНИК" src="../baner/visnuk.gif" alt=""width="200" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;</p>
-			</div>
-    </th>
-	 <th>
-			<div style="float:auto">
-				<a href="http://http://www.cpn.gov.ua/" target="_blank"><img title="Відділення" src="../baner/bann_kozyn_new.png" alt=""width="190" height="80"/></a>
-				<p align="center"><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<p>
-			</div>
-    </th>
-	 <th>
-	
-
-
-</table>
-</body>
-</head>
-</html>
-<br>
-
-
-
-  <!--******************************Конец содержимого страницы**********************************-->
-		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    </td>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->
 <!-- InstanceEndEditable -->
-   
-
-
-			
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		   
-			
+</body>
+</html>
