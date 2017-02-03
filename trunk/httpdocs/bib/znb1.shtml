@@ -27,7 +27,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,7 +38,7 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
@@ -46,9 +46,9 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 	
- <form id="myform"; align="center">
+ <form id="myform" action="">
  <select id="mymenu">
- <option selected value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
+ <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
@@ -86,7 +86,7 @@
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_06.doc" target="_blank">Про забезпечення сплати акцизного податку з роздрыбного продажу</a>
 
-</p>
+</span></p>
  
 <br>
 
@@ -112,9 +112,7 @@
 <br>
 <br>
 <!-- Banner bottom -->
-<table>
-			<!--#include virtual="../include/banner.html"-->
-</table>	
+<!--#include virtual="../include/banner.html"-->
 </body>
 <!-- InstanceEnd -->
 </html>

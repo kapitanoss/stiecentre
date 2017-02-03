@@ -27,7 +27,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,7 +38,7 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
@@ -46,12 +46,12 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 	
- <form id="myform"; align="center">
+ <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option selected value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
@@ -77,7 +77,7 @@
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/4/4_03.doc" target="_blank">Постанова №996 від 03.11.10</a>
 <br>
-</p>
+</span></p>
  
 	
 <br>
@@ -104,9 +104,7 @@
 <br>
 <br>
 <!-- Banner bottom -->
-<table>
-			<!--#include virtual="../include/banner.html"-->
-</table>	
+<!--#include virtual="../include/banner.html"-->
 </body>
 <!-- InstanceEnd -->
 </html>

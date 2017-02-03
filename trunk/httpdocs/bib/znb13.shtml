@@ -27,7 +27,7 @@
 
 	</table>
 <!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
 		<tr>
 <!--#include virtual="../include/left_menu.txt"-->
 
@@ -38,7 +38,7 @@
 
     <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="0" cellpadding="20">
+	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
         <td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
@@ -46,7 +46,7 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 	
- <form id="myform"; align="center">
+ <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
@@ -60,7 +60,7 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <option selected value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
+ <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
  <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -79,8 +79,8 @@
 <br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/12/06.doc" target="_blank">Наказ №1675 від 20.12.11</a>
-</span>
-</p>
+
+</span></p>
  
 	
 <br>
@@ -107,9 +107,7 @@
 <br>
 <br>
 <!-- Banner bottom -->
-<table>
-			<!--#include virtual="../include/banner.html"-->
-</table>	
+<!--#include virtual="../include/banner.html"-->
 </body>
 <!-- InstanceEnd -->
 </html>
