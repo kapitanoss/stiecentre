@@ -4,14 +4,19 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Фотогалерея ЦЕНТРА ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+	<title>Інформація для слухачів очної форми навчання ЦЕНТРА ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
 	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	
+	<script src="../foto/galleria/jquery-1.12.4.min.js"></script>
+	<script src="../foto/galleria/galleria-1.4.2.min.js"></script>
+	<style type="text/css">
+       .galleria{ margin: auto; width: 630px; height: 500px;  }
+	    body .galleria-container{ background: #b1e7c2; 	border: 3px solid #ccc;}
+    </style>
 </head>
 
 <body>
@@ -37,7 +42,7 @@
 <!--******************************Начало содержимого страницы**********************************-->
     
 
-    <td width="100%" valign="top">
+    <td width="90%" valign="top">
 	
 	<table width="100%" border="0" cellspacing="2" cellpadding="20">
       <tr >
@@ -47,74 +52,50 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<style type="text/css">
-#maincontainer {
-	width: 800px;
-	margin: 0 auto;
-	border: 3px solid #ccc;
-	vertical-align: top;
-	text-align: center;
-}
-
-#full {
-	position: absolute;
-	width: 98%;
-	background: black;
-
-	text-align: center;
-}
-
-#maincontainer .small {
-	width: 260px;
-}
-
-
-</style>
-
-			<div id='maincontainer'>
-			<img src='034.JPG' class='small' />
-			<img src='033.JPG' class='small' />
-			<img src='030.JPG' class='small' />
-			<img src='031.JPG' class='small' />
-			<img src='032.JPG' class='small' />
-			<img src='029.JPG' class='small' />
-			<img src='028.JPG' class='small' />
-			<img src='01.JPG'  class='small' />
-			<img src='02.JPG'  class='small' />
-			<img src='03.JPG'  class='small' />
-			<img src='04.JPG'  class='small' />
-			<img src='05.JPG'  class='small' />
-			<img src='06.JPG'  class='small' />
-			<img src='07.JPG'  class='small' />
-			<img src='08.JPG'  class='small' />
-			<img src='011.JPG' class='small' />
-			<img src='010.JPG' class='small' />
-			<img src='09.JPG'  class='small' />
-			<img src='012.JPG' class='small' />
-			<img src='013.JPG' class='small' />
-			<img src='014.JPG' class='small' />
-			<img src='017.JPG' class='small' />
-			<img src='019.JPG' class='small' />
-			<img src='015.JPG' class='small' />
-			<img src='016.JPG' class='small' />
-			<img src='018.JPG' class='small' />
-			<img src='020.JPG' class='small' />
-			<img src='021.JPG' class='small' />
-			<img src='022.JPG' class='small' />
-			<img src='023.JPG' class='small' />
-			<img src='024.JPG' class='small' />
-			<img src='025.JPG' class='small' />
-			<img src='026.JPG' class='small' />
-			<img src='027.JPG' class='small' />
-		<!--<img src='034.JPG' class='small' />
-			<img src='033.JPG' class='small' />
-			<img src='030.JPG' class='small' />
-			<img src='031.JPG' class='small' />
-			<img src='032.JPG' class='small' />
-			<img src='029.JPG' class='small' /> -->
-			</div>
-			</div>
-			</td>
+<div class="MsoNormal" >
+		<div class="galleria" title="Фотогалерея. ЦЕНТР ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ" >
+			<img src='034.JPG' />
+			<img src='033.JPG' />
+			<img src='030.JPG'  />
+			<img src='031.JPG'  />
+			<img src='032.JPG'  />
+			<img src='029.JPG'  />
+			<img src='028.JPG'  />
+			<img src='01.JPG'   />
+			<img src='02.JPG'   />
+			<img src='03.JPG'   />
+			<img src='04.JPG'   />
+			<img src='05.JPG'   />
+			<img src='06.JPG'   />
+			<img src='07.JPG'   />
+			<img src='08.JPG'   />
+			<img src='011.JPG'  />
+			<img src='010.JPG'  />
+			<img src='09.JPG'   />
+			<img src='012.JPG'  />
+			<img src='013.JPG'  />
+			<img src='014.JPG'  />
+			<img src='017.JPG'  />
+			<img src='019.JPG'  />
+			<img src='015.JPG'  />
+			<img src='016.JPG'  />
+			<img src='018.JPG'  />
+			<img src='020.JPG'  />
+			<img src='021.JPG'  />
+			<img src='022.JPG'  />
+			<img src='023.JPG'  />
+			<img src='024.JPG'  />
+			<img src='025.JPG'  />
+			<img src='026.JPG'  />
+			<img src='027.JPG'  />
+		</div>
+	<script>
+            Galleria.loadTheme('galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+	</script>
+</div>
+			  </div>
+</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->

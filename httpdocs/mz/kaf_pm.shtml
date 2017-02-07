@@ -54,40 +54,40 @@
 
       <table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
-          <td width="130" height="170"><div align="center"><img src="http://www.centre-kiev.kiev.ua/mz/img/03.jpg" align="left" width="120" height="160" 
+          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
 		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
-          <td style='vertical-align:top'><div >
+          <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Богоділова Маріанна Євгенівна</b> - 
 			завідувач кафедри податкового менеджменту, радник податкової та митної справи І рангу.</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="http://www.centre-kiev.kiev.ua/mz/img/yvv.jpg" align="left" width="120" height="170" 
+          <td width="130" height="170"><div align="center"><img src="../mz/img/yvv.jpg" align="left" width="120" height="170" 
 		  style=" border: 8px solid #ffffff;" alt="Юрченко Володимир Володимирович доцент кафедри податкового менеджменту, кандидат економічних наук,
 		доцент радник податкової служби I рангу, державний радник податкової служби III ранг, директор Центру"/></div></td>
-          <td style='vertical-align:top'><div >
+          <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
-			<span ><b>Юрченко Володимир Володимирович</b> - доцент кафедри податкового менеджменту, кандидат економічних наук,<br>
+			<span ><b>Юрченко Володимир Володимирович</b> - доцент кафедри податкового менеджменту, кандидат економічних наук,<br />
 		доцент радник податкової служби I рангу, державний радник податкової служби III рангу.</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="http://www.centre-kiev.kiev.ua/mz/img/1234567.jpg" align="left" width="120" height="160" 
+          <td width="130" height="170"><div align="center"><img src="../mz/img/1234567.jpg" align="left" width="120" height="160" 
 		  style=" border: 8px solid #ffffff;" alt="Діденко Людмила Вікторівна, доцент кафедри податкового менеджменту"/></div></td>
-          <td style='vertical-align:top'><div >
+          <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Діденко Людмила Вікторівна </b> - доцент кафедри податкового менеджменту, кандидат економічних наук, доцент</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="http://www.centre-kiev.kiev.ua/mz/img/zvv.jpg" align="left" width="120" height="160" 
+          <td width="130" height="170"><div align="center"><img src="../mz/img/zvv.jpg" align="left" width="120" height="160" 
 		  style=" border: 8px solid #ffffff;" alt="Завірюха Валентина Василівна, старший викладач кафедри податкового менеджменту"/></div></td>
-          <td style='vertical-align:top'><div >
+          <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Завірюха Валентина Василівна</b> - старший викладач кафедри, кандидат психологічних наук, доцент.</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="http://www.centre-kiev.kiev.ua/mz/img/111111.jpg" align="left" width="120" height="150" 
+          <td width="130" height="170"><div align="center"><img src="../mz/img/111111.jpg" align="left" width="120" height="150" 
 		  style=" border: 10px solid #ffffff;" alt="Хижняк Наталія Сергіївна, методист кафедри податкового менеджменту"/></div></td>
-          <td style='vertical-align:top'><div >
+          <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Хижняк Наталія Сергіївна</b> - методист кафедри, методист вищої категорії</span></p> </div></td>
         </tr>
@@ -111,7 +111,7 @@
 - Управління змінами. Стратегічне та ситуаційне управління при здійсненні повноважень посадовою особою;<br /> 
 - Методи запобігання та протидії стресовим та конфліктним ситуаціям при виконанні службових обов’язків державними службовцями податкових органів України.<br /> 
 
-		<br>
+		<br />
 		<p><b><i><ins> На дистанційних сесіях навчання викладачі кафедри податкового менеджменту проводять заняття за навчальними модулями:</ins></i></b></p>
 - Основи податкового менеджменту;<br /> 
 - Корпоративна культура організацій;<br /> 
@@ -120,14 +120,14 @@
 - Методи запобігання та протидії стресовим та конфліктним ситуаціям при виконанні службових обов’язків державними службовцями податкових органів України;<br /> 
 - Ділове спілкування на державній службі.<br /> 
 
-		<br>
+		<br />
 		<p><b><i><ins> Викладачами кафедри ведуться спеціалізовані (комерційні) курси: </ins></i></b></p>
 - Управління проектами на основі стандарту PMI PMBOK;<br /> 
 - Управління персоналом і комунікаціями в проекті;<br /> 
 - Особистий тайм-менеджмент;<br /> 
 - Формування ефективного колективу та командна робота.<br /> 
 
-		<br>
+		<br />
 		<p><b><i><ins> Для використання в навчальному процесі кафедрою розроблені необхідні методичні і навчально-методичні матеріали. <br /> 
 		Серед останніх розробок кафедри:</ins></i></b></p>
 - Методичний посібник викладачам, що залучаються до учбового процесу в Центрі перепідготовки та підвищення кваліфікації керівних кадрів органів державної 
