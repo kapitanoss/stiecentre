@@ -64,8 +64,8 @@ ul.nav_left li:hover{
    * родительского элемента
    */
   position: relative;
-  background: yellow;    
-}
+  background: yellow;
+ }
 
 ul.nav_left li a:link, ul.nav_left li a:visited {
 	color: #FFFFFF; /* Цвет текста меню */
@@ -88,4 +88,5 @@ ul.nav_left li:hover ul{
   position: absolute;
   top: 0;       /*Задаём координаты для вложенных пунктов*/
   left: 181px;  /*меню раскрывается вправо = равно ширине "блока меню"+1px*/
+  z-index:10;   /*для перекрытия открывающихся img  на странице news.shtml(z-index:3) */  
 }
