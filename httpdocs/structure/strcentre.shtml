@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Структура ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<style>
+		.ugolkrug{
+		 font-size:14.0pt;
+		 font-family:"Times New Roman","serif";
+		 display: table-cell; 
+		 vertical-align: middle; 
+		 text-align: center;
+		 height:100px; /* Высота фигуры */
+		 color: #00000; /* цвет текста */
+		 background:#79c679; /*#92a776;*/ /*#51781c; фон блока */
+		 border: 3px #CCCCCC solid; /* стили рамки */
+		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
+		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
+		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
+		 border-radius: 15px; /* закругление углов для всех, кто понимает */
+		 padding: 5px; /* внутренние отступы */
+		}
+		.ugolkrug1{
+		 font-size:14.0pt;
+		 font-family:"Times New Roman","serif";		
+		 display: table-cell; 
+		 vertical-align: middle; 
+		 text-align: center;
+		 width: 25%; /* Длина фигуры */
+		 height:100px; /* Высота фигуры */
+		 color: #00000; /* цвет текста */
+		 background:#f1b489; /*#aac08d;*/ /* #d9b07d; фон блока */
+		 border: 3px #CCCCCC solid; /* стили рамки */
+		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
+		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
+		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
+		 border-radius: 15px; /* закругление углов для всех, кто понимает */
+		 padding: 5px; /* внутренние отступы */
+		}
+		.ugolkrug2{
+		 font-size:14.0pt;
+		 font-family:"Times New Roman","serif";		
+		 display: table-cell;
+		 vertical-align: middle; 
+		 /* border: 1px solid blue; */
+		 text-align: center;
+		 width: 25%;  /* Длина фигуры */
+		 height:60px; /* Высота фигуры */
+		 color: #00000; /* цвет текста */
+		 background:#c0a2c4; /* фон блока */
+		 border: 3px #CCCCCC solid; /* стили рамки */
+		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
+		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
+		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
+		 border-radius: 15px; /* закругление углов для всех, кто понимает */
+		 padding: 1px; /* внутренние отступы */
+		}		
+	</style>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+		  <td>
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+		  </td>	
+		</tr>
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+
+	</table>
+<!-- Левое меню -->
+	<table width="100%" border="0" cellspacing="2" cellpadding="0">
+		<tr>
+<!--#include virtual="../include/left_menu.txt"-->
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+    
+
+    <td width="100%" valign="top">
+	
+	<table width="80%" style='margin:0 10% 0 10%' border="0" cellspacing="2" cellpadding="20">
+      <tr >
+        <td class="st6"> <div >
+         <!-- InstanceBeginEditable name="text" -->
+         
+ <!--**********************Вставить текст страницы********************************************-->
+
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug" ><b>СТРУКТУРА <br />ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ<br />МІНІСТЕРСТВА ДОХОДІВ І ЗБОРІВ УКРАЇНИ</b></div>
+	</div>
+	<div style="display: table; width: 100%; margin: 5px 0 5px 0;">
+		<div class="ugolkrug1">Перший заступник<br /> директора<br /> <b>Сімонова І.П.</b></div>
+		<div class="ugolkrug1">Директор Центру<br /> <b>Юрченко В.В.</b></div>
+		<div class="ugolkrug1">Заступник директора з комерційної діяльності Центру <b>Проценко О.В.</b></div>
+		<div class="ugolkrug1">Заступник директора з адміністративно-господарської діяльності</div>
+	</div>
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Кафедра Податкового менеджменту</div>
+		<div class="ugolkrug2">Віділення Центру<br /> у смт. Козин</div>
+		<div class="ugolkrug2">Підрозділ охорони</div>
+		<div class="ugolkrug2">Юридичний сектор</div>
+	</div>
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Кафедра Державного управління та податкової політики</div>
+		<div class="ugolkrug2">Загальний відділ</div>
+		<div class="ugolkrug2" >Відділ організації розвитку діяльності Центру</div>
+		<div class="ugolkrug2" >Відділ господарського обслуговування та матеріального забезпечення</div>
+	</div>
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Відділ інформаційних технологій</div>
+		<div class="ugolkrug2">Сектор роботи з персоналом</div>
+		<div class="ugolkrug2" >Їдальня</div>
+		<div class="ugolkrug2" >Гуртожиток</div>
+	</div>
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Навчально-методичний відділ</div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+	</div>		
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Навчально-методичний відділ віділення Центру у смт. Козин</div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+	</div>		
+	<div style="display: table; width: 100%">
+		<div class="ugolkrug2">Організаційно-навчальний та аналітичний відділ</div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+	</div>		
+	<div style="display: table; width: 100%">		
+		<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності</div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+	</div>		
+	<div style="display: table; width: 100%">		
+		<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності відділення Центру у смт.Козин</div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+		<div class="ugolkrug2" style="visibility: hidden; "></div>
+	</div>		
+
+<!--******************************Конец содержимого страницы**********************************-->
+</div>
+</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>
