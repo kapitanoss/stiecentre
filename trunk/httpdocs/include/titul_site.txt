@@ -1,8 +1,8 @@
-
+<div  style='float: left;'>
 <img alt="ÖÅÍÒĞ ÏÅĞÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅĞ²ÂÍÈÕ ÊÀÄĞ²Â" src="http://www.centre-kiev.kiev.ua/im_diz/logo1.jpg" 
-     align="left" width="160" height="200" style=" border: 8px solid #ffffff;" 
-	 title="ÖÅÍÒĞ ÏÅĞÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅĞ²ÂÍÈÕ ÊÀÄĞ²Â"/>
-				<div align="center" class="st1"><br />
+     align="left" width="160" height="200" style=" border: 8px solid #ffffff;"
+	 title="ÖÅÍÒĞ ÏÅĞÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅĞ²ÂÍÈÕ ÊÀÄĞ²Â"/></div>
+				<div style='margin: 0 auto 0 180px; ' class="st1"><br />
 		
 
 
@@ -20,5 +20,5 @@
   03061, Êè¿â-061 âóë.Øåïåëºâà, 3-à</font></p> </div> 
 <div align="center" class="st1"><p><font size="2" color="black">E-mail:
   <a href="mailto:centre@centre-kiev.kiev.ua">centre@centre-kiev.kiev.ua</a></font></p></div>
-<div align="center" class="st1"><p><font size="2" color="black">Òåëåôîí/ôàêñ:(044) 455-05-72</font></p></div> </div>
+<div align="center" class="st1"><p><font size="2" color="black">Òåëåôîí/ôàêñ:(044) 455-05-72</font></p></div> </div> 
    
