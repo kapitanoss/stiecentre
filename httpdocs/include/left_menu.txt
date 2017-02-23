@@ -7,7 +7,6 @@
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
 						  <li class="st3"><a href="../structure/strcentre.shtml">Структура центру</a></li>
 						  <li class="st3"><a href="../mz/kafedra.shtml">Кафедри</a></li>
-						  <li class="st3"><a href="#">Викладацкий склад</a></li>	
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Навчальний процес та наукова робота</a>
@@ -38,7 +37,6 @@
 						</ul>
 					  </li>						
 					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
-					  <li class="st3" ><a href="#" class="notopbrdr0xNone">Вакантні посади</a></li>
 					</ul>
 				</div>
 			</td>
