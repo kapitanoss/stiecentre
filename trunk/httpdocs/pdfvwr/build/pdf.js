@@ -22,8 +22,8 @@ if (typeof PDFJS === 'undefined') {
   (typeof window !== 'undefined' ? window : this).PDFJS = {};
 }
 
-PDFJS.version = '1.1.1';
-PDFJS.build = 'a1e0859';
+PDFJS.version = '1.1.3';
+PDFJS.build = '05991e9';
 
 (function pdfjsWrapper() {
   // Use strict in our context only - users might not want it
@@ -8015,4 +8015,5 @@ if (!PDFJS.workerSrc && typeof document !== 'undefined') {
     return pdfjsSrc && pdfjsSrc.replace(/\.js$/i, '.worker.js');
   })();
 }
+
 

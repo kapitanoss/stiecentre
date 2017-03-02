@@ -6715,7 +6715,7 @@ function webViewerInitialized() {
     }
   }
 
-  mozL10n.setLanguage(locale);
+  mozL10n.setLanguage('uk');
 
   if (!PDFViewerApplication.supportsPrinting) {
     document.getElementById('print').classList.add('hidden');
@@ -7392,4 +7392,5 @@ window.addEventListener('afterprint', function afterPrint(evt) {
     window.requestAnimationFrame(resolve);
   });
 })();
+
 
