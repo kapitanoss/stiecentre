@@ -7,7 +7,17 @@
      align="left" width="923" height="200" style="/* border: 8px solid #ffffff; */"
 	 title="ÖÅÍÒÐ ÏÅÐÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅÐ²ÂÍÈÕ ÊÀÄÐ²Â"/></div>
 				<div style='margin: 0 auto 0 923px; ' class="st1">
-
+<style>
+.social-header-block-right{float:right;margin-top:3px !important;background-color:#b8cad3;}
+.social-header-block-right a{float:left;width:31px;margin-right: 18px;height:28px;background:url('../im_diz/im_shapka/socialbotton.png') no-repeat;}
+.social-header-block-right a.tw{background-position:-42px 0}
+.social-header-block-right a.yt{background-position:-84px 0}
+</style>
+<div class="social-header-block-right">
+	<a class="fb" href="https://www.facebook.com" target="_blank" aria-label="Ñòîð³íêà Öåíòðó ó ôåéñáóö³"></a>
+	<a class="tw" href="https://twitter.com" target="_blank" aria-label="Òâ³òåð"></a>
+    <a class="yt" href="https://www.youtube.com" target="_blank" aria-label="Þòóá êàíàë Öåíòðó"></a>
+</div>
 <br />
 
 		

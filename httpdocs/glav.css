@@ -13,31 +13,57 @@ body {
 	color: #000000;
 	bottom: auto;
 }
-
+table {
+    width: 100%; /* Ширина таблиц */
+   }
+td {
+    vertical-align: top; /* Выравнивание по верхнему краю ячейки */
+   }
+.col1 {
+    width: 10%; /* Ширина первой колонки */
+    /*background: #fc0;*/ /* Цвет фона первой колонки */
+   }
+.col2 {
+    width: 80%;
+    /*background: #afccdb;*/ /* Цвет фона второй колонки */
+   }
+.col3 {
+    width: 10%; /* Ширина третьей колонки */
+    /*background: #fc0;*/ /* Цвет фона третьей колонки */
+   }
+.col1, .col2, .col3 {
+    padding: 1px; /* Поля вокруг текста */
+   }
 br {
     text-indent: 0.5in
 }
 /*Стиль ссылок на странице*/
 a:link {
-	color: #009900;
-	
+	/*color: white; /*#009900;*/
+	color: black;
 }
 a:visited  {
 	
-	color: #009900;
+	/*color: #009900;*/
+	color: black; /*#175b7c;;*/
 }
 a:hover {
 
-	color: #990033;
+	color: #175b7c; /*#990033;*/
 }
+
+
+
 a:active {
 	
-	color: #990033;
+	color: blue; /*#990033;*/
 }
+
+.bxt1 a:hover { color: none !important; text-decoration: none; cursor: default; }
 
 /*стиль для заглавия страницы*/
 .st1 {
-	color: #006600;
+	color: white; /*#006600*/
 	font-weight: bold;
 	font-size: 20px;
 	font-family: Verdana, Arial, Helvetica, sans-serif
@@ -54,17 +80,34 @@ a:active {
 		font-weight: bold;
 }
 /*стиль для заголовка*/
-.st4 {color: #006600
+.st4 {/*color: white; *//*#006600*/
+	font-size:16.0pt; color:#10506c;
 }
 /* стиль для  содержимого страницы*/
 .st5  {text-indent: 0.2in;
-text-align:justify
+	text-align:justify;
+
+}
+.st51  {text-indent: 0.2in;
+	text-align:justify;
+		margin-left: 3px;
+	margin-top: 1.5px;
+	margin-right: 3px;
+	margin-bottom: 1.5px;
+    background-color:white;	
 }
 .st6 {
 	margin-left: 0.5px;
 	margin-top: 0.5px;
 	margin-right: 0.5px;
 	margin-bottom: 0.5px;
+}
+.st61 {
+	margin-left: 1.5px;
+	margin-top: 1.5px;
+	margin-right: 1.5px;
+	margin-bottom: 1.5px;
+    background-color:white;	
 }
 .st7 {
 font-size: 14px; 

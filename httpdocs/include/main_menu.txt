@@ -1,10 +1,14 @@
-		<tr>
-			<td colspan="3" id="h_mnu_01"  ><div  >
+		
+			<div  id="h_mnu_01">
 					<ul > 
         				<li style='position: relative; left: 90px;'><a href="../index.shtml">Головна</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="../news/news.shtml">Новини</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="../foto/foto.shtml">Галерея</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="../kontakt/kontakt.shtml" >Контакти</a></li>
 					</ul></div>
-			</td>
-		</tr>
+ 		  </td>	
+		  <td class="col3">
+
+		  </td>			  
+
+		

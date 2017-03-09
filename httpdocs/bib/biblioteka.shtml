@@ -15,41 +15,47 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
+	
 
-		<td width="100%" valign="top">
-		
-		<table width="100%" border="0" cellspacing="2" cellpadding="20">
-		  <tr >
-			<td class="st6"> <div class="st5" >
-			 <!-- InstanceBeginEditable name="text" -->
-			 
-			 
-	 <!--**********************Вставить текст страницы********************************************-->
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
 			<div class="MsoNormal" >
 			<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
-			<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:18.0pt; color:green;'>Ласкаво просимо</span></b></p>
-			<p style='text-align:center; margin-bottom:0pt;'><b><span style='font-size:16.0pt; color:green;'>до електронної бібліотеки у Всеукраїнського центру підвищення кваліфікації державних службовців</span></b></p> 
-			<p style='text-align:center;'><b><span style='font-size:16.0pt; color:green;'>і посадових осіб місцевого самоврядуванняни</span></b></p>
+			<p style='text-align:center; margin-bottom:0pt;'><b><span class='st4' style='font-size:18.0pt;'>Ласкаво просимо</span></b></p>
+			<p style='text-align:center; margin-bottom:0pt;'><b><span class='st4'>до електронної бібліотеки у Всеукраїнського центру підвищення кваліфікації державних службовців</span></b></p> 
+			<p style='text-align:center;'><b><span class='st4'>і посадових осіб місцевого самоврядуванняни</span></b></p>
 			<p><span >З метою надання слухачам Центру практичної допомоги та поглиблення фахових знань, необхідних 
 	для успішної реалізації управлінських функцій в фіскальній службі, при цьому на меті ставилося забезпечення доступу до навчально-методичних матеріалів 
 	в першу чергу слухачів, що навчаються за дистанційною формою, створена електронна бібліотека Центру.</span></p> 
@@ -58,27 +64,28 @@
 	Таким чином, шановні слухачі, електронна бібліотека готова запропонувати Вам свою допомогу і такі необхідні для Вас інформаційні послуги. 
 	Якщо вас зацікавила наша електронна бібліотека, то ви можете долучитися до нас. Можливо у Вас є якісь корисні навчальні матеріали, якими б ви хотіли поділитися і 
 	цим самим посприяти розвитку нашої бібліотеки</span></p>
+			<br />
 			</div>
 			</div>
 			</td>
 			</tr>
 		</table>
 	<br/>
-		<table width="100%">
+		<table style='position: relative; left: 182px; width:1030px;'>
 		  <tr>
 			<th>
 					<div style="float:auto">
-						<a href="http://centre-kiev.kiev.ua/bib/znb.shtml "><img title="Законодавство Нормативна база" src="http://www.centre-kiev.kiev.ua/bib/img/1.png" alt="Законодавство Нормативна база" width="250"/></a>
+						<a href="../bib/znb.shtml "><img title="Законодавство Нормативна база" src="../bib/img/1.png" alt="Законодавство Нормативна база" width="300"/></a>
 					</div>
 			</th>
 			<th>	
 					<div style="float:auto">
-						<a href="http://centre-kiev.kiev.ua/bib/nmm.shtml "><img title="Навчально-методичні матеріали" src="http://www.centre-kiev.kiev.ua/bib/img/2.png" alt="Навчально-методичні матеріали ЦЕНТРУ" width="250"/></a>
+						<a href="../bib/nmm.shtml "><img title="Навчально-методичні матеріали" src="../bib/img/2.png" alt="Навчально-методичні матеріали ЦЕНТРУ" width="300"/></a>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://centre-kiev.kiev.ua/bib/npv.shtml "><img title="Наукові періодичні видання" src="http://www.centre-kiev.kiev.ua/bib/img/3.png" alt="Наукові періодичні видання" width="250"/></a>
+						<a href="../bib/npv.shtml "><img title="Наукові періодичні видання" src="../bib/img/3.png" alt="Наукові періодичні видання" width="300"/></a>
 					</div>
 			</th>
 		   </tr>   
@@ -101,38 +108,38 @@
 			<tr>
 			<th>
 					<div style="float:auto">
-						<a href="http://lib.rada.gov.ua/ " target="_blank"><img title="Бібліотека Верховної Ради України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt="Бібліотека Верховної Ради України" width="200" height="80"/></a>
+						<a href="http://lib.rada.gov.ua/ " target="_blank"><img title="Бібліотека Верховної Ради України" src="http://www.centre-kiev.kiev.ua/bib/img/01.png" alt="Бібліотека Верховної Ради України" width="180" height="80"/></a>
 						<p align="center">Бібліотека<br/>&nbsp;&nbsp;Верховної Ради<br/>&nbsp;&nbsp;України</p>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://zakon1.rada.gov.ua/laws " target="_blank"><img title="Головна сторінка сайту Законодавство України" src="http://www.centre-kiev.kiev.ua/bib/img/02.png" alt="Головна сторінка сайту Законодавство України" width="200" height="80"/></a>
+						<a href="http://zakon1.rada.gov.ua/laws " target="_blank"><img title="Головна сторінка сайту Законодавство України" src="http://www.centre-kiev.kiev.ua/bib/img/02.png" alt="Головна сторінка сайту Законодавство України" width="180" height="80"/></a>
 						<p align="center">Головна сторінка<br/>&nbsp;&nbsp;сайту<br/>&nbsp;&nbsp;&nbsp;Законодавство України</p>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://www.nplu.org/ " target="_blank"><img title="Національна бібліотека України імені Ярослава Мудрого" src="http://www.centre-kiev.kiev.ua/bib/img/03.png" alt="Національна бібліотека України імені Ярослава Мудрого" width="200" height="80"/></a>
+						<a href="http://www.nplu.org/ " target="_blank"><img title="Національна бібліотека України імені Ярослава Мудрого" src="http://www.centre-kiev.kiev.ua/bib/img/03.png" alt="Національна бібліотека України імені Ярослава Мудрого" width="180" height="80"/></a>
 						<p align="center">Національна<br/>&nbsp;&nbsp;&nbsp;&nbsp;парламентська<br/>&nbsp;&nbsp;&nbsp;&nbsp;бібліотека України</p>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://www.nbuv.gov.ua/ " target="_blank"><img title="Національна бібліотека України імені В.І.Вернадського" src="http://www.centre-kiev.kiev.ua/bib/img/04.png" alt="Національна бібліотека України імені В.І.Вернадського" width="200" height="80"/></a>
+						<a href="http://www.nbuv.gov.ua/ " target="_blank"><img title="Національна бібліотека України імені В.І.Вернадського" src="http://www.centre-kiev.kiev.ua/bib/img/04.png" alt="Національна бібліотека України імені В.І.Вернадського" width="180" height="80"/></a>
 						<br/>
 						<p align="center">Національна бібліотека<br/>України<br/>&nbsp;&nbsp;&nbsp;&nbsp;імені В.І.Вернадського</p>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://www.academy.gov.ua/ " target="_blank"><img title="Національна академія державного управління при Президентові України" src="http://www.centre-kiev.kiev.ua/bib/img/05.png" alt="аціональна академія державного управління при Президентові України" width="200" height="80"/></a>
+						<a href="http://www.academy.gov.ua/ " target="_blank"><img title="Національна академія державного управління при Президентові України" src="http://www.centre-kiev.kiev.ua/bib/img/05.png" alt="аціональна академія державного управління при Президентові України" width="180" height="80"/></a>
 						<p align="center">Національна академія<br/>&nbsp;&nbsp;&nbsp;&nbsp;державного управління<br/>&nbsp;&nbsp;&nbsp;при Президентові України</p>
 					</div>
 			</th>
 			<th>
 					<div style="float:auto">
-						<a href="http://ndi-fp.asta.edu.ua/ " target="_blank"><img title="Науково-дослідний інститут фінансовой політики" src="http://www.centre-kiev.kiev.ua/bib/img/06.png" alt="Науково-дослідний інститут фінансовой політики" width="200" height="80"/></a>
+						<a href="http://ndi-fp.asta.edu.ua/ " target="_blank"><img title="Науково-дослідний інститут фінансовой політики" src="http://www.centre-kiev.kiev.ua/bib/img/06.png" alt="Науково-дослідний інститут фінансовой політики" width="180" height="80"/></a>
 						<p align="center">Науково-дослідний<br/>інститут<br/>&nbsp;&nbsp;фіскальної політики</p>
 					</div>
 			</th>
@@ -140,6 +147,10 @@
 		</table>
 	<!-- InstanceEnd -->
 		</td>
+    <td class="col3">
+
+	</td>
+		
 	   </tr>
 	</table>
 	<br />

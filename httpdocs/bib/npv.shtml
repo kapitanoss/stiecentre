@@ -16,70 +16,77 @@
 
 <body>
 <!-- Шапка сайта + Главное меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="87%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
- <div class="MsoNormal" >
+ <div class="MsoNormal" style="height:500px">
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Наукові періодичні видання</span></b></p>
+<p style='text-align:center; '><b><span class='st4'>Наукові періодичні видання</span></b></p>
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/4.pdf" target="_blank"><u><span
-style='color:green'>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 2(4)2012<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/4.pdf" target="_blank"><u><span
+>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 2(4)2012<br /></span></u></a></p>	
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/5.pdf" target="_blank"><u><span
-style='color:green'>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 1(5)/2013<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/5.pdf" target="_blank"><u><span
+>ТЕОРІЯ І ПРАКТИКА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ Науковий журнал 1(5)/2013<br /></span></u></a></p>	
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/6.pdf" target="_blank"><u><span
-style='color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(6)/2013<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/6.pdf" target="_blank"><u><span
+>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(6)/2013<br /></span></u></a></p>	
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/7.pdf" target="_blank"><u><span
-style='color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(7)/2014<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/7.pdf" target="_blank"><u><span
+>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(7)/2014<br /></span></u></a></p>	
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/8.pdf" target="_blank"><u><span
-style='color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(8)/2014<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/8.pdf" target="_blank"><u><span
+>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 2(8)/2014<br /></span></u></a></p>	
 
-<p ><a href="http://www.centre-kiev.kiev.ua/bib/files/npv/9.pdf" target="_blank"><u><span
-style='color:green'>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(9)/2015<br /></span></u></a></p>	
+<p ><a href="../bib/files/npv/9.pdf" target="_blank"><u><span
+>АСПЕКТИ ДЕРЖАВНОЇ ПОДАТКОВОЇ СЛУЖБИ Науковий журнал 1(9)/2015<br /></span></u></a></p>	
 
 <br />
 
 </div>
 			  </div>
-</td>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

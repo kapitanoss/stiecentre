@@ -16,7 +16,7 @@
 	text-decoration: none;
 }
 ul.nav_left li {
-  background: #008000; /* салатовый цвет */
+  background: #10506c;/*#008000; /* салатовый цвет */
   border: 1px solid #FFFFFF;
   list-style: none;
   width: 180px;         /*ширина блока меню*/
@@ -70,7 +70,7 @@ ul.nav_left li:hover{
 ul.nav_left li a:link, ul.nav_left li a:visited {
 	color: #FFFFFF; /* Цвет текста меню */
 	display: block;
-	background-color: #00832f; /*#008000; /* салатовый цвет */
+	background-color: #10506c; /*#00832f; /*#008000; /* салатовый цвет */
 	padding-top: 5px;
 	padding-right: 5px;
 	padding-bottom: 10px;

@@ -15,40 +15,46 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="85%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="40">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
+
 <div class="MsoNormal" >
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Навчально-методичні матеріали</span></b></p>
+<p style='text-align:center; '><b><span class='st4'>Навчально-методичні матеріали</span></b></p>
 
 <p style='text-indent: 0;'><span style='font-size:15.0pt'>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/nmm/1.pdf" target="_blank">Бюджетно-податкова політика</a>
@@ -117,11 +123,14 @@
 
 </div>
 			  </div>
-</td>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

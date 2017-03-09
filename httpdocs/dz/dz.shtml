@@ -15,37 +15,43 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
+<div class="MsoNormal" style="height:500px">
 <p align="center">
 <span style='font-size:14.0pt'>
 
@@ -85,15 +91,17 @@
 </span>
 </p>
 
- 
-		</div>
-      </td>
-	 </tr>
-    </table>
-   </td>
-  </tr>
-
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
 <!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
  </table>
 <br />
 <br />
@@ -101,5 +109,7 @@
 <br />
 <!-- Banner bottom -->
 <!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
 </body>
 </html>

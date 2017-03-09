@@ -16,32 +16,36 @@
 
 <body>
 <!-- Шапка сайта + Главное меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="90%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
@@ -51,7 +55,7 @@
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Інформація для слухачів очної форми навчання</span></b></p>
+<p style='text-align:center; '><b><span class="st4">Інформація для слухачів очної форми навчання</span></b></p>
 
 
 <p style='margin-bottom:0pt;'><span >Навчання здійснюється на базі Центру протягом одного тижня (с понеділка по суботу) з відривом 
@@ -74,7 +78,7 @@
 
 <p><span >З методичними рекомендаціями щодо порядку виконання та
 захисту випускних робіт слухачі можуть <span><u>
-<a href="http://www.centre-kiev.kiev.ua/files/Method_recomend/MR_rob_vipusk.pdf" target="_blank">ознайомитись тут</a>.</u></span></span></p>
+<a href="../files/Method_recomend/MR_rob_vipusk.pdf" target="_blank">ознайомитись тут</a>.</u></span></span></p>
 
 <p><span >Особам, які успішно пройшли атестацію за професійною
 програмою, видається свідоцтво про підвищення кваліфікації встановленого
@@ -84,24 +88,27 @@
 <a href="mailto:study@centre-kiev.kiev.ua">study@centre-kiev.kiev.ua</a>
 надсилається інформація у вигляді 
 
-<u><span style='color:blue'><a
-href="http://www.centre-kiev.kiev.ua/files/obl_card/OK_2017_ochno-dest_v_1_0.rar">облікової картки</a></span></u>
+<u><span ><a
+href="../files/obl_card/OK_2017_ochno-dest_v_1_0.rar">облікової картки</a></span></u>
  про працівників, які будуть направлені на навчання.</span></p> 
 
 
 <p style='text-align:justify;text-indent:27.0pt'><span>&nbsp;</span></p>
 
 <p><u><span ><a
-href="http://www.centre-kiev.kiev.ua/files/Method_recomend/Katalog_bibl.rar">Рекомендована
-література для підвищення кваліфікації </a></span></u></p>
-
+href="../files/Method_recomend/Katalog_bibl.rar">Рекомендована
+література для підвищення кваліфікації (завантажити)</a></span></u></p>
+<br />
 </div>
 			  </div>
-</td>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

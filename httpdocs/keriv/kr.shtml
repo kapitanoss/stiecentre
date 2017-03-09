@@ -15,71 +15,76 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
-
-	</table>
+			
+		</tr>
+ </table>
 <!-- Левое меню + Страница-->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
 
 
-<!-- InstanceBeginEditable name="text" -->
+
+<!-- InstanceBeginEditable name="text" -->		
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
- <!--**********************Вставить текст страницы********************************************-->
+  <!--**********************Вставить текст страницы********************************************-->
 
+				<p align="center"><img src="../kontakt/121.jpg" width="223" height="335" alt="Директор Центру Юрченко В.В." /></p>
+				<p align="center">Директор Центру</p>
+				<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
+				<p align="center">тел.(044) 455-05-72</p>
 
+				<p align="center">Перший заступник директора</p>
+				<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
+				<p align="center">тел.(044) 455-47-26</p>
 
-		<p align="center"><img src="../kontakt/121.jpg" width="223" height="335" alt="Директор Центру Юрченко В.В." /></p>
-		<p align="center">Директор Центру</p>
-		<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
-		<p align="center">тел.(044) 455-05-72</p>
+				<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
+				<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
+				<p align="center">тел.(044) 455-05-72</p>
 
-		<p align="center">Перший заступник директора</p>
-		<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
-		<p align="center">тел.(044) 455-47-26</p>
+				<p align="center">Заступник директора з комерційної діяльності Центру</p>
+				<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
+				<p align="center">тел.(044) 455-05-72</p>
 
-		<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
-		<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
-		<p align="center">тел.(044) 455-05-72</p>
+				<p align="center">Головний бухгалтер</p>
+				<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
+				<p align="center">тел.(044) 455-05-71</p>
 
-		<p align="center">Заступник директора з комерційної діяльності Центру</p>
-		<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
-		<p align="center">тел.(044) 455-05-72</p>
-
-		<p align="center">Головний бухгалтер</p>
-		<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
-		<p align="center">тел.(044) 455-05-71</p>
-
-		<p align="center">Завідувач гуртожитку</p>
-		<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
-		<p align="center">тел.(044) 455-05-74</p>
-		</div>
-      </td>
-	 </tr>
+				<p align="center">Завідувач гуртожитку</p>
+				<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
+				<p align="center">тел.(044) 455-05-74</p>
+			  </div>
+			</td> 
+		</tr>
     </table>
-   </td>
-  </tr>
-
 <!-- InstanceEnd -->
+	</td>
+    <td class="col3">
+
+	</td>	
+   </tr>	
  </table>
 <br />
 <br />
@@ -87,14 +92,7 @@
 <br />
 <!-- Banner bottom -->
 <!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
 </body>
 </html>
-
-
-
-			
-
-
-		
-
-		

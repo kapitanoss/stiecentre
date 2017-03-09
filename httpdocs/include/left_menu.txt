@@ -1,4 +1,4 @@
-			<td valign="top"  >
+			<td valign="top" width='182px' >
 				<div id="v_mnu_01" >
 					<ul class="nav_left" >
 					  <li class="st3"><a href="#">Центр</a>

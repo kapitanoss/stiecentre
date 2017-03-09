@@ -68,101 +68,108 @@
 
 <body>
 <!-- Шапка сайта + Главное меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+			
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
 
 
-<!-- InstanceBeginEditable name="text" -->
+
+<!-- InstanceBeginEditable name="text" -->		
 <!--******************************Начало содержимого страницы**********************************-->
     
 
-    <td width="100%" valign="top">
+    <td class="col2" valign="top">
 	
-	<table width="80%" style='margin:0 10% 0 10%' border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div >
+	<table style='margin:0 0 0 0' border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->	  
+			<td class="st6"> <div >
          <!-- InstanceBeginEditable name="text" -->
          
  <!--**********************Вставить текст страницы********************************************-->
 
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug" ><b>СТРУКТУРА <br />ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ<br />МІНІСТЕРСТВА ДОХОДІВ І ЗБОРІВ УКРАЇНИ</b></div>
-	</div>
-	<div style="display: table; width: 100%; margin: 5px 0 5px 0;">
-		<div class="ugolkrug1">Перший заступник<br /> директора<br /> <b>Сімонова І.П.</b></div>
-		<div class="ugolkrug1">Директор Центру<br /> <b>Юрченко В.В.</b></div>
-		<div class="ugolkrug1">Заступник директора з комерційної діяльності Центру <b>Проценко О.В.</b></div>
-		<div class="ugolkrug1">Заступник директора з адміністративно-господарської діяльності</div>
-	</div>
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Кафедра Податкового менеджменту</div>
-		<div class="ugolkrug2">Віділення Центру<br /> у смт. Козин</div>
-		<div class="ugolkrug2">Підрозділ охорони</div>
-		<div class="ugolkrug2">Юридичний сектор</div>
-	</div>
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Кафедра Державного управління та податкової політики</div>
-		<div class="ugolkrug2">Загальний відділ</div>
-		<div class="ugolkrug2" >Відділ організації розвитку діяльності Центру</div>
-		<div class="ugolkrug2" >Відділ господарського обслуговування та матеріального забезпечення</div>
-	</div>
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Відділ інформаційних технологій</div>
-		<div class="ugolkrug2">Сектор роботи з персоналом</div>
-		<div class="ugolkrug2" >Їдальня</div>
-		<div class="ugolkrug2" >Гуртожиток</div>
-	</div>
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Навчально-методичний відділ</div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-	</div>		
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Навчально-методичний відділ віділення Центру у смт. Козин</div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-	</div>		
-	<div style="display: table; width: 100%">
-		<div class="ugolkrug2">Організаційно-навчальний та аналітичний відділ</div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-	</div>		
-	<div style="display: table; width: 100%">		
-		<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності</div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-	</div>		
-	<div style="display: table; width: 100%">		
-		<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності відділення Центру у смт. Козин</div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-		<div class="ugolkrug2" style="visibility: hidden; "></div>
-	</div>		
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug" ><b>СТРУКТУРА <br />ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ<br />МІНІСТЕРСТВА ДОХОДІВ І ЗБОРІВ УКРАЇНИ</b></div>
+				</div>
+				<div style="display: table; width: 100%; margin: 5px 0 5px 0;">
+					<div class="ugolkrug1">Перший заступник<br /> директора<br /> <b>Сімонова І.П.</b></div>
+					<div class="ugolkrug1">Директор Центру<br /> <b>Юрченко В.В.</b></div>
+					<div class="ugolkrug1">Заступник директора з комерційної діяльності Центру <b>Проценко О.В.</b></div>
+					<div class="ugolkrug1">Заступник директора з адміністративно-господарської діяльності</div>
+				</div>
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Кафедра Податкового менеджменту</div>
+					<div class="ugolkrug2">Віділення Центру<br /> у смт. Козин</div>
+					<div class="ugolkrug2">Підрозділ охорони</div>
+					<div class="ugolkrug2">Юридичний сектор</div>
+				</div>
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Кафедра Державного управління та податкової політики</div>
+					<div class="ugolkrug2">Загальний відділ</div>
+					<div class="ugolkrug2" >Відділ організації розвитку діяльності Центру</div>
+					<div class="ugolkrug2" >Відділ господарського обслуговування та матеріального забезпечення</div>
+				</div>
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Відділ інформаційних технологій</div>
+					<div class="ugolkrug2">Сектор роботи з персоналом</div>
+					<div class="ugolkrug2" >Їдальня</div>
+					<div class="ugolkrug2" >Гуртожиток</div>
+				</div>
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Навчально-методичний відділ</div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+				</div>		
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Навчально-методичний відділ віділення Центру у смт. Козин</div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+				</div>		
+				<div style="display: table; width: 100%">
+					<div class="ugolkrug2">Організаційно-навчальний та аналітичний відділ</div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+				</div>		
+				<div style="display: table; width: 100%">		
+					<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності</div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+				</div>		
+				<div style="display: table; width: 100%">		
+					<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності відділення Центру у смт. Козин</div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+					<div class="ugolkrug2" style="visibility: hidden; "></div>
+				</div>		
 
-<!--******************************Конец содержимого страницы**********************************-->
-</div>
-</td>
+			<!--******************************Конец содержимого страницы**********************************-->
+			  </div>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

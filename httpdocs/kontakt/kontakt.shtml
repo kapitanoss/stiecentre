@@ -16,32 +16,36 @@
 
 <body>
 <!-- Шапка сайта + Главное меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
@@ -51,13 +55,13 @@
                 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2542.0404490981246!2d30.42962!3d50.421718!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c9551b9483bf%3A0x38f1332fd220855a!2z0LLRg9C7LiDQnNC40LrQvtC70Lgg0KjQtdC_0LXQu9GU0LLQsCwgM9CQLCDQmtC40ZfQsiwg0LzRltGB0YLQviDQmtC40ZfQsg!5e0!3m2!1suk!2sua!4v1412584243899" width="500" height="400" frameborder="0" style="border: 8px solid #ffffff">
 				</iframe>
 				</p>
-			</div>
+
 
 			<div class="MsoNormal" >
 
 				<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-				<p style='text-align:justify; '><b><span style='font-size:16.0pt; color:green;'>До нас можна доїхати з різних кінців міста:</span></b></p>
+				<p style='text-align:center; '><b><span class='st4'>До нас можна доїхати з різних кінців міста:</span></b></p>
 
 				<p align="justify">Від Центрального автовокзалу (м.Київ, пл.Московська, 3):
 				Тролейбус № 42 (в сторону Севастопольскої площі) з пересадкою на зупинці "Лебедєва Кумача". 
@@ -76,13 +80,17 @@
 
 				<p align="justify">Від станції метро "Берестейська": 
 				Трамваї № № 14, 15 або маршрутне таксі № 14 -> їхати до зупинки "Проспект Відрадний".</p>
-				
+				<br />
+</div>				
 			  </div>
-		</td>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />
