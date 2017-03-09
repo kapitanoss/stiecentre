@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Графік навчання ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
+	<title>Графік _ навчання ЦЕНТРУ ПЕРЕПІДГОТОВКИ ТА ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ КЕРІВНИХ КАДРІВ</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -16,64 +16,73 @@
 
 <body>
 <!-- Шапка сайта + Главное меню -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="90%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
+		 
  <!--**********************Вставить текст страницы********************************************-->
+
 <div class="MsoNormal" >
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Графік навчання </span></b></p>
+<p style='text-align:center; '><b><span class='st4'>Графік навчання </span></b></p>
 
-	  <p ><a href="../files/grafic/PM-858.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів
+	  <p ><a href="../files/grafic/PM-858.pdf" target="_blank" ><span >Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів
  <b><font color="red">з 30.01.2017 по 24.02.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/FO-859,860.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки
+	  <p ><a href="../files/grafic/FO-859,860.pdf" target="_blank" ><span >Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки
  <b><font color="red">з 30.01.2017 по 17.03.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/OR-861,862.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Організація роботи органів ДФС. Підвищення ефективності організації роботи з виконання завдань, поставлених перед органами ДФС 
+	  <p ><a href="../files/grafic/OR-861,862.pdf" target="_blank" ><span >Організація роботи органів ДФС. Підвищення ефективності організації роботи з виконання завдань, поставлених перед органами ДФС 
  <b><font color="red">з 06.02.2017 по 24.03.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/KVOC-863.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів
+	  <p ><a href="../files/grafic/KVOC-863.pdf" target="_blank" ><span >Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів
  <b><font color="red">з 06.02.2017 по 24.03.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/PR-864,865.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Організація правової роботи в органах Державної фіскальної служби України
+	  <p ><a href="../files/grafic/PR-864,865.pdf" target="_blank" ><span >Організація правової роботи в органах Державної фіскальної служби України
  <b><font color="red">з 20.02.2017 по 07.04.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/DF-866,867.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Діяльність Державної фіскальної служби: моніторинг та аналіз платежів
+	  <p ><a href="../files/grafic/DF-866,867.pdf" target="_blank" ><span >Діяльність Державної фіскальної служби: моніторинг та аналіз платежів
  <b><font color="red">з 27.02.2017 по 14.04.2017</font></b><br/></span></a></p>
-	  <p ><a href="../files/grafic/PDV-869,870.pdf" target="_blank" ><span style="font-size:14.0pt;color:green">Адміністрування податку на додану вартість юридичних осіб
+	  <p ><a href="../files/grafic/PDV-869,870.pdf" target="_blank" ><span >Адміністрування податку на додану вартість юридичних осіб
  <b><font color="red">з 13.03.2017 по 28.04.2017</font></b><br/></span></a></p>
-
+<br />
 <!--******************************Конец содержимого страницы**********************************-->
 </div>
-</div>
-</td>
+			  </div>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

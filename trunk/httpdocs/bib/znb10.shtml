@@ -15,37 +15,43 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-	
+
+<div style="height:550px">	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -71,39 +77,27 @@
 
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/01.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/02.doc" target="_blank">КАБІНЕТ МІНІСТРІВ УКРАЇНИ №1227 від 29.12.2010 фіз.особи</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/03.doc" target="_blank">Наказ №4 від 13.01.15</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/04.doc" target="_blank">Наказ №22 від 31.07.14</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/05.doc" target="_blank">Наказ №32 від 17.01.14</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/06.doc" target="_blank">Наказ №190 від01.04.11 фіз.особи</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/07.doc" target="_blank">Наказ №395 від 14.03.13</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/08.doc" target="_blank">Наказ №793 від 11.12.13</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/09.doc" target="_blank">Наказ №794 від11.12.13</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/010.doc" target="_blank">Наказ №795 від 11.12.13</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/011.doc" target="_blank">Наказ №845 від 24.12.13</a>
 <br>
-<br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/012.doc" target="_blank">Наказ №846 від 24.12.13</a>
-<br>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/10/013.doc" target="_blank">Оподаткування пасивних доходів</a>
 
@@ -112,29 +106,30 @@
 	
 <br>
 
+</div>
 
 
 
   <!--******************************Конец содержимого страницы**********************************-->
 		  <!-- InstanceEndEditable -->
-		  </div></td>
-      </tr>
-    </table>    
-	</td>
-<!--******************************Конец содержимого страницы**********************************-->
-<!-- InstanceEndEditable -->
-   
-
+		    </div>			
+		  </td>
 		</tr>
-				
-
 	</table>
-<br>
-<br>
-<br>
-<br>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
 <!-- Banner bottom -->
 <!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
 </body>
-<!-- InstanceEnd -->
 </html>

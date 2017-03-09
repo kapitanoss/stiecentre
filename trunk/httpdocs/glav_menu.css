@@ -17,7 +17,8 @@
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background-image:url(im_diz/im_shapka/f_menu.jpg);
+	/*background-image:url(../im_diz/im_shapka/f_menu.jpg);*/
+	background: url(../im_diz/im_shapka/bg1.png) top left repeat-y #5394b6;
 	float:none
 	
 }

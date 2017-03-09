@@ -15,193 +15,201 @@
 </head>
 
 <body>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Шапка сайта-->
 			<!--#include virtual="../include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Главное меню -->
 			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
 
-	</table>
-<!-- Левое меню -->
-	<table width="100%" border="0" cellspacing="2" cellpadding="0">
-		<tr>
-<!--#include virtual="../include/left_menu.txt"-->
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Начало содержимого страницы**********************************-->
-    
-
-    <td width="100%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
-      <tr >
-        <td class="st6"> <div class="st5" >
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
+ 
 <div class="MsoNormal" >
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<p style='text-align:center; '><b><span style='font-size:16.0pt; color:green;'>Напрями підвищення кваліфікації на 2017 рік</span></b></p>
+<p style='text-align:center; '><b><span class='st4'>Напрями підвищення кваліфікації на 2017 рік</span></b></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span 
- style='color:green'>Спеціалізований короткотерміновий навчальний курс <br>
+ >Спеціалізований короткотерміновий навчальний курс <br>
 “Застосування методів сучасного податкового менеджменту у підвищенні рівня культури <br />
 сплати податків та зборів” <b><font color="red">з 30.01.2017 по 24.02.17 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/fo30012017.pdf" target="_blank" ><span
- style='color:green'>Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
+ >Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
 за комбінованою формою <b><font color="red">з 30.01.2017 по 17.03.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/or06022017.pdf" target="_blank" ><span
- style='color:green'>Організація роботи органів ДФС. Підвищення ефективності організації роботи з <br>
+ >Організація роботи органів ДФС. Підвищення ефективності організації роботи з <br>
 виконання завдань, поставлених перед органами ДФС <br>
 за комбінованою формою <b><font color="red">з 06.02.2017 по 24.03.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/koopt06022017.pdf" target="_blank" ><span
- style='color:green'>Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів<br> 
+ >Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів<br> 
 за комбінованою формою <b><font color="red">з 06.02.2017 по 24.03.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/pz20022017.pdf" target="_blank"><span
- style='color:green'>Організація правової роботи в органах Державної фіскальної служби України<br>
+ >Організація правової роботи в органах Державної фіскальної служби України<br>
 за комбінованою формою <b><font color="red">з 20.02.2017 по 07.04.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/ea27022017.pdf" target="_blank" ><span
- style='color:green'>Діяльність Державної фіскальної служби: моніторинг та аналіз платежів<br>
+ >Діяльність Державної фіскальної служби: моніторинг та аналіз платежів<br>
 за комбінованою формою <b><font color="red">з 27.02.2017 по 14.04.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/ova27022017.pdf" target="_blank" ><span
- style='color:green'>Організація та проведення внутрішнього аудиту<br>
+ >Організація та проведення внутрішнього аудиту<br>
 за комбінованою формою <b><font color="red">з 27.02.2017 по 14.04.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/apdvuo13032017.pdf" target="_blank" ><span
- style='color:green'>Адміністрування податку на додану вартість юридичних осіб<br>
+ >Адміністрування податку на додану вартість юридичних осіб<br>
 за комбінованою формою <b><font color="red">з 13.03.2017 по 28.04.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Спеціалізований короткотерміновий навчальний курс <br />
+ >Спеціалізований короткотерміновий навчальний курс <br />
 “Застосування методів сучасного податкового менеджменту у підвищенні рівня культури <br />
 сплати податків та зборів” <b><font color="red">з 03.04.2017 по 19.05.2017 </font></b><br /></span></a></p>
 
 <p ><a href="../files/Shan_sluh/fo03042017.pdf" target="_blank" ><span
- style='color:green'>Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
+ >Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
 за комбінованою формою <b><font color="red">з 03.04.2017 по 19.05.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Адміністративне оскарження сум грошових зобов’язань та розгляд скарг платників <br>
+ >Адміністративне оскарження сум грошових зобов’язань та розгляд скарг платників <br>
 податків на рішення органів Державної фіскальної служби України<br>
 за комбінованою формою <b><font color="red">з 10.04.2017 по 26.05.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Справляння екологічного та місцевих податків, рентної плати<br>
+ >Справляння екологічного та місцевих податків, рентної плати<br>
 за комбінованою формою <b><font color="red">з 10.04.2017 по 26.05.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Боротьба з корупцією<br>
+ >Боротьба з корупцією<br>
 за комбінованою формою <b><font color="red">з 24.04.2017 по 16.06.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів<br>
+ >Контроль за виробництвом та обігом спирту, алкогольних напоїв та тютюнових виробів<br>
 за комбінованою формою <b><font color="red">з 24.04.2017 по 16.06.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Взаємодія із засобами масової інформації та громадськістю<br>
+ >Взаємодія із засобами масової інформації та громадськістю<br>
 за комбінованою формою <b><font color="red">з 08.05.2017 по 23.06.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація правової роботи в органах Державної фіскальної служби України<br> 
+ >Організація правової роботи в органах Державної фіскальної служби України<br> 
 за комбінованою формою <b><font color="red">з 08.05.2017 по 23.06.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація надання адміністративних послуг та роботи Центрів обслуговування платників<br>
+ >Організація надання адміністративних послуг та роботи Центрів обслуговування платників<br>
 за комбінованою формою <b><font color="red">з 22.05.2017 по 07.07.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Оподаткування податком на прибуток<br>
+ >Оподаткування податком на прибуток<br>
 за комбінованою формою <b><font color="red">з 22.05.2017 по 07.07.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Справляння екологічного та місцевих податків, рентної плати<br>
+ >Справляння екологічного та місцевих податків, рентної плати<br>
 за комбінованою формою <b><font color="red">з 31.07.2017 по 15.09.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Спеціалізований короткотерміновий навчальний курс <br />
+ >Спеціалізований короткотерміновий навчальний курс <br />
 “Застосування методів сучасного податкового менеджменту у підвищенні рівня культури <br />
 сплати податків та зборів” <b><font color="red">з 07.08.2017 по 01.09.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Адміністрування податку на додану вартість юридичних осіб<br>
+ >Адміністрування податку на додану вартість юридичних осіб<br>
 за комбінованою формою <b><font color="red">з 07.08.2017 по 22.09.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
+ >Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
 за комбінованою формою <b><font color="red">з 14.08.2017 по 29.09.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Забезпечення  конституційного права громадян на звернення та доступу до публічної інформації<br>
+ >Забезпечення  конституційного права громадян на звернення та доступу до публічної інформації<br>
 за комбінованою формою <b><font color="red">з 28.08.2017 по 13.10.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація та проведення внутрішнього аудиту<br>
+ >Організація та проведення внутрішнього аудиту<br>
 за комбінованою формою <b><font color="red">з 28.08.2017 по 13.10.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Діяльність Державної фіскальної служби: моніторинг та аналіз платежів<br>
+ >Діяльність Державної фіскальної служби: моніторинг та аналіз платежів<br>
 за комбінованою формою <b><font color="red">з 11.09.2017 по 27.10.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація надання адміністративних послуг та роботи Центрів обслуговування платників<br>
+ >Організація надання адміністративних послуг та роботи Центрів обслуговування платників<br>
 за комбінованою формою <b><font color="red">з 18.09.2017 по 03.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Оподаткування податком на прибуток<br>
+ >Оподаткування податком на прибуток<br>
 за комбінованою формою <b><font color="red">з 18.09.2017 по 03.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Взаємодія із засобами масової інформації та громадськістю<br>
+ >Взаємодія із засобами масової інформації та громадськістю<br>
 за комбінованою формою <b><font color="red">з 02.10.2017 по 17.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація роботи органів ДФС. Підвищення ефективності організації роботи з <br>
+ >Організація роботи органів ДФС. Підвищення ефективності організації роботи з <br>
 виконання завдань, поставлених перед органами ДФС <br>
 за комбінованою формою <b><font color="red">з 02.10.2017 по 17.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Організація правової роботи в органах Державної фіскальної служби України<br>
+ >Організація правової роботи в органах Державної фіскальної служби України<br>
 за комбінованою формою<b><font color="red">з 09.10.2017 по 24.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Боротьба з корупцією<br>
+ >Боротьба з корупцією<br>
 за комбінованою формою <b><font color="red">з 09.10.2017 по 24.11.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
+ >Адміністрування податків з фізичних осіб, єдиного внеску і документальні перевірки<br>
 за комбінованою формою <b><font color="red">з 23.10.2017 по 08.12.2017 </font></b><br /></span></a></p>
 
 <p ><a style='text-decoration: none; cursor: default; ' href="#"  ><span
- style='color:green'>Спеціалізований короткотерміновий навчальний курс <br />
+ >Спеціалізований короткотерміновий навчальний курс <br />
 “Застосування методів сучасного податкового менеджменту у підвищенні рівня культури<br />
 сплати податків та зборів” <b><font color="red">з 30.10.2017 по 24.11.2017 </font></b><br /></span></a></p>
 
-<br>
-<br>
+<br />
 
 
 
 </div>
 			  </div>
-</td>
+			</td>
 		</tr>
 	</table>
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />

@@ -11,36 +11,40 @@
 	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	
+
 </head>
 
 <body>
 <!-- Øàïêà ñàéòà + Ãëàâíîå ìåíþ -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
 		<tr>
-		  <td>
+
 			<!-- Øàïêà ñàéòà-->
 			<!--#include virtual="include/titul_site.txt"-->
-		  </td>	
-		</tr>
+
 			<!-- Ãëàâíîå ìåíþ -->
 			<!--#include virtual="include/main_menu.txt"-->
-
+		  
+		</tr>
  </table>
 <!-- Ëåâîå ìåíþ + Ñòðàíèöà-->
- <table width="100%" border="0" cellspacing="2" cellpadding="0">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
    <tr>
-<!--#include virtual="include/left_menu.txt"-->
+    <td class="col1">
+
+	</td>
+
 
 
 <!-- InstanceBeginEditable name="text" -->
 <!--******************************Íà÷àëî ñîäåðæèìîãî ñòðàíèöû**********************************-->
-    
-
-    <td width="90%" valign="top">
 	
-	<table width="100%" border="0" cellspacing="2" cellpadding="20">
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
 		<tr >
+		<!--#include virtual="include/left_menu.txt"-->		
 			<td class="st6"> <div class="st5" >
          <!-- InstanceBeginEditable name="text" -->
          
@@ -50,17 +54,17 @@
 
 
    
-				<p align="center"><img src="555.jpg" width="800"  height="500" 
+				<p align="center"><img src="../im_diz/centre6.jpg" width="700"  height="500" 
 				title="ÖÅÍÒÐ ÏÅÐÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅÐ²ÂÍÈÕ ÊÀÄÐ²Â" alt="ÖÅÍÒÐ ÏÅÐÅÏ²ÄÃÎÒÎÂÊÈ ÒÀ Ï²ÄÂÈÙÅÍÍß ÊÂÀË²Ô²ÊÀÖ²¯ ÊÅÐ²ÂÍÈÕ ÊÀÄÐ²Â"/></p>
 			  </div>
 			</td>
 		</tr>
-		
-			
 	</table>
-
 <!-- InstanceEnd -->
     </td>
+    <td class="col3">
+
+	</td>		
    </tr>
  </table>
 <br />
@@ -73,21 +77,3 @@
 <!-- InstanceEndEditable -->
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-   
-
-
-			
-
-
-		
-
-		
