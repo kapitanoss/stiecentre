@@ -19,12 +19,13 @@
 					  </li>
 					  <li class="st3"><a href="#">Інформація для слухачів</a>
 						<ul>		
-						  <li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2017 рік</a></li>			  
+						   <li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2017 рік у ВЦПК</a></li>
+						   <li class="st3"><a href="../info/is_vid.shtml">Напрями підвищення кваліфікації на 2017 рік у відділенні ВЦПК</a></li>						  						
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Дистанційна форма навчання</a>
 						<ul>
-					      <li class="st3"><a href="../grafic/grafic.shtml">Графік навчання</a></li>
+					      <!-- <li class="st3"><a href="../grafic/grafic.shtml">Графік навчання</a></li> !-->
 						  <li class="st3"><a href="../dn/dn.shtml">Реєстрація слухача</a></li>
 					      <li class="st3"><a href="../strkadr/strkadr.shtml">Сторінка кадровика</a></li>						  
 						</ul>						
