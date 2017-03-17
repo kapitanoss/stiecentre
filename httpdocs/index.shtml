@@ -54,7 +54,7 @@
 
 
    
-				<p align="center"><img src="../im_diz/centre6.jpg" width="700"  height="500" 
+				<p align="center"><img src="../im_diz/centre6.jpg" width="700"  height="450" 
 				title="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування" alt="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування"/></p>
 			  </div>
 			</td>
@@ -63,14 +63,25 @@
 <!-- InstanceEnd -->
     </td>
     <td class="col3">
+			<div >
+				<a href="http://www.president.gov.ua" target="_blank"><img style=' padding:5px 5px 5px 5px;' title="ПРЕЗИДЕНТ УКРАЇНИ Офіційне інтернет-представництво" src="../baner/prezident.gif" alt="ПРЕЗИДЕНТ УКРАЇНИ Офіційне інтернет-представництво" width="140" height="60"/></a>
 
+			</div>
+
+			<div >
+				<a href="http://www.kmu.gov.ua" target="_blank"><img style=' padding:5px 5px 5px 5px;' title="Урядовий портал" src="../baner/urportal.jpeg" alt="Кабінет Міністрів України" width="140" height="60"/></a>
+
+			</div>
+			<div style=' padding:5px 5px 5px 5px;'>
+				<a href="http://mon.gov.ua/" target="_blank"><img style=' background: #1155aa;' title="Міністерство освіти і науки України" src="../baner/min_osvit.png" alt="Міністерство освіти і науки України" width="140" height="60"/></a>
+
+			</div>
+					
 	</td>		
    </tr>
  </table>
 <br />
-<br />
-<br />
-<br />
+
 <!-- Banner bottom -->
 <!--#include virtual="include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->
