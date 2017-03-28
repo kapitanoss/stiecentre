@@ -45,37 +45,44 @@
 	<table border="0" cellspacing="0" cellpadding="0">
 		<tr >
 		<!--#include virtual="../include/left_menu.txt"-->		
-			<td class="st6"> <div class="st5" >
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
   <!--**********************Вставить текст страницы********************************************-->
 
-				<p align="center"><img src="../kontakt/121.jpg" width="223" height="335" alt="Директор Центру Юрченко В.В." /></p>
+  <div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>Керівництво</span></b></p>
+				<p align="center"><!--img src="../kontakt/121.jpg" width="223" height="335" alt="Директор Центру Юрченко В.В." /!--></p>
 				<p align="center">Директор Центру</p>
-				<p align="center"><strong>Юрченко Володимир Володимирович</strong></p>
-				<p align="center">тел.(044) 455-05-72</p>
+				<p align="center" style='margin-left:25pt;'><strong>Юрченко Володимир Володимирович</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-05-72</p>
 
 				<p align="center">Перший заступник директора</p>
-				<p align="center"><strong>Сімонова Ірина Петрівна</strong></p>
-				<p align="center">тел.(044) 455-47-26</p>
+				<p align="center" style='margin-left:25pt;'><strong>Сімонова Ірина Петрівна</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-47-26</p>
 
 				<p align="center">Перший заступник директора з наукової роботи та інноваційних технологій</p>
-				<p align="center"><strong>Савченко Леся Анатоліївна</strong></p>
-				<p align="center">тел.(044) 455-05-72</p>
+				<p align="center" style='margin-left:25pt;'><strong>Савченко Леся Анатоліївна</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-05-72</p>
 
 				<p align="center">Заступник директора з комерційної діяльності Центру</p>
-				<p align="center"><strong>Проценко Олександр Вікторович</strong></p>
-				<p align="center">тел.(044) 455-05-72</p>
+				<p align="center" style='margin-left:25pt;'><strong>Проценко Олександр Вікторович</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-05-72</p>
 
 				<p align="center">Головний бухгалтер</p>
-				<p align="center"><strong>Проценко Тетяна Олексіївна</strong></p>
-				<p align="center">тел.(044) 455-05-71</p>
+				<p align="center" style='margin-left:25pt;'><strong>Проценко Тетяна Олексіївна</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-05-71</p>
 
 				<p align="center">Завідувач гуртожитку</p>
-				<p align="center"><strong>Костюк Світлана Миколаївна</strong></p>
-				<p align="center">тел.(044) 455-05-74</p>
-			  </div>
+				<p align="center" style='margin-left:25pt;'><strong>Костюк Світлана Миколаївна</strong></p>
+				<p align="center" style='margin-left:25pt;'>тел.(044) 455-05-74</p>
+<br />
+				</div>
+				</div>
 			</td> 
 		</tr>
     </table>

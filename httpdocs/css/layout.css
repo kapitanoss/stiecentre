@@ -12,6 +12,8 @@ background: -moz-linear-gradient(-45deg,  rgba(23,76,137,1) 1%, rgba(167,207,223
 background: -webkit-linear-gradient(-45deg,  rgba(23,76,137,1) 1%,rgba(167,207,223,1) 21%,rgba(167,207,223,1) 21%,rgba(167,207,223,1) 71%,rgba(167,207,223,1) 77%,rgba(247,243,133,1) 96%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(135deg,  rgba(23,76,137,1) 1%,rgba(167,207,223,1) 21%,rgba(167,207,223,1) 21%,rgba(167,207,223,1) 71%,rgba(167,207,223,1) 77%,rgba(247,243,133,1) 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#174c89', endColorstr='#f7f385',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background-attachment: fixed;
+height:100%;
 }
 
 .MsoNormal
