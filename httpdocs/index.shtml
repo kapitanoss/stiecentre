@@ -5,13 +5,17 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
 	<title>Головна Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<!--link rel="search" type="application/opensearchdescription+xml" href="demo5.instantcms2.ru/search/opensearch" title="Поиск на InstantCMS 2.0 Дополнения для InstantCMS 2 ГудГалерея, Новое на сайте" /-->
+	<link rel="stylesheet" type="text/css" href="news/widgets/slider_top/css/css/theme-layout.css">
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
 	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
-
+	
+	<script type="text/javascript" src="news/widgets/slider_top/js/jquery.js"></script>
+	
 </head>
 
 <body>
@@ -45,18 +49,389 @@
 	<table border="0" cellspacing="0" cellpadding="20">
 		<tr >
 		<!--#include virtual="include/left_menu.txt"-->		
-			<td class="st6"> <div class="st5" >
+			<td >
          <!-- InstanceBeginEditable name="text" -->
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
+       <div id="layout">
+
+        <link rel="stylesheet" id="google_fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%7CPT+Sans%7CRusso+One%7CRusso+One%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=3.8" type="text/css" media="all">
+		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base.css" type="text/css" media="all">
+		<link rel="stylesheet" id="fontello-css" href="news/widgets/slider_top/css/fontello.css" type="text/css" media="all">
+		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style.css" type="text/css" media="all">
+		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all">
+<style>
+#wid-39 .home-slide-image{
+	height:350px;
+	overflow:hidden;
+}
+#wid-39 .home-slide-caption .title {
+width: 100% !important;
+margin-top:30px;
+}
+#wid-39 .rubrik_mod{
+	left:0 !important;
+}
+#wid-39 .home_slider .excerpt{
+	padding-top:10px !important;
+}
+@media only screen and (max-width: 768px) {
+}
+</style>
+	<link rel="stylesheet" id="responsive-css" href="news/widgets/slider_top/css/responsive.css" type="text/css" media="all">
+	<script type="text/javascript" src="news/widgets/slider_top/js/jquery.simplyscroll.min.js"></script>
+
+<div class="vc_responsive">
+
+<div class="row_outer">
+<div class="wpb_row vc_row-fluid">
+
+	<div id="wid-39" class="slider-wrap ">
+	
+		<div class="ticker-wrap">
+		<h3 class="titleticker"><span class="devtitle">Новини</span><i class="icon-right-open"></i></h3>
+		<div class="ticker_container">
+				
+			<div class="marquee-wrapper">
+					<ul class="marquee" id="marquee_39">
+ 
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="18 березня 2017">== За підтримки європейських партнерів</a>
+                        </li>
+	   
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="30 січня 2017">== Начало навчального 2017 року в ВЦПК</a>
+                        </li>
+			   
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="2 січня 2017">== Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації</a>
+                        </li>
+			   
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="14 грудня 2016">== Тренінг за програмою технічної допомоги МВФ</a>
+                        </li>
+			   
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="28 листопада 2016">== Урочисте засідання Ради ветеранів ДПС України</a>
+                        </li>
+			   
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="28 вересня 2016">== Практичний семінар для керівників кадрових підрозділів ДФС</a>
+                        </li>
+
+            			<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="24 серпня 2016">== Святкова акція – виконання Державного Гімну України</a>
+                        </li>
+ 
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="1 рік тому">. . . . . . . . . . . . . . . . . . . </a>
+                        </li>         
 
 
+			   </ul>
+			</div>
+				
+		</div>
+		</div>
+	
+		<div class="home_slider_wrap">
+			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
+				<ul class="slides">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">18</span>
+										<span class="year">2017</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">За підтримки європейських партнерів</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Мета навчального заходу - розвиток професійної компетентності новопризначених державних секретарів міністерств</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/2017europartner.jpg" alt="Навчальний семінар за підтримки європейських партнерів" 
+										 title="Навчальний семінар за підтримки європейських партнерів" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Мета навчального заходу - розвиток професійної компетентності новопризначених державних секретарів міністерств</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">30</span>
+										<span class="year">2017</span>
+										<span class="month">січня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Начало навчального 2017 року в ВЦПК</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Розпочалося навчання посадових осіб органів ДФС України</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/2017trainingstart.jpg" alt="Начало навчання 2017р в ВЦПК" title="Начало навчання 2017р в ВЦПК" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+								<div class="clear"></div>
+								<p>Розпочалося навчання посадових осіб органів ДФС України</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">						
+										<span class="date">&ensp;2</span>
+										<span class="year">2017</span>
+										<span class="month">січня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>У 2016 році  підвищили кваліфікацію в  Центрі  2118 посадових осіб …</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/itog2016.jpg" alt="2016рік. Підсумки навчання в Центрі" title="2016рік. Підсумки навчання в Центрі" class="featured-image" draggable="false">							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+								<div class="clear"></div>
+								<p>Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації"</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">14</span>
+										<span class="year">2016</span>
+										<span class="month">грудня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Тренінг за програмою технічної допомоги МВФ</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінги</a>
+									</div>
+									<div class="excerpt">
+										<p>Проведення тренінгу з управління персоналом (HR)</p><span class="readmore">
+										<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/MVF.jpg" alt="Тренінг за програмою технічної допомоги МВФ" title="Тренінг за програмою технічної допомоги МВФ" class="featured-image" draggable="false">							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+								<div class="clear"></div>
+								<p>Проведення тренінгу з управління персоналом (HR)</p><span class="readmore">
+								<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">28</span>
+										<span class="year">2016</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Урочисте засідання Ради ветеранів ДПС України</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Урочисті події</a>
+									</div>
+									<div class="excerpt">
+										<p>Урочисте засідання з нагоди 10-річного ювілея громадського об’єднання ветеранів ДПС України…</p><span class="readmore">
+										<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/DFSveteran.jpg" width="150" height="190" alt="Урочисте засідання Ради ветеранів ДПС України" title="Урочисте засідання Ради ветеранів ДПС України" class="featured-image" draggable="false">							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+								<div class="clear"></div>
+								<p>Урочисте засідання в зв'язку з 10-річчям ювілеєм громадського об’єднання ветеранів ДПС України…</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">28</span>
+										<span class="year">2016</span>
+										<span class="month">вересня </span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Практичний семінар для керівників кадрових підрозділів ДФС</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>В Центрі був проведен семінар для підрозділів ДФС, Національного агентства України, Міністерства фінансів</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/DFS.jpg" alt="Практичний семінар для підрозділів ДФС, Національного агентства, Міністерства фінансів" title="Практичний семінар для підрозділів ДФС, Національного агентства, Міністерства фінансі" class="featured-image" draggable="false">							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+								<div class="clear"></div>
+								<p>В Центрі був проведен семінар для підрозділів ДФС, Національного агентства України, Міністерства фінансів</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">24</span>
+										<span class="year">2016</span>
+										<span class="month">серпня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Святкова акція – виконання Державного Гімну України</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Урочисті події</a>
+									</div>
+									<div class="excerpt">
+										<p>Співробітники Центру прийняли участь у масовій святковій акції з нагоди річниці Незалежності України</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+										<img src="../img/news/song.jpg" alt="Святкова акція – виконання Державного Гімну України" title="Святкова акція – виконання Державного Гімну України" class="featured-image" draggable="false">							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile">
+							<div class="clear"></div>
+								<p>Співробітники Центру прийняли участь у масовій святковій акції з нагоди річниці Незалежності України</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>
+						</div>
+					</li>
+							 
+				</ul>
 
-   
-				<p align="center"><img src="../im_diz/centre6.jpg" width="700"  height="450" 
-				title="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування" alt="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування"/></p>
-			  </div>
+			</div>
+		</div>
+		
+	</div>
+	
+	
+</div>
+</div>	
+
+
+</div>
+<script type="text/javascript" src="news/widgets/slider_top/js/init.js"></script>
+<script type="text/javascript" src="news/widgets/slider_top/js/custom.js"></script>
+
+
+	   </div>
+ <!--**********************Конец текста страницы********************************************-->	   
 			</td>
 		</tr>
 	</table>

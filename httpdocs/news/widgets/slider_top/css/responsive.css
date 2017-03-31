@@ -1,0 +1,162 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+	.section-wrap{
+		width: 768px;
+	}
+	.row_outer{
+		padding: 0;
+		margin: 0 auto;
+	}
+
+	.home-slide-image{
+		width:30% !important;
+	}
+	.home-slide-caption{
+		width:67% !important;
+	}
+	.home-slide-caption .title{
+		font-size:20px;
+	}
+	.home_slider .flex-direction-nav a{
+		bottom:0 !important;
+	}
+	.home_slider .excerpt{
+		display:none;
+	}
+	.home_slider .desk{
+		overflow:hidden;
+	}
+	.home_slider .excerpt.mobile{
+		display:block;
+		padding-top:20px;
+	}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 768px) {
+	.section-wrap
+	{
+		width: 320px;
+	}
+	.row_outer{
+		padding: 0;
+		margin: 0 auto;
+	}
+	.home_slider .flex-direction-nav .flex-prev {
+		left: 0 !important;
+		margin-left: 0;
+	}
+	.home_slider .flex-direction-nav .flex-next {
+		left: 35px;
+	}
+	.home_slider .flex-direction-nav a {
+		bottom: 10px;
+		top: 92px !important;
+		margin-top: 0;
+		width: 30px;
+		height: 30px;
+		background: none;
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		-o-border-radius: 2px;
+		border-radius: 2px;
+		line-height:32px;
+	}
+	.home_slider .flex-direction-nav i{
+		color:#444;
+	}
+	.home-slide-caption, .magazine .big-post{
+		margin-bottom:25px;
+	}
+	.home-slide-caption .cal{
+		width:28%;
+	}
+	.home-slide-caption .title{
+		font-size:18px;
+	}
+	.home-slide-caption .cal .date {
+		font-size: 41px;
+	}
+	.home-slide-caption .cal .year {
+		font-size: 19px;
+		left: 36px;
+	}
+	.home-slide-caption .cal .month {
+		font-size: 14px;
+		top: 23px;
+		left: 37px
+	}
+	.home_slider .excerpt p{
+	font-size:13px;
+	line-height:16px;
+    }
+	.home_slider .excerpt .readmore a{
+	font-size:11px;
+    }
+	
+	.titleticker .devtitle{
+		display:none;
+	}
+
+	.home_slider .details span{
+		font-size:12px;
+	}
+	
+	
+	
+	
+	
+	
+	/* Layouts */
+
+	.vc_responsive .wpb_row ul.wpb_thumbnails-fluid,
+	.vc_responsive .wpb_row .wpb_thumbnails-fluid  {
+		margin-left: 0;
+		width: auto;
+	}
+	.vc_responsive .wpb_row .wpb_teaser_grid ul.wpb_thumbnails-fluid [class*="vc_span"] ,
+	.vc_responsive .wpb_row .wpb_thumbnails-fluid [class*="vc_span"],
+	.vc_responsive .wpb_row .wpb_magazine .wpb_thumbnails-fluid .big-post > .vc_span6{
+		width: 100%;
+		float: none;
+		display: block;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.vc_responsive div.vc_row-fluid div[class*="vc_span"] {
+		float: none;
+		display: block;
+		width: auto;
+		margin-left: 0;
+	}
+	
+	
+	
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+	.section-wrap{
+		width: 480px;
+	}
+	.row_outer{
+		margin: 0 auto;
+		padding:0;
+	}
+	.home-slide-caption .title{
+		font-size:22px;
+	}
+	.home-slide-caption .cal .date {
+		font-size: 70px;
+	}
+	.home-slide-caption .cal .year {
+		font-size: 40px;
+		left: 60px;
+	}
+	.home-slide-caption .cal .month {
+		font-size: 17px;
+		top: 47px;
+		left: 60px;
+	}
+	
+	
+}
