@@ -5,7 +5,7 @@
 						<ul>
 						  <li class="st3"><a href="#">Історична довідка</a></li>
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
-						  <li class="st3"><a href="../structure/strcentre.shtml">Структура центру</a></li>
+						  <li class="st3"><a href="#">Структура центру</a></li>
 						  <li class="st3"><a href="../mz/kafedra.shtml">Кафедри</a></li>
 						</ul>
 					  </li>
