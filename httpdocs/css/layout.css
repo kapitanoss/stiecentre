@@ -16,6 +16,11 @@ background-attachment: fixed;
 height:100%;
 }
 
+table.tbl-vnz td p
+	{text-indent:0;
+	/*text-align:left;*/
+}
+
 .MsoNormal
 	{margin-top: 0cm;
 	margin-right: 0.1cm;
@@ -47,7 +52,11 @@ div.MsoNormal p
 div.MsoNormal ul li { /* fir list marker*/
 	margin-left: 1cm;
 }
-	
+
+td.td-vnz p	
+	{text-align:center;
+	height:17px;
+}	
 .container {
     background-color: #EEEEEE;
     border-radius: 4px 5px 5px 5px;

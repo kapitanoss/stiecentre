@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Зразки тестових завдань, тем та сценаріїв для проведення співбесіди при атестації щодо вільного володіння державною мовою. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+ 
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>Зразки тестових завдань, тем та сценаріїв для проведення співбесіди</span></b></p>
+
+<br />
+<p><span ><b>Теми та сценарії</b></span></p>
+
+<p><span >Географічний простір України. 
+<a href="#" onclick="obj=document.getElementById('idframe_geo').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<div id="idframe_geo" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/geografichnyy_prostir_ukrayiny.pdf"></iframe> </div>
+
+<p><span >Мовна свідомість. 
+<a href="#" onclick="obj=document.getElementById('idframe_movasvid').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<div id="idframe_movasvid" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/movna_svidomist.pdf"></iframe> </div>
+
+<p><span >Україна_шлях до Європи. 
+<a href="#" onclick="obj=document.getElementById('idframe_uatoeu').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<div id="idframe_uatoeu" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/ukrayina_shlyah_do_yevropy.pdf"></iframe> </div>
+
+<br />
+<p><span ><b>Зразки тестових завдань</b></span></p>
+
+<p><span >Тестові завдання №1. 
+<a href="#" onclick="obj=document.getElementById('idframe_test1').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути завдання.</a></span></p>
+<div id="idframe_test1" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/test_1.pdf"></iframe> </div>
+
+<p><span >Тестові завдання №2. 
+<a href="#" onclick="obj=document.getElementById('idframe_test2').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути завдання.</a></span></p>
+<div id="idframe_test2" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/test_2.pdf"></iframe> </div>
+
+<p><span >Тестові завдання №3. 
+<a href="#" onclick="obj=document.getElementById('idframe_test3').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути завдання.</a></span></p>
+<div id="idframe_test3" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/test_3.pdf"></iframe> </div>
+
+<p><span >Тестові завдання №4. 
+<a href="#" onclick="obj=document.getElementById('idframe_test4').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути завдання.</a></span></p>
+<div id="idframe_test4" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/test_4.pdf"></iframe> </div>
+
+<p><span >Тестові завдання №5. 
+<a href="#" onclick="obj=document.getElementById('idframe_test5').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути завдання.</a></span></p>
+<div id="idframe_test5" style="display: none" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/test_5.pdf"></iframe> </div>
+
+
+<br />
+
+
+
+</div>
+
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>
