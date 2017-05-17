@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Реєстрація слухачів Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Проекту Стандарту української мови для державних службовців. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -50,33 +50,21 @@
          
 		 
  <!--**********************Вставить текст страницы********************************************-->
-
+ 
 <div class="MsoNormal" >
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
-<!--p style='text-align:center;'><b><span style='font-size:16.0pt; color:green;'>Реєстрація слухачів</span></b></p-->
+<p style='text-align:center; '><b><span class='st4'>Проекту Стандарту української мови для державних службовців</span></b></p>
 
-<p style='text-align:center;margin-bottom:0pt;color:red;'><b>Самореєстрація слухачів проходить в системі дистанційного навчання "Moodle".<br/>
-Посилання:<a href="http://moodle.minrd.gov.ua/moodle/" target="_blank">moodle.minrd.gov.ua/moodle</a></b></p>
-<p style='text-align:center;'><b><span >Для реєстрації на дистанційну форму навчання слухачі повинні:</span></b></p><br/>
-
-<p style='text-align:center; margin-bottom:0pt;'>1. Завантажити за одним із нижченаведених посилань облікову картку відповідного напрямку навчання.</p>
-<p style='text-align:center; margin-bottom:0pt;'><a href="../files/obl_card/OK_2017_ochno-dest_v_1_0.rar">Облікова картка для всіх напрямів навчання </a></p>
-<p style='text-align:center;'><a href="../files/obl_card/OK_2017_spec-dest_v_1_0.rar">Облікова картка для напрямку «Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів »</a></p>
-
-
-<p style='text-align:center;'>2. Відправити заповнену облікову картку на електронну адресу ВЦПК <a href="mailto:study@centre-kiev.kiev.ua">study@centre-kiev.kiev.ua</a></p>
-
-
-<p style='text-align:center;'>3.Завантажити <a href="../files/instruct/Instr_reg_dn.pdf" target="_blank"> покрокову інструкцію по реєстрації в системі дистанційного навчання.</a></p>
-
-<p style='text-align:center;'>Переглянути інстукцію <a href="#" onclick="obj=document.getElementById('idframe').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">зараз</a></p>
+<div id="idframe" > <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/atestmova/dodatok_1_1_0.pdf"></iframe> </div>
 <br />
-<div id="idframe" style="display: none"> <iframe class="pdfjs-viewer" style='margin-left:120px;' width="70%" height="650px" 
-src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/instruct/Instr_reg_dn.pdf"></iframe> </div>
-<br />
+
+
+
 </div>
+
 			  </div>
 			</td>
 		</tr>
