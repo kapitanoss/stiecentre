@@ -7,6 +7,7 @@
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
 						  <li class="st3"><a href="#">Структура центру</a></li>
 						  <li class="st3"><a href="../mz/kafedra.shtml">Кафедри</a></li>
+						  <li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li>
 						</ul>
 					  </li>
 					  <li class="st3"><a href="#">Навчальний процес та наукова робота</a>
@@ -40,6 +41,7 @@
 					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
 					  <li class="st3"><a href="../konkurs/konk.shtml">Всеукраїнський конкурс “Кращий державний службовець”</a></li>					  
 					  <li class="st3"><a href="../atestmova/mova.shtml">Атестація щодо вільного володіння державною мовою</a></li>					  
+					  <li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li>
 					  </ul>
 				</div>
 			</td>

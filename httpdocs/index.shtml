@@ -616,7 +616,7 @@ margin-top:30px;
 <!-- InstanceEnd -->
     </td>
     <td class="col3">
-			<div >
+			<!--div >
 				<a href="http://www.president.gov.ua" target="_blank"><img style=' padding:5px 5px 5px 5px;' title="ÏÐÅÇÈÄÅÍÒ ÓÊÐÀ¯ÍÈ Îô³ö³éíå ³íòåðíåò-ïðåäñòàâíèöòâî" src="../baner/prezident.gif" alt="ÏÐÅÇÈÄÅÍÒ ÓÊÐÀ¯ÍÈ Îô³ö³éíå ³íòåðíåò-ïðåäñòàâíèöòâî" width="140" height="60"/></a>
 
 			</div>
@@ -628,7 +628,7 @@ margin-top:30px;
 			<div style=' padding:5px 5px 5px 5px;'>
 				<a href="http://mon.gov.ua/" target="_blank"><img style=' background: #1155aa;' title="Ì³í³ñòåðñòâî îñâ³òè ³ íàóêè Óêðà¿íè" src="../baner/min_osvit.png" alt="Ì³í³ñòåðñòâî îñâ³òè ³ íàóêè Óêðà¿íè" width="140" height="60"/></a>
 
-			</div>
+			</div-->
 					
 	</td>		
    </tr>
