@@ -11,59 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<style>
-		.ugolkrug{
-		 font-size:14.0pt;
-		 font-family:"Times New Roman","serif";
-		 display: table-cell; 
-		 vertical-align: middle; 
-		 text-align: center;
-		 height:100px; /* Высота фигуры */
-		 color: #00000; /* цвет текста */
-		 background:#79c679; /*#92a776;*/ /*#51781c; фон блока */
-		 border: 3px #CCCCCC solid; /* стили рамки */
-		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
-		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
-		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
-		 border-radius: 15px; /* закругление углов для всех, кто понимает */
-		 padding: 5px; /* внутренние отступы */
-		}
-		.ugolkrug1{
-		 font-size:14.0pt;
-		 font-family:"Times New Roman","serif";		
-		 display: table-cell; 
-		 vertical-align: middle; 
-		 text-align: center;
-		 width: 25%; /* Длина фигуры */
-		 height:100px; /* Высота фигуры */
-		 color: #00000; /* цвет текста */
-		 background:#f1b489; /*#aac08d;*/ /* #d9b07d; фон блока */
-		 border: 3px #CCCCCC solid; /* стили рамки */
-		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
-		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
-		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
-		 border-radius: 15px; /* закругление углов для всех, кто понимает */
-		 padding: 5px; /* внутренние отступы */
-		}
-		.ugolkrug2{
-		 font-size:14.0pt;
-		 font-family:"Times New Roman","serif";		
-		 display: table-cell;
-		 vertical-align: middle; 
-		 /* border: 1px solid blue; */
-		 text-align: center;
-		 width: 25%;  /* Длина фигуры */
-		 height:60px; /* Высота фигуры */
-		 color: #00000; /* цвет текста */
-		 background:#c0a2c4; /* фон блока */
-		 border: 3px #CCCCCC solid; /* стили рамки */
-		 -moz-border-radius: 15px; /* закругление для старых Mozilla Firefox */
-		 -webkit-border-radius: 15px; /* закругл. для старых Chrome и Safari */
-		 -khtml-border-radius:15px; /* закругл. для браузера Konquerer системы Linux */
-		 border-radius: 15px; /* закругление углов для всех, кто понимает */
-		 padding: 1px; /* внутренние отступы */
-		}		
-	</style>
+
 </head>
 
 <body>
@@ -97,68 +45,44 @@
 	<table style='margin:0 0 0 0' border="0" cellspacing="0" cellpadding="20">
 		<tr >
 		<!--#include virtual="../include/left_menu.txt"-->	  
-			<td class="st6"> <div >
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
  <!--**********************Вставить текст страницы********************************************-->
+<div class="MsoNormal" >
 
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug" ><b>СТРУКТУРА <br />Всеукраїнського центру підвищення кваліфікації<br /> державних службовців і посадових осіб місцевого самоврядування<br /></b></div>
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class="st4">СТРУКТУРА <br />Всеукраїнського центру підвищення кваліфікації державних <br />
+службовців і посадових осіб місцевого самоврядування<br /></span></b></p>
+
+<p style='text-indent: 0px; padding-left:20px; margin-bottom:0pt;'><span ><b>Керівництво</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:30px; '><span >Директор Центру<br/>
+Перший заступник директора<br/>
+Заступник директора з наукової та навчальної роботи<br/>
+Заступник директора з адміністративно-господарської діяльності<br/>
+Заступник  директора – начальник відділення<br/>
+Заступник директора з мовної підготовки<br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Юридичний сектор</b><br/>
+<b>Сектор роботи з персоналом</b><br/>
+<b>Загальний відділ</b><br/>
+<b>Навчально-методичний відділ</b><br/>
+<b>Відділ інформаційних технологій</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Управління розвитку персоналу державних органів</b><br/>
+<b>Управління підвищення кваліфікації державних службовців</b><br/> 
+<b>Управління  фінансів, бухгалтерського обліку та звітності</b><br/>
+<b>Управляння господарського обслуговування та матеріального забезпечення</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Кафедра Менеджменту</b><br/>
+<b>Кафедра Cуспільного врядування</b><br/>
+<b>Кафедра Мовної підготовки</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Гуртожиток м. Київ, вул.Шепелєва</b><br/>
+<b>Гуртожиток смт. Козин</b><br/>
+<b>Їдальня м. Київ, вул.Шепелєва</b><br/>
+<b>Їдальня смт. Козин</b><br/></span ></p>
+</span></p>
+</br>
+</br>
 				</div>
-				<div style="display: table; width: 100%; margin: 5px 0 5px 0;">
-					<div class="ugolkrug1">Перший заступник<br /> директора<br /> <b>Сімонова І.П.</b></div>
-					<div class="ugolkrug1">Директор Центру<br /> <b>Юрченко В.В.</b></div>
-					<div class="ugolkrug1">Заступник директора з комерційної діяльності Центру <b>Проценко О.В.</b></div>
-					<div class="ugolkrug1">Заступник директора з адміністративно-господарської діяльності</div>
-				</div>
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Кафедра Податкового менеджменту</div>
-					<div class="ugolkrug2">Віділення Центру<br /> у смт. Козин</div>
-					<div class="ugolkrug2">Підрозділ охорони</div>
-					<div class="ugolkrug2">Юридичний сектор</div>
-				</div>
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Кафедра Державного управління та податкової політики</div>
-					<div class="ugolkrug2">Загальний відділ</div>
-					<div class="ugolkrug2" >Відділ організації розвитку діяльності Центру</div>
-					<div class="ugolkrug2" >Відділ господарського обслуговування та матеріального забезпечення</div>
-				</div>
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Відділ інформаційних технологій</div>
-					<div class="ugolkrug2">Сектор роботи з персоналом</div>
-					<div class="ugolkrug2" >Їдальня</div>
-					<div class="ugolkrug2" >Гуртожиток</div>
-				</div>
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Навчально-методичний відділ</div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-				</div>		
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Навчально-методичний відділ віділення Центру у смт. Козин</div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-				</div>		
-				<div style="display: table; width: 100%">
-					<div class="ugolkrug2">Організаційно-навчальний та аналітичний відділ</div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-				</div>		
-				<div style="display: table; width: 100%">		
-					<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності</div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-				</div>		
-				<div style="display: table; width: 100%">		
-					<div class="ugolkrug2">Відділ фінансів, бухгалтерського обліку та звітності відділення Центру у смт. Козин</div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-					<div class="ugolkrug2" style="visibility: hidden; "></div>
-				</div>		
 
 			<!--******************************Конец содержимого страницы**********************************-->
 			  </div>
