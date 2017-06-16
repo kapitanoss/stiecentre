@@ -96,7 +96,26 @@ margin-top:30px;
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
-
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/bc-2017.shtml" title="15 червня 2017">== Тренінг ОТД Казначейства США</a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/bc-2017.shtml" title="12-16 червня 2017">== Навчання «Боротьба з корупцією»</a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="6 червня 2017">== Семінар НАДС «Мистецтво ведення переговорів»</a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="6 червня 2017">== HR-тренінг ДФС і місії EUAM</a>
+                        </li>
+						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/news.shtml" title="13 травня 2017">== Конкурс "Кращий державний службовець"</a>
@@ -166,7 +185,254 @@ margin-top:30px;
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
-									<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/bc-2017-3.shtml" title="">Триває навчання з питань запобігання корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
+										<span class="readmore"><a href="../news/bc-2017-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/bc-2017-3.shtml" class="slider_img">
+									<img src="../img/news/bc-2017-3-2.jpg" 
+									alt="Навчання з питань боротьби з корупцією триває" 
+									title="Навчання з питань боротьби з корупцією триває" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
+								<span class="readmore"><a href="../news/bc-2107-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/KaznaUSA-DFS-2017.shtml" title="">Тренінг в рамках Програми Офісу технічної допомоги Казначейства США</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінг ДФС</a>
+									</div>
+									<div class="excerpt">
+										<p>Тренінг Офісу технічної допомоги Казначейства США для ДФС України .... ....</p>
+										<span class="readmore"><a href="../news/KaznaUSA-DFS-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/KaznaUSA-DFS-2017.shtml" class="slider_img">
+									<img src="../img/news/KaznaUSA-DFS-2017-1.jpg" 
+									alt="Тренінг: «Офісу технічної допомоги Казначейства США»" 
+									title="Тренінг: «Офісу технічної допомоги Казначейства США»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Тренінг Офісу технічної допомоги Казначейства США для ДФС України ....</p>
+								<span class="readmore"><a href="../news/KaznaUSA-DFS-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">14</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/bc-2017-2.shtml" title="">Триває навчання з питань запобігання корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
+										<span class="readmore"><a href="../news/bc-2017-2.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/bc-2017-2.shtml" class="slider_img">
+									<img src="../img/news/bc-2017-2-1.jpg" 
+									alt="Навчання з питань боротьби з корупцією триває" 
+									title="Навчання з питань боротьби з корупцією триває" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
+								<span class="readmore"><a href="../news/bc-2107-2.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li-->
+
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/bc-2017.shtml" title="">Навчання уповноважених осіб з питань запобігання та виявлення корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації розпочалося двотижневе навчання уповноважених осіб ....</p>
+										<span class="readmore"><a href="../news/bc-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/bc-2017.shtml" class="slider_img">
+									<img src="../img/news/bc-2017-1.jpg" 
+									alt="Навчання з питань боротьби з корупцією" 
+									title="Навчання з питань боротьби з корупцією" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації розпочалося двотижневе навчання уповноважених осіб ....</p>
+								<span class="readmore"><a href="../news/bc-2107.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;6</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Семінар НАДС «Мистецтво ведення переговорів»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Короткосрочний семінар для державних службовців - «Мистецтво ведення переговорів»</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/NADS-seminar.jpg" 
+									alt="Семінар НАДС «Мистецтво ведення переговорів»" 
+									title="Семінар НАДС «Мистецтво ведення переговорів»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Короткосрочний семінар для державних службовців - «Мистецтво ведення переговорів»</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>			
+								
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;6</span>
+										<span class="year">2017</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Тренінг ДФС за участю місії EUAM Ukraine</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінг ДФС</a>
+									</div>
+									<div class="excerpt">
+										<p>Проведено тренінг ДФС з питань управління людськими ресурсами (HR)...</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/EUAM_HR-DFS.jpg" 
+									alt="HR-тренінг ДФС за участю Консультативної місії Європейського союзу «Консультація заради довіри»" 
+									title="HR-тренінг ДФС за участю Консультативної місії Європейського союзу «Консультація заради довіри»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Проведено тренінг ДФС з питань управління людськими ресурсами (HR)...</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>			
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -221,7 +487,7 @@ margin-top:30px;
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Тренінги</a>
+										<a href="../news/news.shtml">Тренінги ДФС</a>
 									</div>
 									<div class="excerpt">
 										<p>На базі Всеукраїнського Центру проведено семінар-тренінг «Розвиток ефективних навичок відбору. Робота з компетенціями»....</p>
