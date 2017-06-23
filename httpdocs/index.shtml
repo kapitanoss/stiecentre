@@ -16,7 +16,31 @@
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
 	<script type="text/javascript" src="news/widgets/slider_top/js/jquery.js"></script>
-	
+        <link rel="stylesheet" id="google_fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%7CPT+Sans%7CRusso+One%7CRusso+One%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=3.8" type="text/css" media="all"/>
+		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="fontello-css" href="news/widgets/slider_top/css/fontello.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/>
+	<style type="text/css">
+		#wid-39 .home-slide-image{
+			height:350px;
+			overflow:hidden;
+		}
+		#wid-39 .home-slide-caption .title {
+		width: 100% !important;
+		margin-top:30px;
+		}
+		#wid-39 .rubrik_mod{
+			left:0 !important;
+		}
+		#wid-39 .home_slider .excerpt{
+			padding-top:10px !important;
+		}
+		@media only screen and (max-width: 768px) {
+		}
+	</style>
+	<link rel="stylesheet" id="responsive-css" href="news/widgets/slider_top/css/responsive.css" type="text/css" media="all"/>
+	<script type="text/javascript" src="news/widgets/slider_top/js/jquery.simplyscroll.min.js"></script>	
 </head>
 
 <body>
@@ -57,31 +81,7 @@
  <!--**********************Вставить текст страницы********************************************-->
        <div id="layout">
 
-        <link rel="stylesheet" id="google_fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%7CPT+Sans%7CRusso+One%7CRusso+One%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=3.8" type="text/css" media="all"/>
-		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="fontello-css" href="news/widgets/slider_top/css/fontello.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/>
-<style type="text/css">
-#wid-39 .home-slide-image{
-	height:350px;
-	overflow:hidden;
-}
-#wid-39 .home-slide-caption .title {
-width: 100% !important;
-margin-top:30px;
-}
-#wid-39 .rubrik_mod{
-	left:0 !important;
-}
-#wid-39 .home_slider .excerpt{
-	padding-top:10px !important;
-}
-@media only screen and (max-width: 768px) {
-}
-</style>
-	<link rel="stylesheet" id="responsive-css" href="news/widgets/slider_top/css/responsive.css" type="text/css" media="all"/>
-	<script type="text/javascript" src="news/widgets/slider_top/js/jquery.simplyscroll.min.js"></script>
+
 
 <div class="vc_responsive">
 
@@ -103,7 +103,7 @@ margin-top:30px;
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/bc-2017.shtml" title="12-16 червня 2017">== Навчання «Боротьба з корупцією»</a>
+							<a href="../news/bc-2017.shtml" title="12-23 червня 2017">== Навчання «Боротьба з корупцією»</a>
                         </li>
 						
 						<li class="marquee-list" style="margin-left: 0px;">
@@ -190,20 +190,21 @@ margin-top:30px;
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">15</span>
+										<span class="date">23</span>
 										<span class="year">2017</span>
 										<span class="month">червня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/bc-2017-3.shtml" title="">Триває навчання з питань запобігання корупції</a>
+										<a href="../news/bc-2017-8.shtml" title="">Завершилось навчання уповноважених осіб з питань запобігання корупції</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
 										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
-										<span class="readmore"><a href="../news/bc-2017-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>У Всеукраїнському центрі на завершення навчання проведено круглий стіл на тему: 
+										«Практичні аспекти реалізації антикорупційної стратегії на державній службі» і ...</p>
+										<span class="readmore"><a href="../news/bc-2017-8.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -211,17 +212,18 @@ margin-top:30px;
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/bc-2017-3.shtml" class="slider_img">
-									<img src="../img/news/bc-2017-3-2.jpg" 
-									alt="Навчання з питань боротьби з корупцією триває" 
-									title="Навчання з питань боротьби з корупцією триває" 
+									<a href="../news/bc-2017-8.shtml" class="slider_img">
+									<img src="../img/news/bc-2017-8-1-1.jpg" 
+									alt="Завершилось навчання з питань боротьби з корупцією" 
+									title="Завершилось навчання з питань боротьби з корупцією" 
 									class="featured-image" draggable="false"/>							
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
-								<span class="readmore"><a href="../news/bc-2107-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>У Всеукраїнському центрі на завершення навчання проведено круглий стіл на тему: 
+								«Практичні аспекти реалізації антикорупційної стратегії на державній службі» і ...</p>
+								<span class="readmore"><a href="../news/bc-2107-8.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
