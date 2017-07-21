@@ -96,6 +96,7 @@
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
+
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/konk-2round.shtml" title="03 липня 2017">== ІІ тур Конкурсу «Кращий державний службовець»</a>
@@ -195,6 +196,89 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">18</span>
+										<span class="year">2017</span>
+										<span class="month">липня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/bcds-2017.shtml" title="">Центр підвищення кваліфікації, ДАБІ України: семінар з питань запобігання корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Державній архітектурно-будівельній інспекції України проведено семінар з питань запобігання корупції на державній служби ...</p>
+										<span class="readmore"><a href="../news/bcds-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/bcds-2017.shtml" class="slider_img">
+									<img src="../img/news/bcds-2017-3.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар з питань запобігання корупції" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар з питань запобігання корупції" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі проводилося навчання учасників II туру Конкурсу «Кращий державний службовець» ...</p>
+								<span class="readmore"><a href="../konkurs/konk-2round-training.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">5-7</span>
+										<span class="year">&ensp;2017</span>
+										<span class="month">&ensp;&ensp;липня</span>
+									</div>
+									<h1 class="title">
+										<a href="../konkurs/konk-2round-training.shtml" title="">Навчання учасників Конкурсу «Кращий державний службовець»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі проводилося навчання учасників II туру Конкурсу «Кращий державний службовець» ...</p>
+										<span class="readmore"><a href="../konkurs/konk-2round-training.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../konkurs/konk-2round-training.shtml" class="slider_img">
+									<img src="../img/konkurs/konk-2round-2-20.jpg" 
+									alt="II тур Всеукраїнського конкурсу «Кращий державний службовець», навчання учасників Конкурсу" 
+									title="II тур Всеукраїнського конкурсу «Кращий державний службовець»,  навчання учасників Конкурсу" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі проводилося навчання учасників II туру Конкурсу «Кращий державний службовець» ...</p>
+								<span class="readmore"><a href="../konkurs/konk-2round-training.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -230,7 +314,7 @@
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі проведено навчання за програмою тематичного короткострокового семінару «Психологія ефективного управління»</p>
+								<p>У Всеукраїнському центрі проходить ІІ тур Всеукраїнського конкурсу «Кращий державний службовець».</p>
 								<span class="readmore"><a href="../news/konk-2round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
