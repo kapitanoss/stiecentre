@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Плани-графіків підвищення кваліфікації державних службовців категорій «А», «Б», «В». 
+	Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
+ <div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>Плани-графіки підвищення кваліфікації державних службовців категорій «А», 
+«Б», «В»</span></b></p>
+
+<br />
+<p style='margin-bottom:0;'><span ><b>Якщо ви зацікавлені взяти участь у заході як учасник семінару, просимо зареєструватися (заповнити форму) 
+									до 12:00 25 серпня 2017 року.</b></a></span>
+<p style='margin-bottom:0;'><span ><b>Підтвердження реєстрації буде надіслане 26 серпня на електронну адресу, вказану під час реєстрації.</b></a></span>
+<br />
+<br />
+
+<form action="../register/index.php" method="post" name="form1" target="_blank">
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-bc-2017.pdf" target="_blank" > • План-графік навчання 
+уповноважених осіб з питань запобігання та виявлення корупції центральних органів виконавчої влади. </a></span>
+</form>
+
+<br />
+<form action="../register/index.php" method="post" name="form2" target="_blank">
+<input type="hidden" name="func">
+<input type="hidden" name="max">
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-cat-A-2017.pdf" target="_blank" > • План-графік підвищення 
+кваліфікації державних службовців категорій «А».</a> Тема семінару: "Сучасне лідерство: новий підхід до державного управління" (4-8 вересня, 18-22 вересня 2017 року).</span></p>
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_4veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 4 вересня 2017 року.</span></p>
+<div id="idframe_4veresn" style="display: none" > 
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 4 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='20'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 4 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='21'; document.form2.max.value='2'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 4 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='22'; document.form2.max.value='3'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 4 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='23'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 4 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='24'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_5veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 5 вересня 2017 року.</span></p>
+<div id="idframe_5veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 5 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='25'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 5 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='26'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 5 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='27'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 5 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='28'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 5 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='29'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_6veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 6 вересня 2017 року.</span></p>
+<div id="idframe_6veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 6 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='30'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 6 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='31'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 6 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='32'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 6 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='33'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 6 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='34'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_7veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 7 вересня 2017 року.</span></p>
+<div id="idframe_7veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 7 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='35'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 7 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='36'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 7 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='37'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 7 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='38'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 7 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='39'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_8veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 8 вересня 2017 року.</span></p>
+<div id="idframe_8veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 8 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='40'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 8 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='41'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 8 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='42'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 8 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='43'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 8 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='44'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_18veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 18 вересня 2017 року.</span></p>
+<div id="idframe_18veresn" style="display: none" > 
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 18 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='50'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 18 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='51'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 18 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='52'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 18 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='53'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 18 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='54'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_19veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 19 вересня 2017 року.</span></p>
+<div id="idframe_19veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='55'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='56'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='57'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='58'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='59'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_20veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 20 вересня 2017 року.</span></p>
+<div id="idframe_20veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 20 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='60'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 20 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='61'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 20 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='62'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 20 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='63'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 20 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='64'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_21veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 21 вересня 2017 року.</span></p>
+<div id="idframe_21veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 21 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='65'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 21 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='66'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 21 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='67'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 21 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='68'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 21 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='69'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_22veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 22 вересня 2017 року.</span></p>
+<div id="idframe_22veresn" style="display: none" >
+	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='70'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 2. "Лідерство та ефективна комунікація" 22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='71'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 3. "Лідерство та управління персоналом" 22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='72'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 4. "Лідерство та стратегічне управління державним органом" 22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='73'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span>Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form2.func.value='74'; document.form2.max.value='25'; document.form2.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+</form>
+
+<br />
+<form action="../register/index.php" method="post" name="form3" target="_blank">
+<input type="hidden" name="func">
+<input type="hidden" name="max">
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-center-gr6-9-2017.pdf" target="_blank" > • План-графік підвищення 
+кваліфікації державних службовців центральних органів виконавчої влади, посади яких належать до 6-9 групи оплати праці.</a></span></p>
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_gr6-9-2017').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація...</a></span></p>
+<div id="idframe_gr6-9-2017" style="display: none" >
+	<p style='margin-bottom:0;'><span >Вид навчальної програми. Тема семінару:</span></p>
+	<p style='margin-bottom:0;'><span >Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці). Термін навчання: 04-15 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='90'; document.form3.max.value='40'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування». Термін навчання: 07-08 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='91'; document.form3.max.value='43'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Україна-НАТО: напрями співробітництва та партнерства». Термін навчання: 07-08 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='92'; document.form3.max.value='46'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Інноваційні технології в публічному управлінні». Термін навчання: 11-12 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='93'; document.form3.max.value='39'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Смарт-технології». Термін навчання: 14-15 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='94'; document.form3.max.value='62'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Стратегічне управління та планування». Термін навчання: 18-19 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='95'; document.form3.max.value='94'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Тематичний короткостроковий семінар «Управління змінами». Термін навчання: 21-22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='96'; document.form3.max.value='47'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >Професійна програма підвищення кваліфікації державних службовців (7-9 групи оплати праці). Термін навчання: 02-13 жовтня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='97'; document.form3.max.value='60'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+</form>
+
+<br />
+<form action="../register/index.php" method="post" name="form4" target="_blank">
+<input type="hidden" name="func">
+<input type="hidden" name="max">
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-zastHR-2017.pdf" target="_blank" > • План-графік підвищення кваліфікації 
+керівників та заступників керівників центральних служб управління персоналом центральних органів виконавчої влади.</a></span></p>
+<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_zastHR-2017').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація...</a></span></p>
+<div id="idframe_zastHR-2017" style="display: none" >
+	<p style='margin-bottom:0;'><span >Назва професійної програми:</span></p>
+	<p style='margin-bottom:0;'><span >«Інноваційні технології управління персоналом». Термін навчання: 04-08 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form4.func.value='150'; document.form4.max.value='25'; document.form4.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >«Інноваційні технології управління персоналом». Термін навчання: 11-15 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form4.func.value='151'; document.form4.max.value='25'; document.form4.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >«Інноваційні технології управління персоналом». Термін навчання: 18-22 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form4.func.value='152'; document.form4.max.value='25'; document.form4.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+	<p style='margin-bottom:0;'><span >«Інноваційні технології управління персоналом». Термін навчання: 25-29 вересня 2017 року.</span>
+	<input type="submit" name="submitnads" onclick="document.form4.func.value='153'; document.form4.max.value='25'; document.form4.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"></p>
+</div>
+</form>
+<br />
+
+<br>
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />  
+<br /> 
+         
+</span>
+</p>
+
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>
