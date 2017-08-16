@@ -1,4 +1,5 @@
-<?php
+<?php   
+header("Content-type: text/html;charset=utf-8");
 //include config
 require_once('includes/config.php');
 
@@ -13,9 +14,10 @@ if(isset($_POST['submit'])){
 	
 	if($user->login($username,$password)){ 
 		$_SESSION['username'] = $username;
+		if (($_SESSION['username']=='centrekiev')) {$_SESSION['admin']=true; } else {$_SESSION['admin']=false;} 
 		header('Location: memberpage.php');
 		exit;
-	
+		
 	} else {
 		$error[] = 'Wrong username or password or your account has not been activated.';
 	}
@@ -36,8 +38,8 @@ require('layout/header.php');
 
 	    <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
 			<form role="form" method="post" action="" autocomplete="off">
-				<h2>Вхід</h2>
-				<!--p>Ще не зареєстровані? <a href='./'>Реєстрація!</a></p-->
+				<h2>Р’С…С–Рґ</h2>
+				<!--p>Р©Рµ РЅРµ Р·Р°СЂРµС”СЃС‚СЂРѕРІР°РЅС–? <a href='./'>Р РµС”СЃС‚СЂР°С†С–СЏ!</a></p-->
 				<hr>
 
 				<?php
@@ -69,11 +71,11 @@ require('layout/header.php');
 				?>
 
 				<div class="form-group">
-					<input type="text" name="username" id="username" class="form-control input-lg" placeholder="Ім'я для входу" value="<?php if(isset($error)){ echo $_POST['username']; } ?>" tabindex="1">
+					<input type="text" name="username" id="username" class="form-control input-lg" placeholder="Р†Рј'СЏ РґР»СЏ РІС…РѕРґСѓ" value="<?php if(isset($error)){ echo $_POST['username']; } ?>" tabindex="1">
 				</div>
 
 				<div class="form-group">
-					<input type="password" name="password" id="password" class="form-control input-lg" placeholder="Пароль" tabindex="3">
+					<input type="password" name="password" id="password" class="form-control input-lg" placeholder="РџР°СЂРѕР»СЊ" tabindex="3">
 				</div>
 				
 				<div class="row">
@@ -84,8 +86,8 @@ require('layout/header.php');
 				
 				<hr>
 				<div class="row">
-					<div class="col-xs-6 col-md-6"><input type="submit" name="submit" value="Зайти" class="btn btn-primary btn-block btn-lg" tabindex="5"></div>
-					<p><a href='../nads/nads.shtml'>Відміна</a></p>
+					<div class="col-xs-6 col-md-6"><input type="submit" name="submit" value="Р—Р°Р№С‚Рё" class="btn btn-primary btn-block btn-lg" tabindex="5"></div>
+					<p><a href='../nads/nadsnew.shtml'>Р’С–РґРјС–РЅР°</a></p>
 				</div>
 			</form>
 		</div>
