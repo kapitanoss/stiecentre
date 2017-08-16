@@ -68,7 +68,7 @@ $_SESSION['groupcat']=$_POST['func'];
 		case '73':	$groupname='Модуль 4. "Лідерство та стратегічне управління державним органом" 22 вересня 2017 року.'; break;
 		case '74':	$groupname='Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 22 вересня 2017 року.'; break;
 
-        case '90':	$groupname='Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці). Термін навчання: 04-15 вересня 2017 року.'; break;
+        case '90':	$groupname='Професійна програма підвищення кваліфікації державних службовців (6 группа оплати праці). Термін навчання: 04-15 вересня 2017 року.'; break;
         case '91':	$groupname='Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування». Термін навчання: 07-08 вересня 2017 року.'; break;
 		case '92':	$groupname='Тематичний короткостроковий семінар «Україна-НАТО: напрями співробітництва та партнерства». Термін навчання: 07-08 вересня 2017 року.'; break;
 		case '93':	$groupname='Тематичний короткостроковий семінар «Інноваційні технології в публічному управлінні». Термін навчання: 11-12 вересня 2017 року.'; break;
@@ -94,9 +94,8 @@ $_SESSION['groupcat']=$_POST['func'];
 
 			$row = $stmt->fetch(PDO::FETCH_ASSOC);
 			//echo "COUNT members group".$groupcat." = ". $row['count'] .".";
-			$_SESSION['count']=$row['count']; 
 			if ($row['count']>=$maxmembers) {
-				$registrclosed = "Реєстрація вже закрита. Групу слухачів сформовано."; }
+				$registrclosed = "Реєстрацію закінчено. Групу слухачів сформовано."; }
 		} catch(PDOException $e) {
 		    echo '<p class="bg-danger">'.$e->getMessage().'</p>';
 		}
@@ -196,7 +195,7 @@ $groupcat=$_SESSION['groupcat'];
 	if(strlen($_POST['posada']) <= 0) {$error[] = 'Заповніть всі поля. '.'Повна назва посади';}
 	if(strlen($_POST['slugtelefon']) <= 0) {$error[] = 'Заповніть всі поля. '.'Службовий телефон 0YY XXXXXXX';}
 	if(strlen($_POST['category']) <= 0) {$error[] = 'Заповніть всі поля. '.'Категорія оплати (А Б В)';}
-	if(strlen($_POST['groplata']) <= 0) {$error[] = 'Заповніть всі поля. '.'Група оплати праці';}
+	if(strlen($_POST['groplata']) <= 0) {$error[] = 'Заповніть всі поля. '.'Группа оплати праці';}
 	if(strlen($_POST['stagdergyear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, років';}
 	//if(strlen($_POST['stagdergmonth']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, місяців';}
 	if(strlen($_POST['stagposadayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж роботи на посаді, що займаєте, років';}
@@ -223,7 +222,7 @@ $groupcat=$_SESSION['groupcat'];
 	if(!isset($_POST['posada'])) {$error[] = 'Заповніть всі поля. '.'Повна назва посади';}
 	if(!isset($_POST['slugtelefon'])) {$error[] = 'Заповніть всі поля. '.'Службовий телефон 0YY XXXXXXX';}
 	if(!isset($_POST['category'])) {$error[] = 'Заповніть всі поля. '.'Категорія оплати (А Б В)';}
-	if(!isset($_POST['groplata'])) {$error[] = 'Заповніть всі поля. '.'Група оплати праці';}
+	if(!isset($_POST['groplata'])) {$error[] = 'Заповніть всі поля. '.'Группа оплати праці';}
 	if(!isset($_POST['stagdergyear'])) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, років';}
 	if(!isset($_POST['stagdergmonth'])) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, місяців';}
 	if(!isset($_POST['stagposadayear'])) {$error[] = 'Заповніть всі поля. '.'Стаж роботи на посаді, що займаєте, років';}
@@ -248,99 +247,97 @@ $groupcat=$_SESSION['groupcat'];
 		//create the activasion code
 		$activasion = md5(uniqid(rand(),true));
 		//echo "G2".$groupcat."GG"; 
+		try {
 			try {
 				$stmt = $db->prepare('SELECT COUNT(*) as count FROM members WHERE groupcat = :groupcat AND active="Yes" GROUP BY groupcat ');
 				$stmt->execute(array('groupcat' => $groupcat));
 
 				$row = $stmt->fetch(PDO::FETCH_ASSOC);
-				//echo "COUNT members group".$groupcat." = ". $row['count'] ."."; exit;
-				$_SESSION['count']=$row['count'];
+				//echo "COUNT members group".$groupcat." = ". $row['count'] .".";
 				if ($row['count']>=$maxmembers) { 
-					$registrclosedonline = "реєстрація вже закрита. Групу слухачів сформовано."; 
-					$groupcat=0; 
-					//echo "+".$registrclosedonline."+".$row['count']."+".$maxmembers."+"; 
-					$_SESSION['registrclosedonline']=$registrclosedonline;
+
+					$registrclosedonline = "Реєстрацію закінчено. Групу слухачів сформовано."; $groupcat=0; 
+					//echo "+".$registrclosedonline."+".$row['count']."+".$maxmembers."+";
 					//echo "G2_1".$groupcat."GG"; 
 					}
-				else {
-					try {
-					
-					//echo "====!".$hashedpassword."!==".$activasion."!==";
-					//echo "<script>console.group('".$hashedpassword."');console.log('$hashedpassword=');console.groupEnd();</script>";
-					//exit;
-					//insert into database with a prepared statement
-					//echo "G3".$groupcat."GG=ISRERT="; 
-					$stmt = $db->prepare('INSERT INTO members( username, password, prizvishe, name, pobatkovi, birthday, 
-							organvlady, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, 
-							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, osvitavnz, osvitayear, osvitaspec, 
-							pisliaosvitavnz, pisliaosvitayear, pisliaosvitaspec, naukastup, pidvishenia, tema, groupcat,  
-							active) 
-							VALUES 							( :username, :password, :prizvishe, :name, :pobatkovi, :birthday, 
-							:organvlady, :adresamisto, :adresaraion, :adresaoblast, :posada, :email, :slugtelefon, :category, :groplata, 
-							:stagdergyear, :stagdergmonth, :stagposadayear, :stagposadamonth, :osvitavnz, :osvitayear, :osvitaspec, 
-							:pisliaosvitavnz, :pisliaosvitayear, :pisliaosvitaspec, :naukastup, :pidvishenia, :tema, :groupcat, 
-							:active)');
-					$stmt->execute(array(
-						':username' => $_POST['username'],
-						':password' => $hashedpassword,
-						':prizvishe' => $_POST['prizvishe'], 
-						':name' => $_POST['name'], 
-						':pobatkovi' => $_POST['pobatkovi'], 
-						':birthday' => $_POST['birthday'], 
-						':organvlady' => $_POST['organvlady'],
-						':adresamisto' => $_POST['adresamisto'],
-						':adresaraion' => $_POST['adresaraion'],
-						':adresaoblast' => $_POST['adresaoblast'],
-						':posada' => $_POST['posada'], 
-						':email' => $_POST['email'],
-						':slugtelefon' => $_POST['slugtelefon'],
-						':category' => $_POST['category'],
-						':groplata' => $_POST['groplata'], 
-						':stagdergyear' => $_POST['stagdergyear'],
-						':stagdergmonth' => $_POST['stagdergmonth'],
-						':stagposadayear' => $_POST['stagposadayear'],
-						':stagposadamonth' => $_POST['stagposadamonth'],
-						':osvitavnz' => $_POST['osvitavnz'],
-						':osvitayear' => $_POST['osvitayear'],
-						':osvitaspec' => $_POST['osvitaspec'],			
-						':pisliaosvitavnz' => $_POST['pisliaosvitavnz'],
-						':pisliaosvitayear' => $_POST['pisliaosvitayear'],
-						':pisliaosvitaspec' => $_POST['pisliaosvitaspec'],
-						':naukastup' => $_POST['naukastup'],
-						':pidvishenia' => $_POST['pidvishenia'],
-						':tema' => $_POST['tema'],
-						':groupcat' => $groupcat,		
-						':active' => 'Yes'/*$activasion*/
-					));
-					$id = $db->lastInsertId('memberID');
-
-					//send email
-					$to = $_POST['email'];
-					$subject = "Registration Confirmation";
-					$body = "<p>Thank you for registering at demo site.</p>
-					<p>To activate your account, please click on this link: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
-					<p>Regards Site Admin</p>";
-
-					$mail = new Mail();
-					$mail->setFrom(SITEEMAIL);
-					$mail->addAddress($to);
-					$mail->subject($subject);
-					$mail->body($body);
-					$mail->send();
-
-					//redirect to index page
-					header('Location: index.php?action=joined');
-					exit;
-
-					//else catch the exception and show the error.
-					} catch(PDOException $e) {
-						$error[] = $e->getMessage();
-					}
-				}					
 			} catch(PDOException $e) {
 				echo '<p class="bg-danger">'.$e->getMessage().'</p>';
 			}
+
+//echo "====!".$hashedpassword."!==".$activasion."!==";
+//echo "<script>console.group('".$hashedpassword."');console.log('$hashedpassword=');console.groupEnd();</script>";
+//exit;
+			//insert into database with a prepared statement
+			//echo "G3".$groupcat."GG=ISRERT="; 
+			$stmt = $db->prepare('INSERT INTO members( username, password, prizvishe, name, pobatkovi, birthday, 
+					organvlady, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, 
+					stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, osvitavnz, osvitayear, osvitaspec, 
+					pisliaosvitavnz, pisliaosvitayear, pisliaosvitaspec, naukastup, pidvishenia, tema, groupcat,  
+					active) 
+					VALUES 							( :username, :password, :prizvishe, :name, :pobatkovi, :birthday, 
+					:organvlady, :adresamisto, :adresaraion, :adresaoblast, :posada, :email, :slugtelefon, :category, :groplata, 
+					:stagdergyear, :stagdergmonth, :stagposadayear, :stagposadamonth, :osvitavnz, :osvitayear, :osvitaspec, 
+					:pisliaosvitavnz, :pisliaosvitayear, :pisliaosvitaspec, :naukastup, :pidvishenia, :tema, :groupcat, 
+					:active)');
+			$stmt->execute(array(
+				':username' => $_POST['username'],
+				':password' => $hashedpassword,
+				':prizvishe' => $_POST['prizvishe'], 
+				':name' => $_POST['name'], 
+				':pobatkovi' => $_POST['pobatkovi'], 
+				':birthday' => $_POST['birthday'], 
+				':organvlady' => $_POST['organvlady'],
+				':adresamisto' => $_POST['adresamisto'],
+				':adresaraion' => $_POST['adresaraion'],
+				':adresaoblast' => $_POST['adresaoblast'],
+				':posada' => $_POST['posada'], 
+				':email' => $_POST['email'],
+				':slugtelefon' => $_POST['slugtelefon'],
+				':category' => $_POST['category'],
+				':groplata' => $_POST['groplata'], 
+				':stagdergyear' => $_POST['stagdergyear'],
+				':stagdergmonth' => $_POST['stagdergmonth'],
+				':stagposadayear' => $_POST['stagposadayear'],
+				':stagposadamonth' => $_POST['stagposadamonth'],
+				':osvitavnz' => $_POST['osvitavnz'],
+				':osvitayear' => $_POST['osvitayear'],
+				':osvitaspec' => $_POST['osvitaspec'],			
+				':pisliaosvitavnz' => $_POST['pisliaosvitavnz'],
+				':pisliaosvitayear' => $_POST['pisliaosvitayear'],
+				':pisliaosvitaspec' => $_POST['pisliaosvitaspec'],
+				':naukastup' => $_POST['naukastup'],
+				':pidvishenia' => $_POST['pidvishenia'],
+				':tema' => $_POST['tema'],
+				':groupcat' => $groupcat,		
+				':active' => 'Yes'/*$activasion*/
+			));
+			$id = $db->lastInsertId('memberID');
+
+			//send email
+			$to = $_POST['email'];
+			$subject = "Registration Confirmation";
+			$body = "<p>Thank you for registering at demo site.</p>
+			<p>To activate your account, please click on this link: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
+			<p>Regards Site Admin</p>";
+
+			$mail = new Mail();
+			$mail->setFrom(SITEEMAIL);
+			$mail->addAddress($to);
+			$mail->subject($subject);
+			$mail->body($body);
+			$mail->send();
+
+			//redirect to index page
+			header('Location: index.php?action=joined');
+			exit;
+
+		//else catch the exception and show the error.
+		} catch(PDOException $e) {
+		    $error[] = $e->getMessage();
+		}
+
 	}
+
 }
 
 //define page title
@@ -363,18 +360,12 @@ input[pattern]:invalid{
 	    <div class="col-xs-12 col-sm-8 col-md-16 col-sm-offset-2 col-md-offset-1">
 			<form role="form" method="post" action="" autocomplete="off">
 		<?php if(isset($registrclosed)) { 
-					echo '<h3>'.$_SESSION['count']."/".$_SESSION['maxmembers']."(".$_SESSION['groupcat'].")".":".$_SESSION['groupname'].'<h3>';
-					echo '<h2 class="bg-success">'.$registrclosed.'</h2>'	;
+					echo '<p class="bg-danger">'.$registrclosed.'</p>'	;
 					echo "<p>Вже зареєстровані? <a href='login.php'>Увійти</a></p>";
-			  }
-			  elseif (isset($registrclosedonline))	{
-						echo '<h3>'.$_SESSION['count']."/".$_SESSION['maxmembers']."(".$_SESSION['groupcat'].")".":".$_SESSION['groupname'].'<h3>';
-						echo '<h2 class="bg-success">'."На жаль, ".$_SESSION['registrclosedonline'].'</h2>';
-					    echo "<p>Вже зареєстровані? <a href='login.php'>Увійти</a></p>";
-						}
-			  else {   ?>
+				}
+				else 	{   ?>
 				<h2>Реєстрація. </h2>
-				<h3><?php echo $_SESSION['count']."/".$_SESSION['maxmembers']."(".$_SESSION['groupcat'].")".":".$_SESSION['groupname']; ?></h3>
+				<h3><?php echo $_SESSION['groupname'] ?></h3>
 				<p>Вже зареєстровані? <a href='login.php'>Увійти</a></p>
 
 				<?php
@@ -385,9 +376,10 @@ input[pattern]:invalid{
 					}
 				}
 				//if action is joined show sucess
-				
-				if(isset($_GET['action']) && $_GET['action'] == 'joined'){ 
-					echo "<h2 class='bg-success'>Вітаємо! Реєстрація завершилась успішно.<br/>"; 
+				if(isset($_GET['action']) && $_GET['action'] == 'joined'){
+					echo "<h2 class='bg-success'>Реєстрація завершилась";
+					 if(isset($registrclosedonline)) {echo "Але на жаль ".$registrclosedonline;} 
+					 else {echo " успішно. Вітаємо! ";}
 					echo "Можете <a href='login.php'>увійти</a> зі своім логіном+паролем для редагування своіх даних.
 					Або <a href='../nads/nads.shtml'>повернутися</a> на сайт.</h2>";
 					//echo "<h2 class='bg-success'>Registration successful, please check your email to activate your account.</h2>";
@@ -396,13 +388,11 @@ input[pattern]:invalid{
 
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-4">
-					<label>Ім'я для входу</label>
-					<div class="form-group">
+						<div class="form-group">
 							<input type="text" pattern="[A-Za-z0-9]{3,50}" name="username" id="username" class="form-control " placeholder="Ім'я для входу" title="Тільки латінські літери и ціфри" value="<?php if(isset($error)){ echo $_POST['username']; } ?>" tabindex="1">
 						</div>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-5">
-					<label>Email</label>					
 						<div class="form-group">
 							<input type="email" name="email" id="email" class="form-control " placeholder="Електронна пошта" title="Електронна пошта" value="<?php if(isset($error)){ echo $_POST['email']; } ?>" tabindex="2">
 						</div>						
@@ -455,7 +445,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 				
-				<label>Адреса місця роботи (нас пункт, район, область)</label>
+				<label>Адреса місця роботи</label>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -475,7 +465,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Назва посади (повна)</label>
+				
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -487,33 +477,31 @@ input[pattern]:invalid{
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="tel" pattern="0[0-9]{9}" name="slugtelefon" id="slugtelefon" class="form-control " placeholder="Службовий телефон 0YYXXXXXXX"
-							value="<?php if(isset($error)){ echo $_POST['slugtelefon']; } ?>" title="Службовий телефон 0YYXXXXXXX" tabindex="14">
+							<input type="tel" pattern="0[0-9]{9}" name="slugtelefon" id="slugtelefon" class="form-control " placeholder="Службовий телефон 0YY XXXXXXX" value="<?php if(isset($error)){ echo $_POST['slugtelefon']; } ?>" title="Службовий телефон 0YY XXXXXXX" tabindex="14">
 						</div>
 					</div>
 				</div>				
-				<label>Категорія посади (А Б В)</label>
+				<label>Категорія оплати (А Б В)</label>
 				<div class="row">
 					<div class="col-xs-2 col-sm-2 col-md-2">
 						<div class="form-group">
-							<input type="text" pattern="[А,Б,В]" name="category" id="category" class="form-control "  value="<?php if(isset($error)){ echo $_POST['category']; } ?>" title="Категорія посади (А Б В)" tabindex="15">
+							<input type="text" pattern="[А,Б,В]" name="category" id="category" class="form-control "  value="<?php if(isset($error)){ echo $_POST['category']; } ?>" title="Категорія оплати (А Б В)" tabindex="15">
 						</div>
 					</div>
-				</div>
-				<label>Група оплати праці</label>				
+				</div>					
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="form-group">
-							<input type="text" name="groplata" id="groplata" class="form-control " placeholder="Група оплати праці" value="<?php if(isset($error)){ echo $_POST['groplata']; } ?>" title="Група оплати праці" tabindex="16">
+							<input type="text" name="groplata" id="groplata" class="form-control " placeholder="Группа оплати праці" value="<?php if(isset($error)){ echo $_POST['groplata']; } ?>" title="Группа оплати праці" tabindex="16">
 						</div>
 					</div>
 				</div>
 
-				<label>Стаж державної служби (років, місяців)</label>
+				<label>Стаж державної служби</label>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="integer" pattern="[0-9]{1,2}" name="stagdergyear" id="stagdergyear" class="form-control " placeholder=" років" value="<?php if(isset($error)){ echo $_POST['stagdergyear']; } ?>" title="Стаж державної служби, років" tabindex="17">
+							<input type="integer" name="stagdergyear" id="stagdergyear" class="form-control " placeholder=" років" value="<?php if(isset($error)){ echo $_POST['stagdergyear']; } ?>" title="Стаж державної служби, років" tabindex="17">
 						</div>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3">
@@ -523,11 +511,11 @@ input[pattern]:invalid{
 					</div>					
 				</div>				
 
-				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label>
+				<label>Стаж роботи на посаді, що займаєте</label>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="integer" pattern="[0-9]{1,2}" name="stagposadayear" id="stagposadayear" class="form-control " placeholder="років" value="<?php if(isset($error)){ echo $_POST['stagposadayear']; } ?>" title="Стаж роботи на посаді, років" tabindex="19">
+							<input type="integer" name="stagposadayear" id="stagposadayear" class="form-control " placeholder="років" value="<?php if(isset($error)){ echo $_POST['stagposadayear']; } ?>" title="Стаж роботи на посаді, років" tabindex="19">
 						</div>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3">
@@ -591,7 +579,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label >Ви підвищували кваліфікацію за останні 3 роки?</label >				
+				<label >Чи підвищували кваліфікацію за останні 3 роки?</label >				
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-5">
 						<div class="form-group" >
@@ -613,8 +601,10 @@ input[pattern]:invalid{
 	</div>
 
 </div>
-<?php			}?>
-<?php		  }?>
+<?php				}
+				?>
+<?php				}
+				?>
 <?php
 //include header template
 require('layout/footer.php');

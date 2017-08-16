@@ -59,7 +59,7 @@ if(isset($_POST['submit'])){
 	if(strlen($_POST['posada']) <= 0) {$error[] = 'Заповніть всі поля. '.'Повна назва посади';}
 	if(strlen($_POST['slugtelefon']) <= 0) {$error[] = 'Заповніть всі поля. '.'Службовий телефон 0YY XXXXXXX';}
 	if(strlen($_POST['category']) <= 0) {$error[] = 'Заповніть всі поля. '.'Категорія оплати (А Б В)';}
-	if(strlen($_POST['groplata']) <= 0) {$error[] = 'Заповніть всі поля. '.'Група оплати праці';}
+	if(strlen($_POST['groplata']) <= 0) {$error[] = 'Заповніть всі поля. '.'Группа оплати праці';}
 	if(strlen($_POST['stagdergyear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, років';}
 	//if(strlen($_POST['stagdergmonth']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, місяців';}
 	if(strlen($_POST['stagposadayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж роботи на посаді, що займаєте, років';}
@@ -201,18 +201,6 @@ if(isset($_POST['submit'])){
 			$username =$row['username']; 
 			$email =$row['email']; 
 			$groupcat = $row['groupcat'];
-			try {
-				$stmt = $db->prepare('SELECT COUNT(*) as count FROM members WHERE groupcat = :groupcat AND active="Yes" GROUP BY groupcat ');
-				$stmt->execute(array('groupcat' => $groupcat));
-
-				$row1 = $stmt->fetch(PDO::FETCH_ASSOC);
-				//echo "COUNT members group".$groupcat." = ".$row1['count']."=".$username."="; exit;
-				$count=$row1['count'];
-				//else catch the exception and show the error.
-				} catch(PDOException $e) {
-						echo '<p class="bg-danger">'.$e->getMessage().'</p>';
-				}
-			//else catch the exception and show the error.
 			} catch(PDOException $e) {
 				echo '<p class="bg-danger">'.$e->getMessage().'</p>';
 			}
@@ -277,7 +265,7 @@ if(isset($_POST['submit'])){
 		case '73':	$groupname='Модуль 4. "Лідерство та стратегічне управління державним органом" 22 вересня 2017 року.'; break;
 		case '74':	$groupname='Модуль 5. "Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони" 22 вересня 2017 року.'; break;
 
-        case '90':	$groupname='Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці). Термін навчання: 04-15 вересня 2017 року.'; break;
+        case '90':	$groupname='Професійна програма підвищення кваліфікації державних службовців (6 группа оплати праці). Термін навчання: 04-15 вересня 2017 року.'; break;
         case '91':	$groupname='Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування». Термін навчання: 07-08 вересня 2017 року.'; break;
 		case '92':	$groupname='Тематичний короткостроковий семінар «Україна-НАТО: напрями співробітництва та партнерства». Термін навчання: 07-08 вересня 2017 року.'; break;
 		case '93':	$groupname='Тематичний короткостроковий семінар «Інноваційні технології в публічному управлінні». Термін навчання: 11-12 вересня 2017 року.'; break;
@@ -331,7 +319,7 @@ input[pattern]:invalid{
 			<form role="form" method="post" action="" autocomplete="off">
 
 				<h2>Редагування данних. </h2>
-				<h3><?php echo $count."/"."(".$groupcat.")".":".$groupname; ?></h3>
+				<h3><?php echo $groupname; ?></h3>
 				<!--p>Вже зареєстровані? <a href='login.php'>Увійти</a></p-->
 
 				<?php
@@ -343,7 +331,7 @@ input[pattern]:invalid{
 				}
 				//if action is joined show sucess
 				if(isset($_GET['action']) && $_GET['action'] == 'joined'){
-					echo "<h2 class='bg-success'>Редагування завершено!<br />";
+					echo "<h2 class='bg-success'>Редагування завершилось!";
 					echo "Можете <a href='login.php'>увійти</a> зі своім логіном+паролем для редагування своіх даних. 
 					Або <a href='../nads/nads.shtml'>повернутися</a> на сайт.</h2>";
 					//echo "<h2 class='bg-success'>Registration successful, please check your email to activate your account.</h2>";
@@ -352,14 +340,12 @@ input[pattern]:invalid{
 
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-4">
-					<label>Ім'я для входу</label>					
 						<div class="form-group">
 							<input readonly type="text" name="username" id="username" class="form-control " placeholder="Ім'я для входу" title="Тільки латінські літери и ціфри" 
 							value="<?php echo $username; if(isset($error)){ echo $_POST['username']; } ?>" tabindex="1">
 						</div>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-5">
-					<label>Email</label>						
 						<div class="form-group">
 							<input type="email" name="email" id="email" class="form-control " placeholder="Електронна пошта" title="Електронна пошта" 
 							value="<?php echo $email; if(isset($error)){ echo $_POST['email']; } ?>" tabindex="2">
@@ -418,7 +404,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 				
-				<label>Адреса місця роботи (нас пункт, район, область)</label>
+				<label>Адреса місця роботи</label>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -441,7 +427,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Назва посади (повна)</label>				
+				
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -454,35 +440,34 @@ input[pattern]:invalid{
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="tel" pattern="0[0-9]{9}" name="slugtelefon" id="slugtelefon" class="form-control " placeholder="Службовий телефон 0YYXXXXXXX" 
-							value="<?php echo $row['slugtelefon']; if(isset($error)){ echo $_POST['slugtelefon']; } ?>" title="Службовий телефон 0YYXXXXXXX" tabindex="14">
+							<input type="tel" pattern="0[0-9]{9}" name="slugtelefon" id="slugtelefon" class="form-control " placeholder="Службовий телефон 0YY XXXXXXX" 
+							value="<?php echo $row['slugtelefon']; if(isset($error)){ echo $_POST['slugtelefon']; } ?>" title="Службовий телефон 0YY XXXXXXX" tabindex="14">
 						</div>
 					</div>
 				</div>				
-				<label>Категорія посади (А Б В)</label>
+				<label>Категорія оплати (А Б В)</label>
 				<div class="row">
 					<div class="col-xs-2 col-sm-2 col-md-2">
 						<div class="form-group">
 							<input type="text" pattern="[А,Б,В,а,б,в]" name="category" id="category" class="form-control "  
-							value="<?php echo $row['category']; if(isset($error)){ echo $_POST['category']; } ?>" title="Категорія посади (А Б В)" tabindex="15">
+							value="<?php echo $row['category']; if(isset($error)){ echo $_POST['category']; } ?>" title="Категорія оплати (А Б В)" tabindex="15">
 						</div>
 					</div>
-				</div>
-				<label>Група оплати праці</label>					
+				</div>					
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="form-group">
-							<input type="text" name="groplata" id="groplata" class="form-control " placeholder="Група оплати праці" 
-							value="<?php echo $row['groplata']; if(isset($error)){ echo $_POST['groplata']; } ?>" title="Група оплати праці" tabindex="16">
+							<input type="text" name="groplata" id="groplata" class="form-control " placeholder="Группа оплати праці" 
+							value="<?php echo $row['groplata']; if(isset($error)){ echo $_POST['groplata']; } ?>" title="Группа оплати праці" tabindex="16">
 						</div>
 					</div>
 				</div>
 
-				<label>Стаж державної служби (років, місяців)</label>
+				<label>Стаж державної служби</label>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="integer" pattern="[0-9]{1,2}" name="stagdergyear" id="stagdergyear" class="form-control " placeholder=" років" 
+							<input type="integer" name="stagdergyear" id="stagdergyear" class="form-control " placeholder=" років" 
 							value="<?php echo $row['stagdergyear']; if(isset($error)){ echo $_POST['stagdergyear']; } ?>" title="Стаж державної служби, років" tabindex="17">
 						</div>
 					</div>
@@ -494,11 +479,11 @@ input[pattern]:invalid{
 					</div>					
 				</div>				
 
-				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label>
+				<label>Стаж роботи на посаді, що займаєте</label>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
-							<input type="integer" pattern="[0-9]{1,2}" name="stagposadayear" id="stagposadayear" class="form-control " placeholder="років" 
+							<input type="integer" name="stagposadayear" id="stagposadayear" class="form-control " placeholder="років" 
 							value="<?php echo $row['stagposadayear']; if(isset($error)){ echo $_POST['stagposadayear']; } ?>" title="Стаж державної служби, років" tabindex="19">
 						</div>
 					</div>
@@ -572,7 +557,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label >Ви підвищували кваліфікацію за останні 3 роки?</label >				
+				<label >Чи підвищували кваліфікацію за останні 3 роки?</label >				
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-5">
 						<div class="form-group" >

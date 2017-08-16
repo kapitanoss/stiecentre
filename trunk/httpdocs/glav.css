@@ -37,6 +37,9 @@ td {
 br {
     text-indent: 0.5in
 }
+
+
+
 /*Стиль ссылок на странице*/
 a:link {
 	/*color: white; /*#009900;*/
@@ -59,7 +62,18 @@ a:active {
 	color: blue; /*#990033;*/
 }
 
-
+a.linknads:link  {
+	/*color: white; /*#009900;*/
+	color: #F26522;
+}
+a.linknads:visited  {
+	
+	/*color: #009900;*/
+	color: #F26522; /*#175b7c;;*/
+}
+a.linknads:hover  {
+		color:#f29d75;
+}
 
 /*стиль для заглавия страницы*/
 .st1 {
