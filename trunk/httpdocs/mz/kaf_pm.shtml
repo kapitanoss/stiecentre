@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Кафедра Податкового менеджменту, Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Кафедра Менеджменту, Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -75,17 +75,17 @@
 	
 	<p><span ><b>Навчальні посібники (модулі) та лекційні матеріали, які розроблені науково-педагогічним складом кафедри та використовуються в 
 	навчальному процесі підвищення кваліфікації державних службовців</b> (очний, комбінований та дистанційний формат):</span></p>
-  <style>
+  <!--style>
    li.clsymb  {
     list-style-type: none; /* Убираем маркеры у списка */
    }
    li.clsymb p span:before {
     content: "- "; /* Добавляем в качестве маркера символ */
    }
-   </style>
+   </style-->
 	<ol style="margin-left: 30px;">
 
-	    <li><p style='text-indent:0px'><span ><i>Державне управління і державна служба</i></span></p></li>
+	    <li><p style='text-indent:0px'><span ><i>Державне управління і державна служба</i></span></p>
 		<ul >	
 			<li ><p style='text-indent:0px; margin-bottom: 0px;'><span >Інформаційне забезпечення державного управління та державної служби (дистанційно)</span></p></li>
 
@@ -93,15 +93,17 @@
 
 			<li ><p style='text-indent:0px'><span >Українська мова та формування риторичної комунікації державних службовців (дистанційно та очно)</span></p></li>
 		</ul>
-
-	    <li><p style='text-indent:0px; margin-bottom: 0px;'><span ><i>Державне регулювання економіки</i></span></p></li>
+		</li>
+		
+	    <li><p style='text-indent:0px; margin-bottom: 0px;'><span ><i>Державне регулювання економіки</i></span></p>
 		<ul >	
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Інноваційна діяльність в Україні як фактор забезпечення економічного розвитку та стабільності (дистанційно)</span></p></li>
 
 			<li><p style='text-indent:0px'><span >Угода про асоціацію: новий формат відносин між Україною та ЄС (очно)</span></p></li>
 		</ul>
-
-	    <li><p style='text-indent:0px'><span ><i>Система оподаткування, податкова політика</i></span></p></li>
+		</li>
+		
+	    <li><p style='text-indent:0px'><span ><i>Система оподаткування, податкова політика</i></span></p>
 		<ul >	
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Бюджетно-податкова політика сучасної держави та тенденції розвитку податкових систем країн ЄС. 
 			Вектори для України (очно та дистанційно)</span></p></li>
@@ -117,8 +119,9 @@
 			<li><p style='text-indent:0px'><span >Теоретичні основи адміністрування ПДВ та податку на прибуток в Україні та особливості 
 			їх справляння в деяких зарубіжних країнах (очно)</span></p></li>
 		</ul>
+		</li>		
 
-	    <li><p style='text-indent:0px'><span ><i>Регіональна політика</i></span></p></li>
+	    <li><p style='text-indent:0px'><span ><i>Регіональна політика</i></span></p>
 		<ul >	
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Системний підхід до стратегічного планування регіонального розвитку. Податковий потенціал 
 			регіону (дистанційно)</span></p></li>
@@ -127,8 +130,9 @@
 
 			<li><p style='text-indent:0px'><span >Управління регіональним розвитком. Місцеві бюджети (очно)</span></p></li>
 		</ul>
-
-	    <li><p style='text-indent:0px'><span ><i>Соціальні та психологічні аспекти керівництва</i></span></p></li>
+		</li>
+		
+	    <li><p style='text-indent:0px'><span ><i>Соціальні та психологічні аспекти керівництва</i></span></p>
 		<ul >	
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Прийняття управлінських рішень на засадах лідерства (очно)</span></p></li>
 
@@ -146,111 +150,127 @@
 			<li><p style='text-indent:0px'><span >Практичне застосування сучасних методик самоменеджменту і тайм-менеджменту в організації 
 			роботи державних службовців з метою уникнення синдрому професійного вигорання (очно та дистанційно)</span></p></li>
 
-			</ul>	
+		</ul>
+		</li>			
 	</ol>
-	<p style='text-align:center; '><b><span class="st4">Викладачі кафедри Менеджменту</span></b></p>
+	<p style='text-align:center; '><b><span class="st3">Викладачі кафедри менеджменту</span></b></p>
     <table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/ischenko.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Іщенко Т.М., завідувач кафедри менеджменту" 
+		  title="Іщенко Т.М., завідувач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Іщенко Т.М.</b> - к.е.н., завідувач кафедри</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/yvv.jpg" align="left" width="120" height="170" 
-		  style=" border: 8px solid #ffffff;" alt="Юрченко Володимир Володимирович доцент кафедри податкового менеджменту, кандидат економічних наук,
-		доцент радник податкової служби I рангу, державний радник податкової служби III ранг, директор Центру"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/yurchenko.jpg" align="left" width="120" height="170" 
+		  style=" border: 8px solid #ffffff;"  alt="Юрченко Володимир Володимирович, к.е.н., доцент, доцент кафедри менеджменту" 
+		  title="Юрченко Володимир Володимирович, к.е.н., доцент, доцент кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Юрченко В.В.</b> - к.е.н., доцент, доцент кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/linev.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Линьов Костянтин Олександрович, к.н. з держ. упр., доцент, доцент кафедри менеджменту"
+		  title="Линьов Костянтин Олександрович, к.н. з держ. упр., доцент, доцент кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Линьов К.О.</b> - к.н. з держ. упр., доцент, доцент кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/nazarenko.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Назаренко Олена Аркадіївна, к.ю.н., доцент, доцент кафедри менеджменту"
+		  title="Назаренко Олена Аркадіївна, к.ю.н., доцент, доцент кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Назаренко О.А.</b> - к.ю.н., доцент, доцент кафедри</span></p> </div></td>
         </tr>
 		<tr>
-        <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+        <td width="130" height="170"><div align="center"><img src="../mz/img/sveshnikov.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, старший викладач кафедри менеджменту"
+		  title="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, старший викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Свешніков С.М.</b> - канд. тех. наук, старший науковий співробітник, старший викладач кафедри</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/zvv.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Завірюха Валентина Василівна, старший викладач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/zaviruha.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Завірюха Валентина Василівна, к.п.н., доцент, старший викладач кафедри менеджменту"
+		  title="Завірюха Валентина Василівна, к.п.н., доцент, старший викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Завірюха В.В.</b> - к.п.н., доцент, старший викладач кафедри</span></p> </div></td>
         </tr> 
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/1234567.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Діденко Людмила Вікторівна, доцент кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/didenko.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Діденко Людмила Вікторівна, к.е.н., доцент, старший викладач кафедри менеджменту"
+		  title="Діденко Людмила Вікторівна, к.е.н., доцент, старший викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Діденко Л.В. </b> - к.е.н., доцент, старший викладач кафедри</span></p> </div></td>
         </tr>		
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/kryzganovsky.jpg" align="left" width="120" height="150" 
+		  style=" border: 8px solid #ffffff;" alt="Крижановський Віктор Іванович, завідувач старший викладач кафедри менеджменту"
+		  title="Крижановський Віктор Іванович, завідувач старший викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Крижановський В.І.</b> - старший викладач кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/shut.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Шуть Валентина Яківна, старший викладач кафедри менеджменту"
+		  title="Шуть Валентина Яківна, старший викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Шуть В.Я.</b> - старший викладач кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/pismeny.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Письменний О.М., викладач кафедри менеджменту"
+		  title="Письменний О.М., викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
-			<span ><b>Письменний О.М</b> - к.е.н., викладач кафедри</span></p> </div></td>
+			<span ><b>Письменний О.М.</b> - к.е.н., викладач кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/bogodilova.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна, викладач кафедри менеджменту"
+		  title="Богоділова Маріанна Євгенівна, викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Богоділова М.Є.</b> - викладач кафедри</span></p> </div></td>
         </tr>
 		<tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/balahnina.jpg" align="left" width="120" height="160" 
+		  style=" border: 8px solid #ffffff;" alt="Балахніна Олена Станіславівна, викладач кафедри менеджменту"
+		  title="Балахніна Олена Станіславівна, викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Балахніна О.С.</b> - викладач кафедри </span></p> </div></td>
         </tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/03.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна завідувач кафедри податкового менеджменту"/></div></td>
+        <tr>
+		<td width="130" height="170"><div align="center"><img src="../mz/img/vasilkivska.jpg" align="left" width="120" height="150" 
+		  style=" border: 8px solid #ffffff;" alt="Васильківська Н.П., викладач кафедри менеджменту"
+		  title="Васильківська Н.П., викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Васильківська Н.П.</b> - викладач кафедри </span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/111111.jpg" align="left" width="120" height="150" 
-		  style=" border: 10px solid #ffffff;" alt="Хижняк Наталія Сергіївна, методист кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/hyzgniak.jpg" align="left" width="120" height="140" 
+		  style=" border: 10px solid #ffffff;" alt="Хижняк Наталія Сергіївна, методист вищої категорії кафедри менеджменту"
+		  title="Хижняк Наталія Сергіївна, методист вищої категорії кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Хижняк Н.С.</b> - методист вищої категорії</span></p> </div></td>
         </tr>
         <tr>
-          <td width="130" height="170"><div align="center"><img src="../mz/img/111111.jpg" align="left" width="120" height="150" 
-		  style=" border: 10px solid #ffffff;" alt="Хижняк Наталія Сергіївна, методист кафедри податкового менеджменту"/></div></td>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/sosinec.jpg" align="left" width="120" height="160" 
+		  style=" border: 10px solid #ffffff;" alt="Сосинець І.В., методист вищої категорії кафедри менеджменту"
+		  title="Сосинець І.В., методист вищої категорії кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Сосинець І.В.</b> - методист вищої категорії</span></p> </div></td>

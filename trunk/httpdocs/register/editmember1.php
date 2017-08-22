@@ -184,7 +184,7 @@ if(isset($_POST['submit'])){
 			$mail->send();*/
 
 			//redirect to index page
-			header('Location: index.php?action=joined');
+			 header('Location: memberpage.php');  //header('Location: index.php?action=joined');
 			exit;
 
 		//else catch the exception and show the error.
@@ -234,7 +234,7 @@ if(isset($_POST['submit'])){
 }
 
 //define page title
-$title = 'Demo';
+$title = 'Редагування даних';
 
 //include header template
 require('layout/header.php');
@@ -248,7 +248,7 @@ input[pattern]:invalid{
 
 <div class="container">
 
-	<div class="row">
+	<div class="row needfield">
 
 	    <div class="col-xs-12 col-sm-8 col-md-16 col-sm-offset-2 col-md-offset-1">
 			<form role="form" method="post" action="" autocomplete="off">
@@ -272,7 +272,7 @@ input[pattern]:invalid{
 					//echo "<h2 class='bg-success'>Registration successful, please check your email to activate your account.</h2>";
 				}else {
 				?>
-
+				<hr style="border: 1px solid #000;">
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-4">
 					<label>Ім'я для входу</label>					
@@ -284,7 +284,7 @@ input[pattern]:invalid{
 					<div class="col-xs-6 col-sm-6 col-md-5">
 					<label>Email</label>						
 						<div class="form-group">
-							<input type="email" name="email" id="email" class="form-control " placeholder="Електронна пошта" title="Електронна пошта" 
+							<input readonly type="email" name="email" id="email" class="form-control " placeholder="Електронна пошта" title="Електронна пошта" 
 							value="<?php echo $email; if(isset($error)){ echo $_POST['email']; } ?>" tabindex="2">
 						</div>						
 					</div>
@@ -303,7 +303,7 @@ input[pattern]:invalid{
 					</div>
 				</div-->
 				
-				<label>ПІБ, дата народження</label>
+				<label>ПІБ, дата народження</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -331,7 +331,7 @@ input[pattern]:invalid{
 					</div>		
 				</div>
 				
-				<label>Місце роботи</label>
+				<label>Місце роботи</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -341,7 +341,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 				
-				<label>Адреса місця роботи (нас пункт, район, область)</label>
+				<label>Адреса місця роботи (нас пункт, район, область)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -364,7 +364,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Назва посади (повна)</label>				
+				<label>Назва посади (повна)</label><span>*</span>	
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -373,7 +373,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Службовий телефон 0YYXXXXXXX</label>
+				<label>Службовий телефон 0YYXXXXXXX</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -382,7 +382,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>				
-				<label>Категорія посади (А Б В)</label>
+				<label>Категорія посади (А Б В)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-2 col-sm-2 col-md-2">
 						<div class="form-group">
@@ -391,7 +391,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Група оплати праці</label>					
+				<label>Група оплати праці</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="form-group">
@@ -401,7 +401,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 
-				<label>Стаж державної служби (років, місяців)</label>
+				<label>Стаж державної служби (років, місяців)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -417,7 +417,7 @@ input[pattern]:invalid{
 					</div>					
 				</div>				
 
-				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label>
+				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -433,7 +433,7 @@ input[pattern]:invalid{
 					</div>					
 				</div>	
 
-				<label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label>
+				<label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -455,7 +455,7 @@ input[pattern]:invalid{
 					</div>						
 				</div>
 
-				<label>Післядипломна освіта (ВНЗ, спеціальність, рік закінчення)</label>
+				<label>Післядипломна освіта (ВНЗ, спеціальність, рік закінчення)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -505,7 +505,8 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				
+				<hr style="border: 1px solid #000;">
+				<p><span>* </span>Обов'язкові поля</p>
 				<div class="row">
 					<!--input type="hidden" name="group" id="group" class="form-control input-lg" value="<php echo $groupcat; ?>" >
 					<input type="hidden" name="maxmembers" id="maxmembers" class="form-control input-lg" value="<php echo $maxmembers; ?>" -->

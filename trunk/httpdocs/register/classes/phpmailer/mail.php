@@ -3,13 +3,13 @@ include('phpmailer.php');
 class Mail extends PhpMailer
 {
     // Set default variables for all new objects
-    public $From     = 'g.zvolinsky@gmail.com';
+    public $From     = 'noreply.centrekievmail@gmail.com';
     public $FromName = SITETITLE;
     public $Host     = 'smtp.gmail.com:465';
     public $Mailer   = 'smtp';
     public $SMTPAuth = true;
-    public $Username = 'g.zvolinsky@gmail.com';
-    public $Password = 'Nhfdtym1';
+    public $Username = 'noreply.centrekievmail@gmail.com';
+    public $Password = 'vcpkmail';
     public $SMTPSecure = 'ssl';
     public $WordWrap = 75;
 

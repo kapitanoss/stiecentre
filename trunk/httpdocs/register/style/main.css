@@ -1,7 +1,11 @@
 .bg-danger, .bg-success {
 	padding: 0 5px;
 }
-
+div.needfield span {
+	color:red;
+	font-weight: bold;
+	font-size: 14px;
+}
 a {
 	color: #EF1F2F;
 	text-decoration: none;
