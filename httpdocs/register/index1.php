@@ -235,23 +235,24 @@ $groupcat=$_SESSION['groupcat'];
 						':pidvishenia' => $_POST['pidvishenia'],
 						':tema' => $_POST['tema'],
 						':groupcat' => $groupcat,							
-						':active' => 'Yes'/*$activasion*/
+						':active' => /*'Yes'*/ $activasion
 					));
 					$id = $db->lastInsertId('memberID');
 
 					//send email
 					$to = $_POST['email'];
-					$subject = "Registration Confirmation";
-					$body = "<p>Thank you for registering at demo site.</p>
-					<p>To activate your account, please click on this link: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
-					<p>Regards Site Admin</p>";
+					$subject = "Підтвердження реєстрації.";
+					$body = "<p>Дякуємо за реєстрацію на сайті http://www.centre-kiev.kiev.ua/</p>
+					<p><b>".$_SESSION['groupname']."<br /></b></p>
+					<p>Для активації облікового запису, будь ласка, натисніть на посилання: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
+					<p>С найкращими побажанями, Admin!</p>";
 
 					$mail = new Mail();
 					$mail->setFrom(SITEEMAIL);
 					$mail->addAddress($to);
 					$mail->subject($subject);
 					$mail->body($body);
-					//$mail->send();
+					$mail->send();
 
 					//redirect to index page
 					header('Location: index1.php?action=joined');
@@ -269,7 +270,7 @@ $groupcat=$_SESSION['groupcat'];
 }
 
 //define page title
-$title = 'Demo';
+$title = 'Реєстрація';
 
 //include header template
 require('layout/header.php');
@@ -283,7 +284,7 @@ input[pattern]:invalid{
 
 <div class="container">
 
-	<div class="row">
+	<div class="row needfield">
 
 	    <div class="col-xs-12 col-sm-8 col-md-16 col-sm-offset-2 col-md-offset-1">
 			<form role="form" method="post" action="" autocomplete="off">
@@ -302,6 +303,7 @@ input[pattern]:invalid{
 				<h3><?php if (defined('DEBUG') && DEBUG) {echo $_SESSION['count']."/".$_SESSION['maxmembers']."(".$_SESSION['groupcat'].")".":";} echo $_SESSION['groupname']; ?></h3>
 				<p>Вже зареєстровані? <a href='login.php'>Увійти для редагування своїх даних</a></p>
 
+
 				<?php
 				//check for any errors
 				if(isset($error)){
@@ -312,22 +314,23 @@ input[pattern]:invalid{
 				//if action is joined show sucess
 				
 				if(isset($_GET['action']) && $_GET['action'] == 'joined'){ 
-					echo "<h2 class='bg-success'>Вітаємо! Реєстрація завершилась успішно.<br/></h2>"; 
-					echo "<h3>Можете <a href='login.php'>увійти</a> зі своім логіном+паролем для редагування своіх даних.
-					Або <a href='../nads/nadsnew.shtml'>повернутися</a> на сайт.</h3>";
-					//echo "<h2 class='bg-success'>Registration successful, please check your email to activate your account.</h2>";
+					echo "<h2 class='bg-success'>Для закінчення реєстрації: Перевірте електронну пошту, т.к. 
+					на введений раніше Email надіслано листа з посиланням для активації. Перейдіть за цим посиланням, 
+					активувавши таким чином свій обліковий запис.</h2>";
 				}else {
 				?>
+				<p>На вказаний у формі Email прийде запит на підтвердження реєстрації. Якщо листа немає достатньо довгий час, будь ласка, перевірте чи не потрапляє лист до спаму.</p>	
+				<hr style="border: 1px solid #000;">
 
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-4">
-					<label>Ім'я для входу</label>
+					<label>Ім'я для входу</label><span>*</span>
 					<div class="form-group">
 							<input type="text" pattern="[A-Za-z0-9]{3,50}" name="username" id="username" class="form-control " placeholder="Ім'я для входу" title="Тільки латінські літери и ціфри" value="<?php if(isset($error)){ echo $_POST['username']; } ?>" tabindex="1">
 						</div>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-5">
-					<label>Email</label>					
+					<label>Email</label><span>*</span>					
 						<div class="form-group">
 							<input type="email" name="email" id="email" class="form-control " placeholder="Електронна пошта" title="Електронна пошта" value="<?php if(isset($error)){ echo $_POST['email']; } ?>" tabindex="2">
 						</div>						
@@ -336,18 +339,20 @@ input[pattern]:invalid{
 				
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-4">
+						<label>Пароль</label><span>*</span>	
 						<div class="form-group">
 							<input type="password" name="password" id="password" class="form-control " placeholder="Пароль" value="<?php if(isset($error)){ echo $_POST['password']; } ?>" title="Пароль" tabindex="3">
 						</div>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-4">
-						<div class="form-group">
+					<label>Підтвердження пароля</label><span>*</span>	
+					<div class="form-group">
 							<input type="password" name="passwordConfirm" id="passwordConfirm" class="form-control " placeholder="Підтвердити пароль" value="<?php if(isset($error)){ echo $_POST['passwordConfirm']; } ?>" title="Підтвердити пароль" tabindex="4">
 						</div>
 					</div>
 				</div>
 				
-				<label>ПІБ, дата народження</label>
+				<label>ПІБ, дата народження</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -366,12 +371,12 @@ input[pattern]:invalid{
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
-							<input type="date" name="birthday" id="birthday" class="form-control " placeholder="Дата народження" value="<?php if(isset($error)){ echo $_POST['birthday']; } ?>" title="Дата народження" tabindex="8">
+							<input type="date" name="birthday" id="birthday" class="form-control " value="<?php if(isset($error)){ echo $_POST['birthday']; } ?>" title="Дата народження" tabindex="8">
 						</div>
 					</div>		
 				</div>
 				
-				<label>Місце роботи</label>
+				<label>Місце роботи</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -380,7 +385,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 				
-				<label>Адреса місця роботи (нас пункт, район, область)</label>
+				<label>Адреса місця роботи (нас. пункт, район, область)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
@@ -400,7 +405,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Назва посади (повна)</label>
+				<label>Назва посади (повна)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -408,7 +413,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Службовий телефон 0YYXXXXXXX</label>
+				<label>Службовий телефон 0YYXXXXXXX</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -417,7 +422,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>				
-				<label>Категорія посади (А Б В)</label>
+				<label>Категорія посади (А Б В)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-2 col-sm-2 col-md-2">
 						<div class="form-group">
@@ -425,7 +430,7 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				<label>Група оплати праці</label>				
+				<label>Група оплати праці</label><span>*</span>			
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="form-group">
@@ -434,7 +439,7 @@ input[pattern]:invalid{
 					</div>
 				</div>
 
-				<label>Стаж державної служби (років, місяців)</label>
+				<label>Стаж державної служби (років, місяців)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -448,7 +453,7 @@ input[pattern]:invalid{
 					</div>					
 				</div>				
 
-				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label>
+				<label>Стаж роботи на посаді, що займаєте (років, місяців)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="form-group">
@@ -462,7 +467,7 @@ input[pattern]:invalid{
 					</div>					
 				</div>	
 
-				<label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label>
+				<label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -476,7 +481,7 @@ input[pattern]:invalid{
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
-							<input type="date" name="osvitayear" id="osvitayear" class="form-control " placeholder="Рік закінчення" value="<?php if(isset($error)){ echo $_POST['osvitayear']; } ?>" title="Рік закінчення" tabindex="23">
+							<input type="date" name="osvitayear" id="osvitayear" class="form-control "  value="<?php if(isset($error)){ echo $_POST['osvitayear']; } ?>" title="Рік закінчення" tabindex="23">
 						</div>	
 					</div>						
 				</div>
@@ -495,7 +500,7 @@ input[pattern]:invalid{
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">
-							<input type="date" name="pisliaosvitayear" id="pisliaosvitayear" class="form-control " placeholder="Рік закінчення" value="<?php if(isset($error)){ echo $_POST['pisliaosvitayear']; } ?>" title="Рік закінчення" tabindex="26">
+							<input type="date" name="pisliaosvitayear" id="pisliaosvitayear" class="form-control "  value="<?php if(isset($error)){ echo $_POST['pisliaosvitayear']; } ?>" title="Рік закінчення" tabindex="26">
 						</div>	
 					</div>						
 				</div>
@@ -526,7 +531,8 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>
-				
+				<hr style="border: 1px solid #000;">
+				<p><span>* </span>Обов'язкові поля</p>	
 				<div class="row">
 					<input type="hidden" name="group" id="group" class="form-control input-lg" value="<?php echo $groupcat; ?>" >
 					<input type="hidden" name="maxmembers" id="maxmembers" class="form-control input-lg" value="<?php echo $maxmembers; ?>" >
@@ -546,10 +552,4 @@ require('layout/footer.php');
 ?>
 
 
-</div>
-
-<?php
-//include header template
-require('layout/footer.php');
-?>
 

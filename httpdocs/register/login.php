@@ -19,7 +19,7 @@ if(isset($_POST['submit'])){
 		exit;
 		
 	} else {
-		$error[] = 'Wrong username or password or your account has not been activated.';
+		$error[] = "Невірне ім'я користувача чи пароль або ваш обліковий запис не активовано.";
 	}
 
 }//end if submit
@@ -55,13 +55,13 @@ require('layout/header.php');
 					//check the action
 					switch ($_GET['action']) {
 						case 'active':
-							echo "<h2 class='bg-success'>Your account is now active you may now log in.</h2>";
+							echo "<h2 class='bg-success'>Вітаємо! Ваш обліковий запис активован. Можете здійснити вхід для редагування своїх даних.</h2>";
 							break;
 						case 'reset':
-							echo "<h2 class='bg-success'>Please check your inbox for a reset link.</h2>";
+							echo "<h2 class='bg-success'>Перевірте свою електронну пошту, Вам надіслано листа з посиланням для скидання пароля.</h2>";
 							break;
 						case 'resetAccount':
-							echo "<h2 class='bg-success'>Password changed, you may now login.</h2>";
+							echo "<h2 class='bg-success'>Пароль змінено, можете здійснити вхід для редагування своїх даних.</h2>";
 							break;
 					}
 
@@ -80,7 +80,7 @@ require('layout/header.php');
 				
 				<div class="row">
 					<div class="col-xs-9 col-sm-9 col-md-9">
-						 <!--a href='reset.php'>Forgot your Password?</a-->
+						 <a href='reset.php'>Забули пароль?</a>
 					</div>
 				</div>
 				

@@ -4,7 +4,7 @@ require('includes/config.php');
 
 //if not logged in redirect to login page
 if(!$user->is_logged_in()){ header('Location: login.php'); } 
-if(isset($_POST['submitsave'])){ //Список зареєстрованих слухачів групи
+if(isset($_POST['submitsave'])){ //CSV Excel - список зареєстрованих слухачів групи
 			try {//echo date_default_timezone_get();
 			//echo "select * from members" | mysql --host=localhost  --user=dfsu --password=Centre-2017/08/01 DATABASE.site_db > output.txt
 			$datefile = date('_m.d.y H_i_s');
@@ -63,7 +63,7 @@ if(isset($_POST['submitlist'])){ //Список зареєстрованих с�
 			}
 }
 
-if(isset($_POST['submituser'])){ //Зареєстровані слухачі 
+if(isset($_POST['submituser'])&&(strlen($_POST['prizvishe']) > 0)){ //Зареєстровані слухачі по фільтру
 			try {
 			$stmtuser = $db->prepare('SELECT * FROM members WHERE prizvishe LIKE :prizvishe ORDER BY datezapovn');
 			$stmtuser->execute(array('prizvishe' => $_POST['prizvishe'].'%'));
@@ -110,9 +110,9 @@ require('layout/header.php');
 						<div class="form-group">
 						<label for="sel1">Список тем/семінарів:</label>						
 						<select class="form-control" name="groupcat" id='mymenu'>   					
-						<?php while ($row = $stmt->fetch(PDO::FETCH_NUM, PDO::FETCH_ORI_NEXT)) {
-						  $data = $row[0] . "\t" . $row[1] . "\t" . grname($row[1]) ;
-						  echo "<option value='" . $row[1] ."'"; if($_POST['groupcat']==$row[1]) {echo  ' selected ';  } echo '>Кільк слухачів:' . $row[0]  . "\t" . grname($row[1]) . "</option>";
+						<?php while ($row = $stmt->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
+						  $data = $row['count'] . "\t" . $row['groupcat'] . "\t" . grname($row['groupcat']) ;
+						  echo "<option value='" . $row['groupcat'] ."'"; if($_POST['groupcat']==$row['groupcat']) {echo  ' selected ';  } echo '>Кільк слухачів:' . $row['count']  . "\t" . grname($row['groupcat']) . "</option>";
 						  //print $data;
 						}?>
 						</select>
@@ -137,8 +137,8 @@ require('layout/header.php');
 					<label for="comment"><?php echo grname($_POST['groupcat']); ?> Список слухачів:</label>
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
 					$i=1; 
-					while ($rowcat = $stmtcat->fetch(PDO::FETCH_NUM, PDO::FETCH_ORI_NEXT)) {
-					 echo   $i  . "\t" . $rowcat[3] . "\t" . $rowcat[4] . "\t" . $rowcat[5] . "\t" . $rowcat[32] . "\t" . "\n";
+					while ($rowcat = $stmtcat->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
+					 echo   $i  . "\t" . $rowcat['prizvishe'] . "\t" . $rowcat['name'] . "\t" . $rowcat['pobatkovi'] . "\t" . $rowcat['datezapovn'] . "\t" . "\n";
 					 $i=$i+1;   //print $data;
 					}?></textarea>
 				</div>
@@ -149,8 +149,8 @@ require('layout/header.php');
 				<div class="form-group">
 					<label for="comment">Зберегти файл <a href="file.csv"><?php echo 'file.csv</a><br>'; echo grname($_POST['groupcat']); ?></label>
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
-					 $a=file_get_contents("file.csv",false);
-                                    echo $a;
+						$a=file_get_contents("file.csv",false);
+						echo $a;
 					?></textarea>
 
 				</div>
@@ -159,7 +159,7 @@ require('layout/header.php');
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-5">
 						<div class="form-group">
-						<input type="input" name="prizvishe" id="prizvishe" placeholder="Призвище" class="form-control" value="" >								
+						<input type="input" name="prizvishe" id="prizvishe" placeholder="Призвище" class="form-control"  >								
 						</div>
 						</div>
 				</div>					
@@ -175,8 +175,8 @@ require('layout/header.php');
 					<label for="comment">Дані слухачів: "<?php echo $_POST['prizvishe']; ?>"</label>
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
 					$i=1; 
-					while ($rowuser = $stmtuser->fetch(PDO::FETCH_NUM, PDO::FETCH_ORI_NEXT)) {
-					 echo   $i  . "\t" . $rowuser[3] . "\t" . $rowuser[4] . "\t" . $rowuser[5] . "\t" .  grname($rowuser[29]) . "\n";
+					while ($rowuser = $stmtuser->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
+					 echo   $i  . "\t" . $rowuser['prizvishe'] . "\t" . $rowuser['name'] . "\t" . $rowuser['pobatkovi'] . "\t" .  grname($rowuser['groupcat']) . "\n";
 					 $i=$i+1;   //print $data;
 					}?></textarea>
 				</div>				

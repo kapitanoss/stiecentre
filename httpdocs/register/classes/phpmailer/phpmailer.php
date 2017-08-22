@@ -60,7 +60,7 @@ class PhpMailer
      * The character set of the message.
      * @type string
      */
-    public $CharSet = 'iso-8859-1';
+    public $CharSet = 'utf-8';//'iso-8859-1';
 
     /**
      * The MIME Content-type of the message.

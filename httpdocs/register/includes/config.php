@@ -24,7 +24,7 @@ define("DBNAME", "site_db");
 
 //application address
 define('DIR','http://www.centre-kiev.kiev.ua/register/');
-define('SITEEMAIL','g.zvolinsky@gmail.com');
+define('SITEEMAIL','noreply.centrekievmail@gmail.com');
 function adefine($value) {
 	$admin1=$value; echo "adefine=".$admin1."! value=". $value;
 	return $value;

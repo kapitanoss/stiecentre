@@ -1,4 +1,5 @@
 <?php
+header("Content-type: text/html;charset=utf-8"); 
 require('includes/config.php');
 
 //collect values from the url
@@ -23,7 +24,7 @@ if(is_numeric($memberID) && !empty($active)){
 		exit;
 
 	} else {
-		echo "Your account could not be activated."; 
+		echo "Ваш обликовий запис неможливо активувати."; 
 	}
 	
 }
