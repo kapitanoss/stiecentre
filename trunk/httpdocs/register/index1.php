@@ -30,7 +30,7 @@ $_SESSION['groupcat']=$_POST['func'];
 //if logged in redirect to members page
 if( $user->is_logged_in() ){ header('Location: memberpage.php'); }
 
-//if form has been submitted process it
+//if form has been submitted process it - "Реєстрація"
 if(isset($_POST['submit'])){
 
 $maxmembers=$_SESSION['maxmembers'];
@@ -114,21 +114,26 @@ $groupcat=$_SESSION['groupcat'];
 	if(strlen($_POST['name']) <= 0) {$error[] = 'Заповніть всі поля. '."Ім'я";}
 	if(strlen($_POST['pobatkovi']) <= 0) {$error[] = 'Заповніть всі поля. '.'По батькові';}
 	if(strlen($_POST['birthday']) <= 0) {$error[] = 'Заповніть всі поля. '.'Дата народження';}
-	if(strlen($_POST['organvlady']) <= 0) {$error[] = 'Заповніть всі поля. '.'Орган влади';}
+	
+	if ((($_POST['misceroboty'])== 1)&& (strlen($_POST['centrevlada'])<=0)) {$error[] = 'Заповніть всі поля. '.'Орган влади ц';}
+	if ((($_POST['misceroboty'])== 2)&& (strlen($_POST['organvlady'])<=0)) {$error[] = 'Заповніть всі поля. '.'Орган влади і';}
+	
+	//if(strlen($_POST['organvlady']) <= 0) {$error[] = 'Заповніть всі поля. '.'Орган влади';}
 	if(strlen($_POST['adresamisto']) <= 0) {$error[] = 'Заповніть всі поля. '.'Нас. пункт';}
-	if(strlen($_POST['adresaraion']) <= 0) {$error[] = 'Заповніть всі поля. '.'Район';}
-	if(strlen($_POST['adresaoblast']) <= 0) {$error[] = 'Заповніть всі поля. '.'Область';}	
+	//if(strlen($_POST['adresaraion']) <= 0) {$error[] = 'Заповніть всі поля. '.'Район';}
+	//if(strlen($_POST['adresaoblast']) <= 0) {$error[] = 'Заповніть всі поля. '.'Область';}	
 	if(strlen($_POST['posada']) <= 0) {$error[] = 'Заповніть всі поля. '.'Повна назва посади';}
 	if(strlen($_POST['slugtelefon']) <= 0) {$error[] = 'Заповніть всі поля. '.'Службовий телефон 0YYXXXXXXX';}
 	if(strlen($_POST['category']) <= 0) {$error[] = 'Заповніть всі поля. '.'Категорія оплати (А Б В)';}
 	if(strlen($_POST['groplata']) <= 0) {$error[] = 'Заповніть всі поля. '.'Група оплати праці';}
+	if(strlen($_POST['rang']) <= 0) {$error[] = 'Заповніть всі поля. '.'Ранг державної служби';}	
 	if(strlen($_POST['stagdergyear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, років';}
 	//if(strlen($_POST['stagdergmonth']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж державної служби, місяців';}
 	if(strlen($_POST['stagposadayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж роботи на посаді, що займаєте, років';}
 	//if(strlen($_POST['stagposadamonth']) <= 0) {$error[] = 'Заповніть всі поля. '.'Стаж роботи на посаді, що займаєте, місяців';}
-	if(strlen($_POST['osvitavnz']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Назва ВНЗ';}
-	if(strlen($_POST['osvitayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Рік закінчення';}
-	if(strlen($_POST['osvitaspec']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Спеціальність';}
+	//if(strlen($_POST['osvitavnz']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Назва ВНЗ';}
+	//if(strlen($_POST['osvitayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Рік закінчення';}
+	//if(strlen($_POST['osvitaspec']) <= 0) {$error[] = 'Заповніть всі поля. '.'Перша вища освіта. Спеціальність';}
 	//if(strlen($_POST['pisliaosvitavnz']) <= 0) {$error[] = 'Заповніть всі поля. '.'Післядипломна освіта. Назва ВНЗ';}
 	//if(strlen($_POST['pisliaosvitayear']) <= 0) {$error[] = 'Заповніть всі поля. '.'Післядипломна освіта. Рік закінчення';}
 	//if(strlen($_POST['pisliaosvitaspec']) <= 0) {$error[] = 'Заповніть всі поля. '.'Післядипломна освіта. Спеціальність';}
@@ -196,12 +201,12 @@ $groupcat=$_SESSION['groupcat'];
 					//insert into database with a prepared statement
 					//echo "G3".$groupcat."GG=ISRERT="; 
 					$stmt = $db->prepare('INSERT INTO members( username, password, prizvishe, name, pobatkovi, birthday, 
-							organvlady, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, 
+							organvlady, misceroboty, centrevlada, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata,rang, 
 							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, osvitavnz, osvitayear, osvitaspec, 
 							pisliaosvitavnz, pisliaosvitayear, pisliaosvitaspec, naukastup, pidvishenia, tema, groupcat,  
 							active) 
 							VALUES 							( :username, :password, :prizvishe, :name, :pobatkovi, :birthday, 
-							:organvlady, :adresamisto, :adresaraion, :adresaoblast, :posada, :email, :slugtelefon, :category, :groplata, 
+							:organvlady, :misceroboty, :centrevlada, :adresamisto, :adresaraion, :adresaoblast, :posada, :email, :slugtelefon, :category, :groplata, :rang, 
 							:stagdergyear, :stagdergmonth, :stagposadayear, :stagposadamonth, :osvitavnz, :osvitayear, :osvitaspec, 
 							:pisliaosvitavnz, :pisliaosvitayear, :pisliaosvitaspec, :naukastup, :pidvishenia, :tema, :groupcat, 
 							:active)');
@@ -213,6 +218,8 @@ $groupcat=$_SESSION['groupcat'];
 						':pobatkovi' => $_POST['pobatkovi'], 
 						':birthday' => $_POST['birthday'], 
 						':organvlady' => $_POST['organvlady'],
+						':misceroboty' => $_POST['misceroboty'],
+						':centrevlada' => $_POST['centrevlada'],
 						':adresamisto' => $_POST['adresamisto'],
 						':adresaraion' => $_POST['adresaraion'],
 						':adresaoblast' => $_POST['adresaoblast'],
@@ -220,7 +227,8 @@ $groupcat=$_SESSION['groupcat'];
 						':email' => $_POST['email'],
 						':slugtelefon' => $_POST['slugtelefon'],
 						':category' => $_POST['category'],
-						':groplata' => $_POST['groplata'], 
+						':groplata' => $_POST['groplata'],
+						':rang' => $_POST['rang'],
 						':stagdergyear' => $_POST['stagdergyear'],
 						':stagdergmonth' => $_POST['stagdergmonth'],
 						':stagposadayear' => $_POST['stagposadayear'],
@@ -270,24 +278,19 @@ $groupcat=$_SESSION['groupcat'];
 }
 
 //define page title
-$title = 'Реєстрація';
+$title = 'Реєстрація слухача';
 
 //include header template
 require('layout/header.php');
 ?>
 
-<style>
-input[pattern]:invalid{
-  color:red;
-}
-</style>
 
 <div class="container">
 
 	<div class="row needfield">
 
 	    <div class="col-xs-12 col-sm-8 col-md-16 col-sm-offset-2 col-md-offset-1">
-			<form role="form" method="post" action="" autocomplete="off">
+			<form name="form_reg" role="form" method="post" action="" autocomplete="off">
 		<?php if(isset($registrclosed)) { 
 					echo '<h3>'.$_SESSION['count']."/".$_SESSION['maxmembers']."(".$_SESSION['groupcat'].")".":".$_SESSION['groupname'].'<h3>';
 					echo '<h2 class="bg-success">'.$registrclosed.'</h2>'	;
@@ -376,12 +379,43 @@ input[pattern]:invalid{
 					</div>		
 				</div>
 				
-				<label>Місце роботи</label><span>*</span>
-				<div class="row">
-					<div class="col-xs-6 col-sm-6 col-md-12">
-						<div class="form-group">
-							<input type="text" name="organvlady" id="organvlady" class="form-control " placeholder="Орган влади" value="<?php if(isset($error)){ echo $_POST['organvlady']; } ?>" title="Орган влади" tabindex="9">
+				<label>Місце роботи центральний орган влади?</label><span>*</span>
+				<div class="row container	">
+					<div class="col-xs-3 col-sm-3 col-md-3">
+						<div class="radio" style="min-height: 30px;">
+						  <label>
+							<input type="radio" name="misceroboty"  value="1" <?php if(isset($error) && ($_POST['misceroboty']=="1")){ echo "checked"; } else {echo "checked";}?> onclick="document.form_reg.centrevlada.disabled=false; document.form_reg.organvlady.disabled=true;  document.form_reg.organvlady.value='';" >
+							центральний
+						  </label>
 						</div>
+						  <div class="radio">
+						  <label>
+							<input type="radio" name="misceroboty"  value="2" <?php if(isset($error) && ($_POST['misceroboty']=="2")){ echo "checked"; } ?> onclick="document.form_reg.centrevlada.disabled=true;  document.form_reg.organvlady.disabled=false; document.form_reg.centrevlada.value='';" >
+							інший
+						  </label>						  
+							<!--label class="radio-inline" ><input type="radio" name="misceroboty" class="form-control "  value="1" 		 onclick="document.form_reg.centrevlada.disabled=false; document.form_reg.organvlady.disabled=true;  document.form_reg.organvlady.value='';" tabindex="29">Ций</label>
+							<label class="radio-inline" ><input type="radio" name="misceroboty" class="form-control "  value="2" checked onclick="document.form_reg.centrevlada.disabled=true;  document.form_reg.organvlady.disabled=false; document.form_reg.centrevlada.value='';" tabindex="30">&ensp;Інш&ensp;</label-->
+						</div>
+					</div>						
+					<div class="col-xs-6 col-sm-6 col-md-5">						
+						<div class="form-group">
+							<input type="hidden"  name="hidecentrevlada" id="hidecentrevlada" class="form-control "  value="<?php if(isset($error)){ echo $_POST['centrevlada']; } ?>" title="Select centrevlada" >
+
+							<select name="centrevlada" id="centrevlada" <?php if(isset($error)) { if($_POST['misceroboty']=="2") echo "disabled"; } ?> class="form-control ">
+								<option  value="">Виберіть центральний орган влади</option>
+								<?php
+									//if (!empty($_POST['centrevlada'])) {echo $_POST['centrevlada']; exit;}
+									for ($vc=1; $vc<=75; $vc++){
+										echo '<option  ';
+										if ((!empty($_POST['centrevlada']))&&($_POST['centrevlada']==$vc)) { echo ' selected '; }
+										echo '	value="'.$vc.'">'.vladaname($vc).'</option>';
+									}
+								?>
+							</select>
+							
+							<input type="text" <?php if(isset($error)) { if($_POST['misceroboty']=="1") echo "disabled"; } else {echo "disabled"; }?> name="organvlady" id="organvlady" class="form-control " placeholder="Інший орган влади" value="<?php if(isset($error)){ echo $_POST['organvlady']; } ?>" title="Орган влади" tabindex="9">						
+							
+						</div>						
 					</div>
 				</div>
 				
@@ -422,22 +456,83 @@ input[pattern]:invalid{
 						</div>
 					</div>
 				</div>				
-				<label>Категорія посади (А Б В)</label><span>*</span>
+
+				<!--label>Категорія посади (А Б В)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-2 col-sm-2 col-md-2">
 						<div class="form-group">
-							<input type="text" pattern="[А,Б,В]" name="category" id="category" class="form-control "  value="<?php if(isset($error)){ echo $_POST['category']; } ?>" title="Категорія посади (А Б В)" tabindex="15">
+							<input type="text" pattern="[А,Б,В]" name="category1" id="category1" class="form-control "    title="Категорія посади (А Б В)" tabindex="15">
+						</div>
+					</div>
+				</div-->
+				<label>Категорія посади (А Б В)</label><span>*</span>				
+				<div class="row">
+					<div class="col-xs-3 col-sm-3 col-md-3">
+						<div class="form-group">
+						<select size="1" name="category" id="category" onchange="document.form_reg.hidegroplata.value=''; document.form_reg.hiderang.value=''; selectGroupRang(); "  class="form-control">
+							<option value="">Виберіть категорію</option>
+							<option value="1" <?php if(isset($error)&& ($_POST['category']=='1')){ echo "selected"; } ?>  >А</option>
+							<option value="2" <?php if(isset($error)&& ($_POST['category']=='2')){ echo "selected"; } ?>  >Б</option>
+							<option value="3" <?php if(isset($error)&& ($_POST['category']=='3')){ echo "selected"; } ?>  >В</option>
+						</select>
+						</div>
+					</div>				
+				</div>				
+				
+				<input type="hidden" name="hidegroplata" id="hidegroplata" class="form-control "  value="<?php if(isset($error)){ echo $_POST['groplata']; } ?>" title="Вибрана група оплати" >
+				<input type="hidden" name="hiderang" id="hiderang" class="form-control "  value="<?php if(isset($error)){ echo $_POST['rang']; } ?>" title="Вибран ранг" >
+				<div name="selectDataGroupRang" class="row">
+					<div class="col-xs-3 col-sm-3 col-md-3">
+						<label>Група оплати праці</label><span>*</span>
+						<div class="form-group">
+
+						<select disabled size="1" name="groplata"  id="groplata" class="form-control ">
+							<option name="empty1" value="">Виберіть групу</option>
+						</select>
+							<script type="text/javascript">
+								//console.log("=2");							
+								selectGroupRang();					
+							</script>						
+
+						</div>
+					</div>					
+					<div class="col-xs-4 col-sm-4 col-md-4">
+						<label>Ранг державної служби</label><span>*</span>
+						<div class="form-group">
+						
+						<select disabled size="1" name="rang" id="rang" class="form-control ">
+							<option name="empty2" value="">Виберіть ранг</option>
+						</select>
+							<script type="text/javascript">
+								//console.log("=2-2");							
+								selectGroupRang();					
+							</script>							
+					
+						</div>						
+					</div>								
+				</div>
+
+				
+
+				
+
+				<!--div class="row">
+					<label>Ранг державної служби</label><span>*</span>
+					<div class="col-xs-2 col-sm-2 col-md-2">
+						<div class="form-group">
+							<input type="text"  name="rang1" id="rang1" class="form-control "  value="<?php if(isset($error)){ echo $_POST['rang']; } ?>" title="Ранг державної служби" tabindex="15">
 						</div>
 					</div>
 				</div>
+			
 				<label>Група оплати праці</label><span>*</span>			
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="form-group">
-							<input type="text" name="groplata" id="groplata" class="form-control " placeholder="Група оплати праці" value="<?php if(isset($error)){ echo $_POST['groplata']; } ?>" title="Група оплати праці" tabindex="16">
+							<input type="text" name="groplata1" id="groplata1" class="form-control " placeholder="Група оплати праці" value="<?php if(isset($error)){ echo $_POST['groplata']; } ?>" title="Група оплати праці" tabindex="16">
 						</div>
 					</div>
-				</div>
+				</div-->
 
 				<label>Стаж державної служби (років, місяців)</label><span>*</span>
 				<div class="row">
@@ -467,7 +562,7 @@ input[pattern]:invalid{
 					</div>					
 				</div>	
 
-				<label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label><span>*</span>
+				<!--label>Перша вища освіта (ВНЗ, спеціальність, рік закінчення)</label><span>*</span>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
@@ -504,14 +599,15 @@ input[pattern]:invalid{
 						</div>	
 					</div>						
 				</div>
-
+				
+				<label>Науковий ступінь, вчене звання</label>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-12">
 						<div class="form-group">
 							<input type="text" name="naukastup" id="naukastup" class="form-control " placeholder="Науковий ступінь, вчене звання" value="<?php if(isset($error)){ echo $_POST['naukastup']; } ?>" title="Науковий ступінь, вчене звання" tabindex="27">
 						</div>
 					</div>
-				</div>	
+				</div-->	
 
 				<label>Для слухачів, які навчаються за професійною програмою</label>
 				<div class="row">
@@ -525,8 +621,8 @@ input[pattern]:invalid{
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-5">
 						<div class="form-group" >
-							<label class="radio-inline" ><input type="radio" name="pidvishenia" class="form-control "  value="1" tabindex="29">Так</label>
-							<label class="radio-inline" ><input type="radio" name="pidvishenia" class="form-control "  value="2"  checked  tabindex="30">&ensp;Ні&ensp;</label>
+							<label class="radio-inline" ><input type="radio" name="pidvishenia" class="form-control " style="height: 14px;" value="1" <?php if ((isset($error))&&( $_POST['pidvishenia']=='1')) echo "checked"; ?> tabindex="29">Так</label>
+							<label class="radio-inline" ><input type="radio" name="pidvishenia" class="form-control " style="height: 14px;" value="2" <?php if (isset($error)) {if( $_POST['pidvishenia']=='2') echo "checked"; } else {echo "checked";}?> tabindex="30">&ensp;Ні&ensp;</label>
 							<!--input type="radio" name="pidvishenia" id="pidvishenia" class="form-control " placeholder="Тема випускної роботи" value="<php if(isset($error)){ echo $_POST['pidvishenia']; } ?>" title="Чи підвищували кваліфікацію за останні 3 роки?" tabindex="28"-->
 						</div>
 					</div>
