@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Третій тур Всеукраїнського конкурсу «Кращий державний службовець», оголошення. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />  
+	
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center;'><b><span class="st4">У Всеукраїнському центрі підвищення кваліфікації державних службовців та 
+посадових осіб місцевого самоврядування</span></b></p>
+
+<br />
+<p style='text-align:center;'><span class="st4"><b>З 4 вересня 2017 року розпочинаються заняття за категоріями:</b></span></p>
+
+<ol style="list-style-position:inside; list-style: square inside;" >
+	<li><span>державні службовці, які займають посади категорії «А», за тренінговою програмою: «Сучасне лідерство: новий підхід до державного 
+	управління»</span>
+	<p style='text-align:center;'><span>термін навчання: 04.09.17-08.09.17<br /></span>
+	<span style="font-size:16px;"><b>(смт Козин, Київська область)</b></span></p>
+	</li>
+	<li><span>державні службовці ЦОВВ, посади яких належать до 6-9 груп оплати праці, за професійною програмою підвищення кваліфікації 
+	державних службовців 6 групи оплати праці</span>
+	<p style='text-align:center;'><span>термін навчання: 04.09.17-15.09.17</span></p>
+	</li>
+</ol>
+<br />
+<p style="text-align:center;"><span class="st4"><b>Тематичні короткострокові семінари:</b></span></p>
+
+<ol style="list-style-position:inside; list-style: square inside;" >
+	<li><span>«Європейські стандарти демократичного врядування». Термін навчання: 07.09.17-08.09.17. <a href="../files/nads/EUstandart07092017.pdf" target="_blank" >Розклад</a><br /></span>
+	<p style='text-align:center;'><span><b>Формування групп слухачів завершено.</b></span></p>
+	</li>
+	<li><span>«Україна-НАТО: напрями співробітництва та партнерства». Термін навчання: 07.09.17-08.09.17. <a href="../files/nads/EUNATO07092017.pdf" target="_blank" >Розклад</a><br /></span>
+	<p style='text-align:center;'><span><b>Формування групп слухачів завершено.</b></span></p>
+	</li>
+	<li><span>«Інноваційні технології в публічному управлінні». Термін навчання: 11.09.17-12.09.17<br /></span>
+	<p style='text-align:center;'><span></span></p>
+	</li>
+	<li><span>«Смарт-технології». Термін навчання: 14.09.17-15.09.17<br /></span>
+	<p style='text-align:center;'><span></span></p>
+	</li>	
+</ol>
+<br />
+<br />
+<p style="text-align:center;"><span><b>Реєстрація учасників з  08.00-10.00</b></span></p>
+
+<br />
+
+<br />
+   
+<br />
+
+<br />
+
+<br />
+
+<br />
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

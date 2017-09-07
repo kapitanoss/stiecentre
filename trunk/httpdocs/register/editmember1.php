@@ -128,8 +128,8 @@ if(isset($_POST['submit'])){
 					
 					slugtelefon= :slugtelefon, 
 					category= :category,
-					rang= :rang,
 					groplata= :groplata, 
+					rang= :rang,
 					stagdergyear= :stagdergyear, 
 					stagdergmonth= :stagdergmonth, 
 					stagposadayear= :stagposadayear,
@@ -251,12 +251,6 @@ $title = 'Редагування даних';
 require('layout/header.php');
 ?>
 
-<style>
-input[pattern]:invalid{
-  color:red;
-}
-</style>
-
 <div class="container">
 
 	<div class="row needfield">
@@ -368,7 +362,7 @@ input[pattern]:invalid{
 								<option  value="">Виберіть центральний орган влади</option>
 								<?php
 									//if (!empty($_POST['centrevlada'])) {echo $_POST['centrevlada']; exit;}
-									for ($vc=1; $vc<=75; $vc++){
+									for ($vc=1; $vc<=$countvlada; $vc++){
 										echo '<option  ';
 									if (!empty($_POST['centrevlada'])) { if ($_POST['centrevlada']==$vc)  echo ' selected '; }  elseif ($row['centrevlada']==$vc) {echo ' selected ';}
 										echo '	value="'.$vc.'">'.vladaname($vc).'</option>';

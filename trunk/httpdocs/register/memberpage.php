@@ -17,23 +17,30 @@ if(isset($_POST['submitsave'])){ //CSV Excel - список зареєстров
 //INTO OUTFILE "."'bd/group".$datefile.".csv'"." 
 //FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\\\'
 //LINES STARTING BY '' TERMINATED BY '\r\n'
-			$stmtcat = $db->prepare("SELECT 'Прізвище', 'Ім''я','По батькові','Дата народження',
-							'Орган влади','Нас. пункт','Район','Область','Повна назва посади','Електронна пошта','Службовий телефон','Категорія посади','Група оплати праці',
-							'Стаж державної служби,р','Стаж державної служби,м','Стаж роботи на посаді,р','Стаж роботи на посаді,м','Освіта. Назва ВНЗ','Освіта. Спеціальність','Освіта. Рік закінчення',
-							'Друга освіта. Назва ВНЗ','Друга освіта. Спеціальність','Друга освіта. Рік закінчення','Науковий ступінь','Підв. кваліф?','Тема випускної роботи','Семінар' 
+			$stmtcat = $db->prepare("SELECT 'Прізвище','Ім''я','По батькові','Дата народження',
+							'Орган влади','Центральний?','Центр. орган влади','Нас. пункт','Район','Область','Повна назва посади','Електронна пошта','Службовий телефон','Категорія посади','Група оплати праці','Ранг держ. службы',
+							'Стаж державної служби,р','Стаж державної служби,м','Стаж роботи на посаді,р','Стаж роботи на посаді,м','Підв. кваліф?','Тема випускної роботи','Семінар' 
 			
 							UNION(SELECT  prizvishe, name, pobatkovi, birthday, 
-							organvlady, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, 
-							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, osvitavnz, osvitaspec , osvitayear, 
-							pisliaosvitavnz, pisliaosvitaspec, IFNULL(pisliaosvitayear,''),  naukastup, IF(pidvishenia=1,'Так','Ні'), tema,'". grname($_POST['groupcat']) ."' as grnames 
+							organvlady, IF(misceroboty=1,'Так','Ні'), centrevlada, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, rang,
+							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, IF(pidvishenia=1,'Так','Ні'), tema,'". grname($_POST['groupcat']) ."' as grnames 
 							FROM members WHERE groupcat= :groupcat  ORDER BY datezapovn)");
 			$stmtcat->execute(array('groupcat' => $_POST['groupcat']));
 //echo "1111". $_POST['groupcat']. "1111"; exit;
-			$fp = fopen('file.csv', 'w');
-			while ($rowcsv = $stmtcat->fetch(PDO::FETCH_NUM, PDO::FETCH_ORI_NEXT)) {
-						  $data = $rowcsv[0] . "\t" . $rowcsv[1] . "\t" . grname($row[1]) ;
+			$fp = fopen('file.csv', 'w'); $firstrec = true;
+			while ($rowcsv = $stmtcat->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
+						  //$data = $rowcsv[0] . "\t" . $rowcsv[1] . "\t" . grname($row[1]) ;
 						  //echo "<option value='" . $row[1] ."'"; if($_POST['groupcat']==$row[1]) {echo  ' selected ';  } echo '>Кільк слухачів:' . $row[0]  . "\t" . grname($row[1]) . "</option>";
 						  //print $data;
+
+						  //echo "1=".$rowcsv['Прізвище'].$rowcsv["Ім'я"].$rowcsv['Центр. орган влади'].vladaname($rowcsv['Центр. орган влади'])."=1"; //exit;//="rowcsv-1";
+						  if (!$firstrec) { 
+							  $rowcsv['Центр. орган влади'] = vladaname($rowcsv['Центр. орган влади']);
+							  if ($rowcsv['Центр. орган влади']=='none list') {$rowcsv['Центр. орган влади']="";}
+							  $rowcsv['Група оплати праці'] = $groplaty[$rowcsv['Категорія посади']][$rowcsv['Група оплати праці']];
+							  $rowcsv['Ранг держ. службы'] = $rangslug[$rowcsv['Категорія посади']][$rowcsv['Ранг держ. службы']];
+							  $rowcsv['Категорія посади'] = $category[$rowcsv['Категорія посади']];						  
+						  } else {$firstrec=false;}
 						  fputcsv($fp, $rowcsv, ";"); 
 			}
 			fclose($fp);

@@ -405,7 +405,7 @@ require('layout/header.php');
 								<option  value="">Виберіть центральний орган влади</option>
 								<?php
 									//if (!empty($_POST['centrevlada'])) {echo $_POST['centrevlada']; exit;}
-									for ($vc=1; $vc<=75; $vc++){
+									for ($vc=1; $vc<=$countvlada; $vc++){
 										echo '<option  ';
 										if ((!empty($_POST['centrevlada']))&&($_POST['centrevlada']==$vc)) { echo ' selected '; }
 										echo '	value="'.$vc.'">'.vladaname($vc).'</option>';
@@ -419,7 +419,7 @@ require('layout/header.php');
 					</div>
 				</div>
 				
-				<label>Адреса місця роботи (нас. пункт, район, область)</label><span>*</span>
+				<label>Адреса місця роботи (нас. пункт<span>*</span>, район, область)</label>
 				<div class="row">
 					<div class="col-xs-6 col-sm-6 col-md-3">
 						<div class="form-group">

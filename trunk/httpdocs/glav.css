@@ -55,13 +55,30 @@ a:hover {
 	color: #175b7c; /*#990033;*/
 }
 
+/* уменьшение толщины ссылок */
+ .underline {
+text-decoration: none;
+border-bottom: 1px solid;
+}
 
+a:link.underline {
+border-color: #black;
+}
+
+a:visited.underline {
+border-color: #black;
+}
+ 
+a:hover.underline {
+border-color: ##175b7c;
+}
 
 a:active {
 	
 	color: blue; /*#990033;*/
 }
 
+/* ссылка на страницу ../nads/nads.shtml над горизонтальным меню */
 a.linknads:link  {
 	/*color: white; /*#009900;*/
 	color: #F26522;
