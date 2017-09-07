@@ -121,6 +121,9 @@ function grname($groupcat){
 	}
 	return  $groupname;
 }
+
+
+$countvlada = 75;
 function vladaname($vladacat){
     switch ($vladacat){
 		 case '1': 	$vlada='Апарат Верховної Ради України'; break;
@@ -203,6 +206,12 @@ function vladaname($vladacat){
 	}
 	return $vlada;
 }
+
+$category = array(		
+		1 => 'А',
+		2 => 'Б',
+		3 => 'В'
+	);
 
 $groplaty = array(
 	1 => array(
