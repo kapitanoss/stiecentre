@@ -3,7 +3,7 @@ ob_start();
 session_start();
 //Debug 
 define('DEBUG',false);
-define('LOCAL',false);
+define('LOCAL',true);
 
 //set timezone
 date_default_timezone_set('Europe/Kiev');
