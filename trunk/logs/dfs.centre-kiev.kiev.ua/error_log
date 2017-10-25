@@ -1,7 +1,0 @@
-[Wed Apr 29 11:27:37 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?
-[Wed Apr 29 11:27:38 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?
-[Wed Apr 29 11:28:19 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?
-[Wed Apr 29 11:28:20 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?
-[Wed Apr 29 11:28:58 2015] [error] [client 62.80.178.142] Directory index forbidden by Options directive: /var/www/vhosts/centre-kiev.kiev.ua/vebinar.centre-kiev.kiev.ua/
-[Wed Apr 29 11:55:32 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?
-[Wed Apr 29 11:55:33 2015] [warn] RSA server certificate CommonName (CN) `pl1.cyfra.ua' does NOT match server name!?

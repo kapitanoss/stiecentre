@@ -1,5 +1,0 @@
-66.249.76.81 - - [07/Dec/2016:07:07:34 +0200] "GET /index.html HTTP/1.1" 200 7656 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.76.83 - - [07/Dec/2016:23:20:58 +0200] "GET / HTTP/1.1" 200 7656 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.76.81 - - [07/Dec/2016:23:21:09 +0200] "GET /glav.css HTTP/1.1" 200 1262 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.76.81 - - [07/Dec/2016:23:21:09 +0200] "GET /left_menu.css HTTP/1.1" 200 1652 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.76.79 - - [07/Dec/2016:23:42:44 +0200] "GET /555.jpg HTTP/1.1" 200 937281 "-" "Googlebot-Image/1.0"
