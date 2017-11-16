@@ -96,10 +96,19 @@
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
-
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/konk-3round.shtml" title="23 жовтня 2017">== ІIІ тур Конкурсу «Кращий державний службовець»</a>
+							<a href="../news/trening-z-pytan-reform.shtml" title="01 грудня 2017">== КМУ/НАДС/ЄС: Тренінги з питань реформ</a>
+                        </li>
+					
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../konkurs/konk-3round-end.shtml" title="31 жовтня 2017">== ІIІ тур Конкурсу «Кращий державний службовець»</a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/ukr_mova_ds.shtml" title="23 жовтня 2017">== Семінар «Ділова українська мова» </a>
                         </li>
 
 						<li class="marquee-list" style="margin-left: 0px;">
@@ -182,10 +191,10 @@
 							<a href="../news/news.shtml" title="18 березня 2017">== За підтримки європейських партнерів</a>
                         </li>
 	   
-            			<li class="marquee-list" style="margin-left: 0px;">
+            			<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/news.shtml" title="30 січня 2017">== Початок навчального 2017 року в ВЦПК</a>
-                        </li>
+                        </li-->
 			   
             			<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -226,7 +235,134 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
-
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">1-2</span>
+										<span class="year">&ensp;2017</span>
+										<span class="month">&ensp;&ensp;грудня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/trening-z-pytan-reform.shtml" title="">КМУ, НАДС, ПРЕДСТАВНИЦТВА ЕС В УКРАЇНІ - Тренінги підвищення кваліфікації  
+										фахівців з питань реформ</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації була 
+										проведена серія тренінгів за тренінговими програмами підвищення кваліфікації фахівців з питань реформ....</p>
+										<span class="readmore"><a href="../news/trening-z-pytan-reform.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/trening-z-pytan-reform.shtml" class="slider_img">
+									<img src="../img/tren_reforma/reforma-4.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Тренінги за програмами підвищення кваліфікації фахівців з питань реформ" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Тренінги за програмами підвищення кваліфікації фахівців з питань реформ" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації була 
+										проведена серія тренінгів за тренінговими програмами підвищення кваліфікації фахівців з питань реформ....</p>
+								<span class="readmore"><a href="../news/trening-z-pytan-reform.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">31</span>
+										<span class="year">2017</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../konkurs/konk-3round-end.shtml" title="">III тур Всеукраїнського конкурсу «Кращий державний службовець»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Завершився ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Оргкомітетом будуть визначені переможці та 
+										лауреати Конкурсу, урочисте нагородження яких відбудеться у грудні 2017 року...</p>
+										<span class="readmore"><a href="../konkurs/konk-3round-end.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../konkurs/konk-3round-end.shtml" class="slider_img">
+									<img src="../img/konkurs/konk-3round-end-7.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Завершився ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Оргкомітетом будуть визначені переможці та 
+										лауреати Конкурсу, урочисте нагородження яких відбудеться у грудні 2017 року...</p>
+								<span class="readmore"><a href="../konkurs/konk-3round-end.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>	
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">23</span>
+										<span class="year">2017</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/ukr_mova_ds.shtml" title="">«Ділова українська мова у державному управлінні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців та посадових осіб місцевого самоврядування за програмою тематичного семінару...</p>
+										<span class="readmore"><a href="../news/ukr_mova_ds.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/ukr_mova_ds.shtml" class="slider_img">
+									<img src="../img/movnapidg/ukr_mova_ds-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар «Ділова українська мова у державному управлінні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар «Ділова українська мова у державному управлінні»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців та посадових осіб місцевого самоврядування за програмою тематичного семінару...</p>
+								<span class="readmore"><a href="../news/../news/ukr_mova_ds.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
