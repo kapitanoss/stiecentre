@@ -13,8 +13,8 @@ if(isset($_POST['submit'])){
 	$password = $_POST['password'];
 	
 	if($user->login($username,$password)){ 
-		$_SESSION['username'] = $username;
-		if (($_SESSION['username']=='centrekiev')) {$_SESSION['admin']=true; } else {$_SESSION['admin']=false;} 
+		$_SESSION['username_s'] = $username;
+		if (($_SESSION['username_s']=='centrekiev')) {$_SESSION['admin']=true; } else {$_SESSION['admin']=false;} 
 		header('Location: memberpage.php');
 		exit;
 		

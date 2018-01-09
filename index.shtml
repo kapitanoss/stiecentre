@@ -98,13 +98,23 @@
 					<ul class="marquee" id="marquee_39">
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
+							<a href="../news/memorandum.shtml" title="21 грудня 2017">== Меморандум з НТСЕР</a>
+                        </li>
+
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../konkurs/konk-nagorodgenia.shtml" title="01 грудня 2017">== «Кращий державний службовець» - нагородження переможців </a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
 							<a href="../news/trening-z-pytan-reform.shtml" title="01 грудня 2017">== КМУ/НАДС/ЄС: Тренінги з питань реформ</a>
                         </li>
 					
-						<li class="marquee-list" style="margin-left: 0px;">
+						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../konkurs/konk-3round-end.shtml" title="31 жовтня 2017">== ІIІ тур Конкурсу «Кращий державний службовець»</a>
-                        </li>
+                        </li!-->
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -131,10 +141,10 @@
 							<a href="../konkurs/orgkonk-3round.shtml" title="28 серпня 2017">== Засідання Організаційного комітету III туру конкурсу	</a>
                         </li>
 						
-						<li class="marquee-list" style="margin-left: 0px;">
+						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/nezalegnist.shtml" title="21 серпня 2017">== С Днем Незалежності України!</a>
-                        </li>
+                        </li!-->
 
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -186,10 +196,10 @@
 							<a href="../news/news.shtml" title="13 квітня 2017">== Навчально-методичний семінар НАДС</a>
                         </li>
  
-            			<li class="marquee-list" style="margin-left: 0px;">
+            			<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/news.shtml" title="18 березня 2017">== За підтримки європейських партнерів</a>
-                        </li>
+                        </li-->
 	   
             			<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -235,6 +245,95 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">21</span>
+										<span class="year">2017</span>
+										<span class="month">грудня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/memorandum.shtml" title="">Меморандум між Центром підвищення кваліфікації та 
+										секретаріатом НТСЕР</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>Основна мета підписання Меморандуму - є вдосконалення освіти та професійної підготовки державних службовців та осіб 
+										місцевого самоврядування....</p>
+										<span class="readmore"><a href="../news/memorandum.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/memorandum.shtml" class="slider_img">
+									<img src="../img/news/memorandum-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Меморандум про співпрацю. Національна тристороння соціально-економічна рада та Всеукраїнський центр підвищення кваліфікації" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Меморандум про співпрацю. Національна тристороння соціально-економічна рада та Всеукраїнський центр підвищення кваліфікації" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Основна мета підписання Меморандуму - є вдосконалення освіти та професійної підготовки державних службовців та осіб місцевого 
+								самоврядування....</p>
+								<span class="readmore"><a href="../news/memorandum.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;8</span>
+										<span class="year">2017</span>
+										<span class="month">грудня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../konkurs/konk-nagorodgenia.shtml" title="">«Кращий державний службовець» Нагородження переможців 
+										та лауреатів</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Відбулася урочиста церемонія нагородження переможців щорічного Всеукраїнського конкурсу «Кращий державний 
+										службовець»....</p>
+										<span class="readmore"><a href="../konkurs/konk-nagorodgenia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../konkurs/konk-nagorodgenia.shtml" class="slider_img">
+									<img src="../img/konkurs/konk-nagorodg-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Щорічне нагородження переможців Всеукраїнського конкурсу «Кращий державний службовець»-2017" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Щорічне нагородження переможців Всеукраїнського конкурсу «Кращий державний службовець»-2017" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Відбулася урочиста церемонія нагородження переможців щорічного Всеукраїнського конкурсу «Кращий державний 
+										службовець»....</p>
+								<span class="readmore"><a href="../konkurs/konk-nagorodgenia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -609,7 +708,7 @@
 						</div>
 					</li>
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -648,7 +747,7 @@
 								<span class="readmore"><a href="../news/nezalegnist.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li!-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">

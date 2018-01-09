@@ -17,13 +17,14 @@ if(isset($_POST['submitsave'])){ //CSV Excel - список зареєстров
 //INTO OUTFILE "."'bd/group".$datefile.".csv'"." 
 //FIELDS TERMINATED BY ';' ENCLOSED BY '' ESCAPED BY '\\\\'
 //LINES STARTING BY '' TERMINATED BY '\r\n'
+			list ($groupname, $maxgroupmembers) = grname($_POST['groupcat']);
 			$stmtcat = $db->prepare("SELECT 'Прізвище','Ім''я','По батькові','Дата народження',
 							'Орган влади','Центральний?','Центр. орган влади','Нас. пункт','Район','Область','Повна назва посади','Електронна пошта','Службовий телефон','Категорія посади','Група оплати праці','Ранг держ. службы',
 							'Стаж державної служби,р','Стаж державної служби,м','Стаж роботи на посаді,р','Стаж роботи на посаді,м','Підв. кваліф?','Тема випускної роботи','Семінар' 
 			
 							UNION(SELECT  prizvishe, name, pobatkovi, birthday, 
 							organvlady, IF(misceroboty=1,'Так','Ні'), centrevlada, adresamisto, adresaraion, adresaoblast, posada, email, slugtelefon, category, groplata, rang,
-							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, IF(pidvishenia=1,'Так','Ні'), tema,'". grname($_POST['groupcat']) ."' as grnames 
+							stagdergyear, stagdergmonth, stagposadayear, stagposadamonth, IF(pidvishenia=1,'Так','Ні'), tema,'". $groupname ."' as grnames 
 							FROM members WHERE groupcat= :groupcat  ORDER BY datezapovn)");
 			$stmtcat->execute(array('groupcat' => $_POST['groupcat']));
 //echo "1111". $_POST['groupcat']. "1111"; exit;
@@ -35,7 +36,8 @@ if(isset($_POST['submitsave'])){ //CSV Excel - список зареєстров
 
 						  //echo "1=".$rowcsv['Прізвище'].$rowcsv["Ім'я"].$rowcsv['Центр. орган влади'].vladaname($rowcsv['Центр. орган влади'])."=1"; //exit;//="rowcsv-1";
 						  if (!$firstrec) { 
-							  $rowcsv['Центр. орган влади'] = vladaname($rowcsv['Центр. орган влади']);
+							  list ($vladaname,$maxvladamembers) = vlada_name_membr($rowcsv['Центр. орган влади']);	
+							  $rowcsv['Центр. орган влади'] = $vladaname;
 							  if ($rowcsv['Центр. орган влади']=='none list') {$rowcsv['Центр. орган влади']="";}
 							  $rowcsv['Група оплати праці'] = $groplaty[$rowcsv['Категорія посади']][$rowcsv['Група оплати праці']];
 							  $rowcsv['Ранг держ. службы'] = $rangslug[$rowcsv['Категорія посади']][$rowcsv['Ранг держ. службы']];
@@ -105,7 +107,7 @@ require('layout/header.php');
 	    <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-1">
 			<form role="form" method="post" action="" autocomplete="off">
 			
-				<h2>Ласкаво просимо, <?php echo $_SESSION['username']; ?></h2>
+				<h2>Ласкаво просимо, <?php echo $_SESSION['username_s']; ?></h2>
 				<?php if (!$_SESSION['admin']){?> <p><a href='editmember1.php'>Редагування персональних даних</a></p><?php } ?>
 				<p><a href='logout.php'>Вихід</a></p>				
 				<?php if ($_SESSION['admin']){  //result of select to HTML
@@ -118,8 +120,10 @@ require('layout/header.php');
 						<label for="sel1">Список тем/семінарів:</label>						
 						<select class="form-control" name="groupcat" id='mymenu'>   					
 						<?php while ($row = $stmt->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
-						  $data = $row['count'] . "\t" . $row['groupcat'] . "\t" . grname($row['groupcat']) ;
-						  echo "<option value='" . $row['groupcat'] ."'"; if($_POST['groupcat']==$row['groupcat']) {echo  ' selected ';  } echo '>Кільк слухачів:' . $row['count']  . "\t" . grname($row['groupcat']) . "</option>";
+						  list ($groupname, $maxgroupmembers) = grname($row['groupcat']);	
+						  $data = $row['count'] . "\t" . $row['groupcat'] . "\t" . $groupname ;
+						  echo "<option value='" . $row['groupcat'] ."'"; if(isset($_POST['groupcat'])&&($_POST['groupcat']==$row['groupcat'])) {echo ' selected '; }
+						  echo '>Кільк слухачів:' . $row['count'] . "/" . $maxgroupmembers . "\t" . $groupname . "</option>";
 						  //print $data;
 						}?>
 						</select>
@@ -128,7 +132,7 @@ require('layout/header.php');
 				</div>
 
 				<div class="row">
-					<input type="hidden" name="groupname" id="groupname" class="form-control input-lg" value="<?php echo grname($row[1]); ?>" >				
+					<input type="hidden" name="groupname" id="groupname" class="form-control input-lg" value="<?php list($groupname,$maxgroupmembers)=grname($row[1]); echo $groupname; ?>" >				
 					<div class="col-xs-3 col-md-4"     style='width:710px;'>			
 						<div style='float:left; padding:10px 10px 10px 0px;'>
 							<input type="submit" name="submitlist" value="Список слухачів" class="btn btn-primary btn-block btn-lg" style="font-size: 14px;  padding: 5px 16px;" >
@@ -141,7 +145,7 @@ require('layout/header.php');
 				<?php if (isset($outtextarea) && $outtextarea) { ?>
 				<hr  style="border: 1px solid #000;">			
 				<div class="form-group">
-					<label for="comment"><?php echo grname($_POST['groupcat']); ?> Список слухачів:</label>
+					<label for="comment"><?php list($groupname,$maxgroupmembers)=grname($_POST['groupcat']); echo $groupname; ?> Список слухачів:</label>
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
 					$i=1; 
 					while ($rowcat = $stmtcat->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
@@ -154,7 +158,7 @@ require('layout/header.php');
 				<?php if (isset($outtofile) && $outtofile) { ?>
 				<hr  style="border: 1px solid #000;">			
 				<div class="form-group">
-					<label for="comment">Зберегти файл <a href="file.csv"><?php echo 'file.csv</a><br>'; echo grname($_POST['groupcat']); ?></label>
+					<label for="comment">Зберегти файл <a href="file.csv"><?php echo 'file.csv</a><br>'; list($groupname,$maxgroupmembers)=grname($_POST['groupcat']); echo $groupname; ?></label>
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
 						$a=file_get_contents("file.csv",false);
 						echo $a;
@@ -183,7 +187,8 @@ require('layout/header.php');
 					<textarea class="form-control" rows="10" placeholder="Список слухачів " id="comment"><?php 
 					$i=1; 
 					while ($rowuser = $stmtuser->fetch(PDO::FETCH_ASSOC, PDO::FETCH_ORI_NEXT)) {
-					 echo   $i  . "\t" . $rowuser['prizvishe'] . "\t" . $rowuser['name'] . "\t" . $rowuser['pobatkovi'] . "\t" .  grname($rowuser['groupcat']) . "\n";
+					 list ($groupname, $maxgroupmembers) = grname($rowuser['groupcat']);							
+					 echo   $i  . "\t" . $rowuser['prizvishe'] . "\t" . $rowuser['name'] . "\t" . $rowuser['pobatkovi'] . "\t" .  $groupname . "\n";
 					 $i=$i+1;   //print $data;
 					}?></textarea>
 				</div>				

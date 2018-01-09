@@ -90,15 +90,16 @@ require('layout/header.php');
 							echo '<p class="bg-danger">'.$error.'</p>';
 						}
 					}
-
-					//check the action
-					switch ($_GET['action']) {
-						case 'active':
-							echo "<h2 class='bg-success'>Ваш обліковий запис активован. Можете здійснити вхід для редагування своїх даних.</h2>";
-							break;
-						case 'reset':
-							echo "<h2 class='bg-success'>Перевірте свою електронну пошту, Вам надіслано листа з посиланням для скидання пароля.</h2>";
-							break;
+					if(isset($_GET['action'])){
+						//check the action
+						switch ($_GET['action']) {
+							case 'active':
+								echo "<h2 class='bg-success'>Ваш обліковий запис активован. Можете здійснити вхід для редагування своїх даних.</h2>";
+								break;
+							case 'reset':
+								echo "<h2 class='bg-success'>Перевірте свою електронну пошту, Вам надіслано листа з посиланням для скидання пароля.</h2>";
+								break;
+						}
 					}
 					?>
 

@@ -229,58 +229,58 @@
 	<p style='margin-bottom:0;'><span >Вид навчальної програми:</span></p>
 	<p style='margin-bottom:0;'><span > • Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці).</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 04-15 вересня 2017 року. Кількість слухачів 50 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='90'; document.form3.max.value='50'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='90';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 07-08 вересня 2017 року. Кількість слухачів 53 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='91'; document.form3.max.value='53'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='91';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Україна-НАТО: напрями співробітництва та партнерства».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 07-08 вересня 2017 року. Кількість слухачів 56 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='92'; document.form3.max.value='56'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='92';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Інноваційні технології в публічному управлінні».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 11-12 вересня 2017 року. Кількість слухачів 49 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='93'; document.form3.max.value='49'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='93';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Смарт-технології».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 14-15 вересня 2017 року. Кількість слухачів 72 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='94'; document.form3.max.value='72'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='94';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Стратегічне управління та планування».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 18-19 вересня 2017 року. Кількість слухачів 104 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='95'; document.form3.max.value='104'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='95';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Управління змінами».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 21-22 вересня 2017 року. Кількість слухачів 57 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='96'; document.form3.max.value='57'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='96';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Професійна програма підвищення кваліфікації державних службовців (7-9 групи оплати праці).</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 02-13 жовтня 2017 року. Кількість слухачів 70 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='97'; document.form3.max.value='70'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='97';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Крос-культурний менеджмент. Крос-культурні комунікації та взаємодія».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 02-03 жовтня. Кількість слухачів 54 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='98'; document.form3.max.value='54'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='98';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Медіація в публічному управлінні».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 09-10 жовтня. Кількість слухачів 40 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='99'; document.form3.max.value='40'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='99';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Медіаграмотність та медіакультура державних службовців».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 16-17 жовтня. Кількість слухачів 79 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='100'; document.form3.max.value='79'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='100';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Тайм-менеджмент».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 18-19 жовтня. Кількість слухачів 98 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='101'; document.form3.max.value='98'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='101';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Децентралізація влади та децентралізація фінансів в Україні».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 01-02 листопада. Кількість слухачів 64 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='102'; document.form3.max.value='64'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='102';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Управління проектами та програмами».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 06-07 листопада. Кількість слухачів 92 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='103'; document.form3.max.value='92'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='103';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Електронне врядування в публічному управлінні».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 09-10 листопада. Кількість слухачів 74 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='104'; document.form3.max.value='74'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='104';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Антикризове управління в умовах модернізації державного управління».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 15-16 листопада. Кількість слухачів 61 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='105'; document.form3.max.value='61'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='105';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Цифрові технології».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 27-28 листопада. Кількість слухачів 75  (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='106'; document.form3.max.value='75'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='106';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Корпоративна культура».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 29-30 листопада. Кількість слухачів 77 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='107'; document.form3.max.value='77'; document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='107';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 
 	
 </div>
