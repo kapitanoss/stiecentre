@@ -1,5 +1,5 @@
 			<td valign="top" width='182px' >
-				<div id="v_mnu_01" >
+				<div id="v_mnu_01" class="havleft" >
 					<ul class="nav_left" >
 					  <li class="st3"><a href="#">Центр</a>
 						<ul>

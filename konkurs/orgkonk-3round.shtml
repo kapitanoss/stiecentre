@@ -13,11 +13,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->

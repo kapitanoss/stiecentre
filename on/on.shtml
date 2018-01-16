@@ -12,11 +12,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->
@@ -89,7 +91,7 @@
 надсилається інформація у вигляді 
 
 <u><span ><a
-href="../files/obl_card/OK_2017_ochno-dest_v_1_0.rar">облікової картки</a></span></u>
+href="../files/obl_card/OK_2018_ochno-dest_v_1_0.rar">облікової картки</a></span></u>
  про працівників, які будуть направлені на навчання.</span></p> 
 
 

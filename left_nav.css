@@ -90,3 +90,46 @@ ul.nav_left li:hover ul{
   left: 181px;  /*меню раскрывается вправо = равно ширине "блока меню"+1px*/
   z-index:10;   /*для перекрытия открывающихся img  на странице news.shtml(z-index:3) */  
 }
+
+/* fixed (on top) main and left menu from scrolling */
+.nav {
+			position: relative;
+			/*z-index: 100;*/
+}
+.nav_fixed {
+			position: fixed;
+			top: 0;
+			left: auto;
+			margin-left: 0px;
+			width: 80%;
+			/*left: 50%;
+			width: 960px;
+			margin-left: -480px;*/
+			z-index: 100;
+}
+.nav_fixed_left {
+			position: fixed;
+			top: 0;
+			left: auto;
+			margin-left: 0px;
+			width: 180px;
+			/*left: 50%;
+			width: 960px;
+			margin-left: -480px;*/
+			z-index: 3;  /* чтобы зафиксированное слева меню перекрывалось открывающиеся img  на странице news.shtml(z-index:3)*/
+			/* зафиксированное слева меню перекрывало!!! на странице index.shtml(z-index:???)*/
+}
+
+/* fixed (on top) header of page */
+.sticky {
+			position: -webkit-sticky;
+			position: -moz-sticky;
+			position: -ms-sticky;
+			position: -o-sticky;
+			position: sticky;
+			top: 20px;
+			width: 100%;
+			background: #ffffff;
+			padding: 0px 0px 2px;
+			/*text-transform: uppercase;*/
+} 

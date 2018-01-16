@@ -12,11 +12,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->
@@ -111,6 +113,14 @@ src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.k
 </div>
 
 			  </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />			  
 			</td>
 		</tr>
 	</table>
@@ -121,10 +131,7 @@ src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.k
 	</td>		
    </tr>
  </table>
-<br />
-<br />
-<br />
-<br />
+
 <!-- Banner bottom -->
 <!--#include virtual="../include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->

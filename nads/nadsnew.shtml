@@ -13,11 +13,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->
@@ -66,16 +68,16 @@
 
 <form action="../register/index1.php" method="post" name="form1" target="_blank">
 <p style='margin-bottom:0;'><span > • Навчання уповноважених осіб з питань запобігання та виявлення корупції центральних органів 
-виконавчої влади.</span></p> 
-<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-bc-2017.pdf" target="_blank" >План-графік.</a></span></p>
+виконавчої влади, 2018р.</span></p> 
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-bc-2018.pdf" target="_blank" >План-графік.</a></span></p>
 </form>
 
 <br />
 <form action="../register/index1.php" method="post" name="form2" target="_blank">
 <input type="hidden" name="func"/>
 <input type="hidden" name="max"/>
-<p style='margin-bottom:0;'><span > • Підвищення кваліфікації державних службовців категорій «А». Тема семінару: "Сучасне лідерство: новий підхід до державного управління" (4-8 вересня, 18-22 вересня 2017 року).</span></p>
-<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-cat-A-2017.pdf" target="_blank" >План-графік</a></span></p>
+<p style='margin-bottom:0;'><span > • Підвищення кваліфікації державних службовців категорій «А», 2018р. </span></p>
+<p style='margin-bottom:0;'><span ><!--a href="../files/nads/grafic-cat-A-2017.pdf" target="_blank" --><!--/a--></span></p>
 <!-- style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_4veresn').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація</a> на семінар 4 вересня 2017 року.</span></p>
 <div id="idframe_4veresn" style="display: none" > 
 	<p style='margin-bottom:0;'><span>Модуль 1. "Лідерство та ефективне управління" 4 вересня 2017 року.</span>
@@ -223,11 +225,75 @@
 <input type="hidden" name="max"/>
 <p style='margin-bottom:0;'><span > • Підвищення кваліфікації державних службовців центральних органів виконавчої влади, посади яких 
 належать до 6-9 групи оплати праці.</span></p>
-<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-center-gr6-9-2017.pdf" target="_blank" >План-графік</a></span></p>
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-center-gr6-9-2018.pdf" target="_blank" >План-графік</a></span></p>
 <p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_gr6-9-2017').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація...</a></span></p>
 <div id="idframe_gr6-9-2017" style="display: none" >
 	<p style='margin-bottom:0;'><span >Вид навчальної програми:</span></p>
-	<p style='margin-bottom:0;'><span > • Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці).</span></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Стратегічне управління та планування».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 22-23 січня 2018 року. Кількість слухачів 80 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='90';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Управління проектами та програмами».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 25-26 січня 2018 року. Кількість слухачів 50 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='91';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Управління змінами».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 29-30 січня 2018 року. Кількість слухачів 40 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='92';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Крос-культурний менеджмент. Крос-культурні комунікації та взаємодія».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 05-06 лютого 2018 року. Кількість слухачів 60 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='93';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Мистецтво ведення переговорів».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 08-09 лютого 2018 року. Кількість слухачів 80 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='94';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+
+	<p style='margin-bottom:0;'><span > Професійна програма підвищення кваліфікації державних службовців (7-9 групи оплати праці).</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 12-23 лютого 2018 року. Кількість слухачів 120 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='95';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 15-16 лютого 2018 року. Кількість слухачів 40 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='96';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Актуільні питання реалізації нового законодавства про державну службу».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 22-23 лютого 2018 року. Кількість слухачів 25 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='97';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Тайм-менеджмент».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 26-27 лютого 2018 року. Кількість слухачів 70 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='98';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Україна-НАТО: напрями співробітництва та партнерства».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 01-02 березня 2018 року. Кількість слухачів 40 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='99';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Електронне врядування в публічному управлінні».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 05-06 березня 2018 року. Кількість слухачів 50 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='100';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці).</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 12-13 березня 2018 року. Кількість слухачів 50 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='101';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Ораторське мистецтво».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 26-27 березня 2018 року. Кількість слухачів 80 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='102';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Актуільні питання реалізації нового законодавства про державну службу».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 29-30 березня 2018 року. Кількість слухачів 25 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='103';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Інноваційні технології в публічному управлінні».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 02-03 квітня 2018 року. Кількість слухачів 40 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='104';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Медіація в публічному управлінні».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 05-06 квітня 2018 року. Кількість слухачів 65 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='105';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Мистецтво ведення переговорів».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 10-11 квітня 2018 року. Кількість слухачів 90 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='106';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<p style='margin-bottom:0;'><span > Тематичний короткостроковий семінар «Децентралізація влади та децентралізація фінансів в Україні».</span></p>
+	<p style='margin-bottom:0;'><span >   Термін навчання: 12-13 квітня 2018 року. Кількість слухачів 60 (не більше 2 слухачів від одного державного органу).</span>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='107';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	
+	
+	<p style='margin-bottom:0pt;'><span >Орієнтовна тематика та рекомендації щодо <a href="../nads/vypusknarobota.shtml" class="underline">
+оформлення випускних робіт</a> державних службовців 6 групи оплати праці.</span></p>
+
+	
+	
+	<!--p style='margin-bottom:0;'><span > • Професійна програма підвищення кваліфікації державних службовців (6 група оплати праці).</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 04-15 вересня 2017 року. Кількість слухачів 50 (не більше 2 слухачів від одного державного органу).</span>
 	<input type="submit" name="submitnads" onclick="document.form3.func.value='90';   document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування».</span></p>
@@ -280,7 +346,7 @@
 	<input type="submit" name="submitnads" onclick="document.form3.func.value='106';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
 	<p style='margin-bottom:0;'><span > • Тематичний короткостроковий семінар «Корпоративна культура».</span></p>
 	<p style='margin-bottom:0;'><span >   Термін навчання: 29-30 листопада. Кількість слухачів 77 (не більше 2 слухачів від одного державного органу).</span>
-	<input type="submit" name="submitnads" onclick="document.form3.func.value='107';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p>
+	<input type="submit" name="submitnads" onclick="document.form3.func.value='107';  document.form3.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/></p-->
 
 	
 </div>
@@ -292,7 +358,7 @@
 <input type="hidden" name="max"/>
 <p style='margin-bottom:0;'><span > • Підвищення кваліфікації 
 керівників та заступників керівників центральних служб управління персоналом центральних органів виконавчої влади.</span></p>
-<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-zastHR-2017.pdf" target="_blank" >План-графік.</a></span></p>
+<p style='margin-bottom:0;'><span ><a href="../files/nads/grafic-zastHR-2018.pdf" target="_blank" >План-графік.</a></span></p>
 <!--p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('idframe_zastHR-2017').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Pеєстрація...</a></span></p>
 <div id="idframe_zastHR-2017" style="display: none" >
 	<p style='margin-bottom:0;'><span >Назва професійної програми:</span></p>

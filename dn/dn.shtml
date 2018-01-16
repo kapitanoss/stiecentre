@@ -12,11 +12,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->
@@ -62,8 +64,8 @@
 <p style='text-align:center;'><b><span >Для реєстрації на дистанційну форму навчання слухачі повинні:</span></b></p><br/>
 
 <p style='text-align:center; margin-bottom:0pt;'>1. Завантажити за одним із нижченаведених посилань облікову картку відповідного напрямку навчання.</p>
-<p style='text-align:center; margin-bottom:0pt;'><a href="../files/obl_card/OK_2017_ochno-dest_v_1_0.rar">Облікова картка для всіх напрямів навчання </a></p>
-<p style='text-align:center;'><a href="../files/obl_card/OK_2017_spec-dest_v_1_0.rar">Облікова картка для напрямку «Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів »</a></p>
+<p style='text-align:center; margin-bottom:0pt;'><a href="../files/obl_card/OK_2018_ochno-dest_v_1_0.rar">Облікова картка для всіх напрямів навчання </a></p>
+<p style='text-align:center;'><a href="../files/obl_card/OK_2018_spec-dest_v_1_0.rar">Облікова картка для напрямку «Застосування методів сучасного податкового менеджменту у підвищенні рівня культури сплати податків та зборів »</a></p>
 
 
 <p style='text-align:center;'>2. Відправити заповнену облікову картку на електронну адресу ВЦПК <a href="mailto:study@centre-kiev.kiev.ua">study@centre-kiev.kiev.ua</a></p>
@@ -78,6 +80,20 @@ src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.k
 <br />
 </div>
 			  </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 			</td>
 		</tr>
 	</table>
@@ -88,10 +104,7 @@ src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.k
 	</td>		
    </tr>
  </table>
-<br />
-<br />
-<br />
-<br />
+
 <!-- Banner bottom -->
 <!--#include virtual="../include/banner.html"-->
 <!--******************************Конец содержимого страницы**********************************-->

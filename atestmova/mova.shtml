@@ -12,11 +12,13 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
 </head>
 
 <body>
 <!-- Шапка сайта + Главное меню -->
- <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
 		<tr>
 
 			<!-- Шапка сайта-->
@@ -58,7 +60,7 @@
 <p style='text-align:center; '><b><span class='st4'>Атестація щодо вільного володіння державною мовою</span></b></p>
 
 
-<p><span >Із набранням чинності <a href="http://zakon2.rada.gov.ua/laws/show/889-19" target="_blank">Закону України «Про 
+<p><span >Із набранням чинності <a href="http://zakon2.rada.gov.ua/laws/show/889-19" target="_blank" class="underline">Закону України «Про 
 		державну службу»</a> суттєвих змін зазнав порядок вступу на державну службу. Так, однією із загальних вимог до осіб, які 
 		претендують на вступ на державну службу, встановлених положеннями статті 20 згаданого Закону, є вільне володіння 
 		державною мовою.</span></p>
@@ -68,12 +70,12 @@
 
 <p><span >З метою забезпечення реалізації вимог Закону та на виконання абзацу другого підпункту 4 пункту 15 Розділу XI 
 		«Прикінцеві та перехідні положення» Кабінетом Міністрів України прийнято Постанову Кабінету Міністрів України  від 
-		26 квітня 2017 року № 301 <a href="http://www.kmu.gov.ua/control/uk/cardnpd?docid=249955971" target="_blank">
+		26 квітня 2017 року № 301 <a href="http://www.kmu.gov.ua/control/uk/cardnpd?docid=249955971" target="_blank" class="underline">
 		«Про організацію проведення атестації осіб, які претендують на вступ на державну службу, 
 		щодо вільного володіння державною мовою».</a></span></p>
 		
 <p><span >Вищезазначеною постановою затверджено Порядок атестації осіб, які претендують на вступ на державну службу, 
-		щодо вільного володіння державною мовою, який розроблено НАДС на підставі <a href="../atestmova/project.shtml">
+		щодо вільного володіння державною мовою, який розроблено НАДС на підставі <a href="../atestmova/project.shtml" class="underline">
 		проекту Стандарту української мови для державних службовців</a>, що був підготовлений науковцями Інституту 
 		філології Київського національного університету імені Тараса Шевченка.</span></p>
 		
@@ -88,20 +90,20 @@
 <br />
 <div > <!--style="border-top: 1px solid #175b7c" -->
 <p style="margin-bottom:0pt;"><span ><b>Нормативно-правова база</b></span></p> 
-<p style="margin-bottom:0pt;"><span><a href="http://www.kmu.gov.ua/control/uk/cardnpd?docid=249955971" target="_blank">Постанова 
+<p style="margin-bottom:0pt;"><span><a href="http://www.kmu.gov.ua/control/uk/cardnpd?docid=249955971" target="_blank" class="underline">Постанова 
 			Кабінету Міністрів України від 26 квітня 2017 року № 301 </a> «Про організацію проведення атестації осіб, які 
 			претендують на вступ на державну службу, щодо вільного володіння державною мовою»</span></p>
-<p ><span ><a href="../atestmova/rozyasnennya.shtml">Роз’яснення НАДС стосовно атестації </a>
+<p ><span ><a href="../atestmova/rozyasnennya.shtml" class="underline">Роз’яснення НАДС стосовно атестації </a>
 			осіб, які претендують на вступ на державну службу, щодо вільного володіння державною мовою від 18 травня 2017 року 
 			№26-р/з</span></p>		
 
 <p style="margin-bottom:0pt;"><span ><b>Додаткові матеріали</b></span></p>
-<p style="margin-bottom:0pt;"><span ><a href="../atestmova/mova_test.shtml">Зразки тестових завдань, тем та сценаріїв для 
+<p style="margin-bottom:0pt;"><span ><a href="../atestmova/mova_test.shtml" class="underline">Зразки тестових завдань, тем та сценаріїв для 
 			проведення співбесіди</a></span></p>
-<p style="margin-bottom:0pt;"><span ><a href="../files/atestmova/upovnovazh_vnz-59.pdf" target="_blank">Уповноважені
+<p style="margin-bottom:0pt;"><span ><a href="../files/atestmova/upovnovazh_vnz-59.pdf" target="_blank" class="underline">Уповноважені
 			вищі навчальні заклади готові до проведення атестації</a> (даний перелік оновлюється по мірі надходження інформації 
 			від уповноважених вищих навчальних закладів)</span></p>
-<p ><span ><a href="../atestmova/navch_zakl.shtml">Кількість 
+<p ><span ><a href="../atestmova/navch_zakl.shtml" class="underline">Кількість 
 			уповноважених вищих навчальних закладів</a></span></p><!--відповідно до інформації на офіційному веб-сайті ВНЗ-->
 
 
