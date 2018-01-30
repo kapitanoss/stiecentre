@@ -101,6 +101,22 @@
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/trening-z-pytan-reform-derg-upravl-3.shtml" title="27 січня 2018">== Навчання фахівці з питань реформ</a>
+                        </li>
+
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/news.shtml" title="25 січня 2018">== Семінар «Управління проектами та програмами»</a>
+                        </li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/reforma-system-profnavch.shtml" title="18 січня 2018">== Нарада НАДС України</a>
+                        </li>
+						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/memorandum.shtml" title="21 грудня 2017">== Меморандум з НТСЕР</a>
@@ -256,6 +272,129 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
+										<span class="date">29</span>
+										<span class="year">2018</span>
+										<span class="month">січня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Тематичний семінар «Управління змінами»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою семінару «Управління змінами»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/upravl-zmina/upravl-zmina-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний семінар «Управління змінами»." 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний семінар «Управління змінами»." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Управління змінами»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">27</span>
+										<span class="year">2018</span>
+										<span class="month">січня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/trening-z-pytan-reform-derg-upravl-3.shtml" title="">Навчання фахівців з питань реформ</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації продовжили навчання фахівці з питань реформ....</p>
+										<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/trening-z-pytan-reform-derg-upravl-3.shtml" class="slider_img">
+									<img src="../img/news/reforma-derg-upravl/reforma-derg-upravl-31.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінгова програма підготовки фахівців з питань реформ-3." 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінгова програма підготовки фахівців з питань реформ-3." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації продовжили навчання фахівці з питань реформ....</p>
+								<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl-3.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>			
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">25</span>
+										<span class="year">2018</span>
+										<span class="month">січня</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Тематичний семінар «Управління проектами та програмами»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою тематичного семінару «Управління проектами та програмами»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/upravl-project/upravl-project-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний семінар «Управління проектами та програмами»." 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний семінар «Управління проектами та програмами»." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою тематичного семінару «Управління проектами та програмами»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
 										<span class="date">23</span>
 										<span class="year">2018</span>
 										<span class="month">січня</span>										
@@ -287,7 +426,7 @@
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
-								<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>				
@@ -328,7 +467,7 @@
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>Слухачі тренінгу отримали теоретичні та практичні знання у сфері аналізу політики, стратегічного планування ....</p>
-								<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl-2.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
@@ -369,7 +508,7 @@
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>Нарада НАДС з реалізації Концепції реформування системи професійного навчання державних службовців....</p>
-								<span class="readmore"><a href="../news/trening-z-pytan-reform-derg-upravl.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<span class="readmore"><a href="../news/reforma-system-profnavch.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
@@ -1575,7 +1714,7 @@
 							</div>				
 						</div>
 					</li>
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1612,7 +1751,7 @@
 								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>
 						</div>
-					</li>
+					<--/li>
 					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	

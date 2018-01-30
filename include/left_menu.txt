@@ -3,7 +3,7 @@
 					<ul class="nav_left" >
 					  <li class="st3"><a href="#">Центр</a>
 						<ul>
-						  <li class="st3"><a href="../info/about.shtml">Інформаційна довідка</a></li>
+						  <!--li class="st3"><a href="#">Інформаційна довідка</a></li-->
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
 						  <li class="st3"><a href="../structure/strcentre.shtml">Структура центру</a></li>
 						  <li class="st3"><a href="#">Кафедри</a>
