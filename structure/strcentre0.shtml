@@ -12,8 +12,8 @@
     <link rel="stylesheet" type="text/css" href="../css/layout.css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 
-<!--script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
-<script type="text/javascript" src="../include/js/fixmenu.js"></script-->	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>	
 </head>
 
 <body>
@@ -44,18 +44,47 @@
 
     <td class="col2" valign="top">
 	
-	<table  border="0" cellspacing="0" cellpadding="20" >
+	<table style='margin:0 0 0 0' border="0" cellspacing="0" cellpadding="20">
 		<tr >
 		<!--#include virtual="../include/left_menu.txt"-->	  
-			<td class="st6"style=' background-image:url("structure2.jpg"); background-size: 100% 100%; background-repeat: no-repeat; ' > <div class="st51"  >
+			<td class="st6"> <div class="st51" >
          <!-- InstanceBeginEditable name="text" -->
          
  <!--**********************Вставить текст страницы********************************************-->
+<div class="MsoNormal" >
 
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
+<p style='text-align:center; '><b><span class="st4">СТРУКТУРА <br />Всеукраїнського центру підвищення кваліфікації державних <br />
+службовців і посадових осіб місцевого самоврядування<br /></span></b></p>
 
+<p style='text-indent: 0px; padding-left:20px; margin-bottom:0pt;'><span ><b>Керівництво</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:30px; '><span >Директор Центру<br/>
+Перший заступник директора<br/>
+Заступник директора з наукової та навчальної роботи<br/>
+Заступник директора з адміністративно-господарської діяльності<br/>
+Заступник  директора – начальник відділення<br/>
+Заступник директора з мовної підготовки<br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Юридичний сектор</b><br/>
+<b>Сектор роботи з персоналом</b><br/>
+<b>Загальний відділ</b><br/>
+<b>Навчально-методичний відділ</b><br/>
+<b>Відділ інформаційних технологій</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Управління розвитку персоналу державних органів</b><br/>
+<b>Управління підвищення кваліфікації державних службовців</b><br/> 
+<b>Управління  фінансів, бухгалтерського обліку та звітності</b><br/>
+<b>Управління господарського обслуговування та матеріального забезпечення</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Кафедра Менеджменту</b><br/>
+<b>Кафедра Cуспільного врядування</b><br/>
+<b>Кафедра Мовної підготовки</b><br/></span ></p>
+<p style='text-indent: 0px; padding-left:20px; '><span ><b>Гуртожиток м. Київ, вул.Шепелєва</b><br/>
+<b>Гуртожиток смт. Козин</b><br/>
+<b>Їдальня м. Київ, вул.Шепелєва</b><br/>
+<b>Їдальня смт. Козин</b><br/></span ></p>
 
-
+<br />
+<br />
+				</div>
 
 			<!--******************************Конец содержимого страницы**********************************-->
 			  </div>
@@ -63,10 +92,6 @@
 		</tr>
 	</table>
 <!-- InstanceEnd -->
-<br />
-<br />
-<br />
-<br />
     </td>
     <td class="col3">
 
