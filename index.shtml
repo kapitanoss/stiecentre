@@ -20,7 +20,7 @@
 		<link rel="stylesheet" id="fontello-css" href="news/widgets/slider_top/css/fontello.css" type="text/css" media="all"/>
 		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style.css" type="text/css" media="all"/>
 		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/>
+		<!--link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/-->
 	<style type="text/css">
 		#wid-39 .home-slide-image{
 			height:350px;
@@ -271,6 +271,129 @@
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">19</span>
+										<span class="year">2018</span>
+										<span class="month">лютого</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Навчання державних службовців за тренінговою програмою «Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>З 19 по 23 лютого 2018 року проходить підвищення кваліфікації керівників та заступників керівників....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/itup.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Інноваційні технології управління персоналом»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Інноваційні технології управління персоналом»." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 19 по 23 лютого 2018 року проходить підвищення кваліфікації керівників та заступників керівників....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>		
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2018</span>
+										<span class="month">лютого</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою семінару «Європейські стандарти демократичного врядування»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/esdv.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Європейські стандарти демократичного врядування»." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Європейські стандарти демократичного врядування»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">лютого</span>										
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Двотижневе навчання державних службовців за професійною програмою підвищення кваліфікації</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>З 12 по 23 лютого 2018 року у Всеукраїнському центрі підвищення кваліфікації....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/pppk.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Двотижневе навчання державних службовців за професійною програмою підвищення кваліфікації" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Двотижневе навчання державних службовців за професійною програмою підвищення кваліфікації" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 12 по 23 лютого 2018 року у Всеукраїнському центрі підвищення кваліфікації....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -1838,7 +1961,7 @@
 								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>
 						</div>
-					<--/li>
+					</li-->
 					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
