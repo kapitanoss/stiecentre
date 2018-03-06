@@ -12,7 +12,7 @@
 							<li class="st3"><a href="../mz/kaf_mov_pid.shtml">Кафедра мовної підготовки</a></li>
 						   </ul>
 						  </li>						  
-						  <li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li>
+						  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->
 						</ul>
 					  </li>
 					  <!--li class="st3"><a href="../nads/ogoloshen.shtml">Оголошення</a>
@@ -48,7 +48,7 @@
 					  <li class="st3"><a href="../konkurs/konk.shtml">Всеукраїнський конкурс «Кращий державний службовець»</a></li>
                       <li class="st3"><a href="../nads/nads.shtml">Плани-графіки підвищення кваліфікації державних службовців категорій «А», «Б», «В»</a></li>
 				  	  <li class="st3"><a href="../atestmova/mova.shtml">Атестація щодо вільного володіння державною мовою</a></li>					  
-					  <li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li>					
+					  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->					
 					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
 					  </ul>
 				</div>

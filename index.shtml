@@ -101,9 +101,20 @@
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
-						<li class="marquee-list" style="margin-left: 0px;">
+					
+					<li class="marquee-list" style="margin-left: 0px;">
+						<i class="icon-angle-double-right"></i>
+						<a href="../news/news.shtml" title="06 березня 2018">== Електронне управління: семінар</a>
+					</li>
+					
+					<li class="marquee-list" style="margin-left: 0px;">
+						<i class="icon-angle-double-right"></i>
+						<a href="../news/news.shtml" title="01 березня 2018">== Україна – НАТО: семінар</a>
+					</li>
+
+					<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-innovac.shtml" title="лютий 2018">== Анонси Центру Анонси Центру</a>
+							<a href="../news/nads-kolegia.shtml" title="22 лютого 2018">== Засідання колегії НАДС України</a>
                         </li>
 						
 						<li class="marquee-list" style="margin-left: 0px;">
@@ -276,20 +287,20 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">22</span>
+										<span class="date">06</span>
 										<span class="year">2018</span>
-										<span class="month">лютого</span>
+										<span class="month">березня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/nads-kolegia.shtml" title="">Засідання колегії НАДС України</a>
+										<a href="../news/news.shtml" title="">«Електронне врядування в публічному управлінні»</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
+										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>22 лютого відбулося засідання колегії Національного агентства України з питань державної служби....</p>
-										<span class="readmore"><a href="../news/nads-kolegia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>Навчання державних службовців за програмою семінару «Електронне врядування в публічному управлінні»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -297,18 +308,96 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/nads-kolegia.shtml" class="slider_img">
-									<img src="../img/news/nads-kolegia-1.jpg" alt="Засідання колегії НАДС України" 
-										 title="Засідання колегії НАДС України" class="featured-image" draggable="false"/>							
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/e-public.jpg" alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Електронне врядування в публічному управлінні»." 
+										 title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Електронне врядування в публічному управлінні»." class="featured-image" draggable="false"/>							
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>22 лютого відбулося засідання колегії Національного агентства України з питань державної служби....</p>
-								<span class="readmore"><a href="../news/nads-kolegia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>Навчання державних службовців за програмою семінару «Електронне врядування в публічному управлінні»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+								
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">01</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Україна – НАТО: напрями співробітництва та партнерства»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за програмою семінару «Україна – НАТО: напрями співробітництва та партнерства»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/nato-ua.jpg" alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Україна – НАТО: напрями співробітництва та партнерства»." 
+										 title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Україна – НАТО: напрями співробітництва та партнерства»." class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за програмою семінару «Україна – НАТО: напрями співробітництва та партнерства»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>				
+								
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">27</span>
+										<span class="year">2018</span>
+										<span class="month">лютого</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Семінар «Тайм-менеджмент». Навчання державних службовців</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару «Тайм - менеджмент»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/time_management.jpg" alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Тайм-менеджмент»." 
+										 title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Тайм-менеджмент»." class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару «Тайм - менеджмент»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -356,20 +445,20 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">26</span>
+										<span class="date">22</span>
 										<span class="year">2018</span>
 										<span class="month">лютого</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/news.shtml" title="">Семінар «Тайм-менеджмент». Навчання державних службовців </a>
+										<a href="../news/nads-kolegia.shtml" title="">Засідання колегії НАДС України</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
+										<a href="../news/news.shtml">Національне агентство</a>
 									</div>
 									<div class="excerpt">
-										<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару «Тайм - менеджмент»</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>22 лютого відбулося засідання колегії Національного агентства України з питань державної служби....</p>
+										<span class="readmore"><a href="../news/nads-kolegia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -377,19 +466,19 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/time_management.jpg" alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Тайм-менеджмент»." 
-										 title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Тайм-менеджмент»." class="featured-image" draggable="false"/>							
+									<a href="../news/nads-kolegia.shtml" class="slider_img">
+									<img src="../img/news/nads-kolegia-1.jpg" alt="Засідання колегії НАДС України" 
+										 title="Засідання колегії НАДС України" class="featured-image" draggable="false"/>							
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару «Тайм - менеджмент»</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>22 лютого відбулося засідання колегії Національного агентства України з питань державної служби....</p>
+								<span class="readmore"><a href="../news/nads-kolegia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
-					
+					</li>				
+										
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -554,7 +643,7 @@
 						</div>
 					</li>				
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -594,7 +683,7 @@
 								<span class="readmore"><a href="../news/announce-innovac.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 								
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -1724,7 +1813,7 @@
 					</li-->
 
 				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1763,7 +1852,7 @@
 								<span class="readmore"><a href="../news/bc-2107.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -1847,7 +1936,7 @@
 						</div>
 					</li>			
 				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1886,7 +1975,7 @@
 								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
