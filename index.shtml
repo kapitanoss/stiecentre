@@ -101,12 +101,17 @@
 				
 			<div class="marquee-wrapper">
 					<ul class="marquee" id="marquee_39">
-					
+
+					<li class="marquee-list" style="margin-left: 0px;">
+						<i class="icon-angle-double-right"></i>
+						<a href="../news/nads-gov-france.shtml" title="12 березня 2018">== Зустріч НАДС з DGAFP і ENA</a>
+					</li>
+
 					<li class="marquee-list" style="margin-left: 0px;">
 						<i class="icon-angle-double-right"></i>
 						<a href="../news/news.shtml" title="06 березня 2018">== Електронне управління: семінар</a>
 					</li>
-					
+
 					<li class="marquee-list" style="margin-left: 0px;">
 						<i class="icon-angle-double-right"></i>
 						<a href="../news/news.shtml" title="01 березня 2018">== Україна – НАТО: семінар</a>
@@ -281,7 +286,175 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">13</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/euam-traning.shtml" title="">«Консультація заради довіри» (EUAM). Тренінг для керівників органів ДФС.</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінги ДФС</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру експертами  Консультативної місії Європейського Союзу «Консультація заради довіри» (EUAM) проводиться 
+										цикл тренінгів для керівників служб управління персоналом органів ДФС....</p>
+										<span class="readmore"><a href="../news/euam-traning.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/euam-traning.shtml" class="slider_img">
+									<img src="../img/news/2018-03-euam-traning-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС." 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС." 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру експертами  Консультативної місії Європейського Союзу «Консультація заради довіри» (EUAM) проводиться 
+										цикл тренінгів для керівників служб управління персоналом органів ДФС....</p>
+								<span class="readmore"><a href="../news/euam-traning.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/derg-slug-6gr-2018-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/itup-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-1" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/nads-gov-france.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>								
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/nads-gov-france.shtml" title="">НАДС УКРАЇНИ, Гендирекція адміністрації та державної служби Франції і Національна школи державного управління</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Питання підвищення кваліфікації державних службовців та посадовців вищого корпусу державної служби обговорено на зустрічі з представниками 
+										Гендирекції адміністрації та державної служби Франції і Національної школи державного управління (ENA)....</p>
+										<span class="readmore"><a href="../news/nads-gov-france.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/nads-gov-france.shtml" class="slider_img">
+									<img src="../img/news/nads-gov-france.jpg" 
+									alt="НАДС України - зустріч з представниками Гендирекції адміністрації та державної служби Франції і Національної школи державного управління. 
+									Всеукраїнський центр підвищення кваліфікації, 2018р." 
+									title="НАДС України - зустріч з представниками Гендирекції адміністрації та державної служби Франції і Національної школи державного управління. 
+									Всеукраїнський центр підвищення кваліфікації, 2018р." class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Питання підвищення кваліфікації державних службовців та посадовців вищого корпусу державної служби обговорено на зустрічі з представниками 
+								Гендирекції адміністрації та державної служби Франції і Національної школи державного управління (ENA)....</p>
+								<span class="readmore"><a href="../news/nads-gov-france.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+			
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -1643,7 +1816,7 @@
 					</li>
 
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1685,9 +1858,9 @@
 								<span class="readmore"><a href="../news/psmanage-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1728,7 +1901,7 @@
 								<span class="readmore"><a href="../news/bc-2107-8.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">

@@ -53,36 +53,56 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-			<p align="center"> 
-                		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2542.0404490981246!2d30.42962!3d50.421718!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c9551b9483bf%3A0x38f1332fd220855a!2z0LLRg9C7LiDQnNC40LrQvtC70Lgg0KjQtdC_0LXQu9GU0LLQsCwgM9CQLCDQmtC40ZfQsiwg0LzRltGB0YLQviDQmtC40ZfQsg!5e0!3m2!1suk!2sua!4v1412584243899" width="500" height="400" frameborder="0" style="border: 8px solid #ffffff">
+			<!--div align="center"> 
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2542.0404490981246!2d30.42962!3d50.421718!3m2!1i1024!2i768!4f13.1!3m3!1m2!
+				1s0x40d4c9551b9483bf%3A0x38f1332fd220855a!2z0LLRg9C7LiDQnNC40LrQvtC70Lgg0KjQtdC_0LXQu9GU0LLQsCwgM9CQLCDQmtC40ZfQsiwg0LzRltGB0YLQviDQmtC40ZfQsg!
+				5e0!3m2!1suk!2sua!4v1412584243899" width="500" height="400" frameborder="0" style="border: 8px solid #ffffff">
 				</iframe>
-				</p>
-
+			</div-->
+				<!--iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20431.39259868496!2d30.667181626367185!3d50.19995011564354!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d495bb3ebf55db%3A0xd9da1ac7189bf7d5!2z0KbQtdC90YLRgCDQstGW0LTQv9C-0YfQuNC90LrRgyDRgtCwINC_0YDQvtCy0LXQtNC10L3QvdGPINGB0LXQvNGW0L3QsNGA0ZbQsg!5e0!3m2!1suk!2sua!4v1521020434702" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe-->
 
 			<div class="MsoNormal" >
+   <br />	
+   <br />   
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	 <tr>
+	   <td width="50%" style="background: #ededed" >
+			<p style="text-align:center;"><span>Адреса: 03061, Київ-061 вул.Шепелєва, 3-а<br />
+					Телефон/факс: (044) 455-05-72<br />		
+					E-mail: centre@centre-kiev.kiev.ua</span></p>			
+	   </td>
+	   <td width="50%" style="text-align:right; text-indent: 0px; background: #dfe6ea" >
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2542.0404490981246!2d30.42962!3d50.421718!3m2!1i1024!2i768!4f13.1!3m3!1m2!
+				1s0x40d4c9551b9483bf%3A0x38f1332fd220855a!2z0LLRg9C7LiDQnNC40LrQvtC70Lgg0KjQtdC_0LXQu9GU0LLQsCwgM9CQLCDQmtC40ZfQsiwg0LzRltGB0YLQviDQmtC40ZfQsg!
+				5e0!3m2!1suk!2sua!4v1412584243899" width="500" height="220" frameborder="0" style="border: 8px solid #dcdedf">
+				</iframe>	   
+	   </td>
+	 </tr>             
+   </table>
+   
 
-				<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+   <br />
+   
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	 <tr>
+	   <td width="50%" style="text-align:center; text-indent: 0px;     background: #ededed" >
+			<p style="text-align:center;"><span>Адреса:  08711, Київська область,  Обухiвський район,<br />
+					смт Козин, вул. Солов'яненка, 308<br />
+					Телефони: Адміністратор (044) 520-90-15, (04572) 37-194<br />
+					Навчальна частина (044) 251-68-72, (044) 251-68-71, (04572) 37-099<br />
+					E-mail: metodkozin@gmail.com або centrkozin@gmail.com</span></p>
+	   </td>
+	   <td width="50%" style="text-align:right; text-indent: 0px; background: #dfe6ea" >
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20431.39259868496!2d30.667181626367185!3d50.19995011564354!3m2!1i1024!2i768!4f13.1!
+				3m3!1m2!1s0x40d495bb3ebf55db%3A0xd9da1ac7189bf7d5!2z0KbQtdC90YLRgCDQstGW0LTQv9C-0YfQuNC90LrRgyDRgtCwINC_0YDQvtCy0LXQtNC10L3QvdGPINGB0LXQvNGW0L3QsNGA0ZbQsg!
+				5e0!3m2!1suk!2sua!4v1521020434702"   width="500" height="220" frameborder="0" style="border: 8px solid #dcdedf" allowfullscreen></iframe>
+	   </td>
+	 </tr>             
+   </table>
 
-				<p style='text-align:center; '><b><span class='st4'>До нас можна доїхати з різних кінців міста:</span></b></p>
+   <br />
+   <br />
 
-				<p align="justify">Від Центрального автовокзалу (м.Київ, пл.Деміївська, 3):
-				Тролейбус № 42 (в сторону Севастопольскої площі) з пересадкою на зупинці "Лебедєва Кумача". 
-				Маршрутні таксі № 439, 477 з пересадкою на зупинці "Лебедєва Кумача".</p>
-
-				<p align="justify">Від аеропорту "Київ" (Жуляни) (м.Київ, пр.Воздухофлотський, 92): 
-				Тролейбусами № № 21, 22 з пересадкою на зупинці "Лебедєва Кумача".
-				Від зупинки "Лебедєва Кумача" на тролейбусі № 27 або маршрутні таксі № 427, 433 їхати до зупинки "Бульвар Вацлава Гавела".</p>
-
-				<p align="justify">Від аеропорту "Бориспіль": 
-				До станції метро "Лівобережна" або "Харьківська", або маршрутне таксі № 322 до зупинки "Залізничний вокзал" (с.м. "Залізничний вокзал") 
-				-> їхати до станції метро "Шулявська" або "Берестейська".</p>
-
-				<p align="justify">Від станції метро "Шулявська": 
-				Тролейбус № 27 або маршрутні таксі № № 427, 201 -> їхати до зупинки "Бульвар Вацлава Гавела".</p>
-
-				<p align="justify">Від станції метро "Берестейська": 
-				Трамваї № № 14, 15 або маршрутне таксі № 14 -> їхати до зупинки "Проспект Відрадний".</p>
-				<br />
 </div>				
 			  </div>
 			</td>
