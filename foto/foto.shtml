@@ -14,7 +14,7 @@
 	<script src="../foto/galleria/jquery-1.12.4.min.js"></script>
 	<script src="../foto/galleria/galleria-1.4.2.min.js"></script>
 	<style type="text/css">
-       .galleria{ margin: auto; width: 730px; height: 500px;  }
+       .galleria{ margin: auto; width: 830px; height: 570px;  }
 	    body .galleria-container{ background: #c4e5f5; /*#b1e7c2; */	border: 3px solid #ccc;}
     </style>
 <script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
@@ -87,7 +87,19 @@
             thumb: 'thumb/2018/thumb2008-03-nads-gov-france.jpg',
             image: '2018/2008-03-nads-gov-france.jpg',
 			title: "НАДС України. Зустріч з представниками Генеральної дирекції адміністрації та державної служби Французької Республіки і Національної школи державного управління (ENA), 2018р."	
-        },		
+        },
+        {
+            thumb: 'thumb/2018/thumb2018-03-euam-traning-1.jpg',
+            image: '../img/news/2018-03-euam-traning-1.jpg',
+			title: "«Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС. Всеукраїнський центр підвищення кваліфікації, 2018р.",
+			description: "«Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС. Всеукраїнський центр підвищення кваліфікації, 2018р."			
+        },
+        {
+            thumb: 'thumb/2018/thumb2018-03-euam-traning-2.jpg',
+            image: '../img/news/2018-03-euam-traning-2.jpg',
+			title: "«Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС-2. Всеукраїнський центр підвищення кваліфікації, 2018р.",
+			description: "«Консультація заради довіри» (EUAM). Тренінг керівників служб управління персоналом органів ДФС-2. Всеукраїнський центр підвищення кваліфікації, 2018р."			
+        },
         {
             thumb: 'thumb/thumb035.jpg',
             image: '035.JPG',
