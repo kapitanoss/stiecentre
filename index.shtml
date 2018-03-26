@@ -284,8 +284,90 @@
 		</div>
 	
 		<div class="home_slider_wrap">
-			<div class="home_slider flexslider" data-interval="10" data-flex_fx="fade" data-smoothheight="0" style="">
+			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../konkurs/konk_NADS-2018-1_tur.shtml" title="">I тур Всеукраїнського конкурсу «Кращий державний службовець»-2018</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../konkurs/konk_NADS-2018-1_tur.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>На виконання пункту 15 Порядку проведення щорічного Всеукраїнського конкурсу «Кращий державний службовець», затвердженого постановою 
+										Кабінету Міністрів України від 19 вересня 2007 року № 1152, оргкомітетам з проведення першого туру Конкурсу надається...</p>
+										<span class="readmore"><a href="../konkurs/konk_NADS-2018-1_tur.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../konkurs/konk_NADS-2018-1_tur.shtml" class="slider_img">
+									<img src="../img/news/NADS-bestds.png" alt="НАДС України. Всеукраїнський конкурс «Кращий державний службовець»-2018, I тур" 
+										 title="НАДС України. Всеукраїнський конкурс «Кращий державний службовець»-2018, I тур" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На виконання пункту 15 Порядку проведення щорічного Всеукраїнського конкурсу «Кращий державний службовець», затвердженого постановою 
+										Кабінету Міністрів України від 19 вересня 2007 року № 1152, оргкомітетам з проведення першого туру Конкурсу надається...</p>
+								<span class="readmore"><a href="../konkurs/konk_NADS-2018-1_tur.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">19</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/itup-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-2" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-2" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -297,7 +379,7 @@
 										<span class="month">березня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/euam-traning.shtml" title="">«Консультація заради довіри» (EUAM). Тренінг для керівників органів ДФС.</a>
+										<a href="../news/euam-traning.shtml" title="">«Консультація заради довіри» (EUAM). Тренінг для керівників органів ДФС</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
@@ -371,7 +453,7 @@
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -409,7 +491,7 @@
 								<span class="readmore"><a href="../news/nads-gov-france.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>								
+					</li-->								
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
