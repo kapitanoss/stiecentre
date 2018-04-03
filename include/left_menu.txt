@@ -1,11 +1,11 @@
 			<td valign="top" width='182px' >
 				<div id="v_mnu_01" class="havleft" >
 					<ul class="nav_left" >
-					  <li class="st3"><a href="#">Центр</a>
+					  <li class="st3"><a href="#">Про ВЦПК</a>
 						<ul>
 						  <li class="st3"><a href="../info/about.shtml">Інформаційна довідка</a></li>
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
-						  <li class="st3"><a href="../structure/strcentre.shtml">Структура центру</a></li>
+						  <li class="st3"><a href="../structure/strcentre.shtml">Структура ВЦПК</a></li>
 						  <li class="st3"><a href="#">Кафедри</a>
 						   <ul>
 							<li class="st3"><a href="../mz/kaf_pm.shtml">Кафедра менеджменту</a></li>

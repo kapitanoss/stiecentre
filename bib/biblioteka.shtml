@@ -66,14 +66,40 @@
 	Таким чином, шановні слухачі, електронна бібліотека готова запропонувати Вам свою допомогу і такі необхідні для Вас інформаційні послуги. 
 	Якщо вас зацікавила наша електронна бібліотека, то ви можете долучитися до нас. Можливо у Вас є якісь корисні навчальні матеріали, якими б ви хотіли поділитися і 
 	цим самим посприяти розвитку нашої бібліотеки</span></p>
-			<br />
+
+			<br/>
+			<br/>
+
+		<div style="float:auto"><table style=' width:100%;'>
+		  <tr>
+			<th align="center" style=' width:33.33%;'>
+					<div style="float:auto">
+						<a href="../bib/znb.shtml "><img title="Законодавство Нормативна база" src="../bib/img/1.png" alt="Законодавство Нормативна база" width="260"/></a>
+					</div>
+			</th>
+			<th align="center" style=' width:33.33%;'>	
+					<div style="float:auto">
+						<a href="../bib/nmm.shtml "><img title="Навчально-методичні матеріали" src="../bib/img/2.png" alt="Навчально-методичні матеріали ВЦПК" width="260"/></a>
+					</div>
+			</th>
+			<th align="center" style=' width:33.33%;'>
+					<div style="float:auto">
+						<a href="../bib/npv.shtml "><img title="Наукові періодичні видання" src="../bib/img/3.png" alt="Наукові періодичні видання" width="260"/></a>
+					</div>
+			</th >
+		   </tr>   
+		</table></div>
+	
+			<br/>
+			<br/>
 			</div>
 			</div>
 			</td>
 			</tr>
 		</table>
 	<br/>
-		<table style='position: relative; left: 182px; width:1030px;'>
+	
+		<!--table style='position: relative; left: 182px; width:1030px;'>
 		  <tr>
 			<th>
 					<div style="float:auto">
@@ -91,11 +117,9 @@
 					</div>
 			</th>
 		   </tr>   
-		</table>
+		</table-->
 	<br/>
-	<br/>
-	<br/>
-	<br/>
+
 		<table width="100%">
 			<tr>
 					<td colspan="6">

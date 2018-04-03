@@ -9,7 +9,7 @@
 				<div style='margin: 0 auto 0 923px; ' class="st1">
 
 <!--br /-->
-<style>
+<style  type="text/css">
 .social-header-block-right{float:right;/*margin-top:3px !important;*/ /*background-color:#b8cad3;*/}
 .social-header-block-right a{float:left;width:31px;margin-right:1px;height:25px;background:url('../im_diz/im_shapka/socialbotton.png') no-repeat; }
 /*.social-header-block-right a.tw{background-position:-42px 0}

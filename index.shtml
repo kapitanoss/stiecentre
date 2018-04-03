@@ -151,11 +151,6 @@
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/trening-z-pytan-reform.shtml" title="01 грудня 2017">== КМУ/НАДС/ЄС: Тренінги з питань реформ</a>
                         </li>
-					
-						<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../konkurs/konk-3round-end.shtml" title="31 жовтня 2017">== ІIІ тур Конкурсу «Кращий державний службовець»</a>
-                        </li!-->
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -181,11 +176,6 @@
 							<i class="icon-angle-double-right"></i>
 							<a href="../konkurs/orgkonk-3round.shtml" title="28 серпня 2017">== Засідання Організаційного комітету III туру конкурсу	</a>
                         </li>
-						
-						<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/nezalegnist.shtml" title="21 серпня 2017">== С Днем Незалежності України!</a>
-                        </li!-->
 
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -237,41 +227,6 @@
 							<a href="../news/news.shtml" title="13 квітня 2017">== Навчально-методичний семінар НАДС</a>
                         </li>
  
-            			<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="18 березня 2017">== За підтримки європейських партнерів</a>
-                        </li-->
-	   
-            			<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="30 січня 2017">== Початок навчального 2017 року в ВЦПК</a>
-                        </li-->
-			   
-            			<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="2 січня 2017">== Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації</a>
-                        </li-->
-			   
-            			<!--li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="14 грудня 2016">== Тренінг за програмою технічної допомоги МВФ</a>
-                        </li>
-			   
-            			<li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="28 листопада 2016">== Урочисте засідання Ради ветеранів ДПС України</a>
-                        </li>
-			   
-            			<li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="28 вересня 2016">== Практичний семінар для підрозділів ДФС</a>
-                        </li>
-
-            			<li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/news.shtml" title="24 серпня 2016">== Святкова акція – виконання Державного Гімну України</a>
-                        </li-->
- 
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/news.shtml" title="1 рік тому">. . . . . . . . . . . . . . . . . . . </a>
@@ -287,7 +242,127 @@
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
-									<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">2-6</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/itup-4.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-4" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-4" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">2-3</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Інноваційні технології в публічному управлінні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою семінару «Інноваційні технології в публічному управлінні»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/itpu.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології в публічному управлінні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології в публічному управлінні»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Інноваційні технології в публічному управлінні»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">30</span>
+										<span class="year">2018</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Актуальні питання реалізації нового законодавства про державну службу»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/nov-zakon-ds.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>					
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -332,46 +407,6 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">26</span>
-										<span class="year">2018</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/itup-3.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-3" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-3" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
 										<span class="date">22</span>
 										<span class="year">2018</span>
 										<span class="month">березня</span>
@@ -407,46 +442,6 @@
 							</div>				
 						</div>
 					</li>
-				
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">19</span>
-										<span class="year">2018</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/itup-2.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-2" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-2" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -530,47 +525,7 @@
 								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
-					
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">12</span>
-										<span class="year">2018</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/itup-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-1" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-1" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/nads-gov-france.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->								
+					</li>								
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -976,49 +931,7 @@
 							</div>				
 						</div>
 					</li>				
-
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">01</span>
-										<span class="year">2018</span>
-										<span class="month">лютого</span>										
-									</div>
-									<h1 class="title" >
-										<a href="../news/announce-innovac.shtml"  title=""><span style="color:#c84b00;">Анонс</span><br />у лютому 2018 року розпочинається 
-										навчання за програмою «Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Анонси Центру</a>
-									</div>
-									<div class="excerpt">
-										<p>У лютому 2018 року розпочинається навчання за тренінговою програмою підвищення кваліфікації «Інноваційні технології управління персоналом»....</p>
-										<span class="readmore"><a href="../news/announce-innovac.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile" style='background-image:url("../img/news/centr.png"); background-size: 100% 100%; background-repeat: no-repeat; '>
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/announce-innovac.shtml" class="slider_img">
-									<img src="../img/news/centr-conferenc.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Анонс програмы підвищення кваліфікації «Інноваційні технології управління персоналом»." 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Анонс програмы підвищення кваліфікації «Інноваційні технології управління персоналом»." 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У лютому 2018 року розпочинається навчання за тренінговою програмою підвищення кваліфікації «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/announce-innovac.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
-								
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -1436,49 +1349,6 @@
 								<span class="readmore"><a href="../news/trening-z-pytan-reform.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">31</span>
-										<span class="year">2017</span>
-										<span class="month">жовтня</span>
-									</div>
-									<h1 class="title">
-										<a href="../konkurs/konk-3round-end.shtml" title="">III тур Всеукраїнського конкурсу «Кращий державний службовець»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Завершився ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Оргкомітетом будуть визначені переможці та 
-										лауреати Конкурсу, урочисте нагородження яких відбудеться у грудні 2017 року...</p>
-										<span class="readmore"><a href="../konkurs/konk-3round-end.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../konkurs/konk-3round-end.shtml" class="slider_img">
-									<img src="../img/konkurs/konk-3round-end-7.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Завершився ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Оргкомітетом будуть визначені переможці та 
-										лауреати Конкурсу, урочисте нагородження яких відбудеться у грудні 2017 року...</p>
-								<span class="readmore"><a href="../konkurs/konk-3round-end.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
 					</li>	
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
@@ -1521,130 +1391,7 @@
 							</div>				
 						</div>
 					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">23</span>
-										<span class="year">2017</span>
-										<span class="month">жовтня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/konk-3round.shtml" title="">III тур Всеукраїнського конкурсу «Кращий державний службовець»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Розпочато ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Учасники проходять навчання за програмою ...</p>
-										<span class="readmore"><a href="../news/konk-3round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/konk-3round.shtml" class="slider_img">
-									<img src="../img/news/konk-3round-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. III тур Всеукраїнського конкурсу «Кращий державний службовець»" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Розпочато ІІI тур Всеукраїнського конкурсу «Кращий державний службовець». Учасники проходять навчання за програмою ...</p>
-								<span class="readmore"><a href="../news/../news/konk-3round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">&ensp;6</span>
-										<span class="year">2017</span>
-										<span class="month">вересня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/trening-liderstvo-1.shtml" title="">Тренінгова програма «Сучасне лідерство: новий підхід до державного управління»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Продовжується навчання державних службовців вищого корпусу державної служби за тренінговою програмою ...</p>
-										<span class="readmore"><a href="../news/trening-liderstvo-1.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/trening-liderstvo-1.shtml" class="slider_img">
-									<img src="../img/news/trening-liderstvo-1-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Навчання державних службовців вищого корпусу державної служби" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Навчання державних службовців вищого корпусу державної служби" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Продовжується навчання державних службовців вищого корпусу державної служби за тренінговою програмою ...</p>
-								<span class="readmore"><a href="../news/trening-liderstvo.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">&ensp;4</span>
-										<span class="year">2017</span>
-										<span class="month">вересня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/derg-slug-6gr.shtml" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
-										<span class="readmore"><a href="../news/derg-slug-6gr.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/derg-slug-6gr.shtml" class="slider_img">
-									<img src="../img/news/derg-slug-6gr-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Навчання державних службовців 6 групи оплати праці" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Навчання державних службовців 6 групи оплати праці" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
-								<span class="readmore"><a href="../news/derg-slug-6gr.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
+						
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -1732,211 +1479,6 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">28</span>
-										<span class="year">2017</span>
-										<span class="month">серпня</span>
-									</div>
-									<h1 class="title">
-										<a href="../konkurs/orgkonk-3round.shtml" title="">Засідання Організаційного комітету III туру конкурсу «Кращий державний службовець»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі пройшло засідання Організаційного комітету з проведення III туру конкурсу ...</p>
-										<span class="readmore"><a href="../konkurs/orgkonk-3round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../konkurs/orgkonk-3round.shtml" class="slider_img">
-									<img src="../img/konkurs/orgkonk-3round-1-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Засідання Організаційного комітету III туру конкурсу «Кращий державний службовець»" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Засідання Організаційного комітету III туру конкурсу «Кращий державний службовець»" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі відбулося засідання Організаційного комітету з проведення III туру конкурсу ...</p>
-								<span class="readmore"><a href="../konkurs/orgkonk-3round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">21</span>
-										<span class="year">2017</span>
-										<span class="month">серпня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/nezalegnist.shtml" title="">Центр підвищення кваліфікації<br /> Привітання з Днем Незалежності України</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Урочисті події</a>
-									</div>
-									<div class="excerpt">
-										<p>Вітання з нагоди 26-ї річниці Незалежності України ...</p>
-										<span class="readmore"><a href="../news/nezalegnist.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/nezalegnist.shtml" class="slider_img">
-									<img src="../img/news/nezalegnist.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Вітання з нагоди 26-ї річниці Незалежності України" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Вітання з нагоди 26-ї річниці Незалежності України" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Вітання з нагоди 26-ї річниці Незалежності України ...</p>
-								<span class="readmore"><a href="../news/nezalegnist.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li!-->
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">18</span>
-										<span class="year">2017</span>
-										<span class="month">липня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/bcds-2017.shtml" title="">Центр підвищення кваліфікації, ДАБІ України: семінар з питань запобігання корупції</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>У Державній архітектурно-будівельній інспекції України проведено семінар з питань запобігання корупції на державній служби ...</p>
-										<span class="readmore"><a href="../news/bcds-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/bcds-2017.shtml" class="slider_img">
-									<img src="../img/news/bcds-2017-3.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар з питань запобігання корупції" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2017р. Семінар з питань запобігання корупції" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Державній архітектурно-будівельній інспекції України проведено семінар з питань запобігання корупції на державній служби ...</p>
-								<span class="readmore"><a href="../news/bcds-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">5-7</span>
-										<span class="year">&ensp;2017</span>
-										<span class="month">&ensp;&ensp;липня</span>
-									</div>
-									<h1 class="title">
-										<a href="../konkurs/konk-2round-training.shtml" title="">Навчання учасників Конкурсу «Кращий державний службовець»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі проводилося навчання учасників II туру Конкурсу «Кращий державний службовець» ...</p>
-										<span class="readmore"><a href="../konkurs/konk-2round-training.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../konkurs/konk-2round-training.shtml" class="slider_img">
-									<img src="../img/konkurs/konk-2round-2-20.jpg" 
-									alt="II тур Всеукраїнського конкурсу «Кращий державний службовець», навчання учасників Конкурсу" 
-									title="II тур Всеукраїнського конкурсу «Кращий державний службовець»,  навчання учасників Конкурсу" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі проводилося навчання учасників II туру Конкурсу «Кращий державний службовець» ...</p>
-								<span class="readmore"><a href="../konkurs/konk-2round-training.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">&ensp;3</span>
-										<span class="year">2017</span>
-										<span class="month">липня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/konk-2round.shtml" title="">НАДС України. Розпочався ІІ тур Конкурсу «Кращий державний службовець»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі проходить ІІ тур Всеукраїнського конкурсу «Кращий державний службовець».</p>
-										<span class="readmore"><a href="../news/konk-2round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/konk-2round.shtml" class="slider_img">
-									<img src="../img/news/konk-2round-1.jpg" 
-									alt="II тур Всеукраїнського конкурсу «Кращий державний службовець», Голова НАДС Ващенко К.О." 
-									title="II тур Всеукраїнського конкурсу «Кращий державний службовець», Голова НАДС Ващенко К.О." 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі проходить ІІ тур Всеукраїнського конкурсу «Кращий державний службовець».</p>
-								<span class="readmore"><a href="../news/konk-2round.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
 										<span class="date">30</span>
 										<span class="year">2017</span>
 										<span class="month">червня</span>
@@ -1975,94 +1517,6 @@
 							</div>				
 						</div>
 					</li>
-
-					
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">30</span>
-										<span class="year">2017</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/psmanage-2017.shtml" title="">Короткостроковий семінар «Психологія 
-										ефективного управління»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі проведено навчання за програмою тематичного короткострокового 
-										семінару «Психологія ефективного управління»</p>
-										<span class="readmore"><a href="../news/psmanage-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/psmanage-2017.shtml" class="slider_img">
-									<img src="../img/news/psmanage-2017-4-1.jpg" 
-									alt="Семінар «Психологія ефективного управління»" 
-									title="Семінар «Психологія ефективного управління»" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі проведено навчання за програмою тематичного короткострокового семінару 
-								«Психологія ефективного управління»</p>
-								<span class="readmore"><a href="../news/psmanage-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
-
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">23</span>
-										<span class="year">2017</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/bc-2017-8.shtml" title="">Завершилось навчання уповноважених осіб з питань запобігання корупції</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі на завершення навчання проведено круглий стіл на тему: 
-										«Практичні аспекти реалізації антикорупційної стратегії на державній службі» і ...</p>
-										<span class="readmore"><a href="../news/bc-2017-8.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/bc-2017-8.shtml" class="slider_img">
-									<img src="../img/news/bc-2017-8-1-1.jpg" 
-									alt="Завершилось навчання з питань боротьби з корупцією" 
-									title="Завершилось навчання з питань боротьби з корупцією" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі на завершення навчання проведено круглий стіл на тему: 
-								«Практичні аспекти реалізації антикорупційної стратегії на державній службі» і ...</p>
-								<span class="readmore"><a href="../news/bc-2107-8.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
 
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -2104,131 +1558,7 @@
 							</div>				
 						</div>
 					</li>
-				
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">14</span>
-										<span class="year">2017</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/bc-2017-2.shtml" title="">Триває навчання з питань запобігання корупції</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
-										<span class="readmore"><a href="../news/bc-2017-2.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/bc-2017-2.shtml" class="slider_img">
-									<img src="../img/news/bc-2017-2-1.jpg" 
-									alt="Навчання з питань боротьби з корупцією триває" 
-									title="Навчання з питань боротьби з корупцією триває" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі підвищення кваліфікації продовжується навчання за професійною програмою ....</p>
-								<span class="readmore"><a href="../news/bc-2107-2.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
 
-				
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">12</span>
-										<span class="year">2017</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/bc-2017.shtml" title="">Навчання уповноважених осіб з питань запобігання та виявлення корупції</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>У Всеукраїнському центрі підвищення кваліфікації розпочалося двотижневе навчання уповноважених осіб ....</p>
-										<span class="readmore"><a href="../news/bc-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/bc-2017.shtml" class="slider_img">
-									<img src="../img/news/bc-2017-1.jpg" 
-									alt="Навчання з питань боротьби з корупцією" 
-									title="Навчання з питань боротьби з корупцією" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>У Всеукраїнському центрі підвищення кваліфікації розпочалося двотижневе навчання уповноважених осіб ....</p>
-								<span class="readmore"><a href="../news/bc-2107.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">&ensp;6</span>
-										<span class="year">2017</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Семінар НАДС «Мистецтво ведення переговорів»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Короткосрочний семінар для державних службовців - «Мистецтво ведення переговорів»</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/NADS-seminar.jpg" 
-									alt="Семінар НАДС «Мистецтво ведення переговорів»" 
-									title="Семінар НАДС «Мистецтво ведення переговорів»" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Короткосрочний семінар для державних службовців - «Мистецтво ведення переговорів»</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>			
-								
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -2269,48 +1599,7 @@
 							</div>				
 						</div>
 					</li>			
-				
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">13</span>
-										<span class="year">2017</span>
-										<span class="month">травня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">НАДС України. Всеукраїнський конкурс “Кращий державний службовець”</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Національним агентством України з питань державної служби оголошується проведення щорічного Всеукраїнського 
-										конкурсу “Кращий державний службовець”</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/NADS-bestds.png" alt="НАДС України. Всеукраїнський конкурс “Кращий державний службовець”" 
-										 title="НАДС України. Всеукраїнський конкурс “Кращий державний службовець”" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Національним агентством України з питань державної служби оголошується проведення щорічного Всеукраїнського 
-										конкурсу “Кращий державний службовець”</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
-				
+
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -2349,7 +1638,7 @@
 							</div>				
 						</div>
 					</li>
-				
+
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -2389,318 +1678,6 @@
 						</div>
 					</li>
 				
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">13</span>
-										<span class="year">2017</span>
-										<span class="month">квітня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Навчально-методичний семінар НАДС і МОН України</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>На базі Всеукраїнського центру підвищення кваліфікації проведено семінар «Організація проведення атестації ... щодо вільного володіння державною мовою...</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/NADS-UAsert.jpg" alt="Навчально-методичний семінар НАДС і МОН України" 
-										 title="Навчально-методичний семінар НАДС і МОН України" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>На базі Всеукраїнського центру підвищення кваліфікації проведено семінар «Організація проведення атестації ... щодо вільного володіння державною мовою...</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">18</span>
-										<span class="year">2017</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">За підтримки європейських партнерів. Навчальний семінар НАДС і Кабінету Міністрів</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Національне агентство</a>
-									</div>
-									<div class="excerpt">
-										<p>Мета навчального заходу - розвиток професійної компетентності новопризначених державних секретарів міністерств</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/2017europartner.jpg" alt="Навчальний семінар НАДС і Кабінету Міністрів за підтримки європейських партнерів" 
-										 title="Навчальний семінар НАДС і Кабінету Міністрів за підтримки європейських партнерів" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Мета навчального заходу - розвиток професійної компетентності новопризначених державних секретарів міністерств</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->
-					
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">30</span>
-										<span class="year">2017</span>
-										<span class="month">січня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Початок навчального 2017 року в ВЦПК</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Розпочалося навчання посадових осіб органів ДФС України</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/2017trainingstart.jpg" alt="Початок навчання 2017р в ВЦПК" title="Початок навчання 2017р в ВЦПК" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-								<div class="clear"></div>
-								<p>Розпочалося навчання посадових осіб органів ДФС України</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li-->
-					
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">						
-										<span class="date">&ensp;2</span>
-										<span class="year">2017</span>
-										<span class="month">січня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>У 2016 році  підвищили кваліфікацію в  Центрі  2118 посадових осіб …</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/itog2016.jpg" alt="2016рік. Підсумки навчання в Центрі" title="2016рік. Підсумки навчання в Центрі" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-								<div class="clear"></div>
-								<p>Підсумки навчання за 2016 рік в Центрі підвищення кваліфікації"</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li-->
-					
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">14</span>
-										<span class="year">2016</span>
-										<span class="month">грудня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Тренінг за програмою технічної допомоги МВФ</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Тренінги</a>
-									</div>
-									<div class="excerpt">
-										<p>Проведення тренінгу з управління персоналом (HR)</p><span class="readmore">
-										<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/MVF.jpg" alt="Тренінг за програмою технічної допомоги МВФ" title="Тренінг за програмою технічної допомоги МВФ" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-								<div class="clear"></div>
-								<p>Проведення тренінгу з управління персоналом (HR)</p><span class="readmore">
-								<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">28</span>
-										<span class="year">2016</span>
-										<span class="month">листопада</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Урочисте засідання Ради ветеранів ДПС України</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Урочисті події</a>
-									</div>
-									<div class="excerpt">
-										<p>Урочисте засідання з нагоди 10-річного ювілея громадського об’єднання ветеранів ДПС України…</p><span class="readmore">
-										<a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/DFSveteran.jpg" width="150" height="190" alt="Урочисте засідання Ради ветеранів ДПС України" title="Урочисте засідання Ради ветеранів ДПС України" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-								<div class="clear"></div>
-								<p>Урочисте засідання в зв'язку з 10-річчям ювілеєм громадського об’єднання ветеранів ДПС України…</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">28</span>
-										<span class="year">2016</span>
-										<span class="month">вересня </span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Практичний семінар для керівників кадрових підрозділів ДФС</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>В Центрі був проведен семінар для підрозділів ДФС, Національного агентства України, Міністерства фінансів</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/DFS.jpg" alt="Практичний семінар для підрозділів ДФС, Національного агентства, Міністерства фінансів" title="Практичний семінар для підрозділів ДФС, Національного агентства, Міністерства фінансі" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-								<div class="clear"></div>
-								<p>В Центрі був проведен семінар для підрозділів ДФС, Національного агентства України, Міністерства фінансів</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 1;" class="flex-active-slide">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">24</span>
-										<span class="year">2016</span>
-										<span class="month">серпня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Святкова акція – виконання Державного Гімну України</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Урочисті події</a>
-									</div>
-									<div class="excerpt">
-										<p>Співробітники Центру прийняли участь у масовій святковій акції з нагоди річниці Незалежності України</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open"></i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open"></i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-										<img src="../img/news/song.jpg" alt="Святкова акція – виконання Державного Гімну України" title="Святкова акція – виконання Державного Гімну України" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile">
-							<div class="clear"></div>
-								<p>Співробітники Центру прийняли участь у масовій святковій акції з нагоди річниці Незалежності України</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>
-						</div>
-					</li-->
-							 
 				</ul>
 
 			</div>
@@ -2733,19 +1710,6 @@
 <!-- InstanceEnd -->
     </td>
     <td class="col3">
-			<!--div >
-				<a href="http://www.president.gov.ua" target="_blank"><img style=' padding:5px 5px 5px 5px;' title="ПРЕЗИДЕНТ УКРАЇНИ Офіційне інтернет-представництво" src="../baner/prezident.gif" alt="ПРЕЗИДЕНТ УКРАЇНИ Офіційне інтернет-представництво" width="140" height="60"/></a>
-
-			</div>
-
-			<div >
-				<a href="http://www.kmu.gov.ua" target="_blank"><img style=' padding:5px 5px 5px 5px;' title="Урядовий портал" src="../baner/urportal.jpeg" alt="Кабінет Міністрів України" width="140" height="60"/></a>
-
-			</div>
-			<div style=' padding:5px 5px 5px 5px;'>
-				<a href="http://mon.gov.ua/" target="_blank"><img style=' background: #1155aa;' title="Міністерство освіти і науки України" src="../baner/min_osvit.png" alt="Міністерство освіти і науки України" width="140" height="60"/></a>
-
-			</div-->
 					
 	</td>		
    </tr>
