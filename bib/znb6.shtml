@@ -53,7 +53,7 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:580px">	
+<div style="height:620px">	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -118,6 +118,10 @@
 <a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_20.doc" target="_blank">Цивільний кодекс України</a>
 <br>
 <a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_21.doc" target="_blank">Цивільний процесуальний кодекс України</a>
+<br>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_22.doc" target="_blank">Закон 1797-VIII від 21.12.16</a>
+<br>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_23.doc" target="_blank">Зміни до ПКУ від 07.12.17</a>
 <br>
 </span></p>
  

@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Навчальний візит української делегації за підтримки програми «U-LEAD з Європою» - 2018.
+	Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+  <style>
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 15px 15px 15px 0px; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 15px 10px 15px 15px; /* Отступы вокруг картинки */
+   }
+ 
+  </style>	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+ 
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>Навчальний візит української делегації</span></b>
+<b><span class='st4'>за підтримки програми «U-LEAD з Європою»</span></b></p>
+
+<br />
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	 <tr>
+	   <td width="100%" style="text-align:center; text-indent: 0px; " class="hovergallery_"><img src="../img/news/german.jpg" 
+		  alt="Всеукраїнський центр підвищення кваліфікації, 2018р. За підтримки програми «U-LEAD з Європою»"
+		  title="Всеукраїнський центр підвищення кваліфікації, 2018р. За підтримки програми «U-LEAD з Європою»" width="700" height="466" border="0" /></td>
+     </tr>             
+   </table>
+<br />
+<br />
+
+<p ><span >Директор Всеукраїнського центру підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування Володимир Юрченко взяв 
+участь у роботі української делегації в рамках навчального візиту до Німеччиниза підтримки програми 
+<a href="http://decentralization.gov.ua/cnap/prohrama-u-lead-z-yevropoiu-f" target="_blank" class="underline">«U-LEAD з Європою».</a></span></p>
+
+<p ><span >До складу делегації увійшли представники НАДС, Мінрегіону, керівники центрів підвищення кваліфікації державних службовців і посадових осіб 
+місцевого самоврядування, керівники магістерських програм закладів вищої освіти.</span></p>
+
+<p ><span >В ході візитучлени делегації провели зустріч з представниками Міністерства фінансів Федеральної Землі Берлін і Берлінської академії 
+публічного адміністрування, метою якої було вивчення досвіду професійного навчання державних службовців у Німеччині.</span></p>
+
+<p ><span >У зустрічі взяли участь Мартіна Руппін, голова відділу Міністерства фінансів, Франсуаза Лансель, експерт Міністерства фінансів, а також 
+Вольфганг Широкі, Директор Берлінської академії публічного адміністрування і Андрей Шварцвальд, координатор підвищення кваліфікації та міжнародних зав’язків.</span></p>
+
+<p ><span >Протягом тижня українські фахівці проведуть низку зустрічей з представниками регіональних органів влади Берліну, Потсдаму, закладів 
+професійного навчання державних службовців та ознайомляться з організацію професійного навчання, практикою впровадження навчальних програм.</span></p>
+
+<br />
+<br />
+</div>
+
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

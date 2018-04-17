@@ -242,6 +242,248 @@
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">13</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/seminar-nads.shtml" title="">Семінар-нарада НАДС</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Центрі було проведено cемінар-нараду НАДС та його територіальних органів для головних спеціалістів....</p>
+										<span class="readmore"><a href="../news/seminar-nads.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/seminar-nads.shtml" class="slider_img">
+									<img src="../img/news/seminar-nads/seminar-nads-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Третя мережева зустріч «Зроблено з Німеччиною»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Третя мережева зустріч «Зроблено з Німеччиною»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Центрі було проведено cемінар-нараду НАДС та його територіальних органів для головних спеціалістів....</p>
+								<span class="readmore"><a href="../news/seminar-nads.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">10</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/german-madein.shtml" title="">Третя мережева зустріч «Зроблено з Німеччиною»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>У м. Берлін відбулася мережева зустріч учасників програм GIZ – Німецького товариства міжнародного 
+										співробітництва «Зроблено з Німеччиною»....</p>
+										<span class="readmore"><a href="../news/german-madein.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/german-madein.shtml" class="slider_img">
+									<img src="../img/news/german-madein.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Третя мережева зустріч «Зроблено з Німеччиною»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Третя мережева зустріч «Зроблено з Німеччиною»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У м. Берлін відбулася мережева зустріч учасників програм GIZ – Німецького товариства міжнародного 
+										співробітництва «Зроблено з Німеччиною»....</p>
+								<span class="readmore"><a href="../news/german-madein.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>				
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">10</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/german.shtml" title="">Навчальний візит української делегації до Німеччини</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчальний візит за підтримки програми «U-LEAD з Європою»....</p>
+										<span class="readmore"><a href="../news/german.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/german.shtml" class="slider_img">
+									<img src="../img/news/german.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. За підтримки програми «U-LEAD з Європою»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. За підтримки програми «U-LEAD з Європою»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчальний візит за підтримки програми «U-LEAD з Європою»....</p>
+								<span class="readmore"><a href="../news/german.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>				
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Семінар «Децентралізація влади та децентралізація фінансів в Україні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці за програмою семінару «Децентралізація влади та децентралізація фінансів в Україні»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/decentr.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Децентралізація влади та децентралізація фінансів в Україні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Децентралізація влади та децентралізація фінансів в Україні»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Мистецтво ведення переговорів»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">10</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">Семінар «Мистецтво ведення переговорів»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою семінару «Мистецтво ведення переговорів»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/mvp.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Мистецтво ведення переговорів»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Мистецтво ведення переговорів»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Мистецтво ведення переговорів»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">5-6</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Медіація в публічному управлінні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою семінару «Медіація в публічному управлінні»....</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/mpu.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Медіація в публічному управлінні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Медіація в публічному управлінні»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою семінару «Медіація в публічному управлінні»....</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -768,47 +1010,6 @@
 						</div>
 					</li>				
 										
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">19</span>
-										<span class="year">2018</span>
-										<span class="month">лютого</span>										
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml" title="">Навчання державних службовців за тренінговою програмою «Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Новини</a>
-									</div>
-									<div class="excerpt">
-										<p>З 19 по 23 лютого 2018 року проходить підвищення кваліфікації керівників та заступників керівників....</p>
-										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml" class="slider_img">
-									<img src="../img/news/itup.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Інноваційні технології управління персоналом»" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тематичний короткостроковий семінар «Інноваційні технології управління персоналом»." 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>З 19 по 23 лютого 2018 року проходить підвищення кваліфікації керівників та заступників керівників....</p>
-								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>		
-				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
