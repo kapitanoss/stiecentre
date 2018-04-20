@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Звернення громадян Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Законодавство. Звернення громадян. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,7 +53,8 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:550px">	
+<div style="height:585px">
+ <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -70,32 +71,31 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
+ <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
-<br>
 <br>
 <p align='center'>
 <span style='font-size:14.0pt'>
  
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_01.doc" target="_blank">Наказ №397 від 23.07.09</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_01.doc" target="_blank" class="underline">Наказ №397 від 23.07.09</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_02.doc" target="_blank">Постанова КМ №348 від 14.04.97</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_02.doc" target="_blank" class="underline">Постанова КМ №348 від 14.04.97</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_03.doc" target="_blank">Постанова №630 від 24.06.09</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_03.doc" target="_blank" class="underline">Постанова №630 від 24.06.09</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_04.doc" target="_blank">Постанова №858 від 24.09.08</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_04.doc" target="_blank" class="underline">Постанова №858 від 24.09.08</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_05.doc" target="_blank">Про затвердження Інструкції про порядок розгляду звернень та особистого прийому громадян в органах державної податкової служби</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_05.doc" target="_blank" class="underline">Про затвердження Інструкції про порядок розгляду звернень та особистого прийому громадян в органах державної податкової служби</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_06.doc" target="_blank">Про звернення громадян</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_06.doc" target="_blank" class="underline">Про звернення громадян</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_07.doc" target="_blank">Указ Президента Про першочергові заходи щодо забезпечення реалізації конституційного</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_07.doc" target="_blank" class="underline">Указ Президента Про першочергові заходи щодо забезпечення реалізації конституційного</a>
 
 </span></p>
  

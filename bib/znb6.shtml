@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Загальне законодавство Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Законодавство. Загальне законодавство. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,7 +53,8 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:620px">	
+<div style="height:630px">
+ <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -70,58 +71,57 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
+ <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
-<br>
 <br>
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_01.doc" target="_blank">Бюджетний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_01.doc" target="_blank" class="underline">Бюджетний кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_02.doc" target="_blank">Закон України Про державну службу</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_02.doc" target="_blank" class="underline">Закон України Про державну службу</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_03.doc" target="_blank">Закон України Про захист пересональних даних</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_03.doc" target="_blank" class="underline">Закон України Про захист пересональних даних</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_04.doc" target="_blank">Закон України Про збір та облік єдиного внеску</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_04.doc" target="_blank" class="underline">Закон України Про збір та облік єдиного внеску</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_05.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_05.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_06.doc" target="_blank">Закон України №755- IV від 15.05.03</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_06.doc" target="_blank" class="underline">Закон України №755- IV від 15.05.03</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_07.doc" target="_blank">ЗУ1621-VII від 31.07.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_07.doc" target="_blank" class="underline">ЗУ1621-VII від 31.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_08.doc" target="_blank">ЗУ Про звернення громадян</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_08.doc" target="_blank" class="underline">ЗУ Про звернення громадян</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_09.doc" target="_blank">ЗУ №77- VII Iвід 28.12.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_09.doc" target="_blank" class="underline">ЗУ №77- VII Iвід 28.12.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_10.doc" target="_blank">ЗУ №1166- VII від27.03.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_10.doc" target="_blank" class="underline">ЗУ №1166- VII від27.03.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_11.doc" target="_blank">Кодекс адміністративного судочинства України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_11.doc" target="_blank" class="underline">Кодекс адміністративного судочинства України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_12.doc" target="_blank">Кодекс України про адміністративні правопорушення</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_12.doc" target="_blank" class="underline">Кодекс України про адміністративні правопорушення</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_13.doc" target="_blank">Конституція  України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_13.doc" target="_blank" class="underline">Конституція  України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_14.doc" target="_blank">Кримінальний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_14.doc" target="_blank" class="underline">Кримінальний кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_15.doc" target="_blank">Кримінальний процесуальний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_15.doc" target="_blank" class="underline">Кримінальний процесуальний кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_16.doc" target="_blank">Митний Кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_16.doc" target="_blank" class="underline">Митний Кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_17.doc" target="_blank">Податковий Кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_17.doc" target="_blank" class="underline">Податковий Кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_18.doc" target="_blank">Програма діяльності КМ України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_18.doc" target="_blank" class="underline">Програма діяльності КМ України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_19.doc" target="_blank">Про доступ до публічної інформації</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_19.doc" target="_blank" class="underline">Про доступ до публічної інформації</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_20.doc" target="_blank">Цивільний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_20.doc" target="_blank" class="underline">Цивільний кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_21.doc" target="_blank">Цивільний процесуальний кодекс України</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_21.doc" target="_blank" class="underline">Цивільний процесуальний кодекс України</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_22.doc" target="_blank">Закон 1797-VIII від 21.12.16</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_22.doc" target="_blank" class="underline">Закон 1797-VIII від 21.12.16</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_23.doc" target="_blank">Зміни до ПКУ від 07.12.17</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/6/6_23.doc" target="_blank" class="underline">Зміни до ПКУ від 07.12.17</a>
 <br>
 </span></p>
  

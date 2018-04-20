@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Місцеві податки Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Законодавство. Місцеві податки. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,7 +53,8 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:550px">	
+<div style="height:585px">
+ <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -70,32 +71,31 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
+ <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
-<br>
 <br>
 <p align='center'>
 <span style='font-size:14.0pt'>
  
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_01.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_01.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_02.doc" target="_blank">Лист ДФС України від 22.01.15</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_02.doc" target="_blank" class="underline">Лист ДФС України від 22.01.15</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_03.doc" target="_blank">Наказ №263 від 25.04.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_03.doc" target="_blank" class="underline">Наказ №263 від 25.04.14</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_05.doc" target="_blank">Наказ №865 від 30.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_05.doc" target="_blank" class="underline">Наказ №865 від 30.12.13</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_07.doc" target="_blank">Про забезпечення сплати акцизного податку з роздрібної продажі</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_07.doc" target="_blank" class="underline">Про забезпечення сплати акцизного податку з роздрібної продажі</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_08.doc" target="_blank">Про особливості встановлення ставок з місцевих податків та зборів</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_08.doc" target="_blank" class="underline">Про особливості встановлення ставок з місцевих податків та зборів</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_09.doc" target="_blank">Про індексацію грошової оцінки земель у 2015 році</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/8/8_09.doc" target="_blank" class="underline">Про індексацію грошової оцінки земель у 2015 році</a>
 
 </span></p>
  

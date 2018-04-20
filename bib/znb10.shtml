@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Податок на доходи фізичних осіб Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Законодавство. Податок на доходи фізичних осіб. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,7 +53,8 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:550px">	
+<div style="height:585px">
+ <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -70,38 +71,37 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
+ <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
-<br>
 <br>
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/01.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/01.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/02.doc" target="_blank">КАБІНЕТ МІНІСТРІВ УКРАЇНИ №1227 від 29.12.2010 фіз.особи</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/02.doc" target="_blank" class="underline">КАБІНЕТ МІНІСТРІВ УКРАЇНИ №1227 від 29.12.2010 фіз.особи</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/03.doc" target="_blank">Наказ №4 від 13.01.15</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/03.doc" target="_blank" class="underline">Наказ №4 від 13.01.15</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/04.doc" target="_blank">Наказ №22 від 31.07.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/04.doc" target="_blank" class="underline">Наказ №22 від 31.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/05.doc" target="_blank">Наказ №32 від 17.01.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/05.doc" target="_blank" class="underline">Наказ №32 від 17.01.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/06.doc" target="_blank">Наказ №190 від01.04.11 фіз.особи</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/06.doc" target="_blank" class="underline">Наказ №190 від01.04.11 фіз.особи</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/07.doc" target="_blank">Наказ №395 від 14.03.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/07.doc" target="_blank" class="underline">Наказ №395 від 14.03.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/08.doc" target="_blank">Наказ №793 від 11.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/08.doc" target="_blank" class="underline">Наказ №793 від 11.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/09.doc" target="_blank">Наказ №794 від11.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/09.doc" target="_blank" class="underline">Наказ №794 від11.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/010.doc" target="_blank">Наказ №795 від 11.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/010.doc" target="_blank" class="underline">Наказ №795 від 11.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/011.doc" target="_blank">Наказ №845 від 24.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/011.doc" target="_blank" class="underline">Наказ №845 від 24.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/012.doc" target="_blank">Наказ №846 від 24.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/012.doc" target="_blank" class="underline">Наказ №846 від 24.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/013.doc" target="_blank">Оподаткування пасивних доходів</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/10/013.doc" target="_blank" class="underline">Оподаткування пасивних доходів</a>
 
 </span></p>
  

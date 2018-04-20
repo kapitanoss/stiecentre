@@ -4,7 +4,7 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
-	<title>Податок на прибуток підприємств Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Законодавство. Податок на прибуток підприємств. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 
 	<link rel="stylesheet" type="text/css" href="../glav.css"/>
 	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
@@ -53,7 +53,8 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
-<div style="height:550px">	
+<div style="height:585px">
+ <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
  <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
@@ -70,42 +71,41 @@
  <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
  <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
  </select>
- <input type="button" value="Перейти"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
+ <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
-<br>
 <br>
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/01.doc" target="_blank">Алгоритм складання</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/01.doc" target="_blank" class="underline">Алгоритм складання</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/02.doc" target="_blank">Гармонізація бухгалтерського та податкового обліку і визначення об</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/02.doc" target="_blank" class="underline">Гармонізація бухгалтерського та податкового обліку і визначення об</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/03.doc" target="_blank">Закон України №71-VIII від 28.12.14р.</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/03.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/04.doc" target="_blank">Міжнародний стандарт бухгалтерського обліку 12</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/04.doc" target="_blank" class="underline">Міжнародний стандарт бухгалтерського обліку 12</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/05.doc" target="_blank">Наказ №13 від 17. 01. 15</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/05.doc" target="_blank" class="underline">Наказ №13 від 17. 01. 15</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/06.doc" target="_blank">Наказ №39 від 28.01.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/06.doc" target="_blank" class="underline">Наказ №39 від 28.01.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/07.doc" target="_blank">Наказ №84 від 27.01.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/07.doc" target="_blank" class="underline">Наказ №84 від 27.01.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/08.doc" target="_blank">Наказ №85 від 27.01.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/08.doc" target="_blank" class="underline">Наказ №85 від 27.01.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/09.doc" target="_blank">Наказ №121 від 06.02.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/09.doc" target="_blank" class="underline">Наказ №121 від 06.02.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/010.doc" target="_blank">Наказ №365 від 01.07.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/010.doc" target="_blank" class="underline">Наказ №365 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/011.doc" target="_blank">Наказ №366 від 01.07.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/011.doc" target="_blank" class="underline">Наказ №366 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/012.doc" target="_blank">Наказ №367 від 01.07.14</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/012.doc" target="_blank" class="underline">Наказ №367 від 01.07.14</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/013.doc" target="_blank">Наказ №810 від 16.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/013.doc" target="_blank" class="underline">Наказ №810 від 16.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/014.doc" target="_blank">Наказ №872 від 30.12.13</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/014.doc" target="_blank" class="underline">Наказ №872 від 30.12.13</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/11/015.doc" target="_blank">Про звітність податку на прибуток</a>
+<a href="http://www.centre-kiev.kiev.ua/bib/files/11/015.doc" target="_blank" class="underline">Про звітність податку на прибуток</a>
 
 </span></p>
  

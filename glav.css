@@ -55,6 +55,13 @@ a:hover {
 	color: #175b7c; /*#990033;*/
 }
 
+/*якоря для news.shtml index.shtml  с учетом высоты фиксированного меню=21px */
+.linknwes {
+	display:block; 
+	padding-top: 21px;
+    margin-top: -21px;	
+}
+
 /* уменьшение толщины ссылок */
  .underline {
 text-decoration: none;

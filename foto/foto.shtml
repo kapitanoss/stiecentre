@@ -66,6 +66,16 @@
 <script>
     var data = [
         {
+            thumb: 'thumb/2018/thumb2018-04-german-madein.jpg',
+            image: '2018/2018-04-german.jpg',
+			title: "Третя мережева зустріч «Зроблено з Німеччиною», 2018р."	
+        },
+        {
+            thumb: 'thumb/2018/thumb2018-04-german.jpg',
+            image: '2018/2018-04-german-madein.jpg',
+			title: "Навчальний візит української делегації за підтримки програми «U-LEAD з Європою», 2018р."				
+        },	
+        {
             thumb: 'thumb/2018/thumb2018-02-nads-kolegia-1.jpg',
             image: '2018/2018-02-nads-kolegia-1.jpg',
 			title: "Засідання колегії НАДС УКРАЇНИ, 2018р."	
@@ -75,17 +85,9 @@
             image: '2018/2018-02-nads-kolegia-3.jpg',
 			title: "Засідання колегії НАДС УКРАЇНИ, 2018р."				
         },	
-        /*{
-            thumb: 'thumb/thumb034.jpg',
-            image: '034.JPG'
-        },
-        {
-            thumb: 'thumb/thumb030.jpg',
-            image: '030.JPG'  
-        },*/
 		{
-            thumb: 'thumb/2018/thumb2008-03-nads-gov-france.jpg',
-            image: '2018/2008-03-nads-gov-france.jpg',
+            thumb: 'thumb/2018/thumb2018-03-nads-gov-france.jpg',
+            image: '2018/2018-03-nads-gov-france.jpg',
 			title: "НАДС України. Зустріч з представниками Генеральної дирекції адміністрації та державної служби Французької Республіки і Національної школи державного управління (ENA), 2018р."	
         },
         {
@@ -375,58 +377,6 @@
             thumb: 'thumb/thumb05.jpg',
             image: '05.JPG'  
         },
-        /*{
-            thumb: 'thumb/thumb06.jpg',
-            image: '06.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb07.jpg',
-            image: '07.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb08.jpg',
-            image: '08.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb09.jpg',
-            image: '09.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb010.jpg',
-            image: '010.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb011.jpg',
-            image: '011.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb012.jpg',
-            image: '012.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb013.jpg',
-            image: '013.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb014.jpg',
-            image: '014.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb015.jpg',
-            image: '015.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb016.jpg',
-            image: '016.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb017.jpg',
-            image: '017.JPG'  
-        },
-        {
-            thumb: 'thumb/thumb018.jpg',
-            image: '018.JPG'  
-        },*/
         {
             thumb: 'thumb/thumb025.jpg',
             image: '025.JPG'  
