@@ -61,22 +61,22 @@
 
 <p><span >Наказ Національного агентства України з питань державної служби від 21 лютого 2018 року № 49 «Про затвердження Методичних рекомендацій щодо проведення щорічного 
 Всеукраїнського конкурсу «Кращий державний службовець». 
-<a href="#" onclick="obj=document.getElementById('idframe_nakaz49').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<a href="#" onclick="obj=document.getElementById('idframe_nakaz49').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false" class="underline">Переглянути текст.</a></span></p>
 <div id="idframe_nakaz49" style="display: none; margin-bottom: 14px;" > <iframe class="pdfjs-viewer" style='margin-left:10px;' width="90%" height="650px" 
 src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/konkurs/Nakaz_NADS_49.pdf"></iframe> </div>
 
 <p><span >Методичні рекомендації щодо проведення щорічного Всеукраїнського конкурсу «Кращий державний службовець». 
-<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false" class="underline">Переглянути текст.</a></span></p>
 <div id="idframe_nakaz49_MR" style="display: none; margin-bottom: 14px;" > <iframe class="pdfjs-viewer" style='margin-left:10px;' width="90%" height="650px" 
 src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/konkurs/Nakaz_NADS_49_MR.pdf"></iframe> </div>
 
 <p><span >Додаток 1 до Методичних рекомендацій щодо проведення щорічного Всеукраїнського конкурсу «Кращий державний службовець». Положення про організаційний комітет.
-<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR_dod1').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR_dod1').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false" class="underline">Переглянути текст.</a></span></p>
 <div id="idframe_nakaz49_MR_dod1" style="display: none; margin-bottom: 14px;" > <iframe class="pdfjs-viewer" style='margin-left:10px;' width="90%" height="650px" 
 src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/konkurs/Nakaz_NADS_49_MR_Dod1.pdf"></iframe> </div>
 
 <p><span >Додаток 2 до Методичних рекомендацій щодо проведення щорічного Всеукраїнського конкурсу «Кращий державний службовець». Календарний план.
-<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR_dod2').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false">Переглянути текст.</a></span></p>
+<a href="#" onclick="obj=document.getElementById('idframe_nakaz49_MR_dod2').style; tmp=(obj.display!='none') ? 'none' : 'block'; obj.display=tmp; return false" class="underline">Переглянути текст.</a></span></p>
 <div id="idframe_nakaz49_MR_dod2" style="display: none; margin-bottom: 14px;" > <iframe class="pdfjs-viewer" style='margin-left:10px;' width="90%" height="650px" 
 src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/konkurs/Nakaz_NADS_49_MR_Dod2.pdf"></iframe> </div>
 

@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Тренінг з питань європейської інтеграції для державних службовців категорії «А» - 2018.
+	Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+ 
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>Тренінг з питань європейської інтеграції для державних службовців, які займають посади державної 
+служби категорії «А»</span></b></p>
+
+<p ><span >У Всеукраїнському центрі підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування за сприяння проекту 
+ЄС <a href="http://www.association4u.com.ua/index.php/uk/" target="_blank" class="underline">«Підтримка впровадження Угоди про асоціацію між Україною та ЄС» 
+(Association4U)</a> 20 квітня 2018 року проведено одноденний семінар за тренінговою програмою з питань європейської інтеграції для державних службовців, які 
+займають посади державної служби категорії «А», у тому числі державних секретарів.</span></p>
+
+<p ><span >Відкрив семінар Голова Національного агентства України з питань державної служби Ващенко К.О.</span></p>
+
+<p ><span >У семінарі взяли участь: Голова Національного агентства України з питань державної служби Костянтин Ващенко, заступники Державного секретаря Кабінету 
+Міністрів України, державні секретарі міністерств, заступники Голови НАДС, іноземні експерти.</span></p>
+
+<br />
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	 <tr>
+	   <td width="100%" style="text-align:center; text-indent: 0px; " class="hovergallery_"><img src="../img/news/2018-04-kmu-as4U.jpg" 
+		  alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»"
+		  title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»" width="700" height="466" border="0" /></td>
+     </tr>             
+   </table>
+<br />
+<br />
+<br />
+<br />
+</div>
+
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

@@ -104,7 +104,17 @@
 
 					<li class="marquee-list" style="margin-left: 0px;">
 						<i class="icon-angle-double-right"></i>
-						<a href="../news/german-madein.shtml" title="10 квітня 2018">== Pустріч «Зроблено з Німеччиною»</a>
+						<a href="../news/trening-dfs-licence.shtml" title="24 квітня 2018">== Навчання посадових осіб ГУ ДФС</a>
+					</li>
+					
+					<li class="marquee-list" style="margin-left: 0px;">
+						<i class="icon-angle-double-right"></i>
+						<a href="../news/seminar-nads.shtml" title="13 квітня 2018">== Семінар-нарада НАДС</a>
+					</li>
+					
+					<li class="marquee-list" style="margin-left: 0px;">
+						<i class="icon-angle-double-right"></i>
+						<a href="../news/german-madein.shtml" title="10 квітня 2018">== Зустріч «Зроблено з Німеччиною»</a>
 					</li>					
 					
 					<li class="marquee-list" style="margin-left: 0px;">
@@ -216,6 +226,128 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">25</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#itup-6" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
+										<span class="readmore"><a href="../news/news.shtml#itup-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#itup-6" class="slider_img">
+									<img src="../img/news/itup-6.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-6" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-6" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml#itup-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">24</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/trening-dfs-licence.shtml" title="">Навчання посадових осіб ГУ ДФС</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінги ДФС</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації проходить семінар-тренінг з навчання посадових осіб ГУ ДФС у областях та м. Києва ...</p>
+										<span class="readmore"><a href="../news/trening-dfs-licence.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/trening-dfs-licence.shtml" class="slider_img">
+									<img src="../img/news/trening-dfs-licence-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації проходить семінар-тренінг з навчання посадових осіб ГУ ДФС у областях та м. Києва ...</p>
+								<span class="readmore"><a href="../news/trening-dfs-licence.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">20</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/euro-integracia.shtml" title="">Тренінг з питань європейської інтеграції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Семінар за тренінговою програмою з питань європейської інтеграції для державних службовців категорії «А» ...</p>
+										<span class="readmore"><a href="../news/euro-integracia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/euro-integracia.shtml" class="slider_img">
+									<img src="../img/news/2018-04-kmu-as4U.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг з питань європейської інтеграції для державних службовців категорії «А»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Семінар за тренінговою програмою з питань європейської інтеграції для державних службовців категорії «А» ...</p>
+								<span class="readmore"><a href="../news/euro-integracia.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -257,47 +389,7 @@
 							</div>				
 						</div>
 					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">16</span>
-										<span class="year">2018</span>
-										<span class="month">квітня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#itup-5" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-										<span class="readmore"><a href="../news/news.shtml#itup-5">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#itup-5" class="slider_img">
-									<img src="../img/news/itup-5.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-4" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-4" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/news.shtml#itup-5">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
+			
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -1670,7 +1762,7 @@
 										<a href="../news/news.shtml">Тренінг ДФС</a>
 									</div>
 									<div class="excerpt">
-										<p>Тренінг Офісу технічної допомоги Казначейства США для ДФС України .... ....</p>
+										<p>Тренінг Офісу технічної допомоги Казначейства США для ДФС України ....</p>
 										<span class="readmore"><a href="../news/KaznaUSA-DFS-2017.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
