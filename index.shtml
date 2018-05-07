@@ -232,6 +232,46 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
+										<span class="date">26</span>
+										<span class="year">2018</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#nov-zakon-ds-1" title="">«Актуальні питання реалізації нового законодавства про державну службу»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+										<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#nov-zakon-ds-1" class="slider_img">
+									<img src="../img/news/nov-zakon-ds-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-1" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
 										<span class="date">25</span>
 										<span class="year">2018</span>
 										<span class="month">квітня</span>
@@ -712,46 +752,6 @@
 							</div>				
 						</div>
 					</li>
-
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">30</span>
-										<span class="year">2018</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#nov-zakon-ds" title="">«Актуальні питання реалізації нового законодавства про державну службу»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
-										<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#nov-zakon-ds" class="slider_img">
-									<img src="../img/news/nov-zakon-ds.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
-								<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>					
 
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
