@@ -226,7 +226,47 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
-					
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">14</span>
+										<span class="year">2018</span>
+										<span class="month">травня</span>
+									</div>
+									<h1 class="title">
+										<a href="../nads/nads-100year.shtml" title="">100-річчя державної служби України<br />Анонс</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Тематична експозиція до 100-річчя державної служби України. Запрошуємо на відкриття 17 травня 2018 року о 12:00....</p>
+										<span class="readmore"><a href="../nads/nads-100year.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../nads/nads-100year.shtml" class="slider_img">
+									<img src="../img/news/NADS-100/NADS-100year.png" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. 100-річчя державної служби України" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. 100-річчя державної служби України" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Тематична експозиція до 100-річчя державної служби України. Запрошуємо на відкриття 17 травня 2018 року о 12:00....</p>
+								<span class="readmore"><a href="../nads/nads-100year.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
