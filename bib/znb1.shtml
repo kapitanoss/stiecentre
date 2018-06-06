@@ -57,19 +57,19 @@
  <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;' ><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
- <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
+ <option selected="selected" value="../bib/znb1.shtml">Акцизний податок</option>
+ <option value="../bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="../bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="../bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="../bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="../bib/znb6.shtml">Загальне законодавство</option>
+ <option value="../bib/znb7.shtml">Звернення громадян</option>
+ <option value="../bib/znb8.shtml">Місцеві податки</option>
+ <option value="../bib/znb9.shtml">Податок на додану вартість</option>
+ <option value="../bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="../bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option value="../bib/znb12.shtml">Робота з персоналом</option>
+ <!--option value="../bib/znb13.shtml">Спрощена система оподаткування</option-->
  </select>
  <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -77,22 +77,28 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
  
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_01.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
+<a href="../bib/files/ap/ZU_71-VIII_28.12.2014.pdf" title="Про внесення змін до Податкового кодексу України та
+деяких законодавчих актів України щодо податкової реформи" target="_blank" class="underline">ЗУ №71-VIII від 28.12.2014</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_02.doc" target="_blank" class="underline">Зміни у справлянні акцизного податку</a>
+<a href="../bib/files/ap/ZU_481_19.12.1995.pdf" title="Про державне регулювання виробництва і обігу спирту
+етилового, коньячного і плодового, алкогольних напоїв та тютюнових виробів" target="_blank" class="underline">ЗУ №481 від 19.12.1995</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_03.doc" target="_blank" class="underline">Закон України №481 від 19.12.95</a>
+<a href="../bib/files/ap/Postanova_KMU_627_19.11.2014.pdf" title="Деякі питання запровадження марок акцизного податку
+нового зразка для алкогольних напоїв і тютюнових виробів" target="_blank" class="underline">Постанова КМУ №627 від 19.11.2014</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_04.doc" target="_blank" class="underline">КМУ №627 від 19.11.14 акциз</a>
+<a href="../bib/files/ap/Nakaz_Minfin_14_23.01.2015.pdf" title="Про затвердження форми декларації акцизного податку,
+Порядку заповнення та подання декларації акцизного податку" target="_blank" class="underline">Наказ Мінфін №14 від 23.01.2015</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_05.doc" target="_blank" class="underline">Наказ №14 від23.01.15</a>
+<a href="../bib/files/ap/Lyst_DFS_1519.pdf" title="Про забезпечення сплати акцизного податку з роздрібного продажу" 
+target="_blank" class="underline">Лист ДФС №1519 від 20.01.2015</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/1/1_06.doc" target="_blank" class="underline">Про забезпечення сплати акцизного податку з роздрыбного продажу</a>
+
+<!--a href="../bib/files/ap/1_06.doc" target="_blank" class="underline">Про забезпечення сплати акцизного податку з роздрыбного продажу</a-->
 
 </span></p>
  

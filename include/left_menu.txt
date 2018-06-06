@@ -15,40 +15,45 @@
 						  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->
 						</ul>
 					  </li>
-					  <!--li class="st3"><a href="../nads/ogoloshen.shtml">Оголошення</a>
+					  <!--li class="st3"><a href="../nads/ogoloshen.shtml">АНОНС Оголошення</a>
 					  </li !-->					  
 					  <li class="st3"><a href="#">Навчальний процес та наукова робота</a>
 						<ul>
 						  <li class="st3"><a href="../mz/mz.shtml">Методичне забезпечення навчального процесу</a></li>
 						  <li class="st3"><a href="../mtb/mtb.shtml">Матеріально-технічна база</a></li>
-						  <li class="st3"><a href="../mz/org.shtml">Організаційне забезпечення навчального процесу</a></li>
-						  <li class="st3"><a href="../nav_pr/kz.shtml">Контроль знань</a></li>						  
+						  <li class="st3"><a href="../nav_pr/kz.shtml">Контроль знань</a></li>
+						  <li class="st3"><a href="../nav_pr/nd.shtml">Нормативні документи</a></li>							  
 						</ul>
 					  </li>
-					  <li class="st3"><a href="#">Інформація для слухачів</a>
-						<ul>		
-						   <li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2018 рік (м.Київ)</a></li>
-						   <li class="st3"><a href="../info/is_vid.shtml">Напрями підвищення кваліфікації на 2018 рік (смт.Козин)</a></li>						  						
-						</ul>
-					  </li>
-					  <li class="st3"><a href="#">Дистанційна форма навчання</a>
+					  <li class="st3"><a href="#">Підвищення кваліфікації посадових осіб органів ДФС</a>
 						<ul>
-					      <!-- <li class="st3"><a href="../grafic/grafic.shtml">Графік навчання</a></li> !-->
-						  <li class="st3"><a href="../dn/dn.shtml">Реєстрація слухача</a></li>
-					      <li class="st3"><a href="../strkadr/strkadr.shtml">Сторінка кадровика</a></li>						  
-						</ul>						
-					  </li>
-					  <li class="st3"><a href="../on/on.shtml">Очна форма навчання</a></li>
+							<li class="st3"><a href="#">Інформація для слухачів</a>
+							<ul>		
+								<li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2018 рік (м.Київ)</a></li>
+								<li class="st3"><a href="../info/is_vid.shtml">Напрями підвищення кваліфікації на 2018 рік (смт.Козин)</a></li>						  						
+							</ul>
+							</li>
+							<li class="st3"><a href="#">Дистанційна форма навчання</a>
+							<ul>
+							  <!-- <li class="st3"><a href="../grafic/grafic.shtml">Графік навчання</a></li> !-->
+							  <li class="st3"><a href="../dn/dn.shtml">Реєстрація слухача</a></li>
+							  <li class="st3"><a href="../strkadr/strkadr.shtml">Сторінка кадровика</a></li>						  
+							</ul>						
+							</li>
+							<li class="st3"><a href="../on/on.shtml">Очна форма навчання</a></li>
+							<li class="st3"><a href="../mz/org.shtml">Організаційне забезпечення навчального процесу</a></li>							
+						</ul>
+					  </li>											
+					  <li class="st3"><a href="../konkurs/konk.shtml">Всеукраїнський конкурс «Кращий державний службовець»</a></li>
+                      <li class="st3"><a href="../nads/nads.shtml">Плани-графіки підвищення кваліфікації державних службовців категорій «А», «Б», «В»</a></li>
+				  	  <li class="st3"><a href="../atestmova/mova.shtml">Атестація щодо вільного володіння державною мовою</a></li>					  
+					  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->					
 					  <li class="st3"><a href="../bib/bib.shtml">Бібліотека</a>
 						<ul>
 					      <li class="st3"><a href="../bib/biblioteka.shtml">Електронна бібліотека</a></li>
 						  <li class="st3"><a href="../bib/npv.shtml">Наукові періодичні видання</a></li>					  
 						</ul>
-					  </li>						
-					  <li class="st3"><a href="../konkurs/konk.shtml">Всеукраїнський конкурс «Кращий державний службовець»</a></li>
-                      <li class="st3"><a href="../nads/nads.shtml">Плани-графіки підвищення кваліфікації державних службовців категорій «А», «Б», «В»</a></li>
-				  	  <li class="st3"><a href="../atestmova/mova.shtml">Атестація щодо вільного володіння державною мовою</a></li>					  
-					  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->					
+					  </li>
 					  <li class="st3"><a href="../dz/dz.shtml">Державні закупівлі</a></li>
 					  </ul>
 				</div>

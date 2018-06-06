@@ -65,7 +65,62 @@
 
 <script>
     var data = [
-        {
+       
+	{
+            thumb: 'thumb/2018/1123m.jpg',
+            image: '2018/1123.jpg',
+			title: "ВЦПК  2018"	
+        },
+
+	{
+            thumb: 'thumb/2018/11223m.jpg',
+            image: '2018/11223.jpg',
+			title: "ВЦПК  2018"	
+        },
+
+	{
+            thumb: 'thumb/2018/112233m.jpg',
+            image: '2018/112233.jpg',
+			title: "ВЦПК  2018"	
+        },
+
+	 {
+            thumb: 'thumb/2018/thumb2018-04-kmu-as4U.jpg',
+            image: '2018/IMG_2756.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+ 	{
+			thumb: 'thumb/2018/RT/1.JPG',
+                       image: 'RT/1.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+	{
+			thumb: 'thumb/2018/RT/2.JPG',
+                       image: 'RT/2.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+	{
+			thumb: 'thumb/2018/RT/4.JPG',
+                       image: 'RT/4.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+	{
+			thumb: 'thumb/2018/RT/5.JPG',
+                       image: 'RT/5.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+	{
+			thumb: 'thumb/2018/RT/6.JPG',
+                       image: 'RT/6.JPG',
+			title: "Засідання круглого столу, 2018р."	
+        },
+
+	 {
             thumb: 'thumb/2018/thumb2018-04-kmu-as4U.jpg',
             image: '2018/2018-04-kmu-as4U.jpg',
 			title: "Тренінг з питань європейської інтеграції - Association4U, 2018р."	

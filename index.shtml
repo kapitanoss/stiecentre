@@ -226,7 +226,215 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;5</span>
+										<span class="year">2018</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#eu4par-brdo" title="">Семінар у партнерстві з EU4PAR та BRDO</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Розпочалося підвищення кваліфікації державних службовців центральних органів виконавчої влади, посади яких належать до 
+										6-9 груп оплати праці...</p>
+										<span class="readmore"><a href="../news/news.shtml#eu4par-brdo">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#eu4par-brdo" class="slider_img">
+									<img src="../img/news/eu4par-brdo.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар у партнерстві з EU4PAR та BRDO" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар у партнерстві з EU4PAR та BRDO" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Розпочалося підвищення кваліфікації державних службовців центральних органів виконавчої влади, посади яких належать до 
+										6-9 груп оплати праці...</p>
+								<span class="readmore"><a href="../news/news.shtml#eu4par-brdo">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;4</span>
+										<span class="year">2018</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#derg-slug-6gr-2018" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
+										<span class="readmore"><a href="../news/news.shtml#derg-slug-6gr-2018">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#derg-slug-6gr-2018" class="slider_img">
+									<img src="../img/news/derg-slug-6gr-2018-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці-2" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці-2" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
+								<span class="readmore"><a href="../news/news.shtml#derg-slug-6gr-2018">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">4-8</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#itup-9" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
+										<span class="readmore"><a href="../news/news.shtml#itup-9">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#itup-9" class="slider_img">
+									<img src="../img/news/itup-9.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-9" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-9" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml#itup-9">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">31</span>
+										<span class="year">2018</span>
+										<span class="month">травня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/pr_invest.shtml" title="">Тренінг «Прямі іноземні інвестиції для регіонального і місцевого розвитку»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Тренінг за підтримки Програми «U-LEAD з Європою», Національного агентства України з питань державної служби.....</p>
+										<span class="readmore"><a href="../news/pr_invest.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/pr_invest.shtml" class="slider_img">
+									<img src="../img/news/pr-invest/pr_invest-5.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг «Прямі іноземні інвестиції для регіонального і місцевого розвитку»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг «Прямі іноземні інвестиції для регіонального і місцевого розвитку»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Тренінг за підтримки Програми «U-LEAD з Європою», Національного агентства України з питань державної служби.....</p>
+								<span class="readmore"><a href="../news/pr_invest.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2018</span>
+										<span class="month">травня</span>
+									</div>
+									<h1 class="title">
+										<a href="http://www.centre-kiev.kiev.ua/news/neeww.shtml" title="">«Нормативно-правове регулювання інституту посадової 
+										особи місцевого самоврядування в умовах реформи децентралізації влади». <br />Анонс</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Відбулося засідання круглого столу «Нормативно-правове регулювання інституту посадової особи місцевого 
+										самоврядування в умовах ....</p>
+										<span class="readmore"><a href="http://www.centre-kiev.kiev.ua/news/neeww.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="http://www.centre-kiev.kiev.ua/news/neeww.shtml" class="slider_img">
+									<img src="../img/news/RoundTable/7.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Нормативно-правове регулювання інституту посадової особи місцевого 
+										самоврядування»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Нормативно-правове регулювання інституту посадової особи місцевого 
+										самоврядування»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Відбулося засідання круглого столу «Нормативно-правове регулювання інституту посадової особи місцевого самоврядування в умовах....</p>
+								<span class="readmore"><a href="../news/neeww.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -303,46 +511,6 @@
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
 								<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">25</span>
-										<span class="year">2018</span>
-										<span class="month">квітня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#itup-6" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
-										<span class="readmore"><a href="../news/news.shtml#itup-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#itup-6" class="slider_img">
-									<img src="../img/news/itup-6.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-6" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-6" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/news.shtml#itup-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
@@ -917,47 +1085,6 @@
 						</div>
 					</li>
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">12</span>
-										<span class="year">2018</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#derg-slug-6gr-2018" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
-										<span class="readmore"><a href="../news/news.shtml#derg-slug-6gr-2018">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#derg-slug-6gr-2018" class="slider_img">
-									<img src="../img/news/derg-slug-6gr-2018-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 6 групи оплати праці" 
-									class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Розпочалось двотижневе навчання державних службовців 6 групи оплати праці за професійною програмою ...</p>
-								<span class="readmore"><a href="../news/news.shtml#derg-slug-6gr-2018">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>								
-				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	

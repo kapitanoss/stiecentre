@@ -57,19 +57,19 @@
  <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
- <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option>
+ <option value="../bib/znb1.shtml">Акцизний податок</option>
+ <option value="../bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="../bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="../bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="../bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="../bib/znb6.shtml">Загальне законодавство</option>
+ <option selected="selected" value="../bib/znb7.shtml">Звернення громадян</option>
+ <option value="../bib/znb8.shtml">Місцеві податки</option>
+ <option value="../bib/znb9.shtml">Податок на додану вартість</option>
+ <option value="../bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="../bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option value="../bib/znb12.shtml">Робота з персоналом</option>
+ <!--option value="../bib/znb13.shtml">Спрощена система оподаткування</option-->
  </select>
  <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -77,25 +77,34 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
  
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_01.doc" target="_blank" class="underline">Наказ №397 від 23.07.09</a>
+<a href="../bib/files/zg/ZU ZG.pdf" target="_blank" class="underline">ЗУ Про звернення громадян</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_02.doc" target="_blank" class="underline">Постанова КМ №348 від 14.04.97</a>
+<a href="../bib/files/zg/UP 109-2008 vid 07.02.2008.pdf" title="Про першочергові заходи щодо забезпечення реалізації 
+та гарантування конституційного права на звернення до 
+органів державної влади та органів місцевого самоврядування" target="_blank" class="underline">Указ Президента №109-2008 від 07.02.2008</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_03.doc" target="_blank" class="underline">Постанова №630 від 24.06.09</a>
+<a href="../bib/files/zg/Nakaz DPAU 397 vid 23.07.2009.pdf" title="Щодо затвердження форм Звіту про розглянуті звернення громадян 
+органами державної податкової служби України" target="_blank" class="underline">Наказ ДПАУ №397 від 23.07.2009</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_04.doc" target="_blank" class="underline">Постанова №858 від 24.09.08</a>
+<a href="../bib/files/zg/Postanova KMU 348 vid 14.04.1997.pdf" title="Про затвердження Інструкції з діловодства за зверненнями громадян в органах 
+державної влади і місцевого самоврядування, об'єднаннях громадян, на підприємствах,
+ в установах, організаціях незалежно від форм власності, в засобах масової інформації " target="_blank" class="underline">Постанова КМУ №348 від 14.04.1997</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_05.doc" target="_blank" class="underline">Про затвердження Інструкції про порядок розгляду звернень та особистого прийому громадян в органах державної податкової служби</a>
+<a href="../bib/files/zg/Postanova KMU 630 vid 24.06.2009.pdf" title="Про затвердження Методики оцінювання рівня організації 
+роботи із зверненнями громадян в органах виконавчої влади" target="_blank" class="underline">Постанова №630 від 24.06.2009</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_06.doc" target="_blank" class="underline">Про звернення громадян</a>
+<a href="../bib/files/zg/Postanova KMU 858 vid 24.09.2008.pdf" title="Про затвердження Класифікатора звернень громадян" 
+target="_blank" class="underline">Постанова №858 від 24.09.2008</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/7/7_07.doc" target="_blank" class="underline">Указ Президента Про першочергові заходи щодо забезпечення реалізації конституційного</a>
+<a href="../bib/files/zg/Nakaz Minfin 271 vid 02.03.2015.pdf" title="Про затвердження Порядку розгляду звернень та організації особистого 
+прийому громадян у Державній фіскальній службі України та її територіальних органах" target="_blank" class="underline">Наказ Мінфін України №271 від 02.03.2015</a>
+
 
 </span></p>
  
