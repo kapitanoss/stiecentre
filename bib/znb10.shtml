@@ -57,19 +57,19 @@
  <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
- <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <!--option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option-->
+ <option value="../bib/znb1.shtml">Акцизний податок</option>
+ <option value="../bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="../bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="../bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="../bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="../bib/znb6.shtml">Загальне законодавство</option>
+ <option value="../bib/znb7.shtml">Звернення громадян</option>
+ <option value="../bib/znb8.shtml">Місцеві податки</option>
+ <option value="../bib/znb9.shtml">Податок на додану вартість</option>
+ <option selected="selected" value="../bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="../bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option value="../bib/znb12.shtml">Робота з персоналом</option>
+ <!--option value="../bib/znb13.shtml">Спрощена система оподаткування</option-->
  </select>
  <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -77,31 +77,48 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/01.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
+<a href="../bib/files/fo/ZU 71-VIII vid 28.12.2014.pdf" title="Про внесення змін до Податкового кодексу України 
+та деяких законодавчих актів України щодо податкової реформи" target="_blank" class="underline">ЗУ №71-VIII від 28.12.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/02.doc" target="_blank" class="underline">КАБІНЕТ МІНІСТРІВ УКРАЇНИ №1227 від 29.12.2010 фіз.особи</a>
+<a href="../bib/files/fo/Postanova KMU 1227 vid 29.12.10.pdf" title="Про затвердження Порядку подання документів для застосування податкової соціальної пільги" 
+target="_blank" class="underline">Постанова КМУ №1227 від 29.12.2010</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/03.doc" target="_blank" class="underline">Наказ №4 від 13.01.15</a>
+<a href="../bib/files/fo/Nakaz MF 591 vid 23.06.17.pdf" title="Про затвердження форми Книги обліку доходів і витрат для визначення суми загального річного 
+оподатковуваного доходу та Порядку ведення обліку доходів і витрат для визначення суми загального річного оподатковуваного доходу" 
+target="_blank" class="underline">Наказ Мінфін №591 від 23.06.2017</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/04.doc" target="_blank" class="underline">Наказ №22 від 31.07.14</a>
+<a href="../bib/files/fo/Nakaz MF 568 vid 13.06.17.pdf" title="Про затвердження форми довідки про подану декларацію про майновий стан і доходи (про сплату або 
+відсутність податкових зобов'язань) та Порядку її оформлення і видачі" target="_blank" class="underline">Наказ Мінфін №568 від 13.06.2017</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/05.doc" target="_blank" class="underline">Наказ №32 від 17.01.14</a>
+<a href="../bib/files/fo/Nakaz MF 497 vid 13.05.17.pdf" title="Про затвердження форми Інформації суб'єктів господарювання, які провадять посередницьку 
+діяльність, пов'язану з наданням послуг з оренди нерухомості (рієлтерів), про укладені 
+за їх посередництвом цивільно-правові договори (угоди)" target="_blank" class="underline">Наказ Мінфін №497 від 13.05.2017</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/06.doc" target="_blank" class="underline">Наказ №190 від01.04.11 фіз.особи</a>
+<a href="../bib/files/fo/Nakaz MF 859 vid 02.10.15.pdf" title="Про затвердження форми податкової декларації про майновий стан і доходи та Інструкції щодо 
+заповнення податкової декларації про майновий стан і доходи" target="_blank" class="underline">Наказ Мінфін №859 від 02.10.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/07.doc" target="_blank" class="underline">Наказ №395 від 14.03.13</a>
+<a href="../bib/files/fo/Nakaz MF 841 vid 28.09.15.pdf" title="Про затвердження форми Звіту про використання коштів, виданих на відрядження або під звіт, та 
+Порядку його складання" target="_blank" class="underline">Наказ Мінфін №841 від 28.09.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/08.doc" target="_blank" class="underline">Наказ №793 від 11.12.13</a>
+<a href="../bib/files/fo/Nakaz MF 4 vid 13.01.15.pdf" title="Про затвердження форми Податкового розрахунку сум доходу, нарахованого (сплаченого) 
+на користь фізичних осіб, і сум утриманого з них податку (форма N 1ДФ) та 
+Порядку заповнення та подання податковими агентами Податкового розрахунку сум доходу, 
+нарахованого (сплаченого) на користь фізичних осіб, і сум утриманого з них податку" target="_blank" class="underline">Наказ Мінфін №4 від 13.01.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/09.doc" target="_blank" class="underline">Наказ №794 від11.12.13</a>
+<a href="../bib/files/fo/Nakaz DFS 22 vid 31.07.14.pdf" title="Про затвердження Методичних рекомендацій щодо порядку взаємодії між підрозділами органів державної 
+фіскальної служби при організації, проведенні та реалізації матеріалів перевірок платників податків" 
+target="_blank" class="underline">Наказ ДФС №22 від 31.07.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/010.doc" target="_blank" class="underline">Наказ №795 від 11.12.13</a>
+<a href="../bib/files/fo/Nakaz MDZ 32 vid 17.01.14.pdf" title="Про затвердження Порядку видачі довідки про наявність у фізичної особи земельних ділянок та її форми" 
+target="_blank" class="underline">Наказ Міністерства доходів і зборів України №32 від 17.01.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/011.doc" target="_blank" class="underline">Наказ №845 від 24.12.13</a>
+<a href="../bib/files/fo/Nakaz MF 395 vid 14.03.13.pdf" title="Про затвердження Порядку оформлення результатів документальних перевірок щодо дотримання податкового, 
+валютного та іншого законодавства, контроль за дотриманням якого покладено 
+на органи державної податкової служби, платниками податків - фізичними особами" target="_blank" class="underline">Наказ Мінфін №395 від 14.03.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/012.doc" target="_blank" class="underline">Наказ №846 від 24.12.13</a>
+<a href="../bib/files/fo/Nakaz DPA 190 vid 01.04.11.pdf" title="Про затвердження Методичних рекомендацій щодо складання плану-графіка проведення документальних 
+планових перевірок суб'єктів господарювання" target="_blank" class="underline">Наказ ДПА №190 від 01.04.2011</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/10/013.doc" target="_blank" class="underline">Оподаткування пасивних доходів</a>
 
 </span></p>
  

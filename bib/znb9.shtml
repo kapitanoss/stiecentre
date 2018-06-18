@@ -57,19 +57,19 @@
  <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <!--option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option-->
+ <option value="../bib/znb1.shtml">Акцизний податок</option>
+ <option value="../bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="../bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="../bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="../bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="../bib/znb6.shtml">Загальне законодавство</option>
+ <option value="../bib/znb7.shtml">Звернення громадян</option>
+ <option value="../bib/znb8.shtml">Місцеві податки</option>
+ <option selected="selected" value="../bib/znb9.shtml">Податок на додану вартість</option>
+ <option value="../bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="../bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option value="../bib/znb12.shtml">Робота з персоналом</option>
+ <!--option value="../bib/znb13.shtml">Спрощена система оподаткування</option-->
  </select>
  <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -77,43 +77,55 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
  
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_01.doc" target="_blank" class="underline">Закон України №71-VIII від 28.12.14р.</a>
+<a href="../bib/files/pdv/ZU 71-VIII vid 28.12.2014.pdf" title="Про внесення змін до Податкового кодексу України 
+та деяких законодавчих актів України щодо податкової реформи" target="_blank" class="underline">ЗУ №71-VIII від 28.12.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_02.doc" target="_blank" class="underline">Наказ №13 від 17. 01. 15</a>
+<a href="../bib/files/pdv/Postanova KMU 569 vid 16.10.14.pdf" title="Деякі питання електронного адміністрування податку на додану вартість" 
+target="_blank" class="underline">Постанова КМУ №569 від 16.10.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_03.doc" target="_blank" class="underline">Наказ №165 від 14.06.13р.</a>
+<a href="../bib/files/pdv/Postanova KMU 1246 vid 29.12.10.pdf" title="Про затвердження Порядку ведення Єдиного реєстру податкових накладних" 
+target="_blank" class="underline">Постанова КМУ №1246 від 29.12.2010</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_04.doc" target="_blank" class="underline">Наказ №282 від 18.07.13</a>
+<a href="../bib/files/pdv/Nakaz MF 276 vid 23.02.17.pdf" title="Про затвердження Змін до деяких нормативно-правових актів Міністерства фінансів України" 
+target="_blank" class="underline">Наказ Мінфін №276 від 23.02.2017</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_05.doc" target="_blank" class="underline">Наказ №522 від 19.06.12</a>
+<a href="../bib/files/pdv/Nakaz MF 21 vid 28.01.16.pdf" title="Про затвердження форм та Порядку заповнення і 
+подання податкової звітності з податку на додану вартість" target="_blank" class="underline">Наказ Мінфін №21 від 28.01.2016</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_06.doc" target="_blank" class="underline">Наказ №700 від 22.11.13</a>
+<a href="../bib/files/pdv/Nakaz MF 1307 vid 31.12.15.pdf" title="Про затвердження форми податкової накладної та 
+Порядку заповнення податкової накладної" target="_blank" class="underline">Наказ Мінфін №1307 від 31.12.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_07.doc" target="_blank" class="underline">Наказ №724 від 29.11.13</a>
+<a href="../bib/files/pdv/Nakaz MF 1130 vid 14.11.14.pdf" title="Про затвердження Положення про реєстрацію 
+платників податку на додану вартість" target="_blank" class="underline">Наказ Мінфін №1130 від 14.11.2014</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_08.doc" target="_blank" class="underline">Наказ №891від 30.12.13</a>
+<a href="../bib/files/pdv/Nakaz MDZ 891 vid 30.12.13.pdf" title="Про затвердження Методичних рекомендацій щодо застосування постанови 
+Кабінету Міністрів України від 25 січня 2012 року N 73 Про затвердження критеріїв, у разі відповідності 
+яким платник податку на додану вартість вважається таким, що має позитивну податкову історію" target="_blank" class="underline">Наказ Міністерства доходів і зборів України №891 від 30.12.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_09.doc" target="_blank" class="underline">Наказ №957 від 22.09.14</a>
+<a href="../bib/files/pdv/Nakaz MDZ 724 vid 29.11.13.pdf" title="Про затвердження Методичних рекомендацій щодо комплексного відпрацювання 
+платників ПДВ, які формують податковий кредит за податковими накладними, не зареєстрованими в ЄРПН" target="_blank" class="underline">Наказ Міністерства доходів і зборів України №724 від 29.11.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_10.doc" target="_blank" class="underline">Наказ №966 від 23.09.14</a>
+<a href="../bib/files/pdv/Nakaz MDZ 700 vid 22.11.13.pdf" title="Про затвердження Узагальнюючої податкової консультації щодо особливостей 
+оподаткування податком на додану вартість операцій з постачання банками заставного майна" target="_blank" class="underline">Наказ Міністерства доходів і зборів України №700 від 22.11.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_11.doc" target="_blank" class="underline">Наказ №1128 від 14.11.14</a>
+<a href="../bib/files/pdv/Nakaz MDZ 282 vid 18.07.13.pdf" title="Про затвердження Тимчасового регламенту (системи) відпрацювання платників 
+ПДВ, якими допущено згортання позитивного нарахування з ПДВ або може бути допущено 
+таке згортання, та визначення відповідних критеріїв контролю за такою процедурою" target="_blank" class="underline">Наказ Міністерства доходів і зборів України №282 від 18.07.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_12.doc" target="_blank" class="underline">Наказ №1129 від 14.11.14</a>
+<a href="../bib/files/pdv/Nakaz MDZ 165 vid 14.06.13.pdf" title="Про затвердження Методичних рекомендацій щодо організації та проведення камеральних 
+перевірок податкової звітності платників податків, крім перевірок податкової декларації 
+про майновий стан і доходи та податкової декларації платника єдиного податку - фізичної особи - підприємця" 
+target="_blank" class="underline">Наказ Міністерства доходів і зборів України №165 від 14.06.2013</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_13.doc" target="_blank" class="underline">Наказ №1130 від 14.11.14</a>
+<a href="../bib/files/pdv/Nakaz DFS 263 vid 14.04.17.pdf" title="Про затвердження Регламенту взаємодії структурних підрозділів ДФС та головних управлінь 
+ДФС в областях, м. Києві, Офісу великих платників податків ДФС у процесі бюджетного відшкодування 
+податку на додану вартість та формування Реєстру заяв про суми бюджетного відшкодування податку на додану вартість" 
+target="_blank" class="underline">Наказ ДФС №263 від 14.04.2017</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_14.doc" target="_blank" class="underline">Нказ №958 від 22.09.14</a>
+<a href="../bib/files/pdv/List DFS 2394 vid 28.01.15.pdf" title="Про податок на додану вартість" target="_blank" class="underline">Лист ДФС №2394 від 28.01.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_15.doc" target="_blank" class="underline">Порядок електронного адмініструвння пдв</a>
+<a href="../bib/files/pdv/List DFS 1403 vid 19.01.15.pdf" title="Про систему електронного адміністрування ПДВ" target="_blank" class="underline">Лист ДФС №1403 від 19.01.2015</a>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_16.doc" target="_blank" class="underline">Постанова №1246 від 29.12.10</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_17.doc" target="_blank" class="underline">Про затвердження форми податкової накладної та Порядку заповнення податкової накладної</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_18.doc" target="_blank" class="underline">Про податок на додану вартість</a>
-<br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/9/9_19.doc" target="_blank" class="underline">Про систему електронного адміністрування ПДВ</a>
 
 </span></p>
  

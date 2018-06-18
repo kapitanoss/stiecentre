@@ -57,19 +57,19 @@
  <p class="sticky MsoNormal" style='text-align:center; margin-bottom:0;'><b><span class='st4'>Законодавство. Нормативна база</span></b></p>	
  <form id="myform" action="">
  <select id="mymenu">
- <option value="http://centre-kiev.kiev.ua/bib/znb1.shtml">Акцизний податок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb2.shtml">Антикорупційне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb4.shtml">Взаємодія з громадськістю</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb5.shtml">Єдиний соціальний внесок</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb6.shtml">Загальне законодавство</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb7.shtml">Звернення громадян</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb8.shtml">Місцеві податки</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb9.shtml">Податок на додану вартість</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb10.shtml">Податок на доходи фізичних осіб</option>
- <option value="http://centre-kiev.kiev.ua/bib/znb11.shtml">Податок на прибуток підприємств</option>
- <option selected="selected" value="http://centre-kiev.kiev.ua/bib/znb12.shtml">Робота з персоналом</option>
- <!--option value="http://centre-kiev.kiev.ua/bib/znb13.shtml">Спрощена система оподаткування</option-->
+ <option value="../bib/znb1.shtml">Акцизний податок</option>
+ <option value="../bib/znb2.shtml">Антикорупційне законодавство</option>
+ <option value="../bib/znb3.shtml">Бухгалтерський облік та фінансова звітність</option>
+ <option value="../bib/znb4.shtml">Взаємодія з громадськістю</option>
+ <option value="../bib/znb5.shtml">Єдиний соціальний внесок</option>
+ <option value="../bib/znb6.shtml">Загальне законодавство</option>
+ <option value="../bib/znb7.shtml">Звернення громадян</option>
+ <option value="../bib/znb8.shtml">Місцеві податки</option>
+ <option value="../bib/znb9.shtml">Податок на додану вартість</option>
+ <option value="../bib/znb10.shtml">Податок на доходи фізичних осіб</option>
+ <option value="../bib/znb11.shtml">Податок на прибуток підприємств</option>
+ <option selected="selected" value="../bib/znb12.shtml">Робота з персоналом</option>
+ <!--option value="../bib/znb13.shtml">Спрощена система оподаткування</option-->
  </select>
  <input type="button" value="Вибрати"  onclick = "window.location=document.forms[0].mymenu.options[document.forms[0].mymenu.selectedIndex].value"  />
  </form>
@@ -77,13 +77,17 @@
 <p align='center'>
 <span style='font-size:14.0pt'>
 
-<a href="http://www.centre-kiev.kiev.ua/bib/files/12/01.doc" target="_blank" class="underline">Наказ №21 від 30.07.14</a>
+<a href="../bib/files/rp/ZU PRP.pdf" target="_blank" class="underline">ЗУ Про професійний розвиток працівників</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/12/02.doc" target="_blank" class="underline">Наказ №236 від 21.05.14</a>
+<a href="../bib/files/rp/Nakaz DFS 21 vid 30.07.14.pdf" title="Про Раду з кадрових питань ДФС України" 
+target="_blank" class="underline">Наказ ДФС №21 від 30.07.2014</a>
 <br>
 <br>
-<a href="http://www.centre-kiev.kiev.ua/bib/files/12/03.doc" target="_blank" class="underline">Положення про Раду з кадрових питань</a>
+<a href="../bib/files/rp/Postanova KMU 236 vid 21.05.14.pdf" title="Про Державну фіскальну службу України" 
+target="_blank" class="underline">Постанова КМУ №236 від 21.05.2014</a>
+<br>
+<br>
 
 </span></p>
  

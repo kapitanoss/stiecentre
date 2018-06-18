@@ -226,7 +226,211 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">7-8</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/seminar-nads-2018.shtml" title="">«Про державну службу» Семінар-тренінг НАДС</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>07-08 червня 2018 року відбувся семінар-тренінг НАДС та його територіальних органів для головних спеціалістів 
+										на тему «Деякі питання практичного застосування Закону України «Про державну службу»...</p>
+										<span class="readmore"><a href="../news/seminar-nads-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/seminar-nads-2018.shtml" class="slider_img">
+									<img src="../img/news/seminar-nads-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Про державну службу» cемінар-тренінг НАДС-2" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Про державну службу» cемінар-тренінг НАДС-2" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>07-08 червня 2018 року відбувся семінар-тренінг НАДС та його територіальних органів для головних спеціалістів на тему «Деякі
+								питання практичного застосування Закону України «Про державну службу»....</p>
+								<span class="readmore"><a href="../news/seminar-nads-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;7</span>
+										<span class="year">2018</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#coleg-nads" title="">Засідання Колегії НАДС</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>На засіданні Колегії НАДС було розглянуто питання ефективності використання коштів державного бюджету...</p>
+										<span class="readmore"><a href="../news/news.shtml#coleg-nads">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#coleg-nads" class="slider_img">
+									<img src="../img/news/coleg-nads-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Засідання Колегії НАДС" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Засідання Колегії НАДС" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На засіданні Колегії НАДС було розглянуто питання ефективності використання коштів державного бюджету....</p>
+								<span class="readmore"><a href="../news/news.shtml#coleg-nads">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">11</span>
+										<span class="year">2018</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#itup-10" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
+										<span class="readmore"><a href="../news/news.shtml#itup-10">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#itup-10" class="slider_img">
+									<img src="../img/news/itup-10.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-10" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-10" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml#itup-10">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">3-6</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/drmsv-2018.shtml" title="">Тренінг за підтримки Council of Europe</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінги</a>
+									</div>
+									<div class="excerpt">
+										<p>За підтримки Програми Ради Європи відбулось навчання для голів селищних об’єднаних територіальних громад...</p>
+										<span class="readmore"><a href="../news/drmsv-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/drmsv-2018.shtml" class="slider_img">
+									<img src="../img/news/drmsv/drmsv-2018-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг за підтримки Council of Europe" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг за підтримки Council of Europe" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>За підтримки Програми Ради Європи відбулось навчання для голів селищних об’єднаних територіальних громад...</p>
+								<span class="readmore"><a href="../news/drmsv-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">5-6</span>
+										<span class="year">&ensp;2018</span>
+										<span class="month">&ensp;&ensp;червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/matra-2018.shtml" title="">Відкриття проекту MATRA</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Офіційно відкрито проект MATRA «Належне врядування та доброчесність у публічному секторі в Україні»...</p>
+										<span class="readmore"><a href="../news/matra-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/matra-2018.shtml" class="slider_img">
+									<img src="../img/news/matra/matra-2018-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект MATRA «Належне врядування та доброчесність у публічному секторі в Україні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект MATRA «Належне врядування та доброчесність у публічному секторі в Україні»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Офіційно відкрито проект MATRA «Належне врядування та доброчесність у публічному секторі в Україні»...</p>
+								<span class="readmore"><a href="../news/matra-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -311,46 +515,6 @@
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">4-8</span>
-										<span class="year">&ensp;2018</span>
-										<span class="month">&ensp;&ensp;червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#itup-9" title="">«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
-										<span class="readmore"><a href="../news/news.shtml#itup-9">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#itup-9" class="slider_img">
-									<img src="../img/news/itup-9.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-9" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-9" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
-								<span class="readmore"><a href="../news/news.shtml#itup-9">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
