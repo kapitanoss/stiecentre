@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>«100-річчя державної служби України» Віртуальна книжкова виставка. Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+  <style>
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 15px 15px 15px 0px; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 15px 10px 15px 15px; /* Отступы вокруг картинки */
+   }
+ 
+  </style>	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class="st4">«100-річчя державної служби України»</br>Віртуальна книжкова виставка </span></b></p>
+
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+	   <td width="100%"  > 
+		<div id="idframe22" style="display: block" >
+			<div id="idframe22-3" style="display: block; text-align:center; text-indent: 0px; " width="650" height="550"> 
+				<video id="video22" width="750" height="550" controls="controls" autoplay="autoplay" poster="../img/news/NADS-100/100nads-virt.jpg">
+					<source src="../img/news/NADS-100/100nads-virt.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
+			</div>	
+			
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
+			obj=document.getElementById('idframe22-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
+			obj.display=tmp; obj=document.getElementById('idframe22-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
+			<div id="idframe22-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
+				<embed hidden="false" src="../files/konkurs/present2/Kuzma N.V_samopr.swf" width="500" height="470"/>
+				
+			</div!-->			
+		</div>
+	   </td>
+	 </tr>             
+   </table>
+
+
+ 
+<br />
+<br />
+<br />
+<br />
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

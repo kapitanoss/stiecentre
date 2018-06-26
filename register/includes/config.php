@@ -5,11 +5,11 @@ ini_set('display_errors',1);
 error_reporting(E_ALL);
 //Debug 
 define('DEBUG',true);
-define('LOCAL',false);
+define('LOCAL',true);
 
 //set timezone
 date_default_timezone_set('Europe/Kiev');
-if (defined('LOCAL')&& LOCAL) {
+if (defined('LOCAL')&& LOCAL) { 
 //database credentials denwer
 define('DBHOST','localhost');
 define('DBUSER','root');
@@ -33,14 +33,14 @@ function adefine($value) {
 }
 function grname($groupcat){
     switch ($groupcat) {
-        /*case '20':	$groupname='Модуль 1. «Лідерство та ефективне управління» 4 вересня 2017 року.'; break;
-        case '21':	$groupname='Модуль 2. «Лідерство та ефективна комунікація» 4 вересня 2017 року.'; break;
-		case '22':	$groupname='Модуль 3. «Лідерство та управління персоналом» 4 вересня 2017 року.'; break;
-		case '23':	$groupname='Модуль 4. «Лідерство та стратегічне управління державним органом» 4 вересня 2017 року.'; break;
-		case '24':	$groupname='Модуль 5. «Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони» 4 вересня 2017 року.'; break;
+        case '20':	$groupname='Тренінг «ВІКОВИЙ МЕНЕДЖМЕНТ»'; $groupmembers=20;  break;
+        case '21':	$groupname='Тренінг «УПРАВЛІННЯ ПРОЕКТАМИ ТА ПРОГРАМАМИ В ПУБЛІЧНІЙ СФЕРІ»'; $groupmembers=20; break;
+		case '22':	$groupname='Тренінг «КРОСКУЛЬТУРНА КОМУНІКАЦІЯ В ПУБЛІЧНІЙ СФЕРІ»'; $groupmembers=20; break;
+		case '23':	$groupname='Тренінг «ВСТИГАТИ БІЛЬШЕ: 11 ПРАВИЛ ПО ТАЙМ-МЕНЕДЖМЕНТУ ТА ПРОДУКТИВНОСТІ»'; $groupmembers=20; break;
+        case '24':	$groupname='Тренінг «МИСТЕЦТВО СПІЛКУВАННЯ: НАВИЧКИ АСЕРТИВНОЇ ПОВЕДІНКИ ТА ЕФЕКТИВНОЇ КОМУНІКАЦІЇ»'; $groupmembers=20; break;
 
-        case '25':	$groupname='Модуль 1. «Лідерство та ефективне управління» 5 вересня 2017 року.'; break;
-        case '26':	$groupname='Модуль 2. «Лідерство та ефективна комунікація» 5 вересня 2017 року.'; break;
+		case '25':	$groupname='Тренінг «УПРАВЛІННЯ КОНФЛІКТАМИ У ДІЯЛЬНОСТІ ДЕРЖАВНИХ СЛУЖБОВЦІВ»'; $groupmembers=20; break;
+        /*case '26':	$groupname='Модуль 2. «Лідерство та ефективна комунікація» 5 вересня 2017 року.'; $groupmembers=20; break;
 		case '27':	$groupname='Модуль 3. «Лідерство та управління персоналом 5 вересня 2017 року.'; break;
 		case '28':	$groupname='Модуль 4. «Лідерство та стратегічне управління державним органом» 5 вересня 2017 року.'; break;
 		case '29':	$groupname='Модуль 5. «Европейська та евроантлантична інтеграція. Національна політика в сфері безпеки і оборони»5 вересня 2017 року.'; break;

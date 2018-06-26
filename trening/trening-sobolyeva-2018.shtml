@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Тренінги: «11 ПРАВИЛ ПО ТАЙМ-МЕНЕДЖМЕНТУ ТА ПРОДУКТИВНОСТІ», «МИСТЕЦТВО СПІЛКУВАННЯ». Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+  <style type="text/css">
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 15px 15px 15px 0px; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 15px 10px 15px 15px; /* Отступы вокруг картинки */
+   }
+  </style>	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class="st4">Тренінги</span></b></p>
+
+<form action="../register/indextren.php" method="post" name="formtr" target="_blank">
+<input type="hidden" name="func"/>
+
+<p  ><span><b><input type="submit" name="submitnads" onclick="document.formtr.func.value='23'; document.formtr.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/>
+ВСТИГАТИ БІЛЬШЕ: 11 ПРАВИЛ ПО ТАЙМ-МЕНЕДЖМЕНТУ ТА ПРОДУКТИВНОСТІ</b></span>
+
+<p  ><span>Чи маєте Ви  план на день? А скільки пунктів з нього Ви зазвичай виконуєте? Чи встигаєте справлятися з усіма поставленими завданнями, 
+нормально харчуватися та відпочивати? Чи вистачає у Вас часу на рідних і близьких? Ми розкриємо Вам  11 основних правил по тайм-менеджменту та 
+продуктивності та навчимо Вас, працювати ефективно, не відволікатися на соціальні мережі і раціонально організувати робочий час та дозвілля.</span></p>
+
+<p  ><span><b><input type="submit" name="submitnads" onclick="document.formtr.func.value='24'; document.formtr.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/>
+МИСТЕЦТВО СПІЛКУВАННЯ: НАВИЧКИ АСЕРТИВНОЇ ПОВЕДІНКИ ТА ЕФЕКТИВНОЇ КОМУНІКАЦІЇ</b></span></p>
+
+<p  style='margin-bottom:0pt;'><span>Спілкування - це те, на що ми витрачаємо найбільше часу в житті. І будь-то повсякденне спілкування, спілкування з 
+друзями або малознайомими людьми, протилежною статтю, спілкування в професійній сфері ... у одних це виходить легко, для інших є складністю. Останнє - можна 
+змінити, попрацювавши над собою. На курсі Вам підкажуть - як. Вас навчать спілкуватися ефективно. А це значить, бути завжди впевненим у собі і своїх словах. 
+Уміло доносити думки, логічно вибудовувати аргументи, в результаті - бути почутим.</span></p> 
+</form>
+<br />
+
+<p  ><span><b>Тренер</b></span></p>
+<p  ><span ><img src="../img/trening/sobolyeva.jpg" 
+alt="Всеукраїнський центр підвищення кваліфікації, 2018. Соболєва-Терещенко Олена Анатоліївна, тренер" 
+title="Всеукраїнський центр підвищення кваліфікації, 2018. Соболєва-Терещенко Олена Анатоліївна, тренер" 
+width="150" height="170" style="margin-left: 10px;" class="leftimg"/></span>
+<span><b>Соболєва-Терещенко Олена Анатоліївна</b>, кандидат економічних наук, доцент кафедри управління Київського університету імені Бориса Грінченка.</span></p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

@@ -10,6 +10,7 @@
 						   <ul>
 							<li class="st3"><a href="../mz/kaf_pm.shtml">Кафедра менеджменту</a></li>
 							<li class="st3"><a href="../mz/kaf_mov_pid.shtml">Кафедра мовної підготовки</a></li>
+							<li class="st3"><a href="../mz/kaf_mov_pid_im.shtml">Кафедра іноземних мов</a></li>
 						   </ul>
 						  </li>						  
 						  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->

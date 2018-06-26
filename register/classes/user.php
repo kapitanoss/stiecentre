@@ -10,10 +10,12 @@ class User extends Password{
     	$this->_db = $db;
     }
 
-	private function get_user_hash($username){
+	private function get_user_hash($username,$tren){
 
 		try {
-			$stmt = $this->_db->prepare('SELECT password, username, memberID FROM members WHERE username = :username AND active="Yes" ');
+			if ($tren==true) 
+			     {$stmt = $this->_db->prepare('SELECT password, username, memberID FROM memberstren WHERE username = :username AND active="Yes" ');}
+			else {$stmt = $this->_db->prepare('SELECT password, username, memberID FROM members     WHERE username = :username AND active="Yes" ');}
 			$stmt->execute(array('username' => $username));
 
 			return $stmt->fetch();
@@ -23,9 +25,9 @@ class User extends Password{
 		}
 	}
 
-	public function login($username,$password){
+	public function login($username,$password,$tren){
 
-		$row = $this->get_user_hash($username);
+		$row = $this->get_user_hash($username,$tren);
 
 		if($this->password_verify($password,$row['password']) == 1){
 
