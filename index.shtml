@@ -52,7 +52,7 @@
 		<tr>
 
 			<!-- Шапка сайта-->
-			<!--#include virtual="include/titul_site.txt"-->
+			<!--#include virtual="include/titul_siteFB_TW.txt"-->
 
 			<!-- Главное меню -->
 			<!--#include virtual="include/main_menu.txt"-->
@@ -227,6 +227,45 @@
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2018</span>
+										<span class="month">червня</span>
+									</div>
+									<h1 class="title">
+										<a href="../nads/nads-100year-1.shtml" title="">Круглий стіл на тему: «Державна служба України – перші 100 років»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Всеукраїнському центрі підвищення кваліфікації проведено круглий стіл на тему: «Державна служба України – перші 100 років»...</p>
+										<span class="readmore"><a href="../nads/nads-100year-1.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../nads/nads-100year-1.shtml" class="slider_img">
+									<img src="../img/news/NADS-100/NADS-100-1.jpg" alt="Круглий стіл на тему: «Державна служба України – перші 100 років»" 
+										 title="Круглий стіл на тему: «Державна служба України – перші 100 років»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Всеукраїнському центрі підвищення кваліфікації проведено круглий стіл на тему: «Державна служба України – перші 100 років»...</p>
+								<span class="readmore"><a href="../nads/nads-100year-1.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	

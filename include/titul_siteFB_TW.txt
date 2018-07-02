@@ -19,17 +19,16 @@
 		
 
 			    
-				<div align="center" class="st1"><br />
+				<div align="right" class="st1"><p><font size="1px" color="#F26522"><a class="linknads" href='../trening/trening-2018.shtml'>Анонси та оголошення</a></font></p> <br />
 				<br /></div>
-                <div align="center" class="st1"><font size="4"><br />
-				</font></div><br />
-<br />
+                <div align="center" class="st1"><font size="7px"><br />
+				</font></div>
+
 <div class="social-header-block-right">
 	<a class="fb" href="https://www.facebook.com/centre.com.ua/" target="_blank" aria-label="Сторінка Центру у Фейсбуці"></a>
 	<!--a class="tw" href="https://twitter.com" target="_blank" aria-label="Твітер"></a>
     <a class="yt" href="https://www.youtube.com" target="_blank" aria-label="Ютуб канал Центру"></a-->
-</div>
-<br />
+</div><br />
 <div align="right" class="st1"><p><font size="1px" color="white">Адреса:
   03061, Київ-061 вул.Шепелєва, 3-а</font></p> </div> 
 <div align="right" class="st1"><p><font size="1" color="white">E-mail:

@@ -251,7 +251,7 @@ $groupcat=$_SESSION['groupcat_s'];
 									$subject = "Підтвердження реєстрації.";
 									$body = "<p>Дякуємо за реєстрацію на сайті http://www.centre-kiev.kiev.ua/</p>
 									<p><b>".$_SESSION['groupname_s']."<br /></b></p>
-									<p>Для активації облікового запису, будь ласка, натисніть на посилання: <a href='".DIR."activate.php?x=$id&y=$activasion&z=$tren'>".DIR."activate.php?x=$id&y=$activasion&z=$tren</a></p>
+									<p>Для активації облікового запису, будь ласка, натисніть на посилання: <a href='".DIR."activate.php?x=$id&y=$activasion&z=true'>".DIR."activate.php?x=$id&y=$activasion&z=true</a></p>
 									<p>С найкращими побажанями, Admin!</p>";
 
 									$mail = new Mail();

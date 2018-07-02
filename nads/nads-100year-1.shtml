@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Круглий стіл на тему: «Державна служба України – перші 100 років». 
+	Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+
+<!--script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script-->	
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0" class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+			
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->		
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+ 
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class='st4'>«Державна служба України – перші 100 років»</span></b></p>
+				  
+<p><span >З нагоди відзначення 100-річчя державної служби Всеукраїнським центром підвищення кваліфікації державних службовців і посадових осіб місцевого 
+самоврядування 22 червня поточного року було проведено круглий стіл на тему: «Державна служба України – перші 100 років»</span></p> 
+
+<p><span >У заході брали участь представники Адміністрації Президента України, Національного агентства України з питань державної служби, керівники та 
+заступники керівників служб управління персоналом центральних та місцевих органів виконавчої влади.</span></p> 
+
+				
+<br />
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	 <tr>
+	   <td width="50%" style="text-align:center; text-indent: 0px; " ><img src="../img/news/NADS-100/NADS-100-1.jpg" 
+		  alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Круглий стіл на тему: «Державна служба України – перші 100 років»-1"
+		  title="Всеукраїнський центр підвищення кваліфікації, 2018р. Круглий стіл на тему: «Державна служба України – перші 100 років»-1" width="450" height="330" border="0" /></td>
+	   <td width="50%" style="text-align:center; text-indent: 0px; " ><img src="../img/news/NADS-100/NADS-100-2.jpg" 
+		  alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Круглий стіл на тему: «Державна служба України – перші 100 років»-2"
+		  title="Всеукраїнський центр підвищення кваліфікації, 2018р. Круглий стіл на тему: «Державна служба України – перші 100 років»-2" width="450" height="330" border="0" /></td>
+   </table>
+				<br />				
+				<br />
+			  </div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>
