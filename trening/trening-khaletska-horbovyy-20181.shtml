@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/shablon.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+	<title>Тренінги: «ВІКОВИЙ МЕНЕДЖМЕНТ», «УПРАВЛІННЯ ПРОЕКТАМИ ТА ПРОГРАМАМИ», «КРОСКУЛЬТУРНА КОМУНІКАЦІЯ». Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+
+	<link rel="stylesheet" type="text/css" href="../glav.css"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+  <style type="text/css">
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 15px 15px 15px 0px; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 15px 10px 15px 15px; /* Отступы вокруг картинки */
+   }
+  </style>	
+<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
+<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+</head>
+
+<body>
+<!-- Шапка сайта + Главное меню -->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0"  class="hdr">
+		<tr>
+
+			<!-- Шапка сайта-->
+			<!--#include virtual="../include/titul_site.txt"-->
+
+			<!-- Главное меню -->
+			<!--#include virtual="../include/main_menu.txt"-->
+		  
+		</tr>
+ </table>
+<!-- Левое меню + Страница-->
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td class="col1">
+
+	</td>
+
+
+
+<!-- InstanceBeginEditable name="text" -->
+<!--******************************Начало содержимого страницы**********************************-->
+	
+
+    <td class="col2" valign="top">
+	
+	<table border="0" cellspacing="0" cellpadding="20">
+		<tr >
+		<!--#include virtual="../include/left_menu.txt"-->		
+			<td class="st6"> <div class="st51" >
+         <!-- InstanceBeginEditable name="text" -->
+         
+		 
+ <!--**********************Вставить текст страницы********************************************-->
+
+<div class="MsoNormal" >
+
+<p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
+
+<p style='text-align:center; '><b><span class="st4">Тренінги</span></b></p>
+
+<form action="../register/indextren.php" method="post" name="formtr" target="_blank" >
+<input type="hidden" name="func"/>
+
+<p  ><span><b><input type="submit" name="submittren" onclick="document.formtr.func.value='20'; document.formtr.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/>
+ВІКОВИЙ МЕНЕДЖМЕНТ</b></span></p>
+
+<p  style='margin-bottom:0pt;'><span>Які відомі практики вікового менеджменту можна ефективно використовувати в організаціях в умовах демографічних змін.</span></p>
+<p  style='margin-bottom:0pt;'><span>Мета тренінгу - сформувати нові компетенції, набути корисних навичок з управління працездатністю.</span></p>
+<p  style='margin-bottom:0pt;'><span>•	Особливості поколінь. Стереотипи, пов’язані з віком.</span></p>
+<p  style='margin-bottom:0pt;'><span>•	Гнучкі методи роботи, особливості мотивації в передпенсійному віці.</span></p>
+<p  style='margin-bottom:0pt;'><span>•	Сучасні принципи ергономіки робочого місця, програми збереження  здоров’я.</span></p>
+<p  ><span>•	Найкращі практики, як утримати і передати знання в організації.</span></p>
+
+<p  ><span><b><input type="submit" name="submittren" onclick="document.formtr.func.value='21'; document.formtr.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/>
+УПРАВЛІННЯ ПРОЕКТАМИ ТА ПРОГРАМАМИ В ПУБЛІЧНІЙ СФЕРІ</b></span></p>
+
+<p  style='margin-bottom:0pt;'><span>Як в умовах обмеженого часу та ресурсів створити унікальні продукти чи послуги, використовуючи проектний підхід.</span></p> 
+<p  style='margin-bottom:0pt;'><span>Мета тренінгу - визначення компетенцій та формування вмінь проектної групи щодо структури проекту, розробки стратегії,  формалізації процедур, 
+розробки шаблонів координації, управління та фінансування.</span></p>
+<p  style='margin-bottom:0pt;'><span>•	Особливості написання проектної заявки.</span></p>
+<p  style='margin-bottom:0pt;'><span>•	Ефективна проектна група.</span></p> 
+<p  ><span>•	Базові принципи методології управління проектами та програмами в публічній сфері. Принципи та етапи проектного циклу.</span></p>
+
+<p  ><span><b><input type="submit" name="submittren" onclick="document.formtr.func.value='22'; document.formtr.submit();" value="Pеєстрація" class="btn btn-primary btn-block btn-lg" tabindex="2"/>
+КРОСКУЛЬТУРНА КОМУНІКАЦІЯ В ПУБЛІЧНІЙ СФЕРІ</b></span></p> 
+
+<p  style='margin-bottom:0pt;'><span>Як враховувати параметри культури в кроскультурній комунікації в публічній сфері.</span></p> 
+<p  style='margin-bottom:0pt;'><span>Мета тренінгу - формування професійних компетенцій кроскультурної комунікації.</span></p> 
+<p  style='margin-bottom:0pt;'><span>•	Основні кроскультурні моделі управління організацією.</span></p> 
+<p  style='margin-bottom:0pt;'><span>•	Методи оцінки взаємодії національної ділової та корпоративної культури.</span></p> 
+<p  ><span>•	Кейси з кроскультурної комуніцації.</span></p> 
+</form>
+ 
+<p  ><span ><img src="../img/trening/khaletska.jpg" 
+alt="Всеукраїнський центр підвищення кваліфікації, 2018. Халецька Аліна Анатоліївна, заступник директора зі стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації" 
+title="Всеукраїнський центр підвищення кваліфікації, 2018. Халецька Аліна Анатоліївна, заступник директора зі стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації" width="150" height="187" style="margin-left: 10px;" class="leftimg"/></span>
+<span><b>Халецька Аліна Анатоліївна</b> – заступник директора зі стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації 
+державних службовців і посадових осіб місцевого самоврядування, професор, д.держ.упр., академік УАЕН; віце-президент «Асоціації університетів третього віку 
+«Клепсидра», авторка навчальних курсів «Менеджмент працездатності», «Ринки праці для людей передпенсійного віку», співавтор «Концепції діяльності Центрів 
+освіти третього віку в Україні», посібників, статей, монографій.</span></p>
+<br />
+<br />
+<br />
+<br />
+<p  ><span ><img src="../img/trening/horbovyy.jpg" 
+alt="Всеукраїнський центр підвищення кваліфікації, 2018. Горбовий Артур Юліанович, завідувач сектору стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації"  
+title="Всеукраїнський центр підвищення кваліфікації, 2018. Горбовий Артур Юліанович, завідувач сектору стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації"  width="150" height="220" style="margin-left: 10px;" class="leftimg"/></span>
+<span><b>Горбовий Артур Юліанович</b> – завідувач сектору стратегічного планування та інституційного розвитку Всеукраїнського центру підвищення кваліфікації 
+державних службовців і посадових осіб місцевого самоврядування, Президент «Асоціації університетів третього віку «Клепсидра», Голова правління Громадської 
+спілки «Асоціація Університетів «третього віку України», професор, д.т.н., академік УАЕН; учасник заходів Міжнародної Асоціації Університетів «третього віку» 
+(150 країн світу); автор посібників, статей, монографій, тез за темою обговорення, співавтор «Концепції діяльності Центрів освіти третього віку в Україні».</span></p>
+<br />
+<br />
+<br />
+<br />
+</div>
+			  </div>
+			</td>
+		</tr>
+	</table>
+<!-- InstanceEnd -->
+    </td>
+    <td class="col3">
+
+	</td>		
+   </tr>
+ </table>
+<br />
+<br />
+<br />
+<br />
+<!-- Banner bottom -->
+<!--#include virtual="../include/banner.html"-->
+<!--******************************Конец содержимого страницы**********************************-->
+<!-- InstanceEndEditable -->
+</body>
+</html>

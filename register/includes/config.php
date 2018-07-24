@@ -5,7 +5,7 @@ ini_set('display_errors',1);
 error_reporting(E_ALL);
 //Debug 
 define('DEBUG',true);
-define('LOCAL',true);
+define('LOCAL',false);
 
 //set timezone
 date_default_timezone_set('Europe/Kiev');

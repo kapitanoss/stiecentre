@@ -1,0 +1,199 @@
+svg {
+/*
+  For IE9. Without, occasionally draws shapes
+  outside the boundaries of <svg> rectangle.
+*/
+  overflow: hidden;
+}
+	
+/*** remove ul & li margins ***/
+.slider-wrap ul, .slider-wrap ul li
+ {
+  list-style: none;
+  padding: 0;
+  background-image: none;
+  margin: 0;
+}
+
+.home_slider_wrap img{
+max-width: 100%;
+height: auto;
+}
+
+
+/* #Links
+================================================== */
+.slider-wrap a{
+		webkit-transition: all 0.3s ease-in;  
+		-moz-transition: all 0.3s ease-in;  
+		-ms-transition: all 0.3s ease-in;  
+		-o-transition: all 0.3s ease-in;  
+		transition: all 0.3s ease-in;
+	}
+.slider-wrap a /* , .slider-wrap a:visited*/ { text-decoration: none; outline: 0; }
+	.slider-wrap a:hover, a:focus { color: #666; }
+	/* .slider-wrap p a, .slider-wrap p a:visited { line-height: inherit; } */
+
+
+/* #Lists
+================================================== */
+	.slider-wrap ul { list-style: none outside; }
+	/*.slider-wrap ol { list-style: decimal; }*/
+	/*.slider-wrap ul.square { list-style: square outside; }
+	.slider-wrap ul.circle { list-style: circle outside; }
+	.slider-wrap ul.disc { list-style: disc outside; }*/
+
+
+/* #Images
+================================================== */
+	.slider-wrap img {
+		/*max-width: 100%;*/ 
+		/*height:auto;*/
+		border:0; 
+		-ms-interpolation-mode:bicubic; 
+	}
+	/*.slider-wrap img.alignleft { float: left; margin-right:15px;}
+	.slider-wrap img.alignright { float: right; margin-left:15px;}
+	.slider-wrap img.aligncenter {
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+		clear: both;
+		/*width:auto;*/
+		/*width: 100%;*/
+		  /* height: 100%;
+	}*/
+
+
+
+/* Grid systems
+---------------------------------------------------------- */
+	.wpb_row {
+	  -webkit-box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	}
+	/* Grid with fluid columns */
+	.vc_row-fluid {
+	  width: 100%;
+	  *zoom: 1;
+	}
+	/*.vc_row-fluid:before,
+	.vc_row-fluid:after {
+	  display: table;
+	  content: "";
+	}
+	.vc_row-fluid:after {
+	  clear: both;
+	}*/
+	.vc_row-fluid [class*="vc_span"] {
+	  display: block;
+	  width: 100%;
+	  min-height: 5px;
+	  -webkit-box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  -ms-box-sizing: border-box;
+	  box-sizing: border-box;
+	  float: left;
+	  margin-left: 3%;
+	}
+	.vc_row-fluid [class*="vc_span"]:first-child {
+	  margin-left: 0;
+	}
+/*	.vc_row-fluid .vc_span12,
+	.wpb_teaser_grid.wpb_carousel .vc_span12 {
+	  width: 100%;
+	}
+	.vc_row-fluid .vc_span11 {
+	  width: 91.41666666666667%;
+	}
+	.vc_row-fluid .vc_span10 {
+	  width: 82.83333333333333%;
+	}
+	.vc_row-fluid .vc_span9 {
+	  width: 74.25%;
+	}
+	.vc_row-fluid .vc_span8 {
+	  width: 65.66666666666666%;
+	}*/
+	.vc_row-fluid .vc_span7 {
+	  width: 56.83333333333333%;
+	}
+	/*.vc_row-fluid .vc_span6,
+	.wpb_teaser_grid.wpb_carousel .vc_span6 {
+	  width: 48.5%;
+	}*/
+	.vc_row-fluid .vc_span5 {
+	  width: 40.16666666666667%;
+	}
+	/*.vc_row-fluid .vc_span4,
+	.wpb_teaser_grid.wpb_carousel .vc_span4 {
+	  width: 31.33333333333333%;
+	}
+	.vc_row-fluid .vc_span3,
+	.wpb_teaser_grid.wpb_carousel .vc_span3 {
+	  width: 22.75%;
+	}
+	.vc_row-fluid .vc_span2 {
+	  width: 14.16666666666667%;
+	}
+	.vc_row-fluid .vc_span1 {
+	  width: 5.583333333333333%;
+	}*/
+	
+	/* end Grid systems -------------------------------------- */
+	/* Responsive classes
+	---------------------------------------------------------- */
+	/*.slider-wrap .hidden {
+	  display: none;
+	  visibility: hidden;
+	}
+	.slider-wrap .visible-phone {
+	  display: none !important;
+	}
+	.slider-wrap .visible-tablet {
+	  display: none !important;
+	}
+	.slider-wrap .hidden-desktop {
+	  display: none !important;
+	}*/
+	
+/* end Responsive classes -------------------------------- */
+	
+/* #Clearing
+================================================== */
+
+    /* Use clearfix class on parent to clear nested columns,
+    or wrap each row of columns in a <div class="row"> */
+    /*.slider-wrap .clearfix:before,
+    .slider-wrap .clearfix:after{
+      content: '\0020';
+      display: block;
+      overflow: hidden;
+      visibility: hidden;
+      width: 0;
+      height: 0; }
+
+    .slider-wrap .clearfix:after {
+      clear: both; }*/
+
+    /*.slider-wrap .clearfix {
+      zoom: 1; }*/
+
+    /* You can also use a <br class="clear" /> to clear columns */
+    .slider-wrap .clear {
+      clear: both;
+      display: block;
+      overflow: hidden;
+      visibility: hidden;
+      width: 0;
+      height: 0;
+    }
+
+	
+	
+	
+	
+	
+
+	

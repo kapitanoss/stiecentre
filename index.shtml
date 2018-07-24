@@ -4,22 +4,23 @@
 <head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
-
+	<meta name="description" content="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування - Головна сторінка"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<title>Головна Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
 	<!--link rel="search" type="application/opensearchdescription+xml" href="demo5.instantcms2.ru/search/opensearch" title="Поиск на InstantCMS 2.0 Дополнения для InstantCMS 2 ГудГалерея, Новое на сайте" /-->
-	<link rel="stylesheet" type="text/css" href="news/widgets/slider_top/css/css/theme-layout.css"/>
+	<link rel="stylesheet" type="text/css" href="news/widgets/slider_top/css/css/theme-layout-min.css"/ media="all">
 
-	<link rel="stylesheet" type="text/css" href="../glav.css"/>
-	<link rel="stylesheet" type="text/css" href="../left_nav.css"/>
-	<link rel="stylesheet" type="text/css" href="../glav_menu.css"/>
-    <link rel="stylesheet" type="text/css" href="../css/layout.css" />
+	<link rel="stylesheet" type="text/css" href="../glav.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="../left_nav.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="../glav_menu.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="../css/layout.css" media="all"/>
 	<link rel="shortcut icon" href="/favicon.ico" />
 
         <link rel="stylesheet" id="google_fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%7CPT+Sans%7CRusso+One%7CRusso+One%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=3.8" type="text/css" media="all"/>
-		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base-min-all.css" type="text/css" media="all"/>
 		<link rel="stylesheet" id="fontello-css" href="news/widgets/slider_top/css/fontello.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style.css" type="text/css" media="all"/>
-		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="style-css" href="news/widgets/slider_top/css/style-min-all.css" type="text/css" media="all"/>
+		<link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider-min-all.css" type="text/css" media="all"/>
 		<!--link rel="stylesheet" id="flexslider-css" href="news/widgets/slider_top/css/flexslider.css" type="text/css" media="all"/-->
 	<style type="text/css">
 		#wid-39 .home-slide-image{
@@ -40,10 +41,11 @@
 		}
 
 	</style>
-	<link rel="stylesheet" id="responsive-css" href="news/widgets/slider_top/css/responsive.css" type="text/css" media="all"/>
-	<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.js"></script>
-	<script type="text/javascript" src="../news/widgets/slider_top/js/jquery.simplyscroll.min.js"></script>	
-	<script type="text/javascript" src="../include/js/fixmenu.js"></script>
+	<!--link rel="stylesheet" id="responsive-css" href="news/widgets/slider_top/css/cssclean/responsive.css" type="text/css" media="all" /-->
+	<!--script type="text/javascript" async src="../news/widgets/slider_top/js/jquery.js"></script-->
+<script src="https://code.jquery.com/jquery-1.10.2.min.js" integrity="sha256-C6CB9UYIS9UJeqinPHWTHVqh/E1uhG5Twh+Y5qFQmYg=" crossorigin="anonymous"></script>
+	<script type="text/javascript" async src="../news/widgets/slider_top/js/jquery.simplyscroll.min.js"></script>	
+	<script type="text/javascript" async defer src="../include/js/fixmenu.js"></script>
 </head>
 
 <body >
@@ -227,6 +229,46 @@
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">10</span>
+										<span class="year">2018</span>
+										<span class="month">липня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/strateg-2020-swot.shtml" title="">«Стратегія розвитку ВЦПК на 2018-2020 роки»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">ВЦПК</a>
+									</div>
+									<div class="excerpt">
+										<p>Проведено засідання робочої групи щодо розробки «Стратегії розвитку ВЦПК на 2018-2020 роки»...</p>
+										<span class="readmore"><a href="../news/strateg-2020-swot.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/strateg-2020-swot.shtml" class="slider_img">
+									<img src="../img/news/strateg-2020/strateg-2020-swot-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Стратегія розвитку ВЦПК на 2018-2020. SWOT аналіз діяльності ВЦПК-1" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Стратегія розвитку ВЦПК на 2018-2020. SWOT аналіз діяльності ВЦПК-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Проведено засідання робочої групи щодо розробки «Стратегії розвитку ВЦПК на 2018-2020 роки»..</p>
+								<span class="readmore"><a href="../news/strateg-2020-swot.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -431,47 +473,7 @@
 							</div>				
 						</div>
 					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">22</span>
-										<span class="year">2018</span>
-										<span class="month">червня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/strateg-2020.shtml" title="">Сесія: «Стратегія розвитку ВЦПК на 2018-2020 роки»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">ВЦПК</a>
-									</div>
-									<div class="excerpt">
-										<p>Проведено Стратегічну сесію щодо розробки «Стратегії розвитку ВЦПК на 2018-2020 роки»...</p>
-										<span class="readmore"><a href="../news/strateg-2020.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/strateg-2020.shtml" class="slider_img">
-									<img src="../img/news/strateg-2020/strateg-2020-1.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Стратегічна сесія: Стратегія розвитку ВЦПК на 2018-2020" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Стратегічна сесія: Стратегія розвитку ВЦПК на 2018-2020" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Проведено Стратегічну сесію щодо розробки «Стратегії розвитку ВЦПК на 2018-2020 роки»...</p>
-								<span class="readmore"><a href="../news/strateg-2020.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
+								
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -839,7 +841,7 @@
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1045,7 +1047,7 @@
 						</div>
 					</li>
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1694,7 +1696,7 @@
 						</div>
 					</li>
 				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -2518,7 +2520,7 @@
 								<span class="readmore"><a href="../news/news.shtml#ref_min">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 				
 				</ul>
 
