@@ -14,7 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="../left_nav.css" media="all"/>
 	<link rel="stylesheet" type="text/css" href="../glav_menu.css" media="all"/>
     <link rel="stylesheet" type="text/css" href="../css/layout.css" media="all"/>
-	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="shortcut icon" href="/favicon.ico"  type="image/x-icon"/>
 
         <link rel="stylesheet" id="google_fonts-css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow%7CPT+Sans%7CRusso+One%7CRusso+One%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&amp;ver=3.8" type="text/css" media="all"/>
 		<link rel="stylesheet" id="base-css" href="news/widgets/slider_top/css/base-min-all.css" type="text/css" media="all"/>
