@@ -228,7 +228,129 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">25</span>
+										<span class="year">2018</span>
+										<span class="month">вересня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#audu-1" title="">«Антикризове управління в умовах модернізації державного управління»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці ...</p>
+										<span class="readmore"><a href="../news/news.shtml#audu-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#audu-1" class="slider_img">
+									<img src="../img/news/audu-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Антикризове управління в умовах модернізації державного управління»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Антикризове управління в умовах модернізації державного управління»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/news.shtml#audu-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">24</span>
+										<span class="year">2018</span>
+										<span class="month">вересня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#itup-14" title="">«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом» ...</p>
+										<span class="readmore"><a href="../news/news.shtml#itup-14">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#itup-14" class="slider_img">
+									<img src="../img/news/itup-14.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-14" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Інноваційні технології управління персоналом»-14" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання за тренінговою програмою «Інноваційні технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/news.shtml#itup-14">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">14</span>
+										<span class="year">2018</span>
+										<span class="month">вересня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/matra-2018-09.shtml" title="">Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації пройшов перший тренінг для тренерів у рамках навчальної програми 
+										проекту МАТРА....</p>
+										<span class="readmore"><a href="../news/matra-2018-09.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/matra-2018-09.shtml" class="slider_img">
+									<img src="../img/news/matra/matra-2018-09-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»-1" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації пройшов перший тренінг для тренерів у рамках навчальної програми 
+										проекту МАТРА....</p>
+								<span class="readmore"><a href="../news/matra-2018-09.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -678,7 +800,7 @@
 						</div>
 					</li-->
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -716,7 +838,7 @@
 								<span class="readmore"><a href="../news/news.shtml#itup-11">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
