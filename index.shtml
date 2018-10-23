@@ -253,7 +253,251 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
-
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#media-cult" title="">«Медіаграмотність  та  медіакультура  державних  службовців»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+										<span class="readmore"><a href="../news/news.shtml#media-cult">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#media-cult" class="slider_img">
+									<img src="../img/news/media-cult-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Медіаграмотність  та  медіакультура  державних  службовців»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Медіаграмотність  та  медіакультура  державних  службовців»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/news.shtml#media-cult">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>					
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">19</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/KaznaUSA-DFS-2018-10.shtml" title="">Cемінар-навчання за підтримки представників казначейства США</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Тренінг ДФС</a>
+									</div>
+									<div class="excerpt">
+										<p>З 16 по 19 жовтня 2018 року відбувся семінар-навчання, який супроводжували радники 
+										Офісу технічної допомоги Казначейства США ...</p>
+										<span class="readmore"><a href="../news/KaznaUSA-DFS-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/KaznaUSA-DFS-2018-10.shtml" class="slider_img">
+									<img src="../img/news/KaznaUSA-DFS-2018/KaznaUSA-DFS-10-2018-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар в рамках Програми Офісу технічної допомоги Казначейства США" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар в рамках Програми Офісу технічної допомоги Казначейства США" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 16 по 19 жовтня 2018 року відбувся семінар-навчання, який супроводжували радники 
+										Офісу технічної допомоги Казначейства США ...</p>
+								<span class="readmore"><a href="../news/KaznaUSA-DFS-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">19</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/tech-cisco-2018-10-17.shtml" title="">«Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+										<span class="readmore"><a href="../news/tech-cisco-2018-10-17.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/tech-cisco-2018-10-17.shtml" class="slider_img">
+									<img src="../img/news/tech-cisco-2018-10-11.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+								<span class="readmore"><a href="../news/tech-cisco-2018-10-17.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">17</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/it-tech-2018-10.shtml" title="">Цикл навчань:<br />ІТ-технології,<br />СІSCO, MICROSOFT ...</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+										<span class="readmore"><a href="../news/it-tech-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/it-tech-2018-10.shtml" class="slider_img">
+									<img src="../img/news/teaching.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Цикл навчань: ІТ-технології, СІSCO, MICROSOFT" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Цикл навчань: ІТ-технології, СІSCO, MICROSOFT" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+								<span class="readmore"><a href="../news/it-tech-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">17</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/grds-2018-10.shtml" title="">«Гендерна рівність на державній службі»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+										<span class="readmore"><a href="../news/grds-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/grds-2018-10.shtml" class="slider_img">
+									<img src="../img/news/grds-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Гендерна рівність на державній службі»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Гендерна рівність на державній службі»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/grds-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">16</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/nteu-2018-10.shtml" title="">«Новітні технології в електронному урядуванні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців за програмою тематичного короткострокового семінару «Новітні технології в електронному урядуванні»....</p>
+										<span class="readmore"><a href="../news/nteu-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/nteu-2018-10.shtml" class="slider_img">
+									<img src="../img/news/nteu-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Новітні технології в електронному урядуванні»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Новітні технології в електронному урядуванні»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців за програмою тематичного короткострокового семінару «Новітні технології в електронному урядуванні» ...</p>
+								<span class="readmore"><a href="../news/nteu-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -293,7 +537,49 @@
 							</div>				
 						</div>
 					</li>
-				
+									
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">11</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/matra-2018-10.shtml" title="">Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації пройшов перший тренінг для тренерів у рамках навчальної програми 
+										проекту МАТРА....</p>
+										<span class="readmore"><a href="../news/matra-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/matra-2018-10.shtml" class="slider_img">
+									<img src="../img/news/matra/matra-2018-10-3.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»-1" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Проект МАТРА «Належне врядування та доброчесність у публічному секторі в Україні»-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації пройшов перший тренінг для тренерів у рамках навчальної програми 
+										проекту МАТРА....</p>
+								<span class="readmore"><a href="../news/matra-2018-10.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -348,7 +634,7 @@
 										<span class="month">жовтня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/news.shtml#ppk2" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
+										<a href="../news/news.shtml#pppk-2" title="">Навчання державних службовців за професійною програмою підвищення кваліфікації</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
@@ -356,7 +642,7 @@
 									</div>
 									<div class="excerpt">
 										<p>Розпочалось двотижневе навчання державних службовців 7-9 групи оплати праці за професійною програмою ...</p>
-										<span class="readmore"><a href="../news/news.shtml#ppk2">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<span class="readmore"><a href="../news/news.shtml#pppk-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -364,7 +650,7 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/news.shtml#ppk2" class="slider_img">
+									<a href="../news/news.shtml#pppk-2" class="slider_img">
 									<img src="../img/news/pppk-2-1.jpg" 
 									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 7-9 групи оплати праці" 
 									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Навчання державних службовців 7-9 групи оплати праці" 
@@ -374,7 +660,7 @@
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>Розпочалось двотижневе навчання державних службовців 7-9 групи оплати праці за професійною програмою ...</p>
-								<span class="readmore"><a href="../news/news.shtml#ppk2">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<span class="readmore"><a href="../news/news.shtml#pppk-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
@@ -539,7 +825,7 @@
 						</div>
 					</li-->
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -579,7 +865,7 @@
 								<span class="readmore"><a href="../news/matra-2018-09.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -826,7 +1112,7 @@
 						</div>
 					</li-->
 								
-				    <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+				    <!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -866,9 +1152,9 @@
 								<span class="readmore"><a href="../news/KaznaUSA-DFS-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 								
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -906,7 +1192,7 @@
 								<span class="readmore"><a href="../trening/trening-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">

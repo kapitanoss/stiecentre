@@ -19,7 +19,7 @@
 		
 
 			    
-				<div align="right" class="st1"><p><font size="1px" color="#F26522"><a class="linknads" href='../trening/trening-2018.shtml'>Анонси та оголошення</a></font></p> <br />
+				<div align="right" class="st1"><p><font size="1px" color="#F26522"><a class="linknads" href='../news/it-tech-2018-10.shtml'>Анонси та оголошення</a></font></p> <br />
 				<br /></div>
                 <div align="center" class="st1"><font size="7px"><br />
 				</font></div>

@@ -79,11 +79,11 @@
 	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
 	    <p style="text-align:center; text-indent: 0px; "><span ><a href="#" onclick="
 		obj=document.getElementById('idframe1').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">АЛЬОШИНА Світлана Сергіївна</a></span></p>
+		obj.display=tmp; return false">АЛЬОШИНА Світлана Сергіївна (четверте місце)</a></span></p>
 		<div id="idframe1" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Alyoshina.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Alyoshina.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe1-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe1-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe1-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -91,7 +91,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe1-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe1-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe1-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -105,9 +105,9 @@
 		obj=document.getElementById('idframe2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">БАРАНІВСЬКА Людмила Казимирівна</a></span></p>
 		<div id="idframe2" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/BARANIVSKA.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/BARANIVSKA.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe_2-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe_2-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe_2-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -115,7 +115,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe_2-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe_2-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe_2-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -134,9 +134,9 @@
 		obj=document.getElementById('idframe3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">БАРБАЗЮК Марина Борисівна</a></span></p>
 		<div id="idframe3" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/BARBASYUK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/BARBASYUK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe3-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe3-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe3-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -144,7 +144,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe3-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe3-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe3-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -158,16 +158,16 @@
 		obj=document.getElementById('idframe4').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">БУТРИМ Тетяна Олексіївна</a></span></p>
 		<div id="idframe4" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/BUTRIM.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/BUTRIM.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video4'); obj.pause();
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video4'); obj.pause();
 			obj=document.getElementById('idframe4-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe4-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe4-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/BUTRIM.swf" width="500" height="470"/>
 				
 			</div>
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video4'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video4'); obj.pause(); 
 			obj=document.getElementById('idframe4-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe4-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe4-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -196,9 +196,9 @@
 		obj=document.getElementById('idframe5').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ВУРМ Ольга Олександрівна</a></span></p>
 		<div id="idframe5" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/VURM.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/VURM.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe5-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe5-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe5-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -206,7 +206,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe5-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe5-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe5-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -220,9 +220,9 @@
 		obj=document.getElementById('idframe6').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ГРИГОР`ЄВА Тетяна Анатоліївна</a></span></p>
 		<div id="idframe6" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Grigorieva.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Grigorieva.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe6-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe6-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe6-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -230,7 +230,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe6-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe6-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe6-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -249,11 +249,11 @@
 		obj=document.getElementById('idframe7').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ГУБЕНКО Вадим Анатолійович</a></span></p>
 		<div id="idframe7" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/GUBENKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/GUBENKO.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe7-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe7-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp;  return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe7-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/GUBENKO_pres.pdf" width="500" height="470"/>
 				
@@ -273,7 +273,7 @@
 		obj=document.getElementById('idframe8').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ГУНЯ Володимир Олександрович</a></span></p>
 		<div id="idframe8" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/GUNIA.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/GUNIA.pdf" target="_blank">Творча робота</a></span></p>
 
 			<!--p style='margin-bottom:0;'><span ><a href="#" onclick=" 
 			obj=document.getElementById('idframe8-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
@@ -283,7 +283,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe8-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe8-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe8-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -302,9 +302,9 @@
 		obj=document.getElementById('idframe9').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ДЗЯПКО Cвітлана Василівна</a></span></p>
 		<div id="idframe9" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/DZYAPKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/DZYAPKO.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video9'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video9'); obj.pause(); 
 			obj=document.getElementById('idframe9-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe9-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe9-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -312,11 +312,11 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video9'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video9'); obj.pause(); 
 			obj=document.getElementById('idframe9-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe9-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe9-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
-				<video id="video9" width="500" height="340" controls="controls" >
+				<video id="video9" width="500" height="340" controls="controls" poster="../files/konkurs/present2-2018/DZYAPKO_samopr_poster.jpg">
 					<source src="../files/konkurs/present2-2018/DZYAPKO_samopr.mp4" type="video/mp4">
 					Your browser does not support the video tag.
 				</video>
@@ -339,11 +339,11 @@
 		obj=document.getElementById('idframe10').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ДОРОШ Ігор Ярославович</a></span></p>
 		<div id="idframe10" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/DOROS.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/DOROS.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe10-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe10-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp;  return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe10-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/DOROS.swf" width="500" height="470"/>
 				
@@ -368,16 +368,16 @@
 		obj=document.getElementById('idframe11').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ЄМЕЦЬ Діана Самвелівна</a></span></p>
 		<div id="idframe11" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/YAMETS.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/YAMETS.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video11'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video11'); obj.pause(); 
 			obj=document.getElementById('idframe11-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe11-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe11-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/YAMETS.swf" width="500" height="470"/>
 				
 			</div>
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video11'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video11'); obj.pause(); 
 			obj=document.getElementById('idframe11-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe11-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe11-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -400,9 +400,9 @@
 		obj=document.getElementById('idframe12').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ЗЕМБА Мар'яна Миколаївна</a></span></p>
 		<div id="idframe12" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/ZEMBA.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/ZEMBA.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe12-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe12-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe12-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -410,7 +410,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe12-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe12-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe12-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -429,7 +429,7 @@
 		obj=document.getElementById('idframe13').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ІВАНЕНКО Валерій Юрійович</a></span></p>
 		<div id="idframe13" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/IVANENKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/IVANENKO.pdf" target="_blank">Творча робота</a></span></p>
 
 			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="  
 			obj=document.getElementById('idframe13-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
@@ -439,7 +439,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe13-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe13-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe13-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -453,9 +453,9 @@
 		obj=document.getElementById('idframe14').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ІВАНОВА Юлія	Володимирівна</a></span></p>
 		<div id="idframe14" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/IVANOVA.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/IVANOVA.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe14-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe14-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe14-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -463,7 +463,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe14-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe14-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe14-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -484,9 +484,9 @@
 		obj=document.getElementById('idframe17').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">КОСТЮМІНСЬКИЙ Руслан Станіславович</a></span></p>
 		<div id="idframe17" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Kostyuminsky.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Kostyuminsky.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe17-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe17-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe17-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -494,7 +494,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe17-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe17-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe17-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -508,9 +508,9 @@
 		obj=document.getElementById('idframe18').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">КРОЙТОР Оксана Василівна</a></span></p>
 		<div id="idframe18" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/KROYTOR.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/KROYTOR.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe18-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe18-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe18-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -518,7 +518,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe18-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe18-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe18-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -537,9 +537,9 @@
 		obj=document.getElementById('idframe19').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">КУЧЕРЕНКО Оксана	Іванівна</a></span></p>
 		<div id="idframe19" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Kucherenko.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Kucherenko.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe19-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe19-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe19-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -547,7 +547,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe19-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe19-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe19-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -561,23 +561,25 @@
 		obj=document.getElementById('idframe20').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ЛУЖНЯК Люба Федорівна</a></span></p>
 		<div id="idframe20" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/LUZHNYAK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/LUZHNYAK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe20-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe20-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe20-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/LUZHNYAK.swf" width="500" height="470"/>
 				
 			</div>
+
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/LUZHNYAK_samopr.pdf" target="_blank">Самопрезентація</a></span></p>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
 			obj=document.getElementById('idframe20-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe20-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe20-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/LUZHNYAK_samopr.swf" width="500" height="470"/>
 				
-			</div>			
+			</div-->			
 		</div>
 	   </td>
 	 </tr>             
@@ -586,21 +588,21 @@
    <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	 <tr>
 	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick=" obj=document.getElementById('video21'); obj.pause();
+	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
 		obj=document.getElementById('idframe21').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">МІРОШНИЧЕНКО Анастасія Олегівна</a></span></p>
 		<div id="idframe21" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/MIROSHNICHENKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/MIROSHNICHENKO.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" obj=document.getElementById('video21'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe21-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe21-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp;  return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe21-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/MIROSHNICHENKO.swf" width="500" height="470"/>
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video21'); obj.pause(); 
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video21'); obj.pause(); 
 			obj=document.getElementById('idframe21-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe21-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe21-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -608,7 +610,7 @@
 					<source src="../files/konkurs/present2-2018/MIROSHNICHENKO_samopr.mp4" type="video/mp4">
 					Your browser does not support the video tag.
 				</video>
-			</div>			
+			</div-->			
 
 			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
 			obj=document.getElementById('idframe21-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
@@ -620,13 +622,13 @@
 		</div>
 	   </td>
 	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick=" obj=document.getElementById('video22'); obj.pause(); 
+	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick=" 
 		obj=document.getElementById('idframe22').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">НЕСТЕРЕНКО Ілона	Сергіївна</a></span></p>
 		<div id="idframe22" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/NESTERENKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/NESTERENKO.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" obj=document.getElementById('video22'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe22-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe22-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe22-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -634,7 +636,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video22'); obj.pause(); 
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
 			obj=document.getElementById('idframe22-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe22-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe22-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -642,15 +644,15 @@
 					<source src="../files/konkurs/present2-2018/NESTERENKO_samopr.mp4" type="video/mp4">
 					Your browser does not support the video tag.
 				</video>
-			</div>	
+			</div-->	
 			
-			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe22-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe22-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe22-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Kuzma N.V_samopr.swf" width="500" height="470"/>
+				<embed hidden="false" src="../files/konkurs/present2-2018/NESTERENKO_samopr.swf" width="500" height="470"/>
 				
-			</div!-->			
+			</div>			
 		</div>
 	   </td>
 	 </tr>             
@@ -663,9 +665,9 @@
 		obj=document.getElementById('idframe23').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ОРЕЩАК Світлана Миколаївна</a></span></p>
 		<div id="idframe23" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/ORESHAK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/ORESHAK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe23-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe23-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe23-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -673,7 +675,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe23-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe23-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe23-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -687,9 +689,9 @@
 		obj=document.getElementById('idframe24').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ПІСКОХА Людмила Іванівна</a></span></p>
 		<div id="idframe24" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Piskoha.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Piskoha.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe24-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe24-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe24-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -697,7 +699,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe24-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe24-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe24-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -716,9 +718,9 @@
 		obj=document.getElementById('idframe25').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ПРИСЯЖНЮК Анатолій Володимирович</a></span></p>
 		<div id="idframe25" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/PRISYAZHNYUK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/PRISYAZHNYUK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe25-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe25-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe25-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -726,7 +728,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe25-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe25-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe25-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -740,9 +742,9 @@
 		obj=document.getElementById('idframe26').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">РОМАНЦОВ	Олександр Степанович</a></span></p>
 		<div id="idframe26" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/ROMANTSOV.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/ROMANTSOV.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe26-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe26-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe26-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -750,7 +752,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe26-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe26-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe26-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -769,9 +771,9 @@
 		obj=document.getElementById('idframe27').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">СЕМЕНЯК Ірина Володимирівна</a></span></p>
 		<div id="idframe27" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/SEMENYAK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/SEMENYAK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="  
 			obj=document.getElementById('idframe27-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe27-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe27-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -779,13 +781,13 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe27-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe27-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe27-3" style="display: none; text-align:center; text-indent: 0px; "> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/SEMENYAK_samopr.swf" width="500" height="470"/>
 
-			</div>			
+			</div-->			
 		</div>
 	   </td>
 	   <td width="50%"  > 
@@ -793,9 +795,9 @@
 		obj=document.getElementById('idframe28').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">СОЛОДОВНИК Марина Олексіївна</a></span></p>
 		<div id="idframe28" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/SALODOVNIK.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/SALODOVNIK.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe28-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe28-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe28-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -803,7 +805,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe28-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe28-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe28-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -822,9 +824,9 @@
 		obj=document.getElementById('idframe29').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">СУХАР Мирослава Василівна </a></span></p>
 		<div id="idframe29" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/SUHAR.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/SUHAR.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" obj=document.getElementById('video29'); obj.pause();  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" obj=document.getElementById('video29'); obj.pause();  
 			obj=document.getElementById('idframe29-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe29-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe29-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -832,7 +834,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="obj=document.getElementById('video29'); obj.pause(); 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="obj=document.getElementById('video29'); obj.pause(); 
 			obj=document.getElementById('idframe29-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe29-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe29-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -855,11 +857,11 @@
 	   <td width="50%"  > 
 	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" onclick=" 
 		obj=document.getElementById('idframe30').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">ТВЕРДОСТУП Олена	Євгеніївна</a></span></p>
+		obj.display=tmp; return false">ТВЕРДОСТУП Олена	Євгеніївна (третє місце)</a></span></p>
 		<div id="idframe30" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/TVERDOSTUP.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/TVERDOSTUP.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe30-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe30-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe30-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -867,7 +869,7 @@
 
 			</div>	
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe30-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe30-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe30-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -884,11 +886,11 @@
 	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
 	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#"  onclick="
 		obj=document.getElementById('idframe31').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">ТРОЯН Валентина Геннадіївна</a></span></p>
+		obj.display=tmp; return false">ТРОЯН Валентина Геннадіївна (переможець)</a></span></p>
 		<div id="idframe31" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/TROYAN.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/TROYAN.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe31-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe31-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe31-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -896,7 +898,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe31-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe31-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe31-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -910,9 +912,9 @@
 		obj=document.getElementById('idframe32').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">УТЮПІНА Наталія Миколаївна</a></span></p>
 		<div id="idframe32" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/UTYUPINA.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/UTYUPINA.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe32-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe32-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe32-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -920,7 +922,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe32-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe32-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe32-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -939,23 +941,23 @@
 		obj=document.getElementById('idframe33').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ФЕНИН Роман Ярославович</a></span></p>
 		<div id="idframe33" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Phenin.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Phenin.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe33-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe33-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp;  return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe33-2" style="display: none; text-align:center; text-indent: 0px; "> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/Phenin.swf" width="500" height="470"/>
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
 			obj=document.getElementById('idframe33-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe33-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe33-3" style="display: none; text-align:center; text-indent: 0px; "> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/Phenin_samopr.swf" width="500" height="470"/>
 
-			</div>			
+			</div-->			
 		</div>
 	   </td>
 	   <td width="50%"  > 
@@ -963,23 +965,23 @@
 		obj=document.getElementById('idframe34').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ЧУЧМАН Оксана Ісаківна</a></span></p>
 		<div id="idframe34" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/CHUCHMAN.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/CHUCHMAN.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe34-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe34-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
+			obj.display=tmp;  return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe34-2" style="display: none; text-align:center; text-indent: 0px; "> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/CHUCHMAN.swf" width="500" height="470"/>
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick="
 			obj=document.getElementById('idframe34-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe34-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe34-3" style="display: none; text-align:center; text-indent: 0px; "> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/CHUCHMAN_samopr.swf" width="500" height="470"/>
 
-			</div>			
+			</div-->			
 		</div>
 	   </td>
 	 </tr>             
@@ -988,37 +990,41 @@
    <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	 <tr>
 	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
+	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick=" obj=document.getElementById('video35-1'); obj.pause(); obj=document.getElementById('video35-2'); obj.pause();
 		obj=document.getElementById('idframe35').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">ШВЕЦЬ Ганна Петрівна</a></span></p>
 		<div id="idframe35" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/SCHWETS.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/SCHWETS.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" obj=document.getElementById('video35-1'); obj.pause(); obj=document.getElementById('video35-2'); obj.pause();
 			obj=document.getElementById('idframe35-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe35-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe35-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/SCHWETS.swf" width="500" height="470"/>
-
+				<video id="video35-1" width="500" height="340" controls="controls" poster="../files/konkurs/present2-2018/SCHWETS_poster.jpg">
+					<source src="../files/konkurs/present2-2018/SCHWETS.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" obj=document.getElementById('video35-1'); obj.pause(); obj=document.getElementById('video35-2'); obj.pause();
 			obj=document.getElementById('idframe35-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe35-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe35-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/SCHWETS_samopr.swf" width="500" height="470"/>
-
+				<video id="video35-2" width="500" height="340" controls="controls" poster="../files/konkurs/present2-2018/SCHWETS_samopr_poster.jpg">
+					<source src="../files/konkurs/present2-2018/SCHWETS_samopr.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>			
 		</div>
 	   </td>
 	   <td width="50%"  > 
 	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" onclick="  
 		obj=document.getElementById('idframe36').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">ШУЙЧИК Наталія Володимирівна</a></span></p>
+		obj.display=tmp; return false">ШУЙЧИК Наталія Володимирівна (друге місце)</a></span></p>
 		<div id="idframe36" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/SHUYCHIK.pdf" target="_blank">Творча робота</a></span></p>	
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/SHUYCHIK.pdf" target="_blank">Творча робота</a></span></p>	
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick=" 
 			obj=document.getElementById('idframe36-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe36-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe36-2" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -1026,7 +1032,7 @@
 
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe36-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe36-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe36-3" style="display: none; text-align:center; text-indent: 0px; "> 
@@ -1045,9 +1051,9 @@
 		obj=document.getElementById('idframe15').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">Євтушенко О.А.</a></span></p>
 		<div id="idframe15" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Evtushenko O.A.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/Evtushenko O.A.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="  
 			obj=document.getElementById('idframe15-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe15-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe15-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -1055,7 +1061,7 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe15-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe15-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe15-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
@@ -1069,9 +1075,9 @@
 		obj=document.getElementById('idframe16').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 		obj.display=tmp; return false">КАРМАЗІНДЕНИСЕНКО Лариса	Олексіївна</a></span></p>
 		<div id="idframe16" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/KARMAZINDENYSENKO.pdf" target="_blank">Творча робота</a></span></p>
+			<p style='margin-bottom:0;'><span ><a class="underline" href="../files/konkurs/present2-2018/KARMAZINDENYSENKO.pdf" target="_blank">Творча робота</a></span></p>
 
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
+			<!--p style='margin-bottom:0;'><span ><a href="#" onclick=" 
 			obj=document.getElementById('idframe16-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe16-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
 			<div id="idframe16-2" style="display: none; text-align:center; text-indent: 0px; " width="500" height="470"> 
@@ -1079,315 +1085,18 @@
 				
 			</div>
 			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
+			<p style='margin-bottom:0;'><span ><a class="underline" href="#" onclick="
 			obj=document.getElementById('idframe16-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
 			obj.display=tmp; obj=document.getElementById('idframe16-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
 			<div id="idframe16-3" style="display: none; text-align:center; text-indent: 0px; " width="500" height="340"> 
 				<embed hidden="false" src="../files/konkurs/present2-2018/KARMAZINDENYSENKO_samopr.swf" width="500" height="470"/>
 				
-			</div>			
+			</div-->			
 		</div>
 	   </td>
 	 </tr>             
    </table>
    
-   <!--table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe37').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Святогор В.В.</a></span></p>
-		<div id="idframe37" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Svyatogor V.V.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe37-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe37-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe37-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Svyatogor V.V.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe37-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe37-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe37-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Svyatogor V.V_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe38').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Сенченко В.В.</a></span></p>
-		<div id="idframe38" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Senchenko V.V.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
-			obj=document.getElementById('idframe38-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe38-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe38-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Senchenko V.V.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe38-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe38-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe38-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Senchenko V.V_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	 </tr>             
-   </table>
-
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe39').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Сербіна О.В.</a></span></p>
-		<div id="idframe39" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Serbina O.V.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe39-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe39-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe39-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Serbina O.V.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe39-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe39-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe39-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Serbina O.V_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe40').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Симоненко Ю.М.</a></span></p>
-		<div id="idframe40" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Simonenko Yu.M.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
-			obj=document.getElementById('idframe40-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe40-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe40-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Simonenko Yu.M.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe40-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe40-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe40-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Simonenko Yu.M_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	 </tr>             
-   </table>
-
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe41').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Соколова Н.В.</a></span></p>
-		<div id="idframe41" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Sokolova N.V.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe41-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe41-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe41-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Sokolova N.V.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe41-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe41-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe41-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Sokolova N.V_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe42').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Сушко Л.В.</a></span></p>
-		<div id="idframe42" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Sushko L.V.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
-			obj=document.getElementById('idframe42-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe42-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe42-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Sushko L.V.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe42-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe42-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe42-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Sushko L.V_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	 </tr>             
-   </table>
-
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe43').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Труханівський Ю.М.</a></span></p>
-		<div id="idframe43" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Trukhanivsky Yu.M.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe43-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe43-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe43-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Trukhanivsky Yu.M.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe43-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe43-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe43-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Trukhanivsky Yu.M_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe44').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Ходарін С.А.</a></span></p>
-		<div id="idframe44" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Khodarin S.A.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
-			obj=document.getElementById('idframe44-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe44-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe44-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Khodarin S.A.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe44-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe44-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe44-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Khodarin S.A_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	 </tr>             
-   </table>
-
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe45').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Черна Т.Г.</a></span></p>
-		<div id="idframe45" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Cherna T.G.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe45-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe45-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe45-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Cherna T.G.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe45-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe45-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe45-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Cherna T.G_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe46').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Шмарковська О.О.</a></span></p>
-		<div id="idframe46" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Shmarkovskaya O.O.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick=" 
-			obj=document.getElementById('idframe46-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe46-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe46-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Shmarkovskaya O.O.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe46-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe46-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe46-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Shmarkovskaya O.O_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	 </tr>             
-   </table>
-
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	 <tr>
-	   <td width="50%"  style="text-align:center; text-indent: 0px; " > 
-	    <p style="text-align:center; text-indent: 0px; " ><span ><a href="#" class="underline" onclick="
-		obj=document.getElementById('idframe47').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-		obj.display=tmp; return false">Щерба Н.Р.</a></span></p>
-		<div id="idframe47" style="display: none" >
-			<p style='margin-bottom:0;'><span ><a href="../files/konkurs/present2-2018/Scherba N.R.pdf" target="_blank">Творча робота</a></span></p>
-
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="  
-			obj=document.getElementById('idframe47-2').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe47-3').style; obj.display='none'; return false">Презентація творчої роботи</a></span></p>
-			<div id="idframe47-2" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Scherba N.R.swf" width="500" height="470"/>
-
-			</div>
-			
-			<p style='margin-bottom:0;'><span ><a href="#" onclick="
-			obj=document.getElementById('idframe47-3').style; tmp=(obj.display!='none') ? 'none' : 'block'; 
-			obj.display=tmp; obj=document.getElementById('idframe47-2').style; obj.display='none'; return false">Самопрезентація</a></span></p>
-			<div id="idframe47-3" style="display: none; text-align:center; text-indent: 0px; "> 
-				<embed hidden="false" src="../files/konkurs/present2-2018/Scherba N.R_samopr.swf" width="500" height="470"/>
-
-			</div>			
-		</div>
-	   </td>
-	   <td width="50%"  > 
-	    
-	   </td>
-	 </tr>             
-   </table-->
- 
 <br />
 <br />
 		   <!--table width="100%" border="0" cellspacing="0" cellpadding="0">
