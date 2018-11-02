@@ -253,6 +253,255 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;1</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/liderstvo1118.shtml" title="">НАДС. Сучасне лідерство: новий підхід до державного управління</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У Національному агентстві України з питань державної служби відбулося навчання державних службовців категорії «А» за 
+										тренінговою програмою ...</p>
+										<span class="readmore"><a href="../news/liderstvo1118.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/liderstvo1118.shtml" class="slider_img">
+									<img src="../img/news/liderstvo1118-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Сучасне лідерство: новий підхід до державного управління»-11-2018" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Сучасне лідерство: новий підхід до державного управління»-11-2018" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У Національному агентстві України з питань державної служби відбулося навчання державних службовців категорії «А» за 
+								тренінговою програмою ...</p>
+								<span class="readmore"><a href="../news/liderstvo1118.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>	
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;1</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#korp-cult" title="">«Корпоративна культура»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці...</p>
+										<span class="readmore"><a href="../news/news.shtml#korp-cult">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#korp-cult" class="slider_img">
+									<img src="../img/news/korp-cult.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Корпоративна культура»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Корпоративна культура»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці...</p>
+								<span class="readmore"><a href="../news/news.shtml#korp-cult">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">30</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#tech-cisco-2018-10-30" title="">«Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+										<span class="readmore"><a href="../news/news.shtml#tech-cisco-2018-10-30">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#tech-cisco-2018-10-30" class="slider_img">
+									<img src="../img/news/tech-cisco-2018-10-30.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Побудова захищених мереж обробки даних та прийняття 
+										управлінських рішень на базі технології CISCO»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>На базі Всеукраїнського центру підвищення кваліфікації проходить цикл навчань для державних службовців....</p>
+								<span class="readmore"><a href="../news/news.shtml#tech-cisco-2018-10-30">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">29</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#rozv-liderstvo-1018" title="">«Розвиток лідерства на державній службі»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці...</p>
+										<span class="readmore"><a href="../news/news.shtml#rozv-liderstvo-1018">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#rozv-liderstvo-1018" class="slider_img">
+									<img src="../img/news/rozv-liderstvo-1018-2.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Розвиток лідерства на державній службі»-1018" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Семінар «Розвиток лідерства на державній службі»-1018" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці...</p>
+								<span class="readmore"><a href="../news/news.shtml#rozv-liderstvo-1018">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>						
+	
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">29</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/liderstvo1018.shtml" title="">«Сучасне лідерство: новий підхід до державного управління»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців категорії «А» за тренінговою програмою ...</p>
+										<span class="readmore"><a href="../news/liderstvo1018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/liderstvo1018.shtml" class="slider_img">
+									<img src="../img/news/liderstvo1018-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Сучасне лідерство: новий підхід до державного управління»-1018" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Сучасне лідерство: новий підхід до державного управління»-1018" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців категорії «А» за тренінговою програмою ...</p>
+								<span class="readmore"><a href="../news/liderstvo1018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li-->						
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">23</span>
+										<span class="year">2018</span>
+										<span class="month">жовтня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/ulead-hrm-2018.shtml" title="">«Сучасні інструменти управління людськими ресурсами в органах місцевого самоврядування»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>Тренінг за підтримки Програми «U-LEAD з Європою», Національного агентства України з питань державної служби.....</p>
+										<span class="readmore"><a href="../news/ulead-hrm-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/ulead-hrm-2018.shtml" class="slider_img">
+									<img src="../img/news/ulead/ulead-2018-5.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг «Сучасні інструменти управління людськими ресурсами в органах місцевого самоврядування»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. Тренінг «Сучасні інструменти управління людськими ресурсами в органах місцевого самоврядування»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Тренінг за підтримки Програми «U-LEAD з Європою», Національного агентства України з питань державної служби.....</p>
+								<span class="readmore"><a href="../news/ulead-hrm-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -335,7 +584,7 @@
 						</div>
 					</li>
 				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -376,7 +625,7 @@
 								<span class="readmore"><a href="../news/tech-cisco-2018-10-17.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -909,7 +1158,7 @@
 						</div>
 					</li>			
 				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -947,7 +1196,7 @@
 								<span class="readmore"><a href="../news/news.shtml#psmanage-2018-09">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -1316,7 +1565,7 @@
 						</div>
 					</li-->
 
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -1356,7 +1605,7 @@
 								<span class="readmore"><a href="../news/seminar-nads-2018.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">

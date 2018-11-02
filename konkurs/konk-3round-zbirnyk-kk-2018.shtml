@@ -1099,18 +1099,20 @@
    
 <br />
 <br />
-		   <!--table width="100%" border="0" cellspacing="0" cellpadding="0">
+		   <table width="100%" border="0" cellspacing="0" cellpadding="0">
              <tr>
                <td width="50%" style="text-align:left;"><p style='line-height: 40px'>
-			     <span><a title="Завершення ІІІ туру Конкурсу «Кращий  державний службовців»" href="../konkurs/konk-3round-end.shtml" style="font-size: 18.0pt; text-decoration:none"><b>&lArr; </b></a></span></p>
+			     <span><a <a title="Збірник творчих робіт та презентацій учасників III туру Всеукраїнського конкурсу «Кращий державний службовець» - 2018" 
+				 href="../konkurs/konk-3round-zbirnyk-2018.shtml" style="font-size: 18.0pt; text-decoration:none"><b>&lArr; </b></a></span></p>
 			   </td>
                <td width="50%" ><p style='line-height: 40px; text-align:right;'>
-			     <span><a title="Переможці III туру Конкурсу «Кращий  державний службовців»" href="../konkurs/konk-3round-peremoga.shtml" style="font-size: 18.0pt; text-decoration:none"><b>&rArr; &nbsp;&nbsp;&nbsp;&nbsp;</b></a></span></p>
+			     <span><a title="Результати ІІI туру Всеукраїнського конкурсу «Кращий державний службовець» - 2018" 
+				 href="../konkurs/konk-3round-peremoga-2018.shtml" style="font-size: 18.0pt; text-decoration:none"><b>&rArr; &nbsp;&nbsp;&nbsp;&nbsp;</b></a></span></p>
 			   </td>
              </tr>             
            </table>
 <br />
-<br /-->
+<br />
 </div>
 </div>
 			  </div>
