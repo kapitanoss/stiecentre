@@ -253,7 +253,171 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">23</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/rai-derg-adm-2018-11-23.shtml" title="">«Організація діяльності голів районних державних адміністрацій в умовах реформ»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Завершилося навчання голів районних державних адміністрацій за тренінговою програмою...</p>
+										<span class="readmore"><a href="../news/rai-derg-adm-2018-11-23.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/rai-derg-adm-2018-11-23.shtml" class="slider_img">
+									<img src="../img/news/rda-11.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Організація діяльності голів районних державних адміністрацій в умовах реформ»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Організація діяльності голів районних державних адміністрацій в умовах реформ»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Завершилося навчання голів районних державних адміністрацій за тренінговою програмою...</p>
+								<span class="readmore"><a href="../news/rai-derg-adm-2018-11-23.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>					
 
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">20</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/novacii-vyklyre-2018-11.shtml" title="">«Професійне навчання посадових осіб місцевого самоврядування: новації та виклики»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Національне агентство</a>
+									</div>
+									<div class="excerpt">
+										<p>У рамках тематичних зустрічей з питань застосування окремих норм законодавства в діяльності виконавчих апаратів місцевих рад було проведено тематичну зустріч...</p>
+										<span class="readmore"><a href="../news/novacii-vyklyre-2018-11.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/novacii-vyklyre-2018-11.shtml" class="slider_img">
+									<img src="../img/news/nv-1.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Доступ до публічної інформації»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Доступ до публічної інформації»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>У рамках тематичних зустрічей з питань застосування окремих норм законодавства в діяльності виконавчих апаратів місцевих рад було проведено тематичну зустріч...</p>
+								<span class="readmore"><a href="../news/novacii-vyklyre-2018-11.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>			
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Доступ до публічної інформації»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару...</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/dpi.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Доступ до публічної інформації»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Доступ до публічної інформації»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару...</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+								
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">20</span>
+										<span class="year">2018</span>
+										<span class="month">листопада</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml" title="">«Дотримання прав людини на державній службі»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару...</p>
+										<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml" class="slider_img">
+									<img src="../img/news/dplds.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Дотримання прав людини на державній службі»" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Дотримання прав людини на державній службі»" 
+									class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці за програмою тематичного короткострокового семінару...</p>
+								<span class="readmore"><a href="../news/news.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
