@@ -258,20 +258,20 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">&ensp;7</span>
+										<span class="date">17</span>
 										<span class="year">2018</span>
 										<span class="month">грудня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/rai-derg-adm-2018-12-07.shtml" title="">«Організація діяльності голів районних державних адміністрацій в умовах реформ»</a>
+										<a href="../news/news.shtml#nov-zakon-ds-6" title="">«Актуальні питання реалізації нового законодавства про державну службу»</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
 										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>Завершилося навчання голів районних державних адміністрацій за тренінговою програмою...</p>
-										<span class="readmore"><a href="../news/rai-derg-adm-2018-12-07.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+										<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -279,8 +279,48 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/rai-derg-adm-2018-12-07.shtml" class="slider_img">
-									<img src="../img/news/rda-31.jpg" 
+									<a href="../news/news.shtml#nov-zakon-ds-6" class="slider_img">
+									<img src="../img/news/nov-zakon-ds-6.jpg" 
+									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-6" 
+									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-6" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
+								<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-6">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">12</span>
+										<span class="year">2018</span>
+										<span class="month">грудня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/rai-derg-adm-2018-12-12.shtml" title="">«Організація діяльності голів районних державних адміністрацій в умовах реформ»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Навчання голів районних державних адміністрацій за тренінговою програмою...</p>
+										<span class="readmore"><a href="../news/rai-derg-adm-2018-12-12.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/rai-derg-adm-2018-12-12.shtml" class="slider_img">
+									<img src="../img/news/rda-52.jpg" 
 									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Організація діяльності голів районних державних адміністрацій в умовах реформ»" 
 									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Організація діяльності голів районних державних адміністрацій в умовах реформ»" 
 									class="featured-image" draggable="false"/>							
@@ -288,8 +328,8 @@
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Завершилося навчання голів районних державних адміністрацій за тренінговою програмою...</p>
-								<span class="readmore"><a href="../news/rai-derg-adm-2018-12-07.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>Навчання голів районних державних адміністрацій за тренінговою програмою...</p>
+								<span class="readmore"><a href="../news/rai-derg-adm-2018-12-12.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>					
@@ -375,7 +415,7 @@
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -413,7 +453,7 @@
 								<span class="readmore"><a href="../news/news.shtml#itup-18">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
@@ -496,46 +536,6 @@
 							</div>				
 						</div>
 					</li>				
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">30</span>
-										<span class="year">2018</span>
-										<span class="month">листопада</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#nov-zakon-ds-5" title="">«Актуальні питання реалізації нового законодавства про державну службу»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Навчання державних службовців 6-9 груп оплати праці....</p>
-										<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-5">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#nov-zakon-ds-5" class="slider_img">
-									<img src="../img/news/nov-zakon-ds-5.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-5" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2018р. «Актуальні питання реалізації нового законодавства про державну службу»-5" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Навчання державних службовців 6-9 груп оплати праці....</p>
-								<span class="readmore"><a href="../news/news.shtml#nov-zakon-ds-5">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
 					
 				    <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
