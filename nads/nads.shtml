@@ -54,15 +54,18 @@
 		 
  <!--**********************Вставить текст страницы********************************************-->
 
- <div class="MsoNormal" >
+ <div class="MsoNormal"  style="text-indent: 0pt;">
 
 <p style='margin-bottom:0pt;'><span >&nbsp;</span></p>
 
 <p style='text-align:center; '><b><span class='st4'>Плани-графіки підвищення кваліфікації державних службовців категорій «А», 
-«Б», «В»</span></b></p>
+«Б», «В» - 2019</span></b></p>
+
+<div id="idframe" style="display: block"> <iframe class="pdfjs-viewer" style='margin-left:0px;' width="100%" height="750px"
+src="http://centre-kiev.kiev.ua/pdfvwr/web/viewer.html?file=http://centre-kiev.kiev.ua/files/nads/grafic-2019.pdf#page=1"></iframe> </div>
 
 <br />
-<p style='margin-bottom:0pt;'><span ><a href="../files/nads/grafic-bc-2018.pdf" target="_blank" class="underline">План-графік навчання 
+<!--p style='margin-bottom:0pt;'><span ><a href="../files/nads/grafic-bc-2018.pdf" target="_blank" class="underline">План-графік навчання 
 уповноважених осіб з питань запобігання та виявлення корупції, 2018р.</a></span></p>
 <br />
 <p style='margin-bottom:0pt;'><span ><a href="../files/nads/grafic-cat-A-2018.pdf" target="_blank" class="underline">План-графік підвищення 
@@ -81,36 +84,10 @@
 <br />
 <p style='margin-bottom:0pt;'><span ><a href="../files/nads/grafic-dfs-2018.pdf" target="_blank" class="underline">План-графік підвищення кваліфікації 
 державних службовців органів, що належать до сфери управління Державної фіскальної служби України, 2018р.</a></span></p>
+
 <br />
 <p style='margin-bottom:0pt;'><span ><a href="../files/dergmova/plan-grafig-dergmova2018.pdf" target="_blank" class="underline">План-графік підвищення рівня 
-володіння державною мовою державних службовців і посадових осіб місцевого самоврядування, 2018р.</a></span></p>
-<br>
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br /> 
- 
-<br /> 
-
-<br />          
-</span>
-</p>
+володіння державною мовою державних службовців і посадових осіб місцевого самоврядування, 2018р.</a></span></p-->
 
 </div>
 			  </div>

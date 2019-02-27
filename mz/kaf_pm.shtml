@@ -207,11 +207,11 @@
         </tr>
 		<tr>
         <td width="130" height="170"><div align="center"><img src="../mz/img/sveshnikov.jpg" align="left" width="120" height="160" 
-		  style=" border: 8px solid #ffffff;" alt="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, старший викладач кафедри менеджменту"
-		  title="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, старший викладач кафедри менеджменту"/></div></td>
+		  style=" border: 8px solid #ffffff;" alt="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, доцент кафедри"
+		  title="Свешніков Сергій Миколайович, канд. тех. наук, старший науковий співробітник, доцент кафедри"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
-			<span ><b>Свешніков Сергій Миколайович</b> - канд. тех. наук, старший науковий співробітник, старший викладач кафедри</span></p> </div></td>
+			<span ><b>Свешніков Сергій Миколайович</b> - канд. тех. наук, старший науковий співробітник, доцент кафедри</span></p> </div></td>
         </tr>
         <tr>
           <td width="130" height="170"><div align="center"><img src="../mz/img/zaviruha.jpg" align="left" width="120" height="160" 
@@ -254,14 +254,14 @@
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Богоділова Маріанна Євгеніївна</b> - викладач кафедри</span></p> </div></td>
         </tr>
-		<tr>
+		<!--tr>
           <td width="130" height="170"><div align="center"><img src="../mz/img/balahnina.jpg" align="left" width="120" height="160" 
 		  style=" border: 8px solid #ffffff;" alt="Балахніна Олена Станіславівна, викладач кафедри менеджменту"
 		  title="Балахніна Олена Станіславівна, викладач кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Балахніна Олена Станіславівна</b> - викладач кафедри </span></p> </div></td>
-        </tr>
+        </tr-->
         <!--tr>
 		<td width="130" height="170"><div align="center"><img src="../mz/img/vasilkivska.jpg" align="left" width="120" height="150" 
 		  style=" border: 8px solid #ffffff;" alt="Васильківська Н.П., викладач кафедри менеджменту"
@@ -278,14 +278,14 @@
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Хижняк Наталія Сергіївна</b> - методист вищої категорії</span></p> </div></td>
         </tr>
-        <tr>
+        <!--tr>
           <td width="130" height="170"><div align="center"><img src="../mz/img/sosinec.jpg" align="left" width="120" height="160" 
 		  style=" border: 10px solid #ffffff;" alt="Сосинець І.В., методист вищої категорії кафедри менеджменту"
 		  title="Сосинець І.В., методист вищої категорії кафедри менеджменту"/></div></td>
           <td style='vertical-align:top; padding-top:8px'><div >
             <p style='text-indent:5px;margin-bottom:0;'>
 			<span ><b>Стеценко Ірина Вікторівна</b> - методист вищої категорії</span></p> </div></td>
-        </tr>		
+        </tr-->		
     </table>
 	
 	<br />

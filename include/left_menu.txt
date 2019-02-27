@@ -8,9 +8,9 @@
 						  <li class="st3"><a href="../structure/strcentre.shtml">Структура ВЦПК</a></li>
 						  <li class="st3"><a href="#">Кафедри</a>
 						   <ul>
-							<li class="st3"><a href="../mz/kaf_pm.shtml">Кафедра менеджменту</a></li>
+							<li class="st3"><a href="../mz/kaf_pm.shtml">Кафедра Менеджменту</a></li>
 							<li class="st3"><a href="../mz/kaf_mov_pid.shtml">Кафедра Української мови</a></li>
-							<li class="st3"><a href="../mz/kaf_mov_pid_im.shtml">Кафедра іноземних мов</a></li>
+							<li class="st3"><a href="../mz/kaf_mov_pid_im.shtml">Кафедра Іноземних мов</a></li>
 						   </ul>
 						  </li>
 						  <li class="st3"><a href="../keriv/vcpk-2018.shtml">Положення про Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</a>						  
@@ -31,8 +31,8 @@
 						<ul>
 							<li class="st3"><a href="#">Інформація для кадрових служб та слухачів</a>
 							<ul>		
-								<li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2018 рік (м.Київ)</a></li>
-								<li class="st3"><a href="../info/is_vid.shtml">Напрями підвищення кваліфікації на 2018 рік (смт.Козин)</a></li>						  						
+								<li class="st3"><a href="../info/is.shtml">Напрями підвищення кваліфікації на 2019 рік (м.Київ)</a></li>
+								<!--li class="st3"><a href="../info/is_vid.shtml">Напрями підвищення кваліфікації на 2019 рік (смт.Козин)</a></li!-->						  						
 							</ul>
 							</li>
 							<li class="st3"><a href="#">Дистанційна форма навчання</a>
