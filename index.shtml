@@ -259,19 +259,61 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">26</span>
+										<span class="date">&ensp;1</span>
 										<span class="year">2019</span>
-										<span class="month">лютого</span>
+										<span class="month">березня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/news.shtml#anounce-lup" title="">АНОНС<br />«Лідерство як чинник ефективного управління персоналом»<br />«Управління конфліктами»</a>
+										<a href="../news/news.shtml#ushu" title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ">УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
 										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>Підвищення кваліфікації за тренінговими програмами «Лідерство як чинник ефективного управління персоналом», «Управління конфліктами», «Електронне декларування»....</p>
+										<p>З 1 березня Всеукраїнський центр підвищення кваліфікації державних службовців та посадових осіб місцевого самоврядування став 
+										<b>УКРАЇНСЬКОЮ ШКОЛОЮ УРЯДУВАННЯ (УШУ)</b> Ukrainian Governance School #UGS....</p>
+										<span class="readmore"><a href="../news/news.shtml#ushu">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#ushu" class="slider_img">
+									<img src="../img/news/ushu.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 1 березня Всеукраїнський центр підвищення кваліфікації державних службовців та посадових осіб місцевого самоврядування став 
+								УКРАЇНСЬКОЮ ШКОЛОЮ УРЯДУВАННЯ (УШУ) Ukrainian Governance School #UGS....</p>
+								<span class="readmore"><a href="../news/news.shtml#ushu">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">27</span>
+										<span class="year">2019</span>
+										<span class="month">лютого</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#anounce-lup" title="">АНОНС<br />«Психологічні аспекти управління персоналом»<br /> «Електронне декларування»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Підвищення кваліфікації за тренінговими програмами «Психологічні аспекти управління персоналом», «Електронне декларування»....</p>
 										<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
@@ -281,14 +323,14 @@
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
 									<a href="../news/news.shtml#anounce-lup" class="slider_img">
-									<img src="../img/news/anounce-lup.jpg" 
+									<img src="../img/news/paup.jpg" 
 									alt="Всеукраїнський центр підвищення кваліфікації, 2019р. Навчання за тренінговими програмами" 
 									title="Всеукраїнський центр підвищення кваліфікації, 2019р. Навчання за тренінговими програмами" class="featured-image" draggable="false"/>							
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Підвищення кваліфікації за тренінговими програмами «Лідерство як чинник ефективного управління персоналом», «Управління конфліктами», «Електронне декларування»....</p>
+								<p>Підвищення кваліфікації за тренінговими програмами «Психологічні аспекти управління персоналом», «Електронне декларування»....</p>
 								<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
