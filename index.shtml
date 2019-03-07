@@ -258,6 +258,46 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
+										<span class="date">&ensp;6</span>
+										<span class="year">2019</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#paup-1" title="">«Психологічні аспекти управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Тренінг «Психологічні аспекти управління персоналом» для державних службовців і посадових осіб....</p>
+										<span class="readmore"><a href="../news/news.shtml#paup-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#paup-1" class="slider_img">
+									<img src="../img/news/paup-1.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Психологічні аспекти управління персоналом»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Психологічні аспекти управління персоналом»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Тренінг «Психологічні аспекти управління персоналом» для державних службовців і посадових осіб........</p>
+								<span class="readmore"><a href="../news/news.shtml#paup-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
 										<span class="date">&ensp;5</span>
 										<span class="year">2019</span>
 										<span class="month">березня</span>
@@ -283,13 +323,13 @@
 									</ul>					
 									<a href="../news/news.shtml#anounce-lup" class="slider_img">
 									<img src="../img/news/anounce-ed.jpg" 
-									alt="Всеукраїнський центр підвищення кваліфікації, 2019р. Навчання за тренінговими програмами" 
-									title="Всеукраїнський центр підвищення кваліфікації, 2019р. Навчання за тренінговими програмами" class="featured-image" draggable="false"/>							
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами" class="featured-image" draggable="false"/>							
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Підвищення кваліфікації за тренінговими програмами «Актуальні питання реалізації законодавства про державну службу», 
+								<p>Анонс тренінгів: «Актуальні питання реалізації законодавства про державну службу», 
 										«Комунікація як ефективний інструмент формування корпоративної культури», «Електронне декларування»....</p>
 								<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
