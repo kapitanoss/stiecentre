@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 	<meta name="description" content="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування - Головна сторінка"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<title>Головна Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування</title>
+	<title>Головна Українська школа урядування</title>
 	<!--link rel="search" type="application/opensearchdescription+xml" href="demo5.instantcms2.ru/search/opensearch" title="Поиск на InstantCMS 2.0 Дополнения для InstantCMS 2 ГудГалерея, Новое на сайте" /-->
 	<link rel="stylesheet" type="text/css" href="news/widgets/slider_top/css/css/theme-layout-min.css"/ media="all">
 
@@ -258,6 +258,48 @@
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
+										<span class="date">&ensp;7</span>
+										<span class="year">2019</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#anounce-lup" title="">АНОНС тренінгів і семінарів</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>Анонс тренінгів і семінарів: «Ґендерна рівність на державній службі», «Актуальні питання реалізації законодавства про державну службу», 
+										«Комунікація як ефективний інструмент формування корпоративної культури», «Електронне декларування»....</p>
+										<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#anounce-lup" class="slider_img">
+									<img src="../img/news/grds-3.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами, семінари" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами, семінари" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>Анонс тренінгів і семінарів: «Ґендерна рівність на державній службі», «Актуальні питання реалізації законодавства про державну службу», 
+										«Комунікація як ефективний інструмент формування корпоративної культури», «Електронне декларування»....</p>
+								<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+	
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
 										<span class="date">&ensp;6</span>
 										<span class="year">2019</span>
 										<span class="month">березня</span>
@@ -292,50 +334,7 @@
 							</div>				
 						</div>
 					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">&ensp;5</span>
-										<span class="year">2019</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/news.shtml#anounce-lup" title="">АНОНС!   «Комунікація як інструмент корпоративної культури»<br />«Електронне декларування»<br />
-										«Актуальні питання реалізації законодавства про державну службу»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>Анонс тренінгів: «Актуальні питання реалізації законодавства про державну службу», 
-										«Комунікація як ефективний інструмент формування корпоративної культури», «Електронне декларування»....</p>
-										<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/news.shtml#anounce-lup" class="slider_img">
-									<img src="../img/news/anounce-ed.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. АНОНС. Навчання за тренінговими програмами" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>Анонс тренінгів: «Актуальні питання реалізації законодавства про державну службу», 
-										«Комунікація як ефективний інструмент формування корпоративної культури», «Електронне декларування»....</p>
-								<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
+								
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	

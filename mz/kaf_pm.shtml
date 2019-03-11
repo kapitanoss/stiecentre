@@ -59,8 +59,8 @@
 
 <p style='text-align:center; '><b><span class="st4">Кафедра Менеджменту</span></b></p>
 	
-	<p><span >Кафедра Менеджменту є структурним підрозділом Української школи урядування, що проводить освітню, методичну та наукову діяльність спрямовану 
-	на забезпечення системи підвищення кваліфікації державних службовців.</span></p>
+	<p><span >Кафедра Менеджменту є структурним підрозділом Української школи управління, що проводить освітню, методичну та наукову діяльність спрямовану 
+	на забезпечення системи підвищення кваліфікації державних службовців</span></p>
 	
 	<p><span >Основним завданням кафедри є:</span></p>
 	<ul>
@@ -101,6 +101,7 @@
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Формування та реалізація інноваційної політики держави</span></p></li>
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Новий державний менеджмент. Європейський вектор побудови бюджетно-податкової політики держави</span></p></li>
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Бюджетно-податкова політика сучасної держави в умовах глобалізації та інструментарії її реалізації</span></p></li>			
+			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Основи податкового менеджменту</span></p></li>
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Податковий менеджмент як основа сталого розвитку національної економіки</span></p></li>			
 			<li><p style='text-indent:0px; margin-bottom: 0px;'><span >Угода про асоціацію України та ЄС: прямуємо разом</span></p></li>			
 			<li><p style='text-indent:0px'><span >Євроінтеграція України: стан, проблеми, перспективи</span></p></li>
@@ -227,6 +228,15 @@
 			<span ><b>Шуть Валентина Яківна</b> - к.філол.н., старший викладач кафедри</span></p> </div></td>
         </tr>
 
+		<tr>
+          <td width="130" height="170"><div align="center"><img src="../mz/img/verzun.jpg" align="left" width="120" height="155" 
+		  style=" border: 8px solid #ffffff;" alt="Верзун Вікторія Петрівна, викладач кафедри менеджменту"
+		  title="Верзун Вікторія Петрівна, викладач кафедри менеджменту"/></div></td>
+          <td style='vertical-align:top; padding-top:8px'><div >
+            <p style='text-indent:5px;margin-bottom:0;'>
+			<span ><b>Верзун Вікторія Петрівна</b> - викладач кафедри</span></p> </div></td>
+        </tr>
+		
 		<tr>
           <td width="130" height="170"><div align="center"><img src="../mz/img/bogodilova.jpg" align="left" width="120" height="155" 
 		  style=" border: 8px solid #ffffff;" alt="Богоділова Маріанна Євгенівна, викладач кафедри менеджменту"
