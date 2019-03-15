@@ -3,9 +3,9 @@
 		  </td>		
 		  <td class="col2">
 <div  style='float: left;'>
-<img alt="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування" src="../im_diz/im_shapka/logocrop.png" 
+<img alt="Українська школа урядування" src="../im_diz/im_shapka/logocrop.png" 
      align="left" width="923" height="189" style="/* border: 8px solid #ffffff; */"
-	 title="Всеукраїнський центр підвищення кваліфікації державних службовців і посадових осіб місцевого самоврядування"/></div>
+	 title="Українська школа урядування"/></div>
 				<div style='margin: 0 auto 0 923px; ' class="st1">
 
 <!--br /-->
@@ -19,7 +19,7 @@
 		
 
 			    
-				<div align="right" class="st1"><p><font size="1px" color="#F26522"><a class="linknads" href='../news/news.shtml#anounce-lup'>Анонси та оголошення</a></font></p> <br />
+				<div align="right" class="st1"><p><font size="1px" color="#F26522"><a class="linknads" href='../news/announce-ushu.shtml'>Анонси та оголошення</a></font></p> <br />
 				<br /></div>
                 <div align="center" class="st1"><font size="7px"><br />
 				</font></div>

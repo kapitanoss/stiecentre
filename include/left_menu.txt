@@ -17,7 +17,7 @@
 						  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->
 						</ul>
 					  </li>
-					  <li class="st3"><a href="../news/news.shtml#anounce-lup">Анонси. Оголошення</a>
+					  <li class="st3"><a href="../news/announce-ushu.shtml">Анонси. Оголошення</a>
 					  </li>					  
 					  <li class="st3"><a href="#">Навчальний процес та наукова робота</a>
 						<ul>
