@@ -206,7 +206,7 @@
         </tr>
       </table-->
 
-	  <table width="100%" border="0" cellspacing="5" cellpadding="0">
+	  <!--table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
           <td width="220" height="170"><div align="center" class="hovergallery"><img src="../img/news/itup-20.jpg" width="280" height="180"
 		  alt="Анонс. УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Інноваційні технології управління персоналом»"
@@ -253,7 +253,7 @@
 м. Київ, вул. Шепелєва, 3а.</span></p>
 			 </div></div></td>
         </tr>
-      </table>
+      </table-->
 	  
 	  <!--table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
@@ -280,7 +280,7 @@
         </tr>
       </table-->
 	  
-	  <!-- width="100%" border="0" cellspacing="5" cellpadding="0">
+	  <!--table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
           <td width="220" height="170"><div align="center" class="hovergallery"><img src="../img/news/kikk.jpg" width="250" height="180"
 		  alt="Анонс. УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Комунікація як ефективний інструмент формування корпоративної культури»"
@@ -327,7 +327,7 @@
         </tr>
       </table-->
 
-	  <table width="100%" border="0" cellspacing="5" cellpadding="0">
+	  <!--table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
           <td width="220" height="170"><div align="center" class="hovergallery"><img src="../img/news/youcontrol-2.jpg" width="280" height="180"
 		  alt="Анонс. УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Управління персоналом у державному органі»"
@@ -355,7 +355,8 @@
 <p ><span>Початок тренінгу о 10:00 год., тривалість – 2 години. Адреса: м. Київ, вул. Шепелєва, 3-а.</span></p>
 			 </div></div></td>
         </tr>
-      </table>	  
+      </table-->
+	  
 	  <!--table width="100%" border="0" cellspacing="5" cellpadding="0">
         <tr>
           <td width="220" height="170"><div align="center" class="hovergallery"><img src="../img/news/aprzds.jpg" width="250" height="180"
