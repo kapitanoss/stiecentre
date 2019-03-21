@@ -300,6 +300,46 @@
 							</div>				
 						</div>
 					</li-->				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">21</span>
+										<span class="year">2019</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/announce-ushu.shtml" title="«Управління персоналом у державному органі»">
+										АНОНС<br />«Управління персоналом у державному органі»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>АНОНС. 21-22 березня 2019. Підвищення кваліфікації за програмою тематичного короткострокового семінару «Управління персоналом в державному органі»....</p>
+										<span class="readmore"><a href="../news/announce-ushu.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/announce-ushu.shtml" class="slider_img">
+									<img src="../img/news/updo-1.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Управління персоналом у державному органі»-1" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Управління персоналом у державному органі»-1" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>АНОНС. 21-22 березня 2019. Підвищення кваліфікації за програмою тематичного короткострокового семінару «Управління персоналом в державному органі»....</p>
+								<span class="readmore"><a href="../news/announce-ushu.shtml#youcontrol-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
