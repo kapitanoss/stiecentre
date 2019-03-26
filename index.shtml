@@ -258,27 +258,28 @@
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
 
-					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
 									<div class="cal">
-										<span class="date">15</span>
+										<span class="date">26</span>
 										<span class="year">2019</span>
 										<span class="month">березня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/news.shtml#anounce-lup" title="«Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»">
-										АНОНС<br />«Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»</a>
+										<a href="../news/news.shtml#dvdf-1" title="«Децентралізація влади та децентралізація фінансів в Україні»">
+										«Децентралізація влади та децентралізація фінансів в Україні»</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
 										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>АНОНС. З 15 березня по 06 травня 2019 року для державних службовців, які є членами конкурсних комісій для відбору кандидатів на 
-										посади фахівців з питань реформ, Українською школою урядування організовується підвищення кваліфікації за програмою....</p>
-										<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>25-26 березня 2019 проходить підвищення кваліфікації за програмою тематичного короткострокового семінару «Децентралізація влади та децентралізація фінансів в Україні»....</p>
+										<span class="readmore"><a href="../news/news.shtml#dvdf-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -286,7 +287,49 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/news.shtml#anounce-lup" class="slider_img">
+									<a href="../news/news.shtml#dvdf-1" class="slider_img">
+									<img src="../img/news/dvdf-1.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Децентралізація влади та децентралізація фінансів в Україні»-1" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Децентралізація влади та децентралізація фінансів в Україні»-1" class="featured-image" draggable="false"/>
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>25-26 березня 2019 проходить підвищення кваліфікації за програмою тематичного короткострокового семінару «Децентралізація влади та децентралізація фінансів в Україні»....</p>
+								<span class="readmore"><a href="../news/news.shtml#dvdf-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2019</span>
+										<span class="month">березня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#fpr-2" title="«Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»">
+										Повідомлення<br />«Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>До уваги державних службовців, які є членами конкурсних комісій для відбору кандидатів на посади фахівців з питань реформ! 
+										Підвищення кваліфікації яке мало відбутися з 15 березня по 06 травня 2019 року, <b>перенесено</b> на невизначений термін, у зв’язку із внесенням змін до законодавства. Про терміни проведення навчання буде повідомлено додатково....</p>
+										<span class="readmore"><a href="../news/news.shtml#fpr-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#fpr-2" class="slider_img">
 									<img src="../img/news/fpr.jpg" 
 									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»" 
 									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Порядок проведення конкурсного відбору кандидатів на посади фахівців з питань реформ»" class="featured-image" draggable="false"/>							
@@ -294,54 +337,14 @@
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>АНОНС. З 15 березня по 06 травня 2019 року для державних службовців, які є членами конкурсних комісій для відбору кандидатів на 
-										посади фахівців з питань реформ, Українською школою урядування організовується підвищення кваліфікації за програмою....</p>
-								<span class="readmore"><a href="../news/news.shtml#anounce-lup">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li-->				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">21</span>
-										<span class="year">2019</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/announce-ushu.shtml" title="«Управління персоналом у державному органі»">
-										АНОНС<br />«Управління персоналом у державному органі»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>АНОНС. 21-22 березня 2019. Підвищення кваліфікації за програмою тематичного короткострокового семінару «Управління персоналом в державному органі»....</p>
-										<span class="readmore"><a href="../news/announce-ushu.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/announce-ushu.shtml" class="slider_img">
-									<img src="../img/news/updo-1.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Управління персоналом у державному органі»-1" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Управління персоналом у державному органі»-1" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>АНОНС. 21-22 березня 2019. Підвищення кваліфікації за програмою тематичного короткострокового семінару «Управління персоналом в державному органі»....</p>
-								<span class="readmore"><a href="../news/announce-ushu.shtml#youcontrol-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>До уваги державних службовців, які є членами конкурсних комісій для відбору кандидатів на посади фахівців з питань реформ! 
+										Підвищення кваліфікації яке мало відбутися з 15 березня по 06 травня 2019 року, <b>перенесено</b> на невизначений термін, у зв’язку із внесенням змін до законодавства. Про терміни проведення навчання буде повідомлено додатково....</p>
+								<span class="readmore"><a href="../news/news.shtml#fpr-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -382,7 +385,7 @@
 								<span class="readmore"><a href="../news/announce-ushu.shtml#youcontrol-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
