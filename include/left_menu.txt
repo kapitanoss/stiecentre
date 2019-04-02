@@ -5,8 +5,8 @@
 						<ul>
 						  <li class="st3"><a href="../info/about.shtml">Інформаційна довідка</a></li>
 						  <li class="st3"><a href="../keriv/kr.shtml">Керівництво</a></li>
-						  <li class="st3"><a href="../structure/strcentre.shtml">Структура</a></li>
-						  <li class="st3"><a href="#">Кафедри</a>
+						  <!--li class="st3"><a href="../structure/strcentre.shtml">Структура</a></li-->
+						  <!--li class="st3"><a href="#">Кафедри</a-->
 						   <ul>
 							<li class="st3"><a href="../mz/kaf_pm.shtml">Кафедра Менеджменту</a></li>
 							<li class="st3"><a href="../mz/kaf_mov_pid.shtml">Кафедра Української мови</a></li>
@@ -46,7 +46,7 @@
 							<li class="st3"><a href="../mz/org.shtml">Організаційне забезпечення навчального процесу</a></li>							
 						</ul>
 					  </li>											
-					  <li class="st3"><a href="../konkurs/konk.shtml"><b style='color:#f18750;'>Скасовано!</b> Всеукраїнський конкурс «Кращий державний службовець»</a></li>
+					  <!--li class="st3"><a href="../konkurs/konk.shtml"><b style='color:#f18750;'>Скасовано!</b> Всеукраїнський конкурс «Кращий державний службовець»</a></li-->
                       <li class="st3"><a href="../nads/nads.shtml">Плани-графіки підвищення кваліфікації державних службовців категорій «А», «Б», «В»</a></li>
 				  	  <li class="st3"><a href="../atestmova/mova.shtml">Атестація щодо вільного володіння державною мовою</a></li>					  
 					  <!--li class="st3"><a href="http://www.cpn.gov.ua/" target="_blank">Відділення Центру</a></li-->					
