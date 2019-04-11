@@ -106,17 +106,19 @@
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/news.shtml#none-kds" title="06 лютого 2019">== <b style='color:#c50a2b;'>Скасовано!</b> Постанову КМУ “Про проведення щорічного Всеукраїнського конкурсу “Кращий державний службовець” <b style='color:#c50a2b;'>Скасовано!</b></a>
-						</li>					
-				
-						<li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-ushu.shtml" title="08-09 квітня 2019р">== 08-09 квітня семінар «Медіація в публічному управлінні»</a>
 						</li>
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-ushu.shtml" title="10 квітня 2019р">== 10 квітня 2019р «Запобігання та виявлення корупції»</a>
-						</li>					
+							<a href="../news/announce-ushu.shtml" title="10-11 квітня 2019р">== 10-11 квітня 2019р «Запобігання та виявлення корупції»</a>
+						</li>
+						
+						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/announce-ushu.shtml" title="11-12 квітня 2019р">== 11-12 квітня семінар «Актуальні питання реалізації законодавства про державну службу»</a>
+						</li>
+						
+					
 						
 						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
@@ -257,6 +259,48 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">&ensp;6</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/bpin-2019-04-06.shtml" title="«Бюджетна  політика, інновації та нормотворчість»">
+										«Бюджетна  політика, інновації та нормотворчість»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>З 5 по 6 квітня 2019 пройшов семінар «Бюджетна  політика, інновації та нормотворчість»....</p>
+										<span class="readmore"><a href="../news/bpin-2019-04-06.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/bpin-2019-04-06.shtml" class="slider_img">
+									<img src="../img/news/bpin-4.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Бюджетна  політика, інновації та нормотворчість»-2" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Бюджетна  політика, інновації та нормотворчість»-2" class="featured-image" draggable="false"/>
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 5 по 6 квітня 2019 пройшов семінар «Бюджетна  політика, інновації та нормотворчість»....</p>
+								<span class="readmore"><a href="../news/bpin-2019-04-06.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>				
+				
 				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -374,47 +418,6 @@
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>01-02 квітня 2019 проходить підвищення кваліфікації за програмою тематичного короткострокового семінару «Цифрові технології»....</p>
 								<span class="readmore"><a href="../news/news.shtml#dt-3">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-				</li>
-					
-				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">30</span>
-										<span class="year">2019</span>
-										<span class="month">березня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/bpin-2019-03-29.shtml" title="«Бюджетна  політика, інновації та нормотворчість»">
-										«Бюджетна  політика, інновації та нормотворчість»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>28-29 березня 2019 пройшов семінар «Бюджетна  політика, інновації та нормотворчість»....</p>
-										<span class="readmore"><a href="../news/bpin-2019-03-29.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/bpin-2019-03-29.shtml" class="slider_img">
-									<img src="../img/news/bpin-1.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Бюджетна  політика, інновації та нормотворчість»-2" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Бюджетна  політика, інновації та нормотворчість»-2" class="featured-image" draggable="false"/>
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>28-29 березня 2019 пройшов семінар «Бюджетна  політика, інновації та нормотворчість»....</p>
-								<span class="readmore"><a href="../news/bpin-2019-03-29.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 				</li>
