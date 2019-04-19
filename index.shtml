@@ -108,39 +108,37 @@
 							<a href="../news/news.shtml#none-kds" title="06 лютого 2019">== <b style='color:#c50a2b;'>Скасовано!</b> Постанову КМУ “Про проведення щорічного Всеукраїнського конкурсу “Кращий державний службовець” <b style='color:#c50a2b;'>Скасовано!</b></a>
 						</li-->
 						
-						<li class="marquee-list" style="margin-left: 0px;">
+						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-ushu.shtml#audu-2" title="10-11 квітня 2019р">== 15-16 квітня семінар «Антикризове управління в умовах модернізації державного управління»</a>
-						</li>
+							<a href="../news/news.shtml#audu-3" title="15-16 квітня 2019р">== 15-16 квітня семінар «Антикризове управління в умовах модернізації державного управління»</a>
+						</li-->
 						
 						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/announce-ushu.shtml" title="11-12 квітня 2019р">== 11-12 квітня семінар «Актуальні питання реалізації законодавства про державну службу»</a>
 						</li-->
 						
-						<li class="marquee-list" style="margin-left: 0px;">
-							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-ushu.shtml#itup-20" title="15-16 квітня 2019р">== 15-16 квітня семінар «Інноваційні технології управління персоналом»</a>
-						</li>					
-						
 						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/strateg-2020-swot.shtml" title="24 липня 2018">== Стратегія розвитку ВЦПК</a>
-						</li>
-						
-
+							<a href="../news/news.shtml#itup-22" title="15-16 квітня 2019р">== 15-16 квітня семінар «Інноваційні технології управління персоналом»</a>
+						</li-->					
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/drmsv-2018.shtml" title="3 червня 2018">== Тренінг Council of Europe</a>
+							<a href="../news/announce-ushu.shtml" title="22 квітня 2019">== 22 квітня «Запобігання та виявлення корупції»</a>
 						</li>
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/trening-dfs-licence.shtml" title="24 квітня 2018">== Навчання посадових осіб ГУ ДФС</a>
+							<a href="../news/announce-ushu.shtml" title="22 травня  2019">== 22 травня «Доступ до публічної інформації»</a>
 						</li>
 						
 						<li class="marquee-list" style="margin-left: 0px;">
+							<i class="icon-angle-double-right"></i>
+							<a href="../news/announce-ushu.shtml#ltup-1" title="24 квітня 2018">== 23 квітня Лідерство та технології управління персоналом</a>
+						</li>
+						
+						<!--li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
 							<a href="../news/seminar-nads.shtml" title="13 квітня 2018">== Семінар-нарада НАДС</a>
 						</li>
@@ -259,6 +257,171 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
+
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/announce-ushu.shtml#zvk-1" title="«Запобігання та виявлення корупції»">
+										Анонс!<br />Запобігання та виявлення корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/announce-ushu.shtml">АНОНС</a>
+									</div>
+									<div class="excerpt">
+										<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
+										<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/announce-ushu.shtml#zvk-1" class="slider_img">
+									<img src="../img/news/stop-cor-2.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
+								<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+				</li>
+				
+				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">23</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/announce-ushu.shtml#ltup-1" title="«Лідерство та технології управління персоналом»">
+										Анонс!<br />Лідерство та технології управління персоналом</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/announce-ushu.shtml">АНОНС</a>
+									</div>
+									<div class="excerpt">
+										<p>З 23 по 25 квітня 2019 року відбудеться підвищення кваліфікації за тренінговою програмою «Лідерство та технології управління персоналом»....</p>
+										<span class="readmore"><a href="../news/announce-ushu.shtml#ltup-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/announce-ushu.shtml#ltup-1" class="slider_img">
+									<img src="../img/news/ltup-1.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Лідерство та технології управління персоналом»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Лідерство та технології управління персоналом»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 23 по 25 квітня 2019 року відбудеться підвищення кваліфікації за тренінговою програмою «Лідерство та технології управління персоналом»....</p>
+								<span class="readmore"><a href="../news/announce-ushu.shtml#ltup-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#audu-3" title="«Антикризове управління в умовах модернізації державного управління»">
+										«Антикризове управління в умовах модернізації державного управління»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>В Українській школі урядування з 15 по 16 квітня 2019 року проходить підвищення кваліфікації....</p>
+										<span class="readmore"><a href="../news/news.shtml#audu-3">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#audu-3" class="slider_img">
+									<img src="../img/news/audu-4.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Антикризове управління в умовах модернізації державного управління»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Антикризове управління в умовах модернізації державного управління»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>В Українській школі урядування з 15 по 16 квітня 2019 року проходить підвищення кваліфікації....</p>
+								<span class="readmore"><a href="../news/news.shtml#audu-3">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">15</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/news.shtml#itup-22" title="«Інноваційні технології управління персоналом-22»">
+										«Інноваційні технології управління персоналом»</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Навчання</a>
+									</div>
+									<div class="excerpt">
+										<p>В Українській школі урядування з 15 по 16 квітня 2019 року проходить тематичний постійно діючий семінар....</p>
+										<span class="readmore"><a href="../news/news.shtml#itup-22">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/news.shtml#itup-22" class="slider_img">
+									<img src="../img/news/itup-23.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Інноваційні технології управління персоналом-22»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Інноваційні технології управління персоналом-22»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>В Українській школі урядування з 15 по 16 квітня 2019 року проходить тематичний постійно діючий семінар....</p>
+								<span class="readmore"><a href="../news/news.shtml#itup-22">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>				
+				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
@@ -296,90 +459,6 @@
 							<div class="excerpt mobile"><div class="clear"></div>
 								<p>З 12 по 13 квітня 2019 року у відділенні Української школи урядування проходить навчання за тренінговою програмою «Презентація політики та комунікація»....</p>
 								<span class="readmore"><a href="../news/ppk-2019-04-12.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">15</span>
-										<span class="year">2019</span>
-										<span class="month">квітня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/announce-ushu.shtml#audu-2" title="«Антикризове управління в умовах модернізації державного управління»">
-										АНОНС<br />«Антикризове управління в умовах модернізації державного управління»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>АНОНС. До уваги державних службовців центральних органів виконавчої влади та інших державних органів, посади яких належать до 6-9 груп оплати праці!	<b>15-16 квітня</b> 2019 року на базі Української школи урядування відбудеться підвищення кваліфікації за тематичним семінаром....</p>
-										<span class="readmore"><a href="../news/announce-ushu.shtml#audu-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/announce-ushu.shtml#audu-2" class="slider_img">
-									<img src="../img/news/audu-2.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Антикризове управління в умовах модернізації державного управління»" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Антикризове управління в умовах модернізації державного управління»" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>АНОНС. До уваги державних службовців центральних органів виконавчої влади та інших державних органів, посади яких належать до 6-9 груп оплати праці! <b>15-16 квітня 2019 року</b> на базі Української школи урядування відбудеться підвищення кваліфікації за тематичним семінаром....</p>
-								<span class="readmore"><a href="../news/announce-ushu.shtml#audu-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
-							</div>				
-						</div>
-					</li>
-				
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
-						<div class="wpb_row vc_row-fluid">
-							<div class="desk">	
-								<div class="home-slide-caption vc_span5 wpb_column">
-									<div class="cal">
-										<span class="date">15</span>
-										<span class="year">2019</span>
-										<span class="month">квітня</span>
-									</div>
-									<h1 class="title">
-										<a href="../news/announce-ushu.shtml#itup-20" title="«Інноваційні технології управління персоналом»">
-										АНОНС<br />«Інноваційні технології управління персоналом»</a>
-									</h1>
-									<div class="clear"></div>
-									<div class="rubrik_mod">
-										<a href="../news/news.shtml">Навчання</a>
-									</div>
-									<div class="excerpt">
-										<p>АНОНС. До уваги державних службовців і посадових осіб місцевого самоврядування з питань управління персоналом!
-										<b>15-16 квітня</b> 2019 року на базі Української школи урядування відбудеться підвищення кваліфікації за тематичним семінаром....</p>
-										<span class="readmore"><a href="../news/announce-ushu.shtml#itup-20">Читати далі<i class="icon-angle-double-right"></i></a></span>
-									</div>
-								</div>
-								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
-									<ul class="flex-direction-nav">
-										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
-										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
-									</ul>					
-									<a href="../news/announce-ushu.shtml#itup-20" class="slider_img">
-									<img src="../img/news/itup-20.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Інноваційні технології управління персоналом»" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Інноваційні технології управління персоналом»" class="featured-image" draggable="false"/>							
-									</a>
-								</div>
-							</div>
-							<div class="excerpt mobile"><div class="clear"></div>
-								<p>АНОНС. До уваги державних службовців і посадових осіб місцевого самоврядування з питань управління персоналом!
-										15-16 квітня 2019 року на базі Української школи урядування відбудеться підвищення кваліфікації за тематичним семінаром....</p>
-								<span class="readmore"><a href="../news/announce-ushu.shtml#itup-20">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
 					</li>
@@ -878,7 +957,7 @@
 						</div>
 					</li>
 					
-					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -917,7 +996,7 @@
 								<span class="readmore"><a href="../news/news.shtml#itup-21">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>
+					</li-->
 					
 					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
