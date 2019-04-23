@@ -135,7 +135,7 @@
 						
 						<li class="marquee-list" style="margin-left: 0px;">
 							<i class="icon-angle-double-right"></i>
-							<a href="../news/announce-ushu.shtml#ltup-1" title="24 квітня 2018">== 23 квітня Лідерство та технології управління персоналом</a>
+							<a href="../news/announce-ushu.shtml#ltup-1" title="24 квітня 2018">== 23 квітня «Лідерство та технології управління персоналом»</a>
 						</li>
 						
 						<!--li class="marquee-list" style="margin-left: 0px;">
@@ -257,8 +257,48 @@
 		<div class="home_slider_wrap">
 			<div class="home_slider flexslider" data-interval="20" data-flex_fx="fade" data-smoothheight="0" style="">
 				<ul class="slides">
-
-				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">24</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/announce-ushu.shtml#mvp-1" title="«Мистецтво ведення переговорів»">
+										Анонс!<br />Мистецтво ведення переговорів</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/announce-ushu.shtml">АНОНС</a>
+									</div>
+									<div class="excerpt">
+										<p>З 24 по 25 квітня 2019 року відбудеться підвищення кваліфікації за короткостроковим семінаром «Мистецтво ведення переговорів»....</p>
+										<span class="readmore"><a href="../news/announce-ushu.shtml#mvp-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/announce-ushu.shtml#mvp-1" class="slider_img">
+									<img src="../img/news/mvp-1.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Мистецтво ведення переговорів»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Мистецтво ведення переговорів»" class="featured-image" draggable="false"/>							
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 24 по 25 квітня 2019 року відбудеться підвищення кваліфікації за короткостроковим семінаром «Мистецтво ведення переговорів»....</p>
+								<span class="readmore"><a href="../news/announce-ushu.shtml#mvp-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -268,16 +308,15 @@
 										<span class="month">квітня</span>
 									</div>
 									<h1 class="title">
-										<a href="../news/announce-ushu.shtml#zvk-1" title="«Запобігання та виявлення корупції»">
-										Анонс!<br />Запобігання та виявлення корупції</a>
+										<a href="../news/news.shtml#zvk-2" title="«Запобігання та виявлення корупції».">«Запобігання та виявлення корупції».</a>
 									</h1>
 									<div class="clear"></div>
 									<div class="rubrik_mod">
-										<a href="../news/announce-ushu.shtml">АНОНС</a>
+										<a href="../news/news.shtml">Навчання</a>
 									</div>
 									<div class="excerpt">
-										<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
-										<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+										<p>Підвищення кваліфікації уповноважених осіб з питань запобігання та виявлення корупції....</p>
+										<span class="readmore"><a href="../news/news.shtml#zvk-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 									</div>
 								</div>
 								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
@@ -285,21 +324,21 @@
 										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
 										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
 									</ul>					
-									<a href="../news/announce-ushu.shtml#zvk-1" class="slider_img">
-									<img src="../img/news/stop-cor-2.jpg" 
-									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" 
-									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" class="featured-image" draggable="false"/>							
+									<a href="../news/news.shtml#zvk-2" class="slider_img">
+									<img src="../img/news/zvk-3.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»-3" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»-3" class="featured-image" draggable="false"/>
 									</a>
 								</div>
 							</div>
 							<div class="excerpt mobile"><div class="clear"></div>
-								<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
-								<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+								<p>Підвищення кваліфікації уповноважених осіб з питань запобігання та виявлення корупції....</p>
+								<span class="readmore"><a href="../news/news.shtml#zvk-2">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-				</li>
-				
-				<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
 							<div class="desk">	
 								<div class="home-slide-caption vc_span5 wpb_column">
@@ -338,7 +377,89 @@
 								<span class="readmore"><a href="../news/announce-ushu.shtml#ltup-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
 							</div>				
 						</div>
-					</li>				
+					</li>
+					
+					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">19</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/ppk-2019-04-19.shtml" title="«Презентація політики та комунікація»">
+										Презентація політики та комунікація</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/news.shtml">Новини</a>
+									</div>
+									<div class="excerpt">
+										<p>З 19 по 20 квітня 2019 року у відділенні Української школи урядування проходить навчання за тренінговою програмою....</p>
+										<span class="readmore"><a href="../news/ppk-2019-04-19.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/ppk-2019-04-19.shtml" class="slider_img">
+									<img src="../img/news/ppk-3.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Презентація політики та комунікація»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Презентація політики та комунікація»" class="featured-image" draggable="false"
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 19 по 20 квітня 2019 року у відділенні Української школи урядування проходить навчання за тренінговою програмою....</p>
+								<span class="readmore"><a href="../news/ppk-2019-04-19.shtml">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li>
+				
+					<!--li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
+						<div class="wpb_row vc_row-fluid">
+							<div class="desk">	
+								<div class="home-slide-caption vc_span5 wpb_column">
+									<div class="cal">
+										<span class="date">22</span>
+										<span class="year">2019</span>
+										<span class="month">квітня</span>
+									</div>
+									<h1 class="title">
+										<a href="../news/announce-ushu.shtml#zvk-1" title="«Запобігання та виявлення корупції»">
+										Анонс!<br />Запобігання та виявлення корупції</a>
+									</h1>
+									<div class="clear"></div>
+									<div class="rubrik_mod">
+										<a href="../news/announce-ushu.shtml">АНОНС</a>
+									</div>
+									<div class="excerpt">
+										<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
+										<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+									</div>
+								</div>
+								<div class="home-slide-image vc_span7 wpb_column mod-mobile">
+									<ul class="flex-direction-nav">
+										<li><a class="flex-prev" href="#"><i class="icon-left-open">P</i></a></li>
+										<li><a class="flex-next" href="#"><i class="icon-right-open">N</i></a></li>
+									</ul>					
+									<a href="../news/announce-ushu.shtml#zvk-1" class="slider_img">
+									<img src="../img/news/stop-cor-2.jpg" 
+									alt="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" 
+									title="УКРАЇНСЬКА ШКОЛА УРЯДУВАННЯ, 2019р. «Запобігання та виявлення корупції»" class="featured-image" draggable="false"/>
+									</a>
+								</div>
+							</div>
+							<div class="excerpt mobile"><div class="clear"></div>
+								<p>З 22 по 23 квітня 2019 року відбудеться підвищення кваліфікації за тематичним короткостроковим семінаром «Запобігання та виявлення корупції»....</p>
+								<span class="readmore"><a href="../news/announce-ushu.shtml#zvk-1">Читати далі<i class="icon-angle-double-right"></i></a></span>
+							</div>				
+						</div>
+					</li-->				
 				
 					<li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
 						<div class="wpb_row vc_row-fluid">
